@@ -1,4 +1,5 @@
 https://flamecho.4everland.app/
+https://flamecho.4everland.app/index.html
 https://flamecho.4everland.app/posts/1.html
 https://flamecho.4everland.app/posts/2.html
 https://flamecho.4everland.app/posts/3.html
