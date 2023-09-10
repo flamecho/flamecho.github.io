@@ -132,236 +132,50 @@
       </tags>
   </entry>
   <entry>
-    <title>【攻略】Voice &amp; Voice -Be Quite in the Dark-</title>
-    <url>/posts/3.html</url>
-    <content><![CDATA[<h2 id="◈-Voice"><a href="#◈-Voice" class="headerlink" title="◈ Voice"></a><p style="font-size:30px">◈ Voice</p></h2><h3 id="◈-故事梗概-STORYLINE"><a href="#◈-故事梗概-STORYLINE" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:20px">◈ 故事梗概 &#x2F; STORYLINE</p></h3><p>２年前の冬。<br><br>主人公『妹尾奏巳（せのおそうし）』は、『月本亜貴（つきもとあき）』と出会った。<br>それまで知りもしなかった相手。<br>会う回数を重ねるうち、いつしか二人は体を重ねる関係にまで成り上がる。<br><br>２年後の冬。<br><br>二人は変わらない関係を続けていた。<br>だが其処にあるのは変わり果てた風景だった。<br><br>自分の感情すら見失い、奏巳はいい加減な状態のまま別れを切り出すこともせず現状維持を続けた。<br><br>アキは変わらず自分へ好意を向けてくれる。<br>だが、自分は今の気持ちが見えない。<br><br><br>そして奏巳は毎日自分の部屋へ通う亜貴へ言う。<br>こなくていい、と。<br><br>別れ話をしたかった訳ではなかった。<br>だが、その言葉は状況を逆撫でする。<br><br><br>翌日、亜貴の兄『健人（たけひと）』から呼び出され、行った先にいたのは記憶を失った亜貴だった。<br>奏巳は、記憶の無い亜貴を一晩健人に任される事になる。<br><br><br>遠くなる声。<br>——————————–拙く紡いだその言葉が再び共鳴する日は、来るだろうか。</p>
-<h3 id="◈-攻略-WALKTHROUGH"><a href="#◈-攻略-WALKTHROUGH" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:20px">◈ 攻略 &#x2F; WALKTHROUGH</p></h3><p>“1”表示第1个选项，”2”表示第2个选项。</p>
-<h4 id="◈-TRUE-END"><a href="#◈-TRUE-END" class="headerlink" title="◈ TRUE END"></a><p style="font-size:17px">◈ TRUE END</p></h4><p><b>TRUE END - 偽 false</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;アキの様子を伺う
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何処か行こうと誘う
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;見せる
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;ごめん<br>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;追いかける
- </tr>
-</table>
+    <title>【教程】LunaTranslator配置及使用方法</title>
+    <url>/posts/11.html</url>
+    <content><![CDATA[<h2 id="◈-LunaTranslator是什么？"><a href="#◈-LunaTranslator是什么？" class="headerlink" title="◈ LunaTranslator是什么？"></a><p style="font-size:21px">◈ LunaTranslator是什么？</p></h2><p>LunaTranslator是一款Galgame翻译工具，支持剪贴板、OCR、HOOK，支持40余种翻译引擎。<br>简单来说，它可以提取游戏文本并生成一个翻译窗口，帮助你游玩非中文的游戏（啃生肉）。<br>项目主页：<a href="https://github.com/HIllya51/LunaTranslator">点击跳转至github</a><br>最新版本：<a href="https://github.com/HIllya51/LunaTranslator/releases">点击LunaTranslator.zip下载</a><br>备用下载链接：<a href="https://www.mediafire.com/file/9scndgit2joo9w5/LunaTranslator.zip/file">Mediafire</a></p>
+<h2 id="◈-启动"><a href="#◈-启动" class="headerlink" title="◈ 启动"></a><p style="font-size:21px">◈ 启动</p></h2><p>下载并解压”LunaTranslator.zip”，双击”LunaTranslator.exe”启动。<br></p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/1.png" title="双击第一个即可。第二个是管理员模式。"></div>
 
-<h4 id="◈-GOOD-END-1"><a href="#◈-GOOD-END-1" class="headerlink" title="◈ GOOD END 1 "></a><p style="font-size:17px">◈ GOOD END 1 </p></h4><p><b>GOOD END 1 惹 - 自主的 first</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;承諾する
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;何か話す
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;見せる&#8194;/&#8194;2.&#8194;面白いもんじゃない
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;話しかけてみる
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;また話したい
- </tr>
-</table>
+<h2 id="◈-设置"><a href="#◈-设置" class="headerlink" title="◈ 设置"></a><p style="font-size:21px">◈ 设置</p></h2><p>点击从左往右第三个（小齿轮）进入设置。<br></p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/2513bae783f4c2f2f.png" title="翻译窗口"></div>
+在翻译前先对软件进行如下设置：
 
-<h4 id="◈-GOOD-END-2"><a href="#◈-GOOD-END-2" class="headerlink" title="◈ GOOD END 2 "></a><p style="font-size:17px">◈ GOOD END 2 </p></h4><p><b>GOOD END 2 自省と自制 - 現狀維持 maintenance</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;アキの様子を伺う
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;何か話す
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;面白いもんじゃない
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;話しかけてみる
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;なんでもない
- </tr>
-</table>
+<h3 id="◈-翻译设置"><a href="#◈-翻译设置" class="headerlink" title="◈ 翻译设置"></a><p style="font-size:19px">◈ 翻译设置</p></h3><div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/3.png" title="翻译设置"></div>
+上图是我的设置。该设置作用于<b><font color=#d3625d>HOOK翻译</font></b>，OCR设置在<b><font color=#d3625d>[文本输入]</font></b>。<br>
+玩英文游戏建议提高<b><font color=#d3625d>[最长翻译字数]</font></b>，我的经验是特殊情况1000不够，保险设为2000。<br>
+<b><font color=#d3625d>[翻译请求间隔]</font></b>设为0或保持不变皆可。<br>
+<b><font color=#d3625d>[均衡负载]</font></b>打开，<b><font color=#d3625d>[单次负载个数]</font></b>设为你想同时出现的翻译个数。<br>
+底下是翻译源，想用就<b><font color=#d3625d>[打钩]</font></b>，后面<b><font color=#d3625d>[画笔]</font></b>选字体颜色。翻译源可以选多个，反应越快越在上面。<br>
+<b><font color=#d3625d>[注册在线翻译]</font></b>需要调用API，点击右侧小齿轮中的链接自行获取APPID和KEY，填入即可。
 
-<h4 id="◈-BAD-END-1"><a href="#◈-BAD-END-1" class="headerlink" title="◈ BAD END 1 "></a><p style="font-size:17px">◈ BAD END 1 </p></h4><p><b>BAD END 1 声 - 真 true</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;承諾する
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何処か行こうと誘う
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;面白いもんじゃない
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;寝る
- </tr>
-</table>
-或
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;承諾する
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;何か話す
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;見せる&#8194;/&#8194;2.&#8194;面白いもんじゃない
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;寝る
- </tr>
-</table>
-或
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;アキの様子を伺う
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何処か行こうと誘う&#8194;/&#8194;2.&#8194;何か話す
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;面白いもんじゃない
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;寝る
- </tr>
-</table>
+<h3 id="◈-显示设置"><a href="#◈-显示设置" class="headerlink" title="◈ 显示设置"></a><p style="font-size:19px">◈ 显示设置</p></h3><p>按照需求修改。保持默认也可以。</p>
+<h3 id="◈-文本处理"><a href="#◈-文本处理" class="headerlink" title="◈ 文本处理"></a><p style="font-size:19px">◈ 文本处理</p></h3><p><b><font color=#d3625d>[文本预处理]</font></b>建议如下图设置，其他选项遇到特殊情况时再按需设置。<br></p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/4.png" title="文本处理"></div>
+在<b><font color=#d3625d>[使用专有名词翻译]</font></b>中对游戏内的专有名词（人名、地名等）进行手动收录，在之后的翻译中将进行替换。<br>
+在打开游戏的情况下点击<b><font color=#d3625d>[使用专有名词翻译]</font></b>右侧的小齿轮，点击<b><font color=#d3625d>[添加行]</font></b>，然后在<b><font color=#d3625d>[日文]</font></b>一栏输入原文，在<b><font color=#d3625d>[翻译]</font></b>一栏输入想要替换的词，完成后右上角点X退出即可。<br>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/5.png" title="专有名词翻译设置"></div>
+如图所示，即在翻译时该游戏中的所有“トワ”都将翻译为“Towa”。
 
-<h4 id="◈-BAD-END-2"><a href="#◈-BAD-END-2" class="headerlink" title="◈ BAD END 2 "></a><p style="font-size:17px">◈ BAD END 2 </p></h4><p><b>BAD END 2 忘却の欠片 - 逃避主義 escapism</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;承諾する
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何処か行こうと誘う
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;見せる
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;ごめん<br>◆ 选择"いいよ"通往BAD END 3
- </tr>
-</table>
-或
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;アキの様子を伺う
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何処か行こうと誘う&#8194;/&#8194;2.&#8194;何か話す
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;見せる
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;ごめん&#8194;/&#8194;2.&#8194;いいよ
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;諦める
- </tr>
-</table>
+<h3 id="◈-语言设置"><a href="#◈-语言设置" class="headerlink" title="◈ 语言设置"></a><p style="font-size:19px">◈ 语言设置</p></h3><p>开始翻译前记得确认<b><font color=#d3625d>[源语言]</font></b>是否与游戏相对应。</p>
+<h3 id="◈-文本输入"><a href="#◈-文本输入" class="headerlink" title="◈ 文本输入"></a><p style="font-size:19px">◈ 文本输入</p></h3><h4 id="◈-HOOK翻译"><a href="#◈-HOOK翻译" class="headerlink" title="◈ HOOK翻译"></a><p style="font-size:17px">◈ HOOK翻译</p></h4><p>1.在<b><font color=#d3625d>[选择文本输入源]</font></b>下的<b><font color=#d3625d>[HOOK]</font></b>后打钩。<br>2.点击<b><font color=#d3625d>[HOOK设置]</font></b>-<b><font color=#d3625d>[选择游戏]</font></b>右侧的小齿轮，选择游戏进程，点击<b><font color=#d3625d>[OK]</font></b>。<br>3.点击几下游戏，使游戏内文本刷新。<br>4.如下图所示，在正确的行前打钩，然后点击右上角X关闭。</p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/6.png" title="HOOK翻译"></div>
+5.调出翻译窗口，可能在电脑右下角任务栏里，点击图标即可。<br>
+6.此时翻译器应当可以正常工作，点击游戏等待翻译即可。
 
-<h4 id="◈-BAD-END-3"><a href="#◈-BAD-END-3" class="headerlink" title="◈ BAD END 3 "></a><p style="font-size:17px">◈ BAD END 3 </p></h4><p><b>BAD END 3 夢 - 帰結 a conclusion</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;承諾する
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何処か行こうと誘う
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;見せる
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;いいよ<br>◆ 选择"ごめん"通往BAD END 2
- </tr>
-</table>
-
-<h4 id="◈-BAD-END-4"><a href="#◈-BAD-END-4" class="headerlink" title="◈ BAD END 4 "></a><p style="font-size:17px">◈ BAD END 4 </p></h4><p><b>BAD END 4 独往 - independence</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;承諾する&#8194;/&#8194;2.&#8194;アキの様子を伺う
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何処か行こうと誘う
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;面白いもんじゃない
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;話しかけてみる
- </tr>
-</table>
-
-<h3 id="◈-相关链接-LINKS"><a href="#◈-相关链接-LINKS" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:20px">◈ 相关链接 &#x2F; LINKS</p></h3><p><a target="_blank" href="https://vndb.org/v13347"><img src="https://cdnjson.com/images/2023/08/06/vndb.webp" title="点击跳转至The Visual Novel Database" width="297" height="86"></a></p>
-<h2 id="◈-Voice-Be-Quite-in-the-Dark"><a href="#◈-Voice-Be-Quite-in-the-Dark" class="headerlink" title="◈ Voice -Be Quite in the Dark-"></a><p style="font-size:30px">◈ Voice -Be Quite in the Dark-</p></h2><h3 id="◈-故事梗概-STORYLINE-1"><a href="#◈-故事梗概-STORYLINE-1" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:20px">◈ 故事梗概 &#x2F; STORYLINE</p></h3><p>冬の一件から数ヶ月。<br>何事も無いような素振りで時間は流れていた、そんなある休日。<br><br>前作「voice」の後日談に当たるお話です。<br><br>※ 物語引継ぎは前作のグッドエンド１（voice攻略参照）からになります。</p>
-<h3 id="◈-攻略-WALKTHROUGH-1"><a href="#◈-攻略-WALKTHROUGH-1" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:20px">◈ 攻略 &#x2F; WALKTHROUGH</p></h3><h4 id="◈-END-1"><a href="#◈-END-1" class="headerlink" title="◈ END 1 "></a><p style="font-size:17px">◈ END 1 </p></h4><p><b>END 1 五里霧中</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;諦める
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;やっぱりいい<br>◆ 选择"いつ頃戻るのかを訊く"通往END 3
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;撮りに出る<br>◆ 选择"瞼を閉じる"通往END 3
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;出来ない<br>◆ 选择"出来る"通往END 2
- </tr>
-</table>
-
-<h4 id="◈-END-2"><a href="#◈-END-2" class="headerlink" title="◈ END 2 "></a><p style="font-size:17px">◈ END 2 </p></h4><p><b>END 2 唯一つ</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;諦める
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;やっぱりいい<br>◆ 选择"いつ頃戻るのかを訊く"通往END 3
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;撮りに出る<br>◆ 选择"瞼を閉じる"通往END 3
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;出来る<br>◆ 选择"出来ない"通往END 1
- </tr>
-</table>
-
-<h4 id="◈-END-3"><a href="#◈-END-3" class="headerlink" title="◈ END 3 "></a><p style="font-size:17px">◈ END 3 </p></h4><p><b>END 3 届かない場所</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何か買いに行く
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;ノー<br>◆ 选择"イエス"通往END 4
- </tr>
-</table>
-或
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;諦める
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;いつ頃戻るのかを訊く
- </tr>
-</table>
-或
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;諦める
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;やっぱりいい
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;瞼を閉じる
- </tr>
-</table>
-
-<h4 id="◈-END-4"><a href="#◈-END-4" class="headerlink" title="◈ END 4 "></a><p style="font-size:17px">◈ END 4 </p></h4><p><b>END 4 めくる裏側</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何か買いに行く
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;イエス<br>◆ 选择"ノー"通往END 3
- </tr>
-</table>
-
-<h3 id="◈-相关链接-LINKS-1"><a href="#◈-相关链接-LINKS-1" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:20px">◈ 相关链接 &#x2F; LINKS</p></h3><p><a target="_blank" href="https://vndb.org/v13348"><img src="https://cdnjson.com/images/2023/08/06/vndb.webp" title="点击跳转至The Visual Novel Database" width="297" height="86"></a></p>
+<h4 id="◈-OCR翻译"><a href="#◈-OCR翻译" class="headerlink" title="◈ OCR翻译"></a><p style="font-size:17px">◈ OCR翻译</p></h4><p>1.在<b><font color=#d3625d>[选择文本输入源]</font></b>下的<b><font color=#d3625d>[OCR]</font></b>后打钩。<br>2.<b><font color=#d3625d> [OCR设置]</font></b>下按需调整，<b><font color=#d3625d>[执行周期]</font></b>指每几秒进行一次截图翻译，我设置为1.0，即每秒进行一次翻译。<br>3.调出翻译窗口，可能在电脑右下角任务栏里，点击图标即可。</p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/7.png" title="OCR翻译"></div>
+4.点击翻译窗口中的<b><font color=#d3625d>[选取OCR范围]</font></b>，框选想要截图翻译的文本区域。<br>
+5.点击翻译窗口中的<b><font color=#d3625d>[显示/隐藏文本框]</font></b>。（为了不挡画面）<br>
+6.此时翻译器应当可以正常工作，点击游戏等待翻译即可。
 ]]></content>
       <categories>
-        <category>攻略</category>
-        <category>视觉小说</category>
-        <category>蔷薇向</category>
+        <category>杂谈</category>
+        <category>教程</category>
       </categories>
       <tags>
-        <tag>攻略</tag>
-        <tag>视觉小说</tag>
-        <tag>蔷薇向</tag>
+        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
@@ -603,6 +417,239 @@
       </tags>
   </entry>
   <entry>
+    <title>【攻略】Voice &amp; Voice -Be Quite in the Dark-</title>
+    <url>/posts/3.html</url>
+    <content><![CDATA[<h2 id="◈-Voice"><a href="#◈-Voice" class="headerlink" title="◈ Voice"></a><p style="font-size:30px">◈ Voice</p></h2><h3 id="◈-故事梗概-STORYLINE"><a href="#◈-故事梗概-STORYLINE" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:20px">◈ 故事梗概 &#x2F; STORYLINE</p></h3><p>２年前の冬。<br><br>主人公『妹尾奏巳（せのおそうし）』は、『月本亜貴（つきもとあき）』と出会った。<br>それまで知りもしなかった相手。<br>会う回数を重ねるうち、いつしか二人は体を重ねる関係にまで成り上がる。<br><br>２年後の冬。<br><br>二人は変わらない関係を続けていた。<br>だが其処にあるのは変わり果てた風景だった。<br><br>自分の感情すら見失い、奏巳はいい加減な状態のまま別れを切り出すこともせず現状維持を続けた。<br><br>アキは変わらず自分へ好意を向けてくれる。<br>だが、自分は今の気持ちが見えない。<br><br><br>そして奏巳は毎日自分の部屋へ通う亜貴へ言う。<br>こなくていい、と。<br><br>別れ話をしたかった訳ではなかった。<br>だが、その言葉は状況を逆撫でする。<br><br><br>翌日、亜貴の兄『健人（たけひと）』から呼び出され、行った先にいたのは記憶を失った亜貴だった。<br>奏巳は、記憶の無い亜貴を一晩健人に任される事になる。<br><br><br>遠くなる声。<br>——————————–拙く紡いだその言葉が再び共鳴する日は、来るだろうか。</p>
+<h3 id="◈-攻略-WALKTHROUGH"><a href="#◈-攻略-WALKTHROUGH" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:20px">◈ 攻略 &#x2F; WALKTHROUGH</p></h3><p>“1”表示第1个选项，”2”表示第2个选项。</p>
+<h4 id="◈-TRUE-END"><a href="#◈-TRUE-END" class="headerlink" title="◈ TRUE END"></a><p style="font-size:17px">◈ TRUE END</p></h4><p><b>TRUE END - 偽 false</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;アキの様子を伺う
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何処か行こうと誘う
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;見せる
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;ごめん<br>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;追いかける
+ </tr>
+</table>
+
+<h4 id="◈-GOOD-END-1"><a href="#◈-GOOD-END-1" class="headerlink" title="◈ GOOD END 1 "></a><p style="font-size:17px">◈ GOOD END 1 </p></h4><p><b>GOOD END 1 惹 - 自主的 first</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;承諾する
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;何か話す
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;見せる&#8194;/&#8194;2.&#8194;面白いもんじゃない
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;話しかけてみる
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;また話したい
+ </tr>
+</table>
+
+<h4 id="◈-GOOD-END-2"><a href="#◈-GOOD-END-2" class="headerlink" title="◈ GOOD END 2 "></a><p style="font-size:17px">◈ GOOD END 2 </p></h4><p><b>GOOD END 2 自省と自制 - 現狀維持 maintenance</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;アキの様子を伺う
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;何か話す
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;面白いもんじゃない
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;話しかけてみる
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;なんでもない
+ </tr>
+</table>
+
+<h4 id="◈-BAD-END-1"><a href="#◈-BAD-END-1" class="headerlink" title="◈ BAD END 1 "></a><p style="font-size:17px">◈ BAD END 1 </p></h4><p><b>BAD END 1 声 - 真 true</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;承諾する
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何処か行こうと誘う
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;面白いもんじゃない
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;寝る
+ </tr>
+</table>
+或
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;承諾する
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;何か話す
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;見せる&#8194;/&#8194;2.&#8194;面白いもんじゃない
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;寝る
+ </tr>
+</table>
+或
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;アキの様子を伺う
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何処か行こうと誘う&#8194;/&#8194;2.&#8194;何か話す
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;面白いもんじゃない
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;寝る
+ </tr>
+</table>
+
+<h4 id="◈-BAD-END-2"><a href="#◈-BAD-END-2" class="headerlink" title="◈ BAD END 2 "></a><p style="font-size:17px">◈ BAD END 2 </p></h4><p><b>BAD END 2 忘却の欠片 - 逃避主義 escapism</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;承諾する
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何処か行こうと誘う
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;見せる
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;ごめん<br>◆ 选择"いいよ"通往BAD END 3
+ </tr>
+</table>
+或
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;アキの様子を伺う
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何処か行こうと誘う&#8194;/&#8194;2.&#8194;何か話す
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;見せる
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;ごめん&#8194;/&#8194;2.&#8194;いいよ
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;諦める
+ </tr>
+</table>
+
+<h4 id="◈-BAD-END-3"><a href="#◈-BAD-END-3" class="headerlink" title="◈ BAD END 3 "></a><p style="font-size:17px">◈ BAD END 3 </p></h4><p><b>BAD END 3 夢 - 帰結 a conclusion</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;承諾する
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何処か行こうと誘う
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;見せる
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;いいよ<br>◆ 选择"ごめん"通往BAD END 2
+ </tr>
+</table>
+
+<h4 id="◈-BAD-END-4"><a href="#◈-BAD-END-4" class="headerlink" title="◈ BAD END 4 "></a><p style="font-size:17px">◈ BAD END 4 </p></h4><p><b>BAD END 4 独往 - independence</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;承諾する&#8194;/&#8194;2.&#8194;アキの様子を伺う
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何処か行こうと誘う
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;面白いもんじゃない
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;話しかけてみる
+ </tr>
+</table>
+
+<h3 id="◈-相关链接-LINKS"><a href="#◈-相关链接-LINKS" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:20px">◈ 相关链接 &#x2F; LINKS</p></h3><p><a target="_blank" href="https://vndb.org/v13347"><img src="https://cdnjson.com/images/2023/08/06/vndb.webp" title="点击跳转至The Visual Novel Database" width="297" height="86"></a></p>
+<h2 id="◈-Voice-Be-Quite-in-the-Dark"><a href="#◈-Voice-Be-Quite-in-the-Dark" class="headerlink" title="◈ Voice -Be Quite in the Dark-"></a><p style="font-size:30px">◈ Voice -Be Quite in the Dark-</p></h2><h3 id="◈-故事梗概-STORYLINE-1"><a href="#◈-故事梗概-STORYLINE-1" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:20px">◈ 故事梗概 &#x2F; STORYLINE</p></h3><p>冬の一件から数ヶ月。<br>何事も無いような素振りで時間は流れていた、そんなある休日。<br><br>前作「voice」の後日談に当たるお話です。<br><br>※ 物語引継ぎは前作のグッドエンド１（voice攻略参照）からになります。</p>
+<h3 id="◈-攻略-WALKTHROUGH-1"><a href="#◈-攻略-WALKTHROUGH-1" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:20px">◈ 攻略 &#x2F; WALKTHROUGH</p></h3><h4 id="◈-END-1"><a href="#◈-END-1" class="headerlink" title="◈ END 1 "></a><p style="font-size:17px">◈ END 1 </p></h4><p><b>END 1 五里霧中</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;諦める
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;やっぱりいい<br>◆ 选择"いつ頃戻るのかを訊く"通往END 3
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;撮りに出る<br>◆ 选择"瞼を閉じる"通往END 3
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;出来ない<br>◆ 选择"出来る"通往END 2
+ </tr>
+</table>
+
+<h4 id="◈-END-2"><a href="#◈-END-2" class="headerlink" title="◈ END 2 "></a><p style="font-size:17px">◈ END 2 </p></h4><p><b>END 2 唯一つ</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;諦める
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;やっぱりいい<br>◆ 选择"いつ頃戻るのかを訊く"通往END 3
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;撮りに出る<br>◆ 选择"瞼を閉じる"通往END 3
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;出来る<br>◆ 选择"出来ない"通往END 1
+ </tr>
+</table>
+
+<h4 id="◈-END-3"><a href="#◈-END-3" class="headerlink" title="◈ END 3 "></a><p style="font-size:17px">◈ END 3 </p></h4><p><b>END 3 届かない場所</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何か買いに行く
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;ノー<br>◆ 选择"イエス"通往END 4
+ </tr>
+</table>
+或
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;諦める
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;いつ頃戻るのかを訊く
+ </tr>
+</table>
+或
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;諦める
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;やっぱりいい
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;瞼を閉じる
+ </tr>
+</table>
+
+<h4 id="◈-END-4"><a href="#◈-END-4" class="headerlink" title="◈ END 4 "></a><p style="font-size:17px">◈ END 4 </p></h4><p><b>END 4 めくる裏側</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何か買いに行く
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;イエス<br>◆ 选择"ノー"通往END 3
+ </tr>
+</table>
+
+<h3 id="◈-相关链接-LINKS-1"><a href="#◈-相关链接-LINKS-1" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:20px">◈ 相关链接 &#x2F; LINKS</p></h3><p><a target="_blank" href="https://vndb.org/v13348"><img src="https://cdnjson.com/images/2023/08/06/vndb.webp" title="点击跳转至The Visual Novel Database" width="297" height="86"></a></p>
+]]></content>
+      <categories>
+        <category>攻略</category>
+        <category>视觉小说</category>
+        <category>蔷薇向</category>
+      </categories>
+      <tags>
+        <tag>攻略</tag>
+        <tag>视觉小说</tag>
+        <tag>蔷薇向</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【教程】ns游戏(nsp/xci)解包提取bgm</title>
     <url>/posts/8.html</url>
     <content><![CDATA[<p>本想看一眼脚本文件以便制作严谨攻略但失败了(卡在了解密的一步,script是个dat文件，怎么打开都是乱码，那就这样吧)。说不定以后会想听bgm，所以还是记录一下。<br>*本文章含大量对其他文章的引用(仅含链接)，产出为0，本质是个<del>文献综述</del>。</p>
@@ -711,55 +758,6 @@
       </categories>
       <tags>
         <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【施工中】【攻略】Collar×Malice-Unlimited- 项圈x恶意FD（ns官方繁中）</title>
-    <url>/posts/10.html</url>
-    <content><![CDATA[<style>
-.center
-{
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<h2 id="◈-故事梗概"><a href="#◈-故事梗概" class="headerlink" title="◈ 故事梗概"></a><p style="font-size:25px">◈ 故事梗概</p></h2><p style="font-size:18px">跨越恶意之后，拼凑未来的碎片。</p>
-解决了连续恶性犯罪事件——通称X-day事件后，<br>
-主人公逐渐找回原本的日常生活。<br>
-追查事件期间，她知晓了无数沉重的真相与哀痛，<br>
-然而她决定背负着一切，<br>
-与【他】携手克服困难，在本作中展开成为恋人后的生活。
-
-<h2 id="◈-攻略流程"><a href="#◈-攻略流程" class="headerlink" title="◈ 攻略流程"></a><p style="font-size:25px">◈ 攻略流程</p></h2><h3 id="◈-共通线"><a href="#◈-共通线" class="headerlink" title="◈ 共通线"></a><p style="font-size:22px">◈ 共通线</p></h3><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
- <col style='width:72.5pt'>
- <col style='width:217.5pt'>
- <tr rowspan=2>
-  <td colspan=2><b>2.&#8194;不能坐视不管<br><div style="color:#d3625d;">◆&#8194;1.&#8194;不该做出引人注目的举动&#8194;→&#8194;end</div></b>
- <tr>
-  <td rowspan=4 style='text-align:center'><b>【存档】</b>
-  <td><b>1.&#8194;调查房间<br>3.&#8194;都不是<br>1.&#8194;很久没人住了<br>【分歧】1.&#8194;抓住橘&#8194;→&#8194;榎本峰雄线<br>【分歧】2.&#8194;逃去玄关&#8194;→&#8194;柳爱时线<br><div style="color:#d3625d ;">【分歧】3.&#8194;待在原地不动&#8194;→&#8194;end</b>
- <tr>
-  <td><b>2.&#8194;调查房间里的电脑<br>密码：HERO&#8194;→&#8194;笹冢尊线<br><div style="color:#d3625d ;">◆&#8194;一直输错密码&#8194;→&#8194;end<br>◆&#8194;解密过程：英文字母第8个是H，<br>&#8194;&#8194;替换ZERO的Z得到HERO</div></b>
- <tr>
-  <td><b>3.&#8194;委托鉴定信件<br>2.&#8194;你讨厌吃什么？<br>2.&#8194;小时候无法忘怀的回忆是什么？<br>→&#8194;白石景之线</b>
- <tr>
-  <td><b>4.&#8194;去周边询问，搜集线索<br>射击模式成功&#8194;→&#8194;冈崎契线<br><div style="color:#d3625d ;">◆&#8194;射击模式失败&#8194;→&#8194;end</div></b>
- </tr>
-</table>
-</div>
-]]></content>
-      <categories>
-        <category>攻略</category>
-        <category>视觉小说</category>
-        <category>乙女向</category>
-      </categories>
-      <tags>
-        <tag>攻略</tag>
-        <tag>视觉小说</tag>
-        <tag>乙女向</tag>
       </tags>
   </entry>
   <entry>
@@ -1516,6 +1514,55 @@
 </div>
 
 <h2 id="◈-相关链接"><a href="#◈-相关链接" class="headerlink" title="◈ 相关链接"></a><p style="font-size:25px">◈ 相关链接</p></h2><p><a target="_blank" href="https://vndb.org/v18160"><img src="https://cdnjson.com/images/2023/08/06/vndb.webp" title="点击跳转至The Visual Novel Database" width="297" height="86"></a></p>
+]]></content>
+      <categories>
+        <category>攻略</category>
+        <category>视觉小说</category>
+        <category>乙女向</category>
+      </categories>
+      <tags>
+        <tag>攻略</tag>
+        <tag>视觉小说</tag>
+        <tag>乙女向</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【施工中】【攻略】Collar×Malice-Unlimited- 项圈x恶意FD（ns官方繁中）</title>
+    <url>/posts/10.html</url>
+    <content><![CDATA[<style>
+.center
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<h2 id="◈-故事梗概"><a href="#◈-故事梗概" class="headerlink" title="◈ 故事梗概"></a><p style="font-size:25px">◈ 故事梗概</p></h2><p style="font-size:18px">跨越恶意之后，拼凑未来的碎片。</p>
+解决了连续恶性犯罪事件——通称X-day事件后，<br>
+主人公逐渐找回原本的日常生活。<br>
+追查事件期间，她知晓了无数沉重的真相与哀痛，<br>
+然而她决定背负着一切，<br>
+与【他】携手克服困难，在本作中展开成为恋人后的生活。
+
+<h2 id="◈-攻略流程"><a href="#◈-攻略流程" class="headerlink" title="◈ 攻略流程"></a><p style="font-size:25px">◈ 攻略流程</p></h2><h3 id="◈-共通线"><a href="#◈-共通线" class="headerlink" title="◈ 共通线"></a><p style="font-size:22px">◈ 共通线</p></h3><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
+ <col style='width:72.5pt'>
+ <col style='width:217.5pt'>
+ <tr rowspan=2>
+  <td colspan=2><b>2.&#8194;不能坐视不管<br><div style="color:#d3625d;">◆&#8194;1.&#8194;不该做出引人注目的举动&#8194;→&#8194;end</div></b>
+ <tr>
+  <td rowspan=4 style='text-align:center'><b>【存档】</b>
+  <td><b>1.&#8194;调查房间<br>3.&#8194;都不是<br>1.&#8194;很久没人住了<br>【分歧】1.&#8194;抓住橘&#8194;→&#8194;榎本峰雄线<br>【分歧】2.&#8194;逃去玄关&#8194;→&#8194;柳爱时线<br><div style="color:#d3625d ;">【分歧】3.&#8194;待在原地不动&#8194;→&#8194;end</b>
+ <tr>
+  <td><b>2.&#8194;调查房间里的电脑<br>密码：HERO&#8194;→&#8194;笹冢尊线<br><div style="color:#d3625d ;">◆&#8194;一直输错密码&#8194;→&#8194;end<br>◆&#8194;解密过程：英文字母第8个是H，<br>&#8194;&#8194;替换ZERO的Z得到HERO</div></b>
+ <tr>
+  <td><b>3.&#8194;委托鉴定信件<br>2.&#8194;你讨厌吃什么？<br>2.&#8194;小时候无法忘怀的回忆是什么？<br>→&#8194;白石景之线</b>
+ <tr>
+  <td><b>4.&#8194;去周边询问，搜集线索<br>射击模式成功&#8194;→&#8194;冈崎契线<br><div style="color:#d3625d ;">◆&#8194;射击模式失败&#8194;→&#8194;end</div></b>
+ </tr>
+</table>
+</div>
 ]]></content>
       <categories>
         <category>攻略</category>
