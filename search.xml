@@ -1,53 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>【教程】LunaTranslator配置及使用方法</title>
-    <url>/posts/11.html</url>
-    <content><![CDATA[<h2 id="◈-LunaTranslator是什么？"><a href="#◈-LunaTranslator是什么？" class="headerlink" title="◈ LunaTranslator是什么？"></a><p style="font-size:21px">◈ LunaTranslator是什么？</p></h2><p>LunaTranslator是一款Galgame翻译工具，支持剪贴板、OCR、HOOK，支持40余种翻译引擎。<br>简单来说，它可以提取游戏文本并生成一个翻译窗口，帮助你游玩非中文的游戏（啃生肉）。<br>项目主页：<a href="https://github.com/HIllya51/LunaTranslator">点击跳转至github</a><br>最新版本：<a href="https://github.com/HIllya51/LunaTranslator/releases">点击LunaTranslator.zip下载</a><br>备用下载链接：<a href="https://www.mediafire.com/file/9scndgit2joo9w5/LunaTranslator.zip/file">Mediafire</a></p>
-<h2 id="◈-启动"><a href="#◈-启动" class="headerlink" title="◈ 启动"></a><p style="font-size:21px">◈ 启动</p></h2><p>下载并解压”LunaTranslator.zip”，双击”LunaTranslator.exe”启动。<br></p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/1.png" title="双击第一个即可。第二个是管理员模式。" alt="翻译器启动程序图"></div>
-
-<h2 id="◈-设置"><a href="#◈-设置" class="headerlink" title="◈ 设置"></a><p style="font-size:21px">◈ 设置</p></h2><p>点击从左往右第三个（小齿轮）进入设置。<br></p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/2513bae783f4c2f2f.png" title="翻译窗口" alt="翻译窗口图"></div>
-在翻译前先对软件进行如下设置：
-
-<h3 id="◈-翻译设置"><a href="#◈-翻译设置" class="headerlink" title="◈ 翻译设置"></a><p style="font-size:19px">◈ 翻译设置</p></h3><div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/3.png" title="翻译设置" alt="翻译设置图"></div>
-上图是我的设置。该设置作用于<b><font color=#d3625d>HOOK翻译</font></b>，OCR设置在<b><font color=#d3625d>[文本输入]</font></b>。<br>
-玩英文游戏建议提高<b><font color=#d3625d>[最长翻译字数]</font></b>，我的经验是特殊情况1000不够，保险设为2000。<br>
-<b><font color=#d3625d>[翻译请求间隔]</font></b>设为0或保持不变皆可。<br>
-<b><font color=#d3625d>[均衡负载]</font></b>打开，<b><font color=#d3625d>[单次负载个数]</font></b>设为你想同时出现的翻译个数。<br>
-底下是翻译源，想用就<b><font color=#d3625d>[打钩]</font></b>，后面<b><font color=#d3625d>[画笔]</font></b>选字体颜色。翻译源可以选多个，反应越快越在上面。<br>
-<b><font color=#d3625d>[注册在线翻译]</font></b>需要调用API，点击右侧小齿轮中的链接自行获取APPID和KEY，填入即可。
-
-<h3 id="◈-显示设置"><a href="#◈-显示设置" class="headerlink" title="◈ 显示设置"></a><p style="font-size:19px">◈ 显示设置</p></h3><p>按照需求修改。保持默认也可以。</p>
-<h3 id="◈-文本处理"><a href="#◈-文本处理" class="headerlink" title="◈ 文本处理"></a><p style="font-size:19px">◈ 文本处理</p></h3><p><b><font color=#d3625d>[文本预处理]</font></b>建议如下图设置，其他选项遇到特殊情况时再按需设置。<br></p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/4.png" title="文本处理" alt="文本处理图"></div>
-在<b><font color=#d3625d>[使用专有名词翻译]</font></b>中对游戏内的专有名词（人名、地名等）进行手动收录，在之后的翻译中将进行替换。<br>
-在打开游戏的情况下点击<b><font color=#d3625d>[使用专有名词翻译]</font></b>右侧的小齿轮，点击<b><font color=#d3625d>[添加行]</font></b>，然后在<b><font color=#d3625d>[日文]</font></b>一栏输入原文，在<b><font color=#d3625d>[翻译]</font></b>一栏输入想要替换的词，完成后右上角点X退出即可。<br>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/5.png" title="专有名词翻译设置" alt="专有名词翻译设置图"></div>
-如图所示，即在翻译时该游戏中的所有“トワ”都将翻译为“Towa”。
-
-<h3 id="◈-语言设置"><a href="#◈-语言设置" class="headerlink" title="◈ 语言设置"></a><p style="font-size:19px">◈ 语言设置</p></h3><p>开始翻译前记得确认<b><font color=#d3625d>[源语言]</font></b>是否与游戏相对应。</p>
-<h3 id="◈-文本输入"><a href="#◈-文本输入" class="headerlink" title="◈ 文本输入"></a><p style="font-size:19px">◈ 文本输入</p></h3><h4 id="◈-HOOK翻译"><a href="#◈-HOOK翻译" class="headerlink" title="◈ HOOK翻译"></a><p style="font-size:17px">◈ HOOK翻译</p></h4><p>1.在<b><font color=#d3625d>[选择文本输入源]</font></b>下的<b><font color=#d3625d>[HOOK]</font></b>后打钩。<br>2.点击<b><font color=#d3625d>[HOOK设置]</font></b>-<b><font color=#d3625d>[选择游戏]</font></b>右侧的小齿轮，选择游戏进程，点击<b><font color=#d3625d>[OK]</font></b>。<br>3.点击几下游戏，使游戏内文本刷新。<br>4.如下图所示，在正确的行前打钩，然后点击右上角X关闭。</p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/6.png" title="HOOK翻译" alt="Hook翻译界面"></div>
-5.调出翻译窗口，可能在电脑右下角任务栏里，点击图标即可。<br>
-6.此时翻译器应当可以正常工作，点击游戏等待翻译即可。
-
-<h4 id="◈-OCR翻译"><a href="#◈-OCR翻译" class="headerlink" title="◈ OCR翻译"></a><p style="font-size:17px">◈ OCR翻译</p></h4><p>1.在<b><font color=#d3625d>[选择文本输入源]</font></b>下的<b><font color=#d3625d>[OCR]</font></b>后打钩。<br>2.<b><font color=#d3625d> [OCR设置]</font></b>下按需调整，<b><font color=#d3625d>[执行周期]</font></b>指每几秒进行一次截图翻译，我设置为1.0，即每秒进行一次翻译。<br>3.调出翻译窗口，可能在电脑右下角任务栏里，点击图标即可。</p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/7.png" title="OCR翻译" alt="OCR翻译界面"></div>
-4.点击翻译窗口中的<b><font color=#d3625d>[选取OCR范围]</font></b>，框选想要截图翻译的文本区域。<br>
-5.点击翻译窗口中的<b><font color=#d3625d>[显示/隐藏文本框]</font></b>。（为了不挡画面）<br>
-6.此时翻译器应当可以正常工作，点击游戏等待翻译即可。
-]]></content>
-      <categories>
-        <category>杂谈</category>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【施工中】【攻略】Collar×Malice-Unlimited- 项圈x恶意FD（ns官方繁中）</title>
     <url>/posts/10.html</url>
     <content><![CDATA[<style>
@@ -303,6 +256,53 @@
         <tag>攻略</tag>
         <tag>视觉小说</tag>
         <tag>一般向</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【教程】LunaTranslator配置及使用方法</title>
+    <url>/posts/11.html</url>
+    <content><![CDATA[<h2 id="◈-LunaTranslator是什么？"><a href="#◈-LunaTranslator是什么？" class="headerlink" title="◈ LunaTranslator是什么？"></a><p style="font-size:21px">◈ LunaTranslator是什么？</p></h2><p>LunaTranslator是一款Galgame翻译工具，支持剪贴板、OCR、HOOK，支持40余种翻译引擎。<br>简单来说，它可以提取游戏文本并生成一个翻译窗口，帮助你游玩非中文的游戏（啃生肉）。<br>项目主页：<a href="https://github.com/HIllya51/LunaTranslator">点击跳转至github</a><br>最新版本：<a href="https://github.com/HIllya51/LunaTranslator/releases">点击LunaTranslator.zip下载</a><br>备用下载链接：<a href="https://www.mediafire.com/file/9scndgit2joo9w5/LunaTranslator.zip/file">Mediafire</a></p>
+<h2 id="◈-启动"><a href="#◈-启动" class="headerlink" title="◈ 启动"></a><p style="font-size:21px">◈ 启动</p></h2><p>下载并解压”LunaTranslator.zip”，双击”LunaTranslator.exe”启动。<br></p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/1.png" title="双击第一个即可。第二个是管理员模式。" alt="翻译器启动程序图"></div>
+
+<h2 id="◈-设置"><a href="#◈-设置" class="headerlink" title="◈ 设置"></a><p style="font-size:21px">◈ 设置</p></h2><p>点击从左往右第三个（小齿轮）进入设置。<br></p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/2513bae783f4c2f2f.png" title="翻译窗口" alt="翻译窗口图"></div>
+在翻译前先对软件进行如下设置：
+
+<h3 id="◈-翻译设置"><a href="#◈-翻译设置" class="headerlink" title="◈ 翻译设置"></a><p style="font-size:19px">◈ 翻译设置</p></h3><div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/3.png" title="翻译设置" alt="翻译设置图"></div>
+上图是我的设置。该设置作用于<b><font color=#d3625d>HOOK翻译</font></b>，OCR设置在<b><font color=#d3625d>[文本输入]</font></b>。<br>
+玩英文游戏建议提高<b><font color=#d3625d>[最长翻译字数]</font></b>，我的经验是特殊情况1000不够，保险设为2000。<br>
+<b><font color=#d3625d>[翻译请求间隔]</font></b>设为0或保持不变皆可。<br>
+<b><font color=#d3625d>[均衡负载]</font></b>打开，<b><font color=#d3625d>[单次负载个数]</font></b>设为你想同时出现的翻译个数。<br>
+底下是翻译源，想用就<b><font color=#d3625d>[打钩]</font></b>，后面<b><font color=#d3625d>[画笔]</font></b>选字体颜色。翻译源可以选多个，反应越快越在上面。<br>
+<b><font color=#d3625d>[注册在线翻译]</font></b>需要调用API，点击右侧小齿轮中的链接自行获取APPID和KEY，填入即可。
+
+<h3 id="◈-显示设置"><a href="#◈-显示设置" class="headerlink" title="◈ 显示设置"></a><p style="font-size:19px">◈ 显示设置</p></h3><p>按照需求修改。保持默认也可以。</p>
+<h3 id="◈-文本处理"><a href="#◈-文本处理" class="headerlink" title="◈ 文本处理"></a><p style="font-size:19px">◈ 文本处理</p></h3><p><b><font color=#d3625d>[文本预处理]</font></b>建议如下图设置，其他选项遇到特殊情况时再按需设置。<br></p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/4.png" title="文本处理" alt="文本处理图"></div>
+在<b><font color=#d3625d>[使用专有名词翻译]</font></b>中对游戏内的专有名词（人名、地名等）进行手动收录，在之后的翻译中将进行替换。<br>
+在打开游戏的情况下点击<b><font color=#d3625d>[使用专有名词翻译]</font></b>右侧的小齿轮，点击<b><font color=#d3625d>[添加行]</font></b>，然后在<b><font color=#d3625d>[日文]</font></b>一栏输入原文，在<b><font color=#d3625d>[翻译]</font></b>一栏输入想要替换的词，完成后右上角点X退出即可。<br>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/5.png" title="专有名词翻译设置" alt="专有名词翻译设置图"></div>
+如图所示，即在翻译时该游戏中的所有“トワ”都将翻译为“Towa”。
+
+<h3 id="◈-语言设置"><a href="#◈-语言设置" class="headerlink" title="◈ 语言设置"></a><p style="font-size:19px">◈ 语言设置</p></h3><p>开始翻译前记得确认<b><font color=#d3625d>[源语言]</font></b>是否与游戏相对应。</p>
+<h3 id="◈-文本输入"><a href="#◈-文本输入" class="headerlink" title="◈ 文本输入"></a><p style="font-size:19px">◈ 文本输入</p></h3><h4 id="◈-HOOK翻译"><a href="#◈-HOOK翻译" class="headerlink" title="◈ HOOK翻译"></a><p style="font-size:17px">◈ HOOK翻译</p></h4><p>1.在<b><font color=#d3625d>[选择文本输入源]</font></b>下的<b><font color=#d3625d>[HOOK]</font></b>后打钩。<br>2.点击<b><font color=#d3625d>[HOOK设置]</font></b>-<b><font color=#d3625d>[选择游戏]</font></b>右侧的小齿轮，选择游戏进程，点击<b><font color=#d3625d>[OK]</font></b>。<br>3.点击几下游戏，使游戏内文本刷新。<br>4.如下图所示，在正确的行前打钩，然后点击右上角X关闭。</p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/6.png" title="HOOK翻译" alt="Hook翻译界面"></div>
+5.调出翻译窗口，可能在电脑右下角任务栏里，点击图标即可。<br>
+6.此时翻译器应当可以正常工作，点击游戏等待翻译即可。
+
+<h4 id="◈-OCR翻译"><a href="#◈-OCR翻译" class="headerlink" title="◈ OCR翻译"></a><p style="font-size:17px">◈ OCR翻译</p></h4><p>1.在<b><font color=#d3625d>[选择文本输入源]</font></b>下的<b><font color=#d3625d>[OCR]</font></b>后打钩。<br>2.<b><font color=#d3625d> [OCR设置]</font></b>下按需调整，<b><font color=#d3625d>[执行周期]</font></b>指每几秒进行一次截图翻译，我设置为1.0，即每秒进行一次翻译。<br>3.调出翻译窗口，可能在电脑右下角任务栏里，点击图标即可。</p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/7.png" title="OCR翻译" alt="OCR翻译界面"></div>
+4.点击翻译窗口中的<b><font color=#d3625d>[选取OCR范围]</font></b>，框选想要截图翻译的文本区域。<br>
+5.点击翻译窗口中的<b><font color=#d3625d>[显示/隐藏文本框]</font></b>。（为了不挡画面）<br>
+6.此时翻译器应当可以正常工作，点击游戏等待翻译即可。
+]]></content>
+      <categories>
+        <category>杂谈</category>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
@@ -568,30 +568,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【攻略】かみさまの棺</title>
-    <url>/posts/4.html</url>
-    <content><![CDATA[<p><a target="_blank" href="https://kamisamanohitsugi.jimdofree.com/"><img src="https://cdnjson.com/images/2023/08/06/kamisama.webp" title="点击跳转至游戏官网" alt="游戏官网的banner"></a></p>
-<h2 id="◈-故事梗概-STORYLINE"><a href="#◈-故事梗概-STORYLINE" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:30px">◈ 故事梗概 &#x2F; STORYLINE</p></h2><p>ある日突然の隕石落下により地球は滅び、知花ミチルの日常は消え去ってしまう。<br><br>…見知らぬ呼び声に目を覚ますと、目の前には口をきいたこともないクラスメイトの廻が一人。<br>そして自分は今“謎の部屋”の中にいることを知る。<br><br>これは 忘れていた記憶を<br>少しずつ思い出す物語。<br><br>悲しくて 残酷で<br>美しくて 痛い<br>最悪な恋の物語。</p>
-<h2 id="◈-章节-CHAPTER"><a href="#◈-章节-CHAPTER" class="headerlink" title="◈ 章节 &#x2F; CHAPTER"></a><p style="font-size:30px">◈ 章节 &#x2F; CHAPTER</p></h2><p>◆&#8194;第一章&#8194;擦り切れた生迷線<br>◆&#8194;第二章&#8194;廻りだす天体と紅茶<br>◆&#8194;第三章&#8194;眠り姫とアダム<br>◆&#8194;第四章&#8194;その笑みは陽だまりだ<br>◆&#8194;第五章&#8194;友を切り止める矢<br>◆&#8194;第六章&#8194;手助け<br>◆&#8194;第七章&#8194;桜色の感傷<br>◆&#8194;第八章&#8194;罪<br>◆&#8194;終章&#8194;君の僕のための嘘</p>
-<h2 id="◈-攻略-WALKTHROUGH"><a href="#◈-攻略-WALKTHROUGH" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:30px">◈ 攻略 &#x2F; WALKTHROUGH</p></h2><p>1.&#8194;鏡を見つめる&#8194;&#x2F;&#8194;2.&#8194;見ない<br>1.&#8194;笑太郎に会いたい&#8195;◆ 选择”･・･ 会えるわけない”通往<b>Bad end - 界葬 -</b><br>2.&#8194;箱を開けない&#8195;◆ 选择”箱を開ける”通往<b>Happy end 1 - 友愛 -</b><br>1.&#8194;廻を信じる&#8195;◆ 选择”･・･ ･・･”通往<b>Happy end 2 - 恋人 -</b><br><b>Happy end 3 - 共存 - &amp; True end</b></p>
-<h2 id="◈-相关链接-LINKS"><a href="#◈-相关链接-LINKS" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:30px">◈ 相关链接 &#x2F; LINKS</p></h2><p><a target="_blank" href="https://nohana-cream.booth.pm/items/1970328"><img src="https://cdnjson.com/images/2023/08/06/booth.webp" title="点击跳转至Booth游戏详情页" width="297" height="86" alt="booth的logo"></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://www.dlsite.com/bl/work/=/product_id/RJ259167.html"><img src="https://cdnjson.com/images/2023/08/06/dlsite.webp" title="点击跳转至dlsite游戏详情页" width="297" height="86" alt="dlsite的logo"></a>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v27184"><img src="https://cdnjson.com/images/2023/08/06/vndb.webp" title="点击跳转至The Visual Novel Database" width="297" height="86" alt="vndb的logo"></a>
-]]></content>
-      <categories>
-        <category>攻略</category>
-        <category>视觉小说</category>
-        <category>蔷薇向</category>
-      </categories>
-      <tags>
-        <tag>攻略</tag>
-        <tag>视觉小说</tag>
-        <tag>蔷薇向</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【搬运】新世界狂欢官方四格漫画（2023.8更新至黑街狂赌）</title>
     <url>/posts/5.html</url>
     <content><![CDATA[<p>仅作交流欣赏用途，请关注新世界狂欢官方Facebook: <a href="https://www.facebook.com/nucarnival">https://www.facebook.com/nucarnival</a><br>© 2022 infinity α studio &#x2F; S.G.Art Ltd. &#x2F; PINKCORE<br>NU: Carnival™ All rights reserved.</p>
@@ -662,6 +638,30 @@
       </categories>
       <tags>
         <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【攻略】かみさまの棺</title>
+    <url>/posts/4.html</url>
+    <content><![CDATA[<p><a target="_blank" href="https://kamisamanohitsugi.jimdofree.com/"><img src="https://cdnjson.com/images/2023/08/06/kamisama.webp" title="点击跳转至游戏官网" alt="游戏官网的banner"></a></p>
+<h2 id="◈-故事梗概-STORYLINE"><a href="#◈-故事梗概-STORYLINE" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:30px">◈ 故事梗概 &#x2F; STORYLINE</p></h2><p>ある日突然の隕石落下により地球は滅び、知花ミチルの日常は消え去ってしまう。<br><br>…見知らぬ呼び声に目を覚ますと、目の前には口をきいたこともないクラスメイトの廻が一人。<br>そして自分は今“謎の部屋”の中にいることを知る。<br><br>これは 忘れていた記憶を<br>少しずつ思い出す物語。<br><br>悲しくて 残酷で<br>美しくて 痛い<br>最悪な恋の物語。</p>
+<h2 id="◈-章节-CHAPTER"><a href="#◈-章节-CHAPTER" class="headerlink" title="◈ 章节 &#x2F; CHAPTER"></a><p style="font-size:30px">◈ 章节 &#x2F; CHAPTER</p></h2><p>◆&#8194;第一章&#8194;擦り切れた生迷線<br>◆&#8194;第二章&#8194;廻りだす天体と紅茶<br>◆&#8194;第三章&#8194;眠り姫とアダム<br>◆&#8194;第四章&#8194;その笑みは陽だまりだ<br>◆&#8194;第五章&#8194;友を切り止める矢<br>◆&#8194;第六章&#8194;手助け<br>◆&#8194;第七章&#8194;桜色の感傷<br>◆&#8194;第八章&#8194;罪<br>◆&#8194;終章&#8194;君の僕のための嘘</p>
+<h2 id="◈-攻略-WALKTHROUGH"><a href="#◈-攻略-WALKTHROUGH" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:30px">◈ 攻略 &#x2F; WALKTHROUGH</p></h2><p>1.&#8194;鏡を見つめる&#8194;&#x2F;&#8194;2.&#8194;見ない<br>1.&#8194;笑太郎に会いたい&#8195;◆ 选择”･・･ 会えるわけない”通往<b>Bad end - 界葬 -</b><br>2.&#8194;箱を開けない&#8195;◆ 选择”箱を開ける”通往<b>Happy end 1 - 友愛 -</b><br>1.&#8194;廻を信じる&#8195;◆ 选择”･・･ ･・･”通往<b>Happy end 2 - 恋人 -</b><br><b>Happy end 3 - 共存 - &amp; True end</b></p>
+<h2 id="◈-相关链接-LINKS"><a href="#◈-相关链接-LINKS" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:30px">◈ 相关链接 &#x2F; LINKS</p></h2><p><a target="_blank" href="https://nohana-cream.booth.pm/items/1970328"><img src="https://cdnjson.com/images/2023/08/06/booth.webp" title="点击跳转至Booth游戏详情页" width="297" height="86" alt="booth的logo"></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://www.dlsite.com/bl/work/=/product_id/RJ259167.html"><img src="https://cdnjson.com/images/2023/08/06/dlsite.webp" title="点击跳转至dlsite游戏详情页" width="297" height="86" alt="dlsite的logo"></a>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v27184"><img src="https://cdnjson.com/images/2023/08/06/vndb.webp" title="点击跳转至The Visual Novel Database" width="297" height="86" alt="vndb的logo"></a>
+]]></content>
+      <categories>
+        <category>攻略</category>
+        <category>视觉小说</category>
+        <category>蔷薇向</category>
+      </categories>
+      <tags>
+        <tag>攻略</tag>
+        <tag>视觉小说</tag>
+        <tag>蔷薇向</tag>
       </tags>
   </entry>
   <entry>
@@ -793,6 +793,24 @@
         <tag>攻略</tag>
         <tag>视觉小说</tag>
         <tag>一般向</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【教程】ns游戏(nsp/xci)解包提取bgm</title>
+    <url>/posts/8.html</url>
+    <content><![CDATA[<p>本想看一眼脚本文件以便制作严谨攻略但失败了(卡在了解密的一步,script是个dat文件，怎么打开都是乱码，那就这样吧)。说不定以后会想听bgm，所以还是记录一下。<br>*本文章含大量对其他文章的引用(仅含链接)，产出为0，本质是个<del>文献综述</del>。</p>
+<h2 id="◈-前期准备"><a href="#◈-前期准备" class="headerlink" title="◈ 前期准备"></a><p style="font-size:25px">◈ 前期准备</p></h2><p>要解包的游戏格式需要是nsp&#x2F;xci，如果不是则需要先转换为nsp，见帖子<a href="https://tieba.baidu.com/p/7690214909">【有手就行】极简好用的NSZ&amp;NSP互转工具</a>，帖子中提到的工具SAK的下载地址：<a href="i6q.cn/5T3qx8">密码i95u</a>。<br>本文将使用以下两个工具：<br>NSCbuilder&#8194;<a href="https://github.com/julesontheroad/NSC_BUILDER">github项目地址</a>&#8194;<a href="https://www.mediafire.com/file/8c021cmj2qtb480/NSCbuilder.zip/file">点击下载</a><br>CRIFileSystem&#8194;<a href="https://www.mediafire.com/file/q65tzkbyh58q0r4/CRIFileSystem.rar/file">点击下载</a></p>
+<h2 id="◈-使用NSCbuilder解包游戏文件"><a href="#◈-使用NSCbuilder解包游戏文件" class="headerlink" title="◈ 使用NSCbuilder解包游戏文件"></a><p style="font-size:25px">◈ 使用NSCbuilder解包游戏文件</p></h2><p>流程见<a href="https://blog.csdn.net/today__present/article/details/123171658">记一次nsp解包</a>第一章（nscbuilder解包游戏文件）。<br>博主拆CollarxMalice的fd的时候写了上面的文章，我阅读时正好在拆CollarxMalice的本篇，<del>但我看配图似乎博主拆的正是本篇。</del></p>
+<h2 id="◈-使用CRIFileSystem解包游戏文件"><a href="#◈-使用CRIFileSystem解包游戏文件" class="headerlink" title="◈ 使用CRIFileSystem解包游戏文件"></a><p style="font-size:25px">◈ 使用CRIFileSystem解包游戏文件</p></h2><p>完成上一步后，使用CRIFileSystem继续解包。<br>上面引用的文章使用CriPakTools解包cpk，但我用了闪退，于是使用CRIFileSystem进行解包。<del>这款工具似乎更多用于实况足球修改球员脸型。</del><br>使用方法见<a href="http://www.3h3.com/patch/259966.html">当游网的软件详情页的资源介绍</a>。</p>
+<h2 id="◈-提取音乐"><a href="#◈-提取音乐" class="headerlink" title="◈ 提取音乐"></a><p style="font-size:25px">◈ 提取音乐</p></h2><p>流程见<a href="https://blog.csdn.net/today__present/article/details/123171658">记一次nsp解包</a>第三章（关于音乐hca转mp3）。</p>
+<h2 id="◈-引用文章"><a href="#◈-引用文章" class="headerlink" title="◈ 引用文章"></a><p style="font-size:25px">◈ 引用文章</p></h2><p>[1]一平步青楼一. 【有手就行】极简好用的NSZ&amp;NSP互转工具 — URL: <a href="https://tieba.baidu.com/p/7690214909">https://tieba.baidu.com/p/7690214909</a><br>[2]today__present. 记一次nsp解包（nscb解包nsp&#x2F;xci，cpk解包，转hca、adx到MP3，转nsm、m2v到MP4方法集锦） — URL: <a href="https://blog.csdn.net/today__present/article/details/123171658">https://blog.csdn.net/today__present/article/details/123171658</a></p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
@@ -1559,24 +1577,6 @@
         <tag>攻略</tag>
         <tag>视觉小说</tag>
         <tag>乙女向</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【教程】ns游戏(nsp/xci)解包提取bgm</title>
-    <url>/posts/8.html</url>
-    <content><![CDATA[<p>本想看一眼脚本文件以便制作严谨攻略但失败了(卡在了解密的一步,script是个dat文件，怎么打开都是乱码，那就这样吧)。说不定以后会想听bgm，所以还是记录一下。<br>*本文章含大量对其他文章的引用(仅含链接)，产出为0，本质是个<del>文献综述</del>。</p>
-<h2 id="◈-前期准备"><a href="#◈-前期准备" class="headerlink" title="◈ 前期准备"></a><p style="font-size:25px">◈ 前期准备</p></h2><p>要解包的游戏格式需要是nsp&#x2F;xci，如果不是则需要先转换为nsp，见帖子<a href="https://tieba.baidu.com/p/7690214909">【有手就行】极简好用的NSZ&amp;NSP互转工具</a>，帖子中提到的工具SAK的下载地址：<a href="i6q.cn/5T3qx8">密码i95u</a>。<br>本文将使用以下两个工具：<br>NSCbuilder&#8194;<a href="https://github.com/julesontheroad/NSC_BUILDER">github项目地址</a>&#8194;<a href="https://www.mediafire.com/file/8c021cmj2qtb480/NSCbuilder.zip/file">点击下载</a><br>CRIFileSystem&#8194;<a href="https://www.mediafire.com/file/q65tzkbyh58q0r4/CRIFileSystem.rar/file">点击下载</a></p>
-<h2 id="◈-使用NSCbuilder解包游戏文件"><a href="#◈-使用NSCbuilder解包游戏文件" class="headerlink" title="◈ 使用NSCbuilder解包游戏文件"></a><p style="font-size:25px">◈ 使用NSCbuilder解包游戏文件</p></h2><p>流程见<a href="https://blog.csdn.net/today__present/article/details/123171658">记一次nsp解包</a>第一章（nscbuilder解包游戏文件）。<br>博主拆CollarxMalice的fd的时候写了上面的文章，我阅读时正好在拆CollarxMalice的本篇，<del>但我看配图似乎博主拆的正是本篇。</del></p>
-<h2 id="◈-使用CRIFileSystem解包游戏文件"><a href="#◈-使用CRIFileSystem解包游戏文件" class="headerlink" title="◈ 使用CRIFileSystem解包游戏文件"></a><p style="font-size:25px">◈ 使用CRIFileSystem解包游戏文件</p></h2><p>完成上一步后，使用CRIFileSystem继续解包。<br>上面引用的文章使用CriPakTools解包cpk，但我用了闪退，于是使用CRIFileSystem进行解包。<del>这款工具似乎更多用于实况足球修改球员脸型。</del><br>使用方法见<a href="http://www.3h3.com/patch/259966.html">当游网的软件详情页的资源介绍</a>。</p>
-<h2 id="◈-提取音乐"><a href="#◈-提取音乐" class="headerlink" title="◈ 提取音乐"></a><p style="font-size:25px">◈ 提取音乐</p></h2><p>流程见<a href="https://blog.csdn.net/today__present/article/details/123171658">记一次nsp解包</a>第三章（关于音乐hca转mp3）。</p>
-<h2 id="◈-引用文章"><a href="#◈-引用文章" class="headerlink" title="◈ 引用文章"></a><p style="font-size:25px">◈ 引用文章</p></h2><p>[1]一平步青楼一. 【有手就行】极简好用的NSZ&amp;NSP互转工具 — URL: <a href="https://tieba.baidu.com/p/7690214909">https://tieba.baidu.com/p/7690214909</a><br>[2]today__present. 记一次nsp解包（nscb解包nsp&#x2F;xci，cpk解包，转hca、adx到MP3，转nsm、m2v到MP4方法集锦） — URL: <a href="https://blog.csdn.net/today__present/article/details/123171658">https://blog.csdn.net/today__present/article/details/123171658</a></p>
-]]></content>
-      <categories>
-        <category>杂谈</category>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
       </tags>
   </entry>
 </search>
