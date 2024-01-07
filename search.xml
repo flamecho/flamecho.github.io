@@ -229,53 +229,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【教程】LunaTranslator配置及使用方法</title>
-    <url>/posts/11.html</url>
-    <content><![CDATA[<h2 id="◈-LunaTranslator是什么？"><a href="#◈-LunaTranslator是什么？" class="headerlink" title="◈ LunaTranslator是什么？"></a><p style="font-size:21px">◈ LunaTranslator是什么？</p></h2><p>LunaTranslator是一款Galgame翻译工具，支持剪贴板、OCR、HOOK，支持40余种翻译引擎。<br>简单来说，它可以提取游戏文本并生成一个翻译窗口，帮助你游玩非中文的游戏（啃生肉）。<br>项目主页：<a href="https://github.com/HIllya51/LunaTranslator">点击跳转至github</a><br>最新版本：<a href="https://github.com/HIllya51/LunaTranslator/releases">点击LunaTranslator.zip下载</a><br>备用下载链接：<a href="https://www.mediafire.com/file/9scndgit2joo9w5/LunaTranslator.zip/file">Mediafire</a></p>
-<h2 id="◈-启动"><a href="#◈-启动" class="headerlink" title="◈ 启动"></a><p style="font-size:21px">◈ 启动</p></h2><p>下载并解压”LunaTranslator.zip”，双击”LunaTranslator.exe”启动。<br></p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/1.png" alt="翻译器启动程序图" title="双击第一个即可。第二个是管理员模式。" /></div>
-
-<h2 id="◈-设置"><a href="#◈-设置" class="headerlink" title="◈ 设置"></a><p style="font-size:21px">◈ 设置</p></h2><p>点击从左往右第三个（小齿轮）进入设置。<br></p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/2513bae783f4c2f2f.png" alt="翻译窗口图" title="翻译窗口" /></div>
-在翻译前先对软件进行如下设置：
-
-<h3 id="◈-翻译设置"><a href="#◈-翻译设置" class="headerlink" title="◈ 翻译设置"></a><p style="font-size:19px">◈ 翻译设置</p></h3><div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/3.png" alt="翻译设置图" title="翻译设置" /></div>
-上图是我的设置。该设置作用于<b><font color=#d3625d>HOOK翻译</font></b>，OCR设置在<b><font color=#d3625d>[文本输入]</font></b>。<br>
-玩英文游戏建议提高<b><font color=#d3625d>[最长翻译字数]</font></b>，我的经验是特殊情况1000不够，保险设为2000。<br>
-<b><font color=#d3625d>[翻译请求间隔]</font></b>设为0或保持不变皆可。<br>
-<b><font color=#d3625d>[均衡负载]</font></b>打开，<b><font color=#d3625d>[单次负载个数]</font></b>设为你想同时出现的翻译个数。<br>
-底下是翻译源，想用就<b><font color=#d3625d>[打钩]</font></b>，后面<b><font color=#d3625d>[画笔]</font></b>选字体颜色。翻译源可以选多个，反应越快越在上面。<br>
-<b><font color=#d3625d>[注册在线翻译]</font></b>需要调用API，点击右侧小齿轮中的链接自行获取APPID和KEY，填入即可。
-
-<h3 id="◈-显示设置"><a href="#◈-显示设置" class="headerlink" title="◈ 显示设置"></a><p style="font-size:19px">◈ 显示设置</p></h3><p>按照需求修改。保持默认也可以。</p>
-<h3 id="◈-文本处理"><a href="#◈-文本处理" class="headerlink" title="◈ 文本处理"></a><p style="font-size:19px">◈ 文本处理</p></h3><p><b><font color=#d3625d>[文本预处理]</font></b>建议如下图设置，其他选项遇到特殊情况时再按需设置。<br>读取的文本缺字的话把去除重复字符&#x2F;行看情况关掉。<br></p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/4.png" alt="文本处理图" title="文本处理" /></div>
-在<b><font color=#d3625d>[使用专有名词翻译]</font></b>中对游戏内的专有名词（人名、地名等）进行手动收录，在之后的翻译中将进行替换。<br>
-在打开游戏的情况下点击<b><font color=#d3625d>[使用专有名词翻译]</font></b>右侧的小齿轮，点击<b><font color=#d3625d>[添加行]</font></b>，然后在<b><font color=#d3625d>[日文]</font></b>一栏输入原文，在<b><font color=#d3625d>[翻译]</font></b>一栏输入想要替换的词，完成后右上角点X退出即可。<br>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/5.png" alt="专有名词翻译设置图" title="专有名词翻译设置" /></div>
-如图所示，即在翻译时该游戏中的所有“トワ”都将翻译为“Towa”。
-
-<h3 id="◈-语言设置"><a href="#◈-语言设置" class="headerlink" title="◈ 语言设置"></a><p style="font-size:19px">◈ 语言设置</p></h3><p>开始翻译前记得确认<b><font color=#d3625d>[源语言]</font></b>是否与游戏相对应。</p>
-<h3 id="◈-文本输入"><a href="#◈-文本输入" class="headerlink" title="◈ 文本输入"></a><p style="font-size:19px">◈ 文本输入</p></h3><h4 id="◈-HOOK翻译"><a href="#◈-HOOK翻译" class="headerlink" title="◈ HOOK翻译"></a><p style="font-size:17px">◈ HOOK翻译</p></h4><p>1.在<b><font color=#d3625d>[选择文本输入源]</font></b>下的<b><font color=#d3625d>[HOOK]</font></b>后打钩。<br>2.点击<b><font color=#d3625d>[HOOK设置]</font></b>-<b><font color=#d3625d>[选择游戏]</font></b>右侧的小齿轮，选择游戏进程，点击<b><font color=#d3625d>[OK]</font></b>。<br>3.点击几下游戏，使游戏内文本刷新。<br>4.如下图所示，在正确的行前打钩，然后点击右上角X关闭。</p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/6.png" alt="Hook翻译界面" title="HOOK翻译" /></div>
-5.调出翻译窗口，可能在电脑右下角任务栏里，点击图标即可。<br>
-6.此时翻译器应当可以正常工作，点击游戏等待翻译即可。
-
-<h4 id="◈-OCR翻译"><a href="#◈-OCR翻译" class="headerlink" title="◈ OCR翻译"></a><p style="font-size:17px">◈ OCR翻译</p></h4><p>1.在<b><font color=#d3625d>[选择文本输入源]</font></b>下的<b><font color=#d3625d>[OCR]</font></b>后打钩。<br>2.<b><font color=#d3625d> [OCR设置]</font></b>下按需调整，<b><font color=#d3625d>[执行周期]</font></b>指每几秒进行一次截图翻译，我设置为1.0，即每秒进行一次翻译。<br>3.调出翻译窗口，可能在电脑右下角任务栏里，点击图标即可。</p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/7.png" alt="OCR翻译界面" title="OCR翻译" /></div>
-4.点击翻译窗口中的<b><font color=#d3625d>[选取OCR范围]</font></b>，框选想要截图翻译的文本区域。<br>
-5.点击翻译窗口中的<b><font color=#d3625d>[显示/隐藏文本框]</font></b>。（为了不挡画面）<br>
-6.此时翻译器应当可以正常工作，点击游戏等待翻译即可。
-]]></content>
-      <categories>
-        <category>杂谈</category>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【攻略】Collar×Malice -Unlimited-（ns港版）</title>
     <url>/posts/10.html</url>
     <content><![CDATA[<style>
@@ -887,6 +840,53 @@
         <tag>攻略</tag>
         <tag>视觉小说</tag>
         <tag>乙女向</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【教程】LunaTranslator配置及使用方法</title>
+    <url>/posts/11.html</url>
+    <content><![CDATA[<h2 id="◈-LunaTranslator是什么？"><a href="#◈-LunaTranslator是什么？" class="headerlink" title="◈ LunaTranslator是什么？"></a><p style="font-size:21px">◈ LunaTranslator是什么？</p></h2><p>LunaTranslator是一款Galgame翻译工具，支持剪贴板、OCR、HOOK，支持40余种翻译引擎。<br>简单来说，它可以提取游戏文本并生成一个翻译窗口，帮助你游玩非中文的游戏（啃生肉）。<br>项目主页：<a href="https://github.com/HIllya51/LunaTranslator">点击跳转至github</a><br>最新版本：<a href="https://github.com/HIllya51/LunaTranslator/releases">点击LunaTranslator.zip下载</a><br>备用下载链接：<a href="https://www.mediafire.com/file/9scndgit2joo9w5/LunaTranslator.zip/file">Mediafire</a></p>
+<h2 id="◈-启动"><a href="#◈-启动" class="headerlink" title="◈ 启动"></a><p style="font-size:21px">◈ 启动</p></h2><p>下载并解压”LunaTranslator.zip”，双击”LunaTranslator.exe”启动。<br></p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/1.png" alt="翻译器启动程序图" title="双击第一个即可。第二个是管理员模式。" /></div>
+
+<h2 id="◈-设置"><a href="#◈-设置" class="headerlink" title="◈ 设置"></a><p style="font-size:21px">◈ 设置</p></h2><p>点击从左往右第三个（小齿轮）进入设置。<br></p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/2513bae783f4c2f2f.png" alt="翻译窗口图" title="翻译窗口" /></div>
+在翻译前先对软件进行如下设置：
+
+<h3 id="◈-翻译设置"><a href="#◈-翻译设置" class="headerlink" title="◈ 翻译设置"></a><p style="font-size:19px">◈ 翻译设置</p></h3><div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/3.png" alt="翻译设置图" title="翻译设置" /></div>
+上图是我的设置。该设置作用于<b><font color=#d3625d>HOOK翻译</font></b>，OCR设置在<b><font color=#d3625d>[文本输入]</font></b>。<br>
+玩英文游戏建议提高<b><font color=#d3625d>[最长翻译字数]</font></b>，我的经验是特殊情况1000不够，保险设为2000。<br>
+<b><font color=#d3625d>[翻译请求间隔]</font></b>设为0或保持不变皆可。<br>
+<b><font color=#d3625d>[均衡负载]</font></b>打开，<b><font color=#d3625d>[单次负载个数]</font></b>设为你想同时出现的翻译个数。<br>
+底下是翻译源，想用就<b><font color=#d3625d>[打钩]</font></b>，后面<b><font color=#d3625d>[画笔]</font></b>选字体颜色。翻译源可以选多个，反应越快越在上面。<br>
+<b><font color=#d3625d>[注册在线翻译]</font></b>需要调用API，点击右侧小齿轮中的链接自行获取APPID和KEY，填入即可。
+
+<h3 id="◈-显示设置"><a href="#◈-显示设置" class="headerlink" title="◈ 显示设置"></a><p style="font-size:19px">◈ 显示设置</p></h3><p>按照需求修改。保持默认也可以。</p>
+<h3 id="◈-文本处理"><a href="#◈-文本处理" class="headerlink" title="◈ 文本处理"></a><p style="font-size:19px">◈ 文本处理</p></h3><p><b><font color=#d3625d>[文本预处理]</font></b>建议如下图设置，其他选项遇到特殊情况时再按需设置。<br>读取的文本缺字的话把去除重复字符&#x2F;行看情况关掉。<br></p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/4.png" alt="文本处理图" title="文本处理" /></div>
+在<b><font color=#d3625d>[使用专有名词翻译]</font></b>中对游戏内的专有名词（人名、地名等）进行手动收录，在之后的翻译中将进行替换。<br>
+在打开游戏的情况下点击<b><font color=#d3625d>[使用专有名词翻译]</font></b>右侧的小齿轮，点击<b><font color=#d3625d>[添加行]</font></b>，然后在<b><font color=#d3625d>[日文]</font></b>一栏输入原文，在<b><font color=#d3625d>[翻译]</font></b>一栏输入想要替换的词，完成后右上角点X退出即可。<br>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/5.png" alt="专有名词翻译设置图" title="专有名词翻译设置" /></div>
+如图所示，即在翻译时该游戏中的所有“トワ”都将翻译为“Towa”。
+
+<h3 id="◈-语言设置"><a href="#◈-语言设置" class="headerlink" title="◈ 语言设置"></a><p style="font-size:19px">◈ 语言设置</p></h3><p>开始翻译前记得确认<b><font color=#d3625d>[源语言]</font></b>是否与游戏相对应。</p>
+<h3 id="◈-文本输入"><a href="#◈-文本输入" class="headerlink" title="◈ 文本输入"></a><p style="font-size:19px">◈ 文本输入</p></h3><h4 id="◈-HOOK翻译"><a href="#◈-HOOK翻译" class="headerlink" title="◈ HOOK翻译"></a><p style="font-size:17px">◈ HOOK翻译</p></h4><p>1.在<b><font color=#d3625d>[选择文本输入源]</font></b>下的<b><font color=#d3625d>[HOOK]</font></b>后打钩。<br>2.点击<b><font color=#d3625d>[HOOK设置]</font></b>-<b><font color=#d3625d>[选择游戏]</font></b>右侧的小齿轮，选择游戏进程，点击<b><font color=#d3625d>[OK]</font></b>。<br>3.点击几下游戏，使游戏内文本刷新。<br>4.如下图所示，在正确的行前打钩，然后点击右上角X关闭。</p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/6.png" alt="Hook翻译界面" title="HOOK翻译" /></div>
+5.调出翻译窗口，可能在电脑右下角任务栏里，点击图标即可。<br>
+6.此时翻译器应当可以正常工作，点击游戏等待翻译即可。
+
+<h4 id="◈-OCR翻译"><a href="#◈-OCR翻译" class="headerlink" title="◈ OCR翻译"></a><p style="font-size:17px">◈ OCR翻译</p></h4><p>1.在<b><font color=#d3625d>[选择文本输入源]</font></b>下的<b><font color=#d3625d>[OCR]</font></b>后打钩。<br>2.<b><font color=#d3625d> [OCR设置]</font></b>下按需调整，<b><font color=#d3625d>[执行周期]</font></b>指每几秒进行一次截图翻译，我设置为1.0，即每秒进行一次翻译。<br>3.调出翻译窗口，可能在电脑右下角任务栏里，点击图标即可。</p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/7.png" alt="OCR翻译界面" title="OCR翻译" /></div>
+4.点击翻译窗口中的<b><font color=#d3625d>[选取OCR范围]</font></b>，框选想要截图翻译的文本区域。<br>
+5.点击翻译窗口中的<b><font color=#d3625d>[显示/隐藏文本框]</font></b>。（为了不挡画面）<br>
+6.此时翻译器应当可以正常工作，点击游戏等待翻译即可。
+]]></content>
+      <categories>
+        <category>杂谈</category>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
@@ -1621,6 +1621,37 @@
       </tags>
   </entry>
   <entry>
+    <title>【教程】Luckydog1+bad egg安装教程</title>
+    <url>/posts/17.html</url>
+    <content><![CDATA[<h2 id="◈-安装"><a href="#◈-安装" class="headerlink" title="◈ 安装"></a><p style="font-size:25px">◈ 安装</p></h2><img src="/img/13.Luckydog1bad egg安装教程/1.png" alt="安装教程_Luckydog1bad egg" />
+<img src="/img/13.Luckydog1bad egg安装教程/2.png" alt="安装教程_Luckydog1bad egg" />
+<img src="/img/13.Luckydog1bad egg安装教程/3.png" alt="安装教程_Luckydog1bad egg" />
+<b><font color=#d3625d>注：上一步↑找不到装载的话：右键-打开方式-Windows资源管理器，然后继续进行下一步↓</font></b>
+<img src="/img/13.Luckydog1bad egg安装教程/4.png" alt="安装教程_Luckydog1bad egg" />
+<img src="/img/13.Luckydog1bad egg安装教程/5.png" alt="安装教程_Luckydog1bad egg" />
+<img src="/img/13.Luckydog1bad egg安装教程/6.png" alt="安装教程_Luckydog1bad egg" />
+<img src="/img/13.Luckydog1bad egg安装教程/7.png" alt="安装教程_Luckydog1bad egg" />
+<img src="/img/13.Luckydog1bad egg安装教程/8.png" alt="安装教程_Luckydog1bad egg" />
+<img src="/img/13.Luckydog1bad egg安装教程/9.png" alt="安装教程_Luckydog1bad egg" />
+<img src="/img/13.Luckydog1bad egg安装教程/10.png" alt="安装教程_Luckydog1bad egg" />
+<img src="/img/13.Luckydog1bad egg安装教程/11.png" alt="安装教程_Luckydog1bad egg" />
+<img src="/img/13.Luckydog1bad egg安装教程/12.png" alt="安装教程_Luckydog1bad egg" />
+<img src="/img/13.Luckydog1bad egg安装教程/13.png" alt="安装教程_Luckydog1bad egg" />
+<img src="/img/13.Luckydog1bad egg安装教程/14.png" alt="安装教程_Luckydog1bad egg" />
+<img src="/img/13.Luckydog1bad egg安装教程/15.png" alt="安装教程_Luckydog1bad egg" />
+
+<h2 id="◈-卸载"><a href="#◈-卸载" class="headerlink" title="◈ 卸载"></a><p style="font-size:25px">◈ 卸载</p></h2><img src="/img/13.Luckydog1bad egg安装教程/16.png" alt="安装教程_Luckydog1bad egg" />
+<img src="/img/13.Luckydog1bad egg安装教程/17.png" alt="安装教程_Luckydog1bad egg" />
+]]></content>
+      <categories>
+        <category>杂谈</category>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【攻略】ユキソラ・コンフリクト</title>
     <url>/posts/18.html</url>
     <content><![CDATA[<style>
@@ -1657,6 +1688,35 @@
 </div>
 
 <h2 id="◈-相关链接"><a href="#◈-相关链接" class="headerlink" title="◈ 相关链接"></a><p style="font-size:25px">◈ 相关链接</p></h2><p><a target="_blank" href="https://vndb.org/v31683"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a></p>
+]]></content>
+      <categories>
+        <category>攻略</category>
+        <category>视觉小说</category>
+        <category>蔷薇向</category>
+      </categories>
+      <tags>
+        <tag>攻略</tag>
+        <tag>视觉小说</tag>
+        <tag>蔷薇向</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【攻略】ソレノナ &amp; ソレノナ -And to End-</title>
+    <url>/posts/2.html</url>
+    <content><![CDATA[<h2 id="◈-ソレノナ"><a href="#◈-ソレノナ" class="headerlink" title="◈ ソレノナ"></a><p style="font-size:30px">◈ ソレノナ</p></h2><h3 id="◈-故事梗概-STORYLINE"><a href="#◈-故事梗概-STORYLINE" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:20px">◈ 故事梗概 &#x2F; STORYLINE</p></h3><p>「一本の線が繋がった時、現実は夢を見せる。」<br><br>夏休みも一週間前に控えた夏。<br>主人公、『藤澤慶介（ふじさわけいすけ）』は変わらぬ日常を過ごしていた。<br>風と日差しの屋上、そこには彼の特等席があった。<br><br>いつものように屋上へ出向いたある日。<br>彼は一人の男子生徒と出会う。<br>そこで、慶介は落とした覚えの無い生徒手帳を受け取ることとなる。<br><br><br>彼は知らなかった。<br>自分を取り巻く現実が、既に歪んでいる事を。<br>夢とも願望とも言い切れない、矛盾して曖昧な境界線に自分が立っている事を。<br><br>まだ気付く事のない「其れの名」を。</p>
+<h3 id="◈-攻略-WALKTHROUGH"><a href="#◈-攻略-WALKTHROUGH" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:20px">◈ 攻略 &#x2F; WALKTHROUGH</p></h3><p>“1”表示第1个选项，”2”表示第2个选项，以此类推。</p>
+<h4 id="◈-小野寺-真人"><a href="#◈-小野寺-真人" class="headerlink" title="◈ 小野寺 真人"></a><p style="font-size:17px">◈ 小野寺 真人</p></h4><p>1.&#8194;来ると思う<br>2.&#8194;屋上へ行く<br>1.&#8194;構わない<br>2.&#8194;屋上へ行く<br>2.&#8194;F組&#8194;&#x2F;&#8194;3.&#8194;C組&#8194;&#x2F;&#8194;4.&#8194;図書室&#8195;◆ 选择”屋上”通往<b>PIG END</b>；选择”明日は来ない”通往<b>BAD END 2</b><br>1.&#8194;悪くない<br>1.&#8194;わかった&#8195;◆ 选择”いつもの冗談だろ？”通往<b>BAD END 2</b><br>2.&#8194;信じない&#8195;◆ 选择”信じる”通往<b>BAD END 1</b><br><b>GOOD END</b></p>
+<h4 id="◈-坂下-荘矢"><a href="#◈-坂下-荘矢" class="headerlink" title="◈ 坂下 荘矢"></a><p style="font-size:17px">◈ 坂下 荘矢</p></h4><p>2.&#8194;わからない<br>1.&#8194;2ーCへいく<br>1.&#8194;2ーCへいく<br>1.&#8194;一緒にやる<br>2.&#8194;荘矢を追いかけた<br>1.&#8194;別に構わない&#8195;◆ 选择”ちょっときつい”通往<b>BAD END 2</b><br>2.&#8194;もう少し此処にいる&#8195;◆ 选择”図書室に戻る”通往<b>BAD END 1</b><br><b>GOOD END</b></p>
+<h4 id="◈-花村-園香"><a href="#◈-花村-園香" class="headerlink" title="◈ 花村 園香"></a><p style="font-size:17px">◈ 花村 園香</p></h4><p>1.&#8194;来ると思う&#8194;&#x2F;&#8194;2.&#8194;わからない<br>3.&#8194;花村に声をかける<br>1.&#8194;花村は参加するのか？&#x2F;&#8194;3.&#8194;花村って委員長？<br>3.&#8194;花村に声をかける<br>1.&#8194;参加だ<br>1.&#8194;残念だ&#8195;◆ 选择”ラッキーだ”通往<b>BAD END</b><br>2.&#8194;そんなことは無い&#8195;◆ 选择”迷惑だ”通往<b>BAD END</b><br><b>GOOD END</b></p>
+<h3 id="◈-相关链接-LINKS"><a href="#◈-相关链接-LINKS" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:20px">◈ 相关链接 &#x2F; LINKS</p></h3><p><a target="_blank" href="https://www.freem.ne.jp/win/game/17762"><img src="/img/4.相关链接图/freem.webp" alt="freem的logo" title="点击跳转至Freem!游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v13351"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+
+<h2 id="◈-ソレノナ-And-to-End"><a href="#◈-ソレノナ-And-to-End" class="headerlink" title="◈ ソレノナ -And to End-"></a><p style="font-size:30px">◈ ソレノナ -And to End-</p></h2><h3 id="◈-故事梗概-STORYLINE-1"><a href="#◈-故事梗概-STORYLINE-1" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:20px">◈ 故事梗概 &#x2F; STORYLINE</p></h3><p>ソレノナの後日談ゲーム。二人きりの春休み。<br><br>メインは小野寺ルートとなっております。<br><br>人気の無い校舎。<br>窓の外は雨粒に覆われていた。<br><br>三月。<br>屋上が立ち入り禁止になって大分経つ、世間では春休みのある一日。<br>藤澤慶介（ふじさわけいすけ）と小野寺真人（おのでらまこと）は、続く時間を過ごしていた。<br><br>前作「ソレノナ」の後日談に当たるお話です。</p>
+<h3 id="◈-攻略-WALKTHROUGH-1"><a href="#◈-攻略-WALKTHROUGH-1" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:20px">◈ 攻略 &#x2F; WALKTHROUGH</p></h3><p>“1”表示第1个选项，”2”表示第2个选项，以此类推。<br><br>2.&#8194;今日はやめる&#8195;◆ 选择”探す”通往<b>BAD END</b><br>3.&#8194;屋上へ&#8195;◆ 选择”Ｃ組へ”通往<b>Normal End 1</b>；选择”Ｆ組へ”通往<b>Normal End 2</b><br><b>GOOD END</b><br><br>◆ 本篇通关后在Extra有坂下荘矢和花村園香的后日谈，全通后获得通关CG。<img src="/img/7.其他/sorenona.webp" alt="游戏全通cg" width="500" /></p>
+<h3 id="◈-相关链接-LINKS-1"><a href="#◈-相关链接-LINKS-1" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:20px">◈ 相关链接 &#x2F; LINKS</p></h3><p><a target="_blank" href="https://www.freem.ne.jp/win/game/17822"><img src="/img/4.相关链接图/freem.webp" alt="freem的logo" title="点击跳转至Freem!游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v13135"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
 ]]></content>
       <categories>
         <category>攻略</category>
@@ -2110,27 +2170,29 @@
       </tags>
   </entry>
   <entry>
-    <title>【教程】Luckydog1+bad egg安装教程</title>
-    <url>/posts/17.html</url>
-    <content><![CDATA[<h2 id="◈-安装"><a href="#◈-安装" class="headerlink" title="◈ 安装"></a><p style="font-size:25px">◈ 安装</p></h2><img src="/img/13.Luckydog1bad egg安装教程/1.png" alt="安装教程_Luckydog1bad egg" />
-<img src="/img/13.Luckydog1bad egg安装教程/2.png" alt="安装教程_Luckydog1bad egg" />
-<img src="/img/13.Luckydog1bad egg安装教程/3.png" alt="安装教程_Luckydog1bad egg" />
-<b><font color=#d3625d>注：上一步↑找不到装载的话：右键-打开方式-Windows资源管理器，然后继续进行下一步↓</font></b>
-<img src="/img/13.Luckydog1bad egg安装教程/4.png" alt="安装教程_Luckydog1bad egg" />
-<img src="/img/13.Luckydog1bad egg安装教程/5.png" alt="安装教程_Luckydog1bad egg" />
-<img src="/img/13.Luckydog1bad egg安装教程/6.png" alt="安装教程_Luckydog1bad egg" />
-<img src="/img/13.Luckydog1bad egg安装教程/7.png" alt="安装教程_Luckydog1bad egg" />
-<img src="/img/13.Luckydog1bad egg安装教程/8.png" alt="安装教程_Luckydog1bad egg" />
-<img src="/img/13.Luckydog1bad egg安装教程/9.png" alt="安装教程_Luckydog1bad egg" />
-<img src="/img/13.Luckydog1bad egg安装教程/10.png" alt="安装教程_Luckydog1bad egg" />
-<img src="/img/13.Luckydog1bad egg安装教程/11.png" alt="安装教程_Luckydog1bad egg" />
-<img src="/img/13.Luckydog1bad egg安装教程/12.png" alt="安装教程_Luckydog1bad egg" />
-<img src="/img/13.Luckydog1bad egg安装教程/13.png" alt="安装教程_Luckydog1bad egg" />
-<img src="/img/13.Luckydog1bad egg安装教程/14.png" alt="安装教程_Luckydog1bad egg" />
-<img src="/img/13.Luckydog1bad egg安装教程/15.png" alt="安装教程_Luckydog1bad egg" />
+    <title>【教程】PigeonBlood鸽子血安装教程</title>
+    <url>/posts/20.html</url>
+    <content><![CDATA[<p><b>汉化补丁请访问百度贴吧自行获取 <a href="https://tieba.baidu.com/p/8834667748">点击跳转至百度贴吧</a><br>日文版游戏本体分享 <a href="https://www.mediafire.com/file/easkhlnuvyk1mws/%255BJP%255DPigeon_Blood.exe/file">点击跳转至Mediafire</a><br>游戏正版购买链接 <a href="https://www.animategames.jp/home/detail/30079">点击跳转至Animate Games</a><br>游戏相关信息 <a href="https://vndb.org/v10773">点击跳转至the visual novel database</a></b></p>
+<h2 id="◈-安装"><a href="#◈-安装" class="headerlink" title="◈ 安装"></a><p style="font-size:25px">◈ 安装</p></h2><img src="/img/14.PigeonBlood鸽子血安装教程/1.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/2.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/3.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/4.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/5.png" alt="安装教程_PigeonBlood鸽子血" />
+<b><font color=#d3625d>注：上一步↑没反应的话：右键-打开方式-Windows资源管理器，然后继续进行下一步↓</font></b>
+<img src="/img/14.PigeonBlood鸽子血安装教程/6.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/7.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/8.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/9.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/10.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/11.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/12.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/13.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/14.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/15.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/16.png" alt="安装教程_PigeonBlood鸽子血" />
 
-<h2 id="◈-卸载"><a href="#◈-卸载" class="headerlink" title="◈ 卸载"></a><p style="font-size:25px">◈ 卸载</p></h2><img src="/img/13.Luckydog1bad egg安装教程/16.png" alt="安装教程_Luckydog1bad egg" />
-<img src="/img/13.Luckydog1bad egg安装教程/17.png" alt="安装教程_Luckydog1bad egg" />
+<h2 id="◈-汉化"><a href="#◈-汉化" class="headerlink" title="◈ 汉化"></a><p style="font-size:25px">◈ 汉化</p></h2><p><b><font color=#d3625d>仅提供安装教程，解压密码等问题请于<a href="https://tieba.baidu.com/p/8834667748">百度贴吧（点击跳转）</a>自行查找。感谢汉化组的付出。</font></b><br><img src="/img/14.PigeonBlood鸽子血安装教程/17.png" alt="安装教程_PigeonBlood鸽子血" /><br><img src="/img/14.PigeonBlood鸽子血安装教程/18.png" alt="安装教程_PigeonBlood鸽子血" /><br><img src="/img/14.PigeonBlood鸽子血安装教程/19.png" alt="安装教程_PigeonBlood鸽子血" /></p>
+<h2 id="◈-卸载"><a href="#◈-卸载" class="headerlink" title="◈ 卸载"></a><p style="font-size:25px">◈ 卸载</p></h2><img src="/img/14.PigeonBlood鸽子血安装教程/20.png" alt="安装教程_PigeonBlood鸽子血" />
 ]]></content>
       <categories>
         <category>杂谈</category>
@@ -2374,35 +2436,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【攻略】ソレノナ &amp; ソレノナ -And to End-</title>
-    <url>/posts/2.html</url>
-    <content><![CDATA[<h2 id="◈-ソレノナ"><a href="#◈-ソレノナ" class="headerlink" title="◈ ソレノナ"></a><p style="font-size:30px">◈ ソレノナ</p></h2><h3 id="◈-故事梗概-STORYLINE"><a href="#◈-故事梗概-STORYLINE" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:20px">◈ 故事梗概 &#x2F; STORYLINE</p></h3><p>「一本の線が繋がった時、現実は夢を見せる。」<br><br>夏休みも一週間前に控えた夏。<br>主人公、『藤澤慶介（ふじさわけいすけ）』は変わらぬ日常を過ごしていた。<br>風と日差しの屋上、そこには彼の特等席があった。<br><br>いつものように屋上へ出向いたある日。<br>彼は一人の男子生徒と出会う。<br>そこで、慶介は落とした覚えの無い生徒手帳を受け取ることとなる。<br><br><br>彼は知らなかった。<br>自分を取り巻く現実が、既に歪んでいる事を。<br>夢とも願望とも言い切れない、矛盾して曖昧な境界線に自分が立っている事を。<br><br>まだ気付く事のない「其れの名」を。</p>
-<h3 id="◈-攻略-WALKTHROUGH"><a href="#◈-攻略-WALKTHROUGH" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:20px">◈ 攻略 &#x2F; WALKTHROUGH</p></h3><p>“1”表示第1个选项，”2”表示第2个选项，以此类推。</p>
-<h4 id="◈-小野寺-真人"><a href="#◈-小野寺-真人" class="headerlink" title="◈ 小野寺 真人"></a><p style="font-size:17px">◈ 小野寺 真人</p></h4><p>1.&#8194;来ると思う<br>2.&#8194;屋上へ行く<br>1.&#8194;構わない<br>2.&#8194;屋上へ行く<br>2.&#8194;F組&#8194;&#x2F;&#8194;3.&#8194;C組&#8194;&#x2F;&#8194;4.&#8194;図書室&#8195;◆ 选择”屋上”通往<b>PIG END</b>；选择”明日は来ない”通往<b>BAD END 2</b><br>1.&#8194;悪くない<br>1.&#8194;わかった&#8195;◆ 选择”いつもの冗談だろ？”通往<b>BAD END 2</b><br>2.&#8194;信じない&#8195;◆ 选择”信じる”通往<b>BAD END 1</b><br><b>GOOD END</b></p>
-<h4 id="◈-坂下-荘矢"><a href="#◈-坂下-荘矢" class="headerlink" title="◈ 坂下 荘矢"></a><p style="font-size:17px">◈ 坂下 荘矢</p></h4><p>2.&#8194;わからない<br>1.&#8194;2ーCへいく<br>1.&#8194;2ーCへいく<br>1.&#8194;一緒にやる<br>2.&#8194;荘矢を追いかけた<br>1.&#8194;別に構わない&#8195;◆ 选择”ちょっときつい”通往<b>BAD END 2</b><br>2.&#8194;もう少し此処にいる&#8195;◆ 选择”図書室に戻る”通往<b>BAD END 1</b><br><b>GOOD END</b></p>
-<h4 id="◈-花村-園香"><a href="#◈-花村-園香" class="headerlink" title="◈ 花村 園香"></a><p style="font-size:17px">◈ 花村 園香</p></h4><p>1.&#8194;来ると思う&#8194;&#x2F;&#8194;2.&#8194;わからない<br>3.&#8194;花村に声をかける<br>1.&#8194;花村は参加するのか？&#x2F;&#8194;3.&#8194;花村って委員長？<br>3.&#8194;花村に声をかける<br>1.&#8194;参加だ<br>1.&#8194;残念だ&#8195;◆ 选择”ラッキーだ”通往<b>BAD END</b><br>2.&#8194;そんなことは無い&#8195;◆ 选择”迷惑だ”通往<b>BAD END</b><br><b>GOOD END</b></p>
-<h3 id="◈-相关链接-LINKS"><a href="#◈-相关链接-LINKS" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:20px">◈ 相关链接 &#x2F; LINKS</p></h3><p><a target="_blank" href="https://www.freem.ne.jp/win/game/17762"><img src="/img/4.相关链接图/freem.webp" alt="freem的logo" title="点击跳转至Freem!游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v13351"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
-
-<h2 id="◈-ソレノナ-And-to-End"><a href="#◈-ソレノナ-And-to-End" class="headerlink" title="◈ ソレノナ -And to End-"></a><p style="font-size:30px">◈ ソレノナ -And to End-</p></h2><h3 id="◈-故事梗概-STORYLINE-1"><a href="#◈-故事梗概-STORYLINE-1" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:20px">◈ 故事梗概 &#x2F; STORYLINE</p></h3><p>ソレノナの後日談ゲーム。二人きりの春休み。<br><br>メインは小野寺ルートとなっております。<br><br>人気の無い校舎。<br>窓の外は雨粒に覆われていた。<br><br>三月。<br>屋上が立ち入り禁止になって大分経つ、世間では春休みのある一日。<br>藤澤慶介（ふじさわけいすけ）と小野寺真人（おのでらまこと）は、続く時間を過ごしていた。<br><br>前作「ソレノナ」の後日談に当たるお話です。</p>
-<h3 id="◈-攻略-WALKTHROUGH-1"><a href="#◈-攻略-WALKTHROUGH-1" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:20px">◈ 攻略 &#x2F; WALKTHROUGH</p></h3><p>“1”表示第1个选项，”2”表示第2个选项，以此类推。<br><br>2.&#8194;今日はやめる&#8195;◆ 选择”探す”通往<b>BAD END</b><br>3.&#8194;屋上へ&#8195;◆ 选择”Ｃ組へ”通往<b>Normal End 1</b>；选择”Ｆ組へ”通往<b>Normal End 2</b><br><b>GOOD END</b><br><br>◆ 本篇通关后在Extra有坂下荘矢和花村園香的后日谈，全通后获得通关CG。<img src="/img/7.其他/sorenona.webp" alt="游戏全通cg" width="500" /></p>
-<h3 id="◈-相关链接-LINKS-1"><a href="#◈-相关链接-LINKS-1" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:20px">◈ 相关链接 &#x2F; LINKS</p></h3><p><a target="_blank" href="https://www.freem.ne.jp/win/game/17822"><img src="/img/4.相关链接图/freem.webp" alt="freem的logo" title="点击跳转至Freem!游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v13135"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
-]]></content>
-      <categories>
-        <category>攻略</category>
-        <category>视觉小说</category>
-        <category>蔷薇向</category>
-      </categories>
-      <tags>
-        <tag>攻略</tag>
-        <tag>视觉小说</tag>
-        <tag>蔷薇向</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【攻略】かみさまの棺</title>
     <url>/posts/4.html</url>
     <content><![CDATA[<p><a target="_blank" href="https://kamisamanohitsugi.jimdofree.com/"><img src="/img/5.游戏官网/kamisama.webp" alt="游戏官网的banner" title="点击跳转至游戏官网" /></a></p>
@@ -2466,6 +2499,39 @@
       </categories>
       <tags>
         <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【教程】御坂翻译器MisakaTranslator配置及使用方法</title>
+    <url>/posts/6.html</url>
+    <content><![CDATA[<h2 id="◈-御坂翻译器是什么？"><a href="#◈-御坂翻译器是什么？" class="headerlink" title="◈ 御坂翻译器是什么？"></a><p style="font-size:20px">◈ 御坂翻译器是什么？</p></h2><p>御坂翻译器MisakaTranslator是一款Galgame&#x2F;文字游戏&#x2F;漫画多语种实时机翻工具。<br>简单来说，它可以提取游戏文本并生成一个翻译窗口，帮助你游玩非中文的游戏（啃生肉）。<br>项目主页：<a href="https://github.com/hanmin0822/MisakaTranslator">点击跳转至github</a><br>最新版本(2.12.2)：<a href="https://github.com/hanmin0822/MisakaTranslator/releases/tag/2.12.2">点击MisakaTranslator.2.12.2.zip下载</a><br>备用下载链接：<a href="https://www.mediafire.com/file/3fszss5tachxvxn/MisakaTranslator.2.12.2.zip/file">Mediafire</a></p>
+<h2 id="◈-启动"><a href="#◈-启动" class="headerlink" title="◈ 启动"></a><p style="font-size:20px">◈ 启动</p></h2><p>下载并解压”MisakaTranslator.2.12.2.zip”，双击”MisakaTranslator-WPF.exe”启动。<br><img src="https://cdnjson.com/images/2023/08/06/_bcc5527e2f3891d3.webp" alt="翻译器启动程序图" title="双击这个文件启动" /></p>
+<h2 id="◈-界面"><a href="#◈-界面" class="headerlink" title="◈ 界面"></a><p style="font-size:20px">◈ 界面</p></h2><img src="https://cdnjson.com/images/2023/08/06/_0bc62b4ff3f86987.webp" alt="翻译器界面图" title="翻译器界面" />
+
+<h2 id="◈-翻译器设置"><a href="#◈-翻译器设置" class="headerlink" title="◈ 翻译器设置"></a><p style="font-size:20px">◈ 翻译器设置</p></h2><h3 id="◈-软件本体设置"><a href="#◈-软件本体设置" class="headerlink" title="◈ 软件本体设置"></a><p style="font-size:17px">◈ 软件本体设置</p></h3><p>保持默认即可。<br><img src="https://cdnjson.com/images/2023/08/06/_.webp" alt="软件本体设置图" title="软件本体设置" /></p>
+<h3 id="◈-LE转区相关设置"><a href="#◈-LE转区相关设置" class="headerlink" title="◈ LE转区相关设置"></a><p style="font-size:17px">◈ LE转区相关设置</p></h3><p>路径设置如图所示。请注意，MisakaTranslator与Locale Emulator所在路径皆<b>不要</b>有中文。<br>这一项可以留空不设置，可在启动游戏时自行右键使用LE打开，只是在使用主界面左下角的”自动开始翻译”时可能出现问题。<br>关于Locale Emulator是什么以及如何使用可查看<a href="https://www.bilibili.com/read/cv6506213">[转区工具]Locale Emulator的使用</a>。<br><img src="https://cdnjson.com/images/2023/08/06/_LE.webp" alt="LE转区相关设置图" title="LE转区相关设置" /></p>
+<h3 id="◈-Hook相关设置"><a href="#◈-Hook相关设置" class="headerlink" title="◈ Hook相关设置"></a><p style="font-size:17px">◈ Hook相关设置</p></h3><p>保持默认即可。<br><img src="https://cdnjson.com/images/2023/08/06/_Hook.webp" alt="Hook相关设置图" title="Hook相关设置" /></p>
+<h3 id="◈-OCR相关设置"><a href="#◈-OCR相关设置" class="headerlink" title="◈ OCR相关设置"></a><p style="font-size:17px">◈ OCR相关设置</p></h3><p>OCR即截屏翻译。</p>
+<h4 id="◈-通用设置"><a href="#◈-通用设置" class="headerlink" title="◈ 通用设置"></a><p style="font-size:15px">◈ 通用设置</p></h4><img src="https://cdnjson.com/images/2023/08/06/ocr.webp" alt="OCR通用设置图" title="OCR通用设置" />
+
+<h4 id="◈-百度智能云OCR-API"><a href="#◈-百度智能云OCR-API" class="headerlink" title="◈ 百度智能云OCR API"></a><p style="font-size:15px">◈ 百度智能云OCR API</p></h4><p>关于如何申请API可查看<a href="https://blog.csdn.net/qq_34673086/article/details/107845615">如何使用百度智能云OCR获取APIKey和SecretKey，</a>将获取的API Key和Secret Key填入如下的位置，显示工作正常即可。<br><img src="https://cdnjson.com/images/2023/08/06/ocrbcb0164bde873c71.webp" alt="百度智能云OCR API设置图" title="百度智能云OCR API设置" /></p>
+<h4 id="◈-百度翻译OCR-API"><a href="#◈-百度翻译OCR-API" class="headerlink" title="◈ 百度翻译OCR API"></a><p style="font-size:15px">◈ 百度翻译OCR API</p></h4><p>关于如何配置百度翻译OCR API下见<b>翻译相关设置-百度翻译API</b>，并<a href="https://fanyi-api.baidu.com/product/22">开通图片翻译API</a>。</p>
+<h3 id="◈-翻译相关设置"><a href="#◈-翻译相关设置" class="headerlink" title="◈ 翻译相关设置"></a><p style="font-size:17px">◈ 翻译相关设置</p></h3><h4 id="◈-通用设置-1"><a href="#◈-通用设置-1" class="headerlink" title="◈ 通用设置"></a><p style="font-size:15px">◈ 通用设置</p></h4><img src="https://cdnjson.com/images/2023/08/06/7ae7f8eeb57ca30dfe09300dc47f4b14.webp" alt="翻译通用设置图" title="翻译通用设置" />
+这里仅以百度翻译API为例，其他API配置方式大同小异请自行搜索。
+
+<h4 id="◈-百度翻译API"><a href="#◈-百度翻译API" class="headerlink" title="◈ 百度翻译API"></a><p style="font-size:15px">◈ 百度翻译API</p></h4><p>关于如何申请API可查看<a href="https://zhuanlan.zhihu.com/p/375789804">获取百度翻译官方接口API与密钥并授权至软件或插件的方法</a>，将获取的APP ID和密钥填入如下的位置，显示工作正常即可。<br><img src="https://cdnjson.com/images/2023/08/06/API.webp" alt="百度翻译API配置图" title="百度翻译API" /></p>
+<h3 id="◈-其他设置"><a href="#◈-其他设置" class="headerlink" title="◈ 其他设置"></a><p style="font-size:17px">◈ 其他设置</p></h3><p>词典相关设置、TTS相关设置、人工翻译相关设置保持默认即可，如有需要请自行配置。</p>
+<h2 id="◈-对游戏进行翻译"><a href="#◈-对游戏进行翻译" class="headerlink" title="◈ 对游戏进行翻译"></a><p style="font-size:20px">◈ 对游戏进行翻译</p></h2><p>点击主界面-添加游戏。</p>
+<h3 id="◈-Hook方式游戏向导"><a href="#◈-Hook方式游戏向导" class="headerlink" title="◈ Hook方式游戏向导"></a><p style="font-size:17px">◈ Hook方式游戏向导</p></h3><p>请确认已完成<b>翻译相关设置</b>。<br><img src="https://cdnjson.com/images/2023/08/06/hook1.webp" alt="Hook翻译图1" title="选择游戏" /><br>运行游戏并点击对话框，使游戏中文本发生变化，一直点到出现你满意的结果为止。<br><img src="https://cdnjson.com/images/2023/08/06/hook2.webp" alt="Hook翻译图2" title="以Omega Vampire为例" /><br><img src="https://cdnjson.com/images/2023/08/06/hook3.webp" alt="Hook翻译图3" title="选择去重方法" /><br><img src="https://cdnjson.com/images/2023/08/06/hook4.webp" alt="Hook翻译图4" title="选择翻译语言" /><br><img src="https://cdnjson.com/images/2023/08/06/hook5.webp" alt="Hook翻译图5" title="完成设置" /></p>
+<h3 id="◈-OCR方式游戏向导"><a href="#◈-OCR方式游戏向导" class="headerlink" title="◈ OCR方式游戏向导"></a><p style="font-size:17px">◈ OCR方式游戏向导</p></h3><p>请确认已完成<b>OCR相关设置</b>。<br><img src="https://cdnjson.com/images/2023/08/06/ocr1.webp" alt="OCR翻译图1" title="选择截图区域" /><br>选择全屏截取也可以，游玩时注意不要挪动游戏窗口。<br><img src="https://cdnjson.com/images/2023/08/06/ocr2.webp" alt="OCR翻译图2" title="OCR预处理" /><br><img src="https://cdnjson.com/images/2023/08/06/ocr3.webp" alt="OCR翻译图3" title="设置触发键" /></p>
+<h2 id="◈-引用文章"><a href="#◈-引用文章" class="headerlink" title="◈ 引用文章"></a><p style="font-size:20px">◈ 引用文章</p></h2><p>[1]梦境无恒. [转区工具]Locale Emulator的使用 — URL: <a href="https://www.bilibili.com/read/cv6506213">https://www.bilibili.com/read/cv6506213</a><br>[2]M@ple. 如何使用百度智能云OCR获取APIKey和SecretKey — URL: <a href="https://blog.csdn.net/qq_34673086/article/details/107845615">https://blog.csdn.net/qq_34673086/article/details/107845615</a><br>[3]疯狂学习GIS. 获取百度翻译官方接口API与密钥并授权至软件或插件的方法 — URL: <a href="https://zhuanlan.zhihu.com/p/375789804">https://zhuanlan.zhihu.com/p/375789804</a></p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
@@ -2597,57 +2663,6 @@
         <tag>攻略</tag>
         <tag>视觉小说</tag>
         <tag>一般向</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【教程】御坂翻译器MisakaTranslator配置及使用方法</title>
-    <url>/posts/6.html</url>
-    <content><![CDATA[<h2 id="◈-御坂翻译器是什么？"><a href="#◈-御坂翻译器是什么？" class="headerlink" title="◈ 御坂翻译器是什么？"></a><p style="font-size:20px">◈ 御坂翻译器是什么？</p></h2><p>御坂翻译器MisakaTranslator是一款Galgame&#x2F;文字游戏&#x2F;漫画多语种实时机翻工具。<br>简单来说，它可以提取游戏文本并生成一个翻译窗口，帮助你游玩非中文的游戏（啃生肉）。<br>项目主页：<a href="https://github.com/hanmin0822/MisakaTranslator">点击跳转至github</a><br>最新版本(2.12.2)：<a href="https://github.com/hanmin0822/MisakaTranslator/releases/tag/2.12.2">点击MisakaTranslator.2.12.2.zip下载</a><br>备用下载链接：<a href="https://www.mediafire.com/file/3fszss5tachxvxn/MisakaTranslator.2.12.2.zip/file">Mediafire</a></p>
-<h2 id="◈-启动"><a href="#◈-启动" class="headerlink" title="◈ 启动"></a><p style="font-size:20px">◈ 启动</p></h2><p>下载并解压”MisakaTranslator.2.12.2.zip”，双击”MisakaTranslator-WPF.exe”启动。<br><img src="https://cdnjson.com/images/2023/08/06/_bcc5527e2f3891d3.webp" alt="翻译器启动程序图" title="双击这个文件启动" /></p>
-<h2 id="◈-界面"><a href="#◈-界面" class="headerlink" title="◈ 界面"></a><p style="font-size:20px">◈ 界面</p></h2><img src="https://cdnjson.com/images/2023/08/06/_0bc62b4ff3f86987.webp" alt="翻译器界面图" title="翻译器界面" />
-
-<h2 id="◈-翻译器设置"><a href="#◈-翻译器设置" class="headerlink" title="◈ 翻译器设置"></a><p style="font-size:20px">◈ 翻译器设置</p></h2><h3 id="◈-软件本体设置"><a href="#◈-软件本体设置" class="headerlink" title="◈ 软件本体设置"></a><p style="font-size:17px">◈ 软件本体设置</p></h3><p>保持默认即可。<br><img src="https://cdnjson.com/images/2023/08/06/_.webp" alt="软件本体设置图" title="软件本体设置" /></p>
-<h3 id="◈-LE转区相关设置"><a href="#◈-LE转区相关设置" class="headerlink" title="◈ LE转区相关设置"></a><p style="font-size:17px">◈ LE转区相关设置</p></h3><p>路径设置如图所示。请注意，MisakaTranslator与Locale Emulator所在路径皆<b>不要</b>有中文。<br>这一项可以留空不设置，可在启动游戏时自行右键使用LE打开，只是在使用主界面左下角的”自动开始翻译”时可能出现问题。<br>关于Locale Emulator是什么以及如何使用可查看<a href="https://www.bilibili.com/read/cv6506213">[转区工具]Locale Emulator的使用</a>。<br><img src="https://cdnjson.com/images/2023/08/06/_LE.webp" alt="LE转区相关设置图" title="LE转区相关设置" /></p>
-<h3 id="◈-Hook相关设置"><a href="#◈-Hook相关设置" class="headerlink" title="◈ Hook相关设置"></a><p style="font-size:17px">◈ Hook相关设置</p></h3><p>保持默认即可。<br><img src="https://cdnjson.com/images/2023/08/06/_Hook.webp" alt="Hook相关设置图" title="Hook相关设置" /></p>
-<h3 id="◈-OCR相关设置"><a href="#◈-OCR相关设置" class="headerlink" title="◈ OCR相关设置"></a><p style="font-size:17px">◈ OCR相关设置</p></h3><p>OCR即截屏翻译。</p>
-<h4 id="◈-通用设置"><a href="#◈-通用设置" class="headerlink" title="◈ 通用设置"></a><p style="font-size:15px">◈ 通用设置</p></h4><img src="https://cdnjson.com/images/2023/08/06/ocr.webp" alt="OCR通用设置图" title="OCR通用设置" />
-
-<h4 id="◈-百度智能云OCR-API"><a href="#◈-百度智能云OCR-API" class="headerlink" title="◈ 百度智能云OCR API"></a><p style="font-size:15px">◈ 百度智能云OCR API</p></h4><p>关于如何申请API可查看<a href="https://blog.csdn.net/qq_34673086/article/details/107845615">如何使用百度智能云OCR获取APIKey和SecretKey，</a>将获取的API Key和Secret Key填入如下的位置，显示工作正常即可。<br><img src="https://cdnjson.com/images/2023/08/06/ocrbcb0164bde873c71.webp" alt="百度智能云OCR API设置图" title="百度智能云OCR API设置" /></p>
-<h4 id="◈-百度翻译OCR-API"><a href="#◈-百度翻译OCR-API" class="headerlink" title="◈ 百度翻译OCR API"></a><p style="font-size:15px">◈ 百度翻译OCR API</p></h4><p>关于如何配置百度翻译OCR API下见<b>翻译相关设置-百度翻译API</b>，并<a href="https://fanyi-api.baidu.com/product/22">开通图片翻译API</a>。</p>
-<h3 id="◈-翻译相关设置"><a href="#◈-翻译相关设置" class="headerlink" title="◈ 翻译相关设置"></a><p style="font-size:17px">◈ 翻译相关设置</p></h3><h4 id="◈-通用设置-1"><a href="#◈-通用设置-1" class="headerlink" title="◈ 通用设置"></a><p style="font-size:15px">◈ 通用设置</p></h4><img src="https://cdnjson.com/images/2023/08/06/7ae7f8eeb57ca30dfe09300dc47f4b14.webp" alt="翻译通用设置图" title="翻译通用设置" />
-这里仅以百度翻译API为例，其他API配置方式大同小异请自行搜索。
-
-<h4 id="◈-百度翻译API"><a href="#◈-百度翻译API" class="headerlink" title="◈ 百度翻译API"></a><p style="font-size:15px">◈ 百度翻译API</p></h4><p>关于如何申请API可查看<a href="https://zhuanlan.zhihu.com/p/375789804">获取百度翻译官方接口API与密钥并授权至软件或插件的方法</a>，将获取的APP ID和密钥填入如下的位置，显示工作正常即可。<br><img src="https://cdnjson.com/images/2023/08/06/API.webp" alt="百度翻译API配置图" title="百度翻译API" /></p>
-<h3 id="◈-其他设置"><a href="#◈-其他设置" class="headerlink" title="◈ 其他设置"></a><p style="font-size:17px">◈ 其他设置</p></h3><p>词典相关设置、TTS相关设置、人工翻译相关设置保持默认即可，如有需要请自行配置。</p>
-<h2 id="◈-对游戏进行翻译"><a href="#◈-对游戏进行翻译" class="headerlink" title="◈ 对游戏进行翻译"></a><p style="font-size:20px">◈ 对游戏进行翻译</p></h2><p>点击主界面-添加游戏。</p>
-<h3 id="◈-Hook方式游戏向导"><a href="#◈-Hook方式游戏向导" class="headerlink" title="◈ Hook方式游戏向导"></a><p style="font-size:17px">◈ Hook方式游戏向导</p></h3><p>请确认已完成<b>翻译相关设置</b>。<br><img src="https://cdnjson.com/images/2023/08/06/hook1.webp" alt="Hook翻译图1" title="选择游戏" /><br>运行游戏并点击对话框，使游戏中文本发生变化，一直点到出现你满意的结果为止。<br><img src="https://cdnjson.com/images/2023/08/06/hook2.webp" alt="Hook翻译图2" title="以Omega Vampire为例" /><br><img src="https://cdnjson.com/images/2023/08/06/hook3.webp" alt="Hook翻译图3" title="选择去重方法" /><br><img src="https://cdnjson.com/images/2023/08/06/hook4.webp" alt="Hook翻译图4" title="选择翻译语言" /><br><img src="https://cdnjson.com/images/2023/08/06/hook5.webp" alt="Hook翻译图5" title="完成设置" /></p>
-<h3 id="◈-OCR方式游戏向导"><a href="#◈-OCR方式游戏向导" class="headerlink" title="◈ OCR方式游戏向导"></a><p style="font-size:17px">◈ OCR方式游戏向导</p></h3><p>请确认已完成<b>OCR相关设置</b>。<br><img src="https://cdnjson.com/images/2023/08/06/ocr1.webp" alt="OCR翻译图1" title="选择截图区域" /><br>选择全屏截取也可以，游玩时注意不要挪动游戏窗口。<br><img src="https://cdnjson.com/images/2023/08/06/ocr2.webp" alt="OCR翻译图2" title="OCR预处理" /><br><img src="https://cdnjson.com/images/2023/08/06/ocr3.webp" alt="OCR翻译图3" title="设置触发键" /></p>
-<h2 id="◈-引用文章"><a href="#◈-引用文章" class="headerlink" title="◈ 引用文章"></a><p style="font-size:20px">◈ 引用文章</p></h2><p>[1]梦境无恒. [转区工具]Locale Emulator的使用 — URL: <a href="https://www.bilibili.com/read/cv6506213">https://www.bilibili.com/read/cv6506213</a><br>[2]M@ple. 如何使用百度智能云OCR获取APIKey和SecretKey — URL: <a href="https://blog.csdn.net/qq_34673086/article/details/107845615">https://blog.csdn.net/qq_34673086/article/details/107845615</a><br>[3]疯狂学习GIS. 获取百度翻译官方接口API与密钥并授权至软件或插件的方法 — URL: <a href="https://zhuanlan.zhihu.com/p/375789804">https://zhuanlan.zhihu.com/p/375789804</a></p>
-]]></content>
-      <categories>
-        <category>杂谈</category>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【教程】ns游戏(nsp/xci)解包提取bgm</title>
-    <url>/posts/8.html</url>
-    <content><![CDATA[<p>本想看一眼脚本文件以便制作严谨攻略但失败了(卡在了解密的一步,script是个dat文件，怎么打开都是乱码，那就这样吧)。说不定以后会想听bgm，所以还是记录一下。<br>*本文章含大量对其他文章的引用(仅含链接)，产出为0，本质是个<del>文献综述</del>。</p>
-<h2 id="◈-前期准备"><a href="#◈-前期准备" class="headerlink" title="◈ 前期准备"></a><p style="font-size:25px">◈ 前期准备</p></h2><p>要解包的游戏格式需要是nsp&#x2F;xci，如果不是则需要先转换为nsp，见帖子<a href="https://tieba.baidu.com/p/7690214909">【有手就行】极简好用的NSZ&amp;NSP互转工具</a>，帖子中提到的工具SAK的下载地址：<a href="i6q.cn/5T3qx8">密码i95u</a>。<br>本文将使用以下两个工具：<br>NSCbuilder&#8194;<a href="https://github.com/julesontheroad/NSC_BUILDER">github项目地址</a>&#8194;<a href="https://www.mediafire.com/file/8c021cmj2qtb480/NSCbuilder.zip/file">点击下载</a><br>CRIFileSystem&#8194;<a href="https://www.mediafire.com/file/q65tzkbyh58q0r4/CRIFileSystem.rar/file">点击下载</a></p>
-<h2 id="◈-使用NSCbuilder解包游戏文件"><a href="#◈-使用NSCbuilder解包游戏文件" class="headerlink" title="◈ 使用NSCbuilder解包游戏文件"></a><p style="font-size:25px">◈ 使用NSCbuilder解包游戏文件</p></h2><p>流程见<a href="https://blog.csdn.net/today__present/article/details/123171658">记一次nsp解包</a>第一章（nscbuilder解包游戏文件）。<br>博主拆CollarxMalice的fd的时候写了上面的文章，我阅读时正好在拆CollarxMalice的本篇，<del>但我看配图似乎博主拆的正是本篇。</del></p>
-<h2 id="◈-使用CRIFileSystem解包游戏文件"><a href="#◈-使用CRIFileSystem解包游戏文件" class="headerlink" title="◈ 使用CRIFileSystem解包游戏文件"></a><p style="font-size:25px">◈ 使用CRIFileSystem解包游戏文件</p></h2><p>完成上一步后，使用CRIFileSystem继续解包。<br>上面引用的文章使用CriPakTools解包cpk，但我用了闪退，于是使用CRIFileSystem进行解包。<del>这款工具似乎更多用于实况足球修改球员脸型。</del><br>使用方法见<a href="http://www.3h3.com/patch/259966.html">当游网的软件详情页的资源介绍</a>。</p>
-<h2 id="◈-提取音乐"><a href="#◈-提取音乐" class="headerlink" title="◈ 提取音乐"></a><p style="font-size:25px">◈ 提取音乐</p></h2><p>流程见<a href="https://blog.csdn.net/today__present/article/details/123171658">记一次nsp解包</a>第三章（关于音乐hca转mp3）。</p>
-<h2 id="◈-引用文章"><a href="#◈-引用文章" class="headerlink" title="◈ 引用文章"></a><p style="font-size:25px">◈ 引用文章</p></h2><p>[1]一平步青楼一. 【有手就行】极简好用的NSZ&amp;NSP互转工具 — URL: <a href="https://tieba.baidu.com/p/7690214909">https://tieba.baidu.com/p/7690214909</a><br>[2]today__present. 记一次nsp解包（nscb解包nsp&#x2F;xci，cpk解包，转hca、adx到MP3，转nsm、m2v到MP4方法集锦） — URL: <a href="https://blog.csdn.net/today__present/article/details/123171658">https://blog.csdn.net/today__present/article/details/123171658</a></p>
-]]></content>
-      <categories>
-        <category>杂谈</category>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
@@ -3414,6 +3429,24 @@
         <tag>攻略</tag>
         <tag>视觉小说</tag>
         <tag>乙女向</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【教程】ns游戏(nsp/xci)解包提取bgm</title>
+    <url>/posts/8.html</url>
+    <content><![CDATA[<p>本想看一眼脚本文件以便制作严谨攻略但失败了(卡在了解密的一步,script是个dat文件，怎么打开都是乱码，那就这样吧)。说不定以后会想听bgm，所以还是记录一下。<br>*本文章含大量对其他文章的引用(仅含链接)，产出为0，本质是个<del>文献综述</del>。</p>
+<h2 id="◈-前期准备"><a href="#◈-前期准备" class="headerlink" title="◈ 前期准备"></a><p style="font-size:25px">◈ 前期准备</p></h2><p>要解包的游戏格式需要是nsp&#x2F;xci，如果不是则需要先转换为nsp，见帖子<a href="https://tieba.baidu.com/p/7690214909">【有手就行】极简好用的NSZ&amp;NSP互转工具</a>，帖子中提到的工具SAK的下载地址：<a href="i6q.cn/5T3qx8">密码i95u</a>。<br>本文将使用以下两个工具：<br>NSCbuilder&#8194;<a href="https://github.com/julesontheroad/NSC_BUILDER">github项目地址</a>&#8194;<a href="https://www.mediafire.com/file/8c021cmj2qtb480/NSCbuilder.zip/file">点击下载</a><br>CRIFileSystem&#8194;<a href="https://www.mediafire.com/file/q65tzkbyh58q0r4/CRIFileSystem.rar/file">点击下载</a></p>
+<h2 id="◈-使用NSCbuilder解包游戏文件"><a href="#◈-使用NSCbuilder解包游戏文件" class="headerlink" title="◈ 使用NSCbuilder解包游戏文件"></a><p style="font-size:25px">◈ 使用NSCbuilder解包游戏文件</p></h2><p>流程见<a href="https://blog.csdn.net/today__present/article/details/123171658">记一次nsp解包</a>第一章（nscbuilder解包游戏文件）。<br>博主拆CollarxMalice的fd的时候写了上面的文章，我阅读时正好在拆CollarxMalice的本篇，<del>但我看配图似乎博主拆的正是本篇。</del></p>
+<h2 id="◈-使用CRIFileSystem解包游戏文件"><a href="#◈-使用CRIFileSystem解包游戏文件" class="headerlink" title="◈ 使用CRIFileSystem解包游戏文件"></a><p style="font-size:25px">◈ 使用CRIFileSystem解包游戏文件</p></h2><p>完成上一步后，使用CRIFileSystem继续解包。<br>上面引用的文章使用CriPakTools解包cpk，但我用了闪退，于是使用CRIFileSystem进行解包。<del>这款工具似乎更多用于实况足球修改球员脸型。</del><br>使用方法见<a href="http://www.3h3.com/patch/259966.html">当游网的软件详情页的资源介绍</a>。</p>
+<h2 id="◈-提取音乐"><a href="#◈-提取音乐" class="headerlink" title="◈ 提取音乐"></a><p style="font-size:25px">◈ 提取音乐</p></h2><p>流程见<a href="https://blog.csdn.net/today__present/article/details/123171658">记一次nsp解包</a>第三章（关于音乐hca转mp3）。</p>
+<h2 id="◈-引用文章"><a href="#◈-引用文章" class="headerlink" title="◈ 引用文章"></a><p style="font-size:25px">◈ 引用文章</p></h2><p>[1]一平步青楼一. 【有手就行】极简好用的NSZ&amp;NSP互转工具 — URL: <a href="https://tieba.baidu.com/p/7690214909">https://tieba.baidu.com/p/7690214909</a><br>[2]today__present. 记一次nsp解包（nscb解包nsp&#x2F;xci，cpk解包，转hca、adx到MP3，转nsm、m2v到MP4方法集锦） — URL: <a href="https://blog.csdn.net/today__present/article/details/123171658">https://blog.csdn.net/today__present/article/details/123171658</a></p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
       </tags>
   </entry>
 </search>
