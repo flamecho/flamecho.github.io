@@ -1456,7 +1456,7 @@ h6 code {
   box-sizing: border-box;
 }
 .table-wrap {
-  overflow-x: scroll;
+  overflow-x: auto;
   margin: 0 0 20px;
 }
 table {
