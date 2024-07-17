@@ -1425,7 +1425,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url(https://cdnjson.com/images/2023/08/06/bg_day.webp);
+  background: url('/img/1.头像 背景/bg_day.webp');
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -4419,7 +4419,7 @@ mjx-assistive-mml {
   }
 }
 [data-theme="dark"] #web_bg {
-  background: url(https://cdnjson.com/images/2023/08/06/bg_night.webp);
+  background: url('/img/1.头像 背景/bg_day.webp');
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -4427,14 +4427,14 @@ mjx-assistive-mml {
 }
 @media screen and (max-width: 800px) {
   #web_bg {
-    background: url(https://cdnjson.com/images/2023/08/06/bg_day.webp) !important;
+    background: url('/img/1.头像 背景/bg_day.webp') !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
   }
   [data-theme="dark"] #web_bg {
-    background: url(https://cdnjson.com/images/2023/08/06/bg_night.webp) !important;
+    background: url('/img/1.头像 背景/bg_day.webp') !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
