@@ -127,3 +127,29 @@ div#archive {
     box-shadow: 0px 0px 1px 1px #e9f5fa;
   }
 }
+
+/*GitHub开源圆角*/
+#card-info-btn {
+  border-radius: 7px;
+  overflow: hidden;
+}
+
+/*文章相关推荐卡片美化*/
+.relatedPosts > .relatedPosts-list > div {
+  border-radius: 20px;
+}
+
+/*版权卡片美化*/
+#post .post-copyright {
+position: relative;
+margin: 2rem 0 0.5rem;
+padding: 1rem 0.8rem;
+border: 3px solid #3a62a0; /*卡片边框*/
+border-radius: 20px; /*边框圆角*/
+}
+
+/*目录颜色圆角调整*/
+#aside-content #card-toc .toc-content .toc-link.active {
+  background: #3a62a0;
+  border-radius: 5px;
+}

@@ -1,0 +1,14 @@
+:root {
+  --guole-theme-color: #1c69ed;
+  --guole-main: var(--guole-theme-color);
+}
+
+[data-theme=light] {
+  --guole-color-hover: #1c69ed;
+  --guole-card-border: rgba(66, 68, 74, .15);
+}
+
+[data-theme=dark] {
+  --guole-color-hover: #11459d;
+  --guole-card-border: rgba(66, 68, 74, .5);
+}
