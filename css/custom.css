@@ -145,7 +145,7 @@ position: relative;
 margin: 2rem 0 0.5rem;
 padding: 1rem 0.8rem;
 border: 3px solid #3a62a0; /*卡片边框*/
-border-radius: 20px; /*边框圆角*/
+border-radius: 8px; /*边框圆角*/
 }
 
 /*目录颜色圆角调整*/
