@@ -55,6 +55,9 @@
 
 /* 文章页、归档页、普通页面 */
 div#post,
+div#archive,
+div#categories,
+div#category,
 div#page {
   background: var(--trans-light);
   backdrop-filter: var(--backdrop-filter);
