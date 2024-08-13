@@ -1,6 +1,237 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>【教程】LunaTranslator配置及使用方法</title>
+    <url>/posts/11.html</url>
+    <content><![CDATA[<h2 id="◈-LunaTranslator是什么？"><a href="#◈-LunaTranslator是什么？" class="headerlink" title="◈ LunaTranslator是什么？"></a><p style="font-size:21px">◈ LunaTranslator是什么？</p></h2><p>LunaTranslator是一款Galgame翻译工具，支持剪贴板、OCR、HOOK，支持40余种翻译引擎。<br>简单来说，它可以提取游戏文本并生成一个翻译窗口，帮助你游玩非中文的游戏（啃生肉）。<br>项目主页：<a href="https://github.com/HIllya51/LunaTranslator">点击跳转至github</a><br>最新版本：<a href="https://github.com/HIllya51/LunaTranslator/releases">点击LunaTranslator.zip下载</a><br>备用下载链接：<a href="https://www.mediafire.com/file/9scndgit2joo9w5/LunaTranslator.zip/file">Mediafire</a></p>
+<h2 id="◈-启动"><a href="#◈-启动" class="headerlink" title="◈ 启动"></a><p style="font-size:21px">◈ 启动</p></h2><p>下载并解压”LunaTranslator.zip”，双击”LunaTranslator.exe”启动。<br></p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/1.png" alt="翻译器启动程序图" title="双击第一个即可。第二个是管理员模式。" /></div>
+
+<h2 id="◈-设置"><a href="#◈-设置" class="headerlink" title="◈ 设置"></a><p style="font-size:21px">◈ 设置</p></h2><p>点击从左往右第三个（小齿轮）进入设置。<br></p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/2513bae783f4c2f2f.png" alt="翻译窗口图" title="翻译窗口" /></div>
+在翻译前先对软件进行如下设置：
+
+<h3 id="◈-翻译设置"><a href="#◈-翻译设置" class="headerlink" title="◈ 翻译设置"></a><p style="font-size:19px">◈ 翻译设置</p></h3><div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/3.png" alt="翻译设置图" title="翻译设置" /></div>
+上图是我的设置。该设置作用于<b><font color=#d3625d>HOOK翻译</font></b>，OCR设置在<b><font color=#d3625d>[文本输入]</font></b>。<br>
+玩英文游戏建议提高<b><font color=#d3625d>[最长翻译字数]</font></b>，我的经验是特殊情况1000不够，保险设为2000。<br>
+<b><font color=#d3625d>[翻译请求间隔]</font></b>设为0或保持不变皆可。<br>
+<b><font color=#d3625d>[均衡负载]</font></b>打开，<b><font color=#d3625d>[单次负载个数]</font></b>设为你想同时出现的翻译个数。<br>
+底下是翻译源，想用就<b><font color=#d3625d>[打钩]</font></b>，后面<b><font color=#d3625d>[画笔]</font></b>选字体颜色。翻译源可以选多个，反应越快越在上面。<br>
+<b><font color=#d3625d>[注册在线翻译]</font></b>需要调用API，点击右侧小齿轮中的链接自行获取APPID和KEY，填入即可。
+
+<h3 id="◈-显示设置"><a href="#◈-显示设置" class="headerlink" title="◈ 显示设置"></a><p style="font-size:19px">◈ 显示设置</p></h3><p>按照需求修改。保持默认也可以。</p>
+<h3 id="◈-文本处理"><a href="#◈-文本处理" class="headerlink" title="◈ 文本处理"></a><p style="font-size:19px">◈ 文本处理</p></h3><p><b><font color=#d3625d>[文本预处理]</font></b>建议如下图设置，其他选项遇到特殊情况时再按需设置。<br>读取的文本缺字的话把去除重复字符&#x2F;行看情况关掉。<br></p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/4.png" alt="文本处理图" title="文本处理" /></div>
+在<b><font color=#d3625d>[使用专有名词翻译]</font></b>中对游戏内的专有名词（人名、地名等）进行手动收录，在之后的翻译中将进行替换。<br>
+在打开游戏的情况下点击<b><font color=#d3625d>[使用专有名词翻译]</font></b>右侧的小齿轮，点击<b><font color=#d3625d>[添加行]</font></b>，然后在<b><font color=#d3625d>[日文]</font></b>一栏输入原文，在<b><font color=#d3625d>[翻译]</font></b>一栏输入想要替换的词，完成后右上角点X退出即可。<br>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/5.png" alt="专有名词翻译设置图" title="专有名词翻译设置" /></div>
+如图所示，即在翻译时该游戏中的所有“トワ”都将翻译为“Towa”。
+
+<h3 id="◈-语言设置"><a href="#◈-语言设置" class="headerlink" title="◈ 语言设置"></a><p style="font-size:19px">◈ 语言设置</p></h3><p>开始翻译前记得确认<b><font color=#d3625d>[源语言]</font></b>是否与游戏相对应。</p>
+<h3 id="◈-文本输入"><a href="#◈-文本输入" class="headerlink" title="◈ 文本输入"></a><p style="font-size:19px">◈ 文本输入</p></h3><h4 id="◈-HOOK翻译"><a href="#◈-HOOK翻译" class="headerlink" title="◈ HOOK翻译"></a><p style="font-size:17px">◈ HOOK翻译</p></h4><p>1.在<b><font color=#d3625d>[选择文本输入源]</font></b>下的<b><font color=#d3625d>[HOOK]</font></b>后打钩。<br>2.点击<b><font color=#d3625d>[HOOK设置]</font></b>-<b><font color=#d3625d>[选择游戏]</font></b>右侧的小齿轮，选择游戏进程，点击<b><font color=#d3625d>[OK]</font></b>。<br>3.点击几下游戏，使游戏内文本刷新。<br>4.如下图所示，在正确的行前打钩，然后点击右上角X关闭。</p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/6.png" alt="Hook翻译界面" title="HOOK翻译" /></div>
+5.调出翻译窗口，可能在电脑右下角任务栏里，点击图标即可。<br>
+6.此时翻译器应当可以正常工作，点击游戏等待翻译即可。
+
+<h4 id="◈-OCR翻译"><a href="#◈-OCR翻译" class="headerlink" title="◈ OCR翻译"></a><p style="font-size:17px">◈ OCR翻译</p></h4><p>1.在<b><font color=#d3625d>[选择文本输入源]</font></b>下的<b><font color=#d3625d>[OCR]</font></b>后打钩。<br>2.<b><font color=#d3625d> [OCR设置]</font></b>下按需调整，<b><font color=#d3625d>[执行周期]</font></b>指每几秒进行一次截图翻译，我设置为1.0，即每秒进行一次翻译。<br>3.调出翻译窗口，可能在电脑右下角任务栏里，点击图标即可。</p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/7.png" alt="OCR翻译界面" title="OCR翻译" /></div>
+4.点击翻译窗口中的<b><font color=#d3625d>[选取OCR范围]</font></b>，框选想要截图翻译的文本区域。<br>
+5.点击翻译窗口中的<b><font color=#d3625d>[显示/隐藏文本框]</font></b>。（为了不挡画面）<br>
+6.此时翻译器应当可以正常工作，点击游戏等待翻译即可。
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【攻略】Collar×Malice -Unlimited-（ns港版）</title>
+    <url>/posts/10.html</url>
+    <content><![CDATA[<style>
+.center
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p><a target="_blank" href="https://www.otomate.jp/collar_malice/fd/"><img src="/img/5.游戏官网/collarxmalicefd.jpg" alt="点击跳转至游戏官网" width="500" title="点击跳转至游戏官网" /></a></p>
+<h2 id="◈-故事梗概"><a href="#◈-故事梗概" class="headerlink" title="◈ 故事梗概"></a><p style="font-size:25px">◈ 故事梗概</p></h2><p style="font-size:18px">跨越恶意之后，拼凑未来的碎片。</p>
+解决了连续恶性犯罪事件——通称X-day事件后，<br>
+主人公逐渐找回原本的日常生活。<br>
+追查事件期间，她知晓了无数沉重的真相与哀痛，<br>
+然而她决定背负着一切，<br>
+与【他】携手克服困难，在本作中展开成为恋人后的生活。
+
+<h2 id="◈-攻略流程"><a href="#◈-攻略流程" class="headerlink" title="◈ 攻略流程"></a><p style="font-size:25px">◈ 攻略流程</p></h2><h3 id="◈-共通线"><a href="#◈-共通线" class="headerlink" title="◈ 共通线"></a><p style="font-size:22px">◈ 共通线</p></h3><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
+ <col style='width:72.5pt'>
+ <col style='width:217.5pt'>
+ <tr rowspan=2>
+  <td colspan=2><b>2.&#8194;不能坐视不管<br><div style="color:#d3625d;">1.&#8194;不该做出引人注目的举动&#8194;→&#8194;end</div></b>
+ <tr>
+  <td rowspan=4 style='text-align:center'><b>【存档】</b>
+  <td><b>1.&#8194;调查房间<br>3.&#8194;都不是<br>1.&#8194;很久没人住了<br>【分歧】1.&#8194;抓住橘&#8194;→&#8194;榎本峰雄线<br>【分歧】2.&#8194;逃去玄关&#8194;→&#8194;柳爱时线<br><div style="color:#d3625d ;">【分歧】3.&#8194;待在原地不动&#8194;→&#8194;end</b>
+ <tr>
+  <td><b>2.&#8194;调查房间里的电脑<br>密码：HERO&#8194;→&#8194;笹冢尊线<br><div style="color:#d3625d ;">一直输错密码&#8194;→&#8194;end<br>解密过程：英文字母第8个是H，<br>替换ZERO的Z得到HERO</div></b>
+ <tr>
+  <td><b>3.&#8194;委托鉴定信件<br>2.&#8194;你讨厌吃什么？<br>2.&#8194;小时候无法忘怀的回忆是什么？<br>→&#8194;白石景之线</b>
+ <tr>
+  <td><b>4.&#8194;去周边询问，搜集线索<br>射击模式成功&#8194;→&#8194;冈崎契线<br><div style="color:#d3625d ;">射击模式失败&#8194;→&#8194;end</div></b>
+ </tr>
+</table>
+</div>
+
+<h3 id="◈-柳-爱时"><a href="#◈-柳-爱时" class="headerlink" title="◈ 柳 爱时"></a><p style="font-size:22px">◈ 柳 爱时</p></h3><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
+ <col style='width:72.5pt'>
+ <col style='width:217.5pt'>
+  <td rowspan=1 style='text-align:center'><b>cp.1</b>
+  <td><b>2.&#8194;我最喜欢你了！</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.2</b>
+  <td><b>1.&#8194;请多对我撒娇一些</b>
+ <tr>
+  <td><b>1.&#8194;我不这么认为</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.3</b>
+  <td><b>2.&#8194;对，还不够</b>
+ <tr>
+  <td><b>1.&#8194;我想和你吵架</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.4</b>
+  <td><b>2.&#8194;到时请来参加婚礼</b>
+ <tr>
+  <td><b>1.&#8194;去见他&#8194;→&#8194;Best ED<br>通关白石景之线后解锁Adonis篇<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>柳爱时cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
+ </tr>
+</table>
+</div>
+
+<h3 id="◈-冈崎-契"><a href="#◈-冈崎-契" class="headerlink" title="◈ 冈崎 契"></a><p style="font-size:22px">◈ 冈崎 契</p></h3><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
+ <col style='width:72.5pt'>
+ <col style='width:217.5pt'>
+  <td rowspan=2 style='text-align:center'><b>cp.1</b>
+  <td><b>2.&#8194;笑容很温柔</b>
+ <tr>
+  <td><b>2.&#8194;我只会对冈崎先生心跳加速</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.2</b>
+  <td><b>1.&#8194;会生气</b>
+ <tr>
+  <td><b>2.&#8194;我很高兴</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.3</b>
+  <td><b>1.&#8194;就算不理解，我也喜欢你</b>
+ <tr>
+  <td><b>2.&#8194;把你的后半生交给我吧</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.4</b>
+  <td><b>1.&#8194;传贴图&#8194;→&#8194;Best ED<br>解锁Side Story Crossroad(吉成秀明)<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>冈崎契cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
+ </tr>
+</table>
+</div>
+
+<h3 id="◈-榎本-峰雄"><a href="#◈-榎本-峰雄" class="headerlink" title="◈ 榎本 峰雄"></a><p style="font-size:22px">◈ 榎本 峰雄</p></h3><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
+ <col style='width:72.5pt'>
+ <col style='width:217.5pt'>
+  <td rowspan=2 style='text-align:center'><b>cp.1</b>
+  <td><b>2.&#8194;向峰雄先生发出SOS！</b>
+ <tr>
+  <td><b>1.&#8194;走到峰雄先生身边</b>
+ <tr>
+  <td rowspan=1 style='text-align:center'><b>cp.2</b>
+  <td><b>1.&#8194;原地等待</b>
+ <tr>
+  <td rowspan=1 style='text-align:center'><b>cp.3</b>
+  <td><b>1.&#8194;我不觉得</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.4</b>
+  <td><b>1.&#8194;你想喝味增汤吗？</b>
+ <tr>
+  <td><b>2.&#8194;有趣的地方&#8194;→&#8194;Best ED<br>解锁Side Story ONWARD(星野香月)<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>榎本峰雄cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
+ </tr>
+</table>
+</div>
+
+<h3 id="◈-笹冢-尊"><a href="#◈-笹冢-尊" class="headerlink" title="◈ 笹冢 尊"></a><p style="font-size:22px">◈ 笹冢 尊</p></h3><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
+ <col style='width:72.5pt'>
+ <col style='width:217.5pt'>
+  <td rowspan=1 style='text-align:center'><b>cp.1</b>
+  <td><b>2.&#8194;尊先生？</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.2</b>
+  <td><b>1.&#8194;可靠</b>
+ <tr>
+  <td><b>2.&#8194;我等着你</b>
+ <tr>
+  <td rowspan=1 style='text-align:center'><b>cp.3</b>
+  <td><b>1.&#8194;笹冢先生是我的</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.4</b>
+  <td><b>1.&#8194;brother...？&#8194;→&#8194;Best ED<br>解锁Side Story Pride(峰岸诚司)<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>笹冢尊cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
+ </tr>
+</table>
+</div>
+
+<h3 id="◈-白石-景之"><a href="#◈-白石-景之" class="headerlink" title="◈ 白石 景之"></a><p style="font-size:22px">◈ 白石 景之</p></h3><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
+ <col style='width:72.5pt'>
+ <col style='width:72.5pt'>
+ <col style='width:145pt'>
+  <td rowspan=1 style='text-align:center'><b>cp.1</b>
+  <td colspan=2><b>2.&#8194;不敢看他</b>
+ <tr>
+  <td rowspan=4 style='text-align:center'><b>cp.2</b>
+  <td colspan=2><b>1.&#8194;有非他不可的理由</b>
+ <tr>
+  <td colspan=2><b>2.&#8194;因为他认识白石先生</b>
+ <tr>
+  <td colspan=2><b>1.&#8194;因为那里的人和白石先生有交情</b>
+ <tr>
+  <td colspan=2><b>2.&#8194;很寂寞</b>
+ <tr>
+  <td rowspan=6 style='text-align:center'><b>cp.3</b>
+  <td colspan=2><b>3.&#8194;摩天轮</b>
+ <tr>
+  <td rowspan=5 style='text-align:center'><b>【解密】<br>繁体中文<br>注音输入<br><font color=#d3625d>一直输错<br>→&#8194;end</font></b>  
+  <td><b>青梅竹馬<br>ㄑㄧㄥ ㄇㄟˊ ㄓㄨˊ ㄇㄚˇ</b>
+ <tr>
+  <td><b>相濡以沫<br>ㄒㄧㄤ ㄖㄨˊ ㄧˇ ㄇㄛˋ</b>
+ <tr>
+  <td><b>大庭廣眾<br>ㄉㄚˋ ㄊㄧㄥˊ ㄍㄨㄤˇ<br>ㄓㄨㄥˋ</b>
+ <tr>
+  <td><b>宮廷<br>ㄍㄨㄥ ㄊㄧㄥˊ</b>
+ <tr>
+  <td><b>箱庭<br>ㄒㄧㄤ ㄊㄧㄥˊ</b>
+ <tr>
+  <td rowspan=4 style='text-align:center'><b>cp.4</b>
+  <td colspan=2><b>2.&#8194;好幸福</b>
+ <tr>
+  <td colspan=2><b>2.&#8194;白石先生身边的人</b>
+ <tr>
+  <td colspan=2><b>1.&#8194;柳先生</b>
+ <tr>
+  <td colspan=2><b>1.&#8194;不写收件人&#8194;→&#8194;Best ED<br>通关柳爱时线后解锁Adonis篇<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>白石景之cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
+ </tr>
+</table>
+</div>
+
+<h2 id="◈-相关链接"><a href="#◈-相关链接" class="headerlink" title="◈ 相关链接"></a><p style="font-size:25px">◈ 相关链接</p></h2><p><a target="_blank" href="https://vndb.org/v21789"><img src="/img/4.相关链接图/vndb.webp" alt="点击跳转至The Visual Novel Database" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a></p>
+]]></content>
+      <categories>
+        <category>乙女向ADV攻略</category>
+      </categories>
+      <tags>
+        <tag>乙女向ADV攻略</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【攻略】世界灭亡共有幻想MAMIYA</title>
     <url>/posts/1.html</url>
     <content><![CDATA[<style>
@@ -646,222 +877,211 @@
       </tags>
   </entry>
   <entry>
-    <title>【教程】神学校 -Noli me tangere-安装教程</title>
-    <url>/posts/16.html</url>
-    <content><![CDATA[<p><b>&#12288;&#12288;安装遇到问题的话可以查看这个：</b><br><a target="_blank" href="https://www.flamecho.top/posts/27.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/27.html</span></span></span></a></p>
-<h2 id="◈-安装"><a href="#◈-安装" class="headerlink" title="◈ 安装"></a><p style="font-size:25px">◈ 安装</p></h2><img src="/img/12.神学校安装教程/1.png" alt="安装教程_神学校 -Noli me tangere-" />
-<img src="/img/12.神学校安装教程/2.png" alt="安装教程_神学校 -Noli me tangere-" />
-<img src="/img/12.神学校安装教程/3.png" alt="安装教程_神学校 -Noli me tangere-" />
-<img src="/img/12.神学校安装教程/4.png" alt="安装教程_神学校 -Noli me tangere-" />
-<b><font color=#d3625d>&#12288;&#12288;注：上一步↑找不到装载的话：右键-打开方式-Windows资源管理器，然后继续进行下一步↓</font></b>
-<img src="/img/12.神学校安装教程/5.png" alt="安装教程_神学校 -Noli me tangere-" />
-<img src="/img/12.神学校安装教程/6.png" alt="安装教程_神学校 -Noli me tangere-" />
-<img src="/img/12.神学校安装教程/7.png" alt="安装教程_神学校 -Noli me tangere-" />
-<img src="/img/12.神学校安装教程/8.png" alt="安装教程_神学校 -Noli me tangere-" />
-<b><font color=#d3625d>&#12288;&#12288;注：上一步↑找不到装载的话：右键-打开方式-Windows资源管理器，然后继续进行下一步↓</font></b>
-<img src="/img/12.神学校安装教程/9.png" alt="安装教程_神学校 -Noli me tangere-" />
-<img src="/img/12.神学校安装教程/10.png" alt="安装教程_神学校 -Noli me tangere-" />
-<img src="/img/12.神学校安装教程/11.png" alt="安装教程_神学校 -Noli me tangere-" />
-<img src="/img/12.神学校安装教程/12.png" alt="安装教程_神学校 -Noli me tangere-" />
-<img src="/img/12.神学校安装教程/13.png" alt="安装教程_神学校 -Noli me tangere-" />
-<img src="/img/12.神学校安装教程/14.png" alt="安装教程_神学校 -Noli me tangere-" />
-<img src="/img/12.神学校安装教程/15.png" alt="安装教程_神学校 -Noli me tangere-" />
-<img src="/img/12.神学校安装教程/16.png" alt="安装教程_神学校 -Noli me tangere-" />
-<img src="/img/12.神学校安装教程/17.png" alt="安装教程_神学校 -Noli me tangere-" />
-<img src="/img/12.神学校安装教程/18.png" alt="安装教程_神学校 -Noli me tangere-" />
-
-<h2 id="◈-卸载"><a href="#◈-卸载" class="headerlink" title="◈ 卸载"></a><p style="font-size:25px">◈ 卸载</p></h2><p><b>&#12288;&#12288;把文件夹删掉即可。</b></p>
-]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【攻略】Collar×Malice -Unlimited-（ns港版）</title>
-    <url>/posts/10.html</url>
+    <title>【攻略】レムレスブルーの午前２時</title>
+    <url>/posts/14.html</url>
     <content><![CDATA[<style>
 .center
 {
   display: table;
   margin-left: auto;
   margin-right: auto;
+  font-size:1vw;
+  @media screen and (max-width:2000px){font-size:15px}
+  @media screen and (max-width:768px){font-size:12px}
+  @media screen and (max-width:600px){font-size:10px}
 }
 </style>
 
-<p><a target="_blank" href="https://www.otomate.jp/collar_malice/fd/"><img src="/img/5.游戏官网/collarxmalicefd.jpg" alt="点击跳转至游戏官网" width="500" title="点击跳转至游戏官网" /></a></p>
-<h2 id="◈-故事梗概"><a href="#◈-故事梗概" class="headerlink" title="◈ 故事梗概"></a><p style="font-size:25px">◈ 故事梗概</p></h2><p style="font-size:18px">跨越恶意之后，拼凑未来的碎片。</p>
-解决了连续恶性犯罪事件——通称X-day事件后，<br>
-主人公逐渐找回原本的日常生活。<br>
-追查事件期间，她知晓了无数沉重的真相与哀痛，<br>
-然而她决定背负着一切，<br>
-与【他】携手克服困难，在本作中展开成为恋人后的生活。
+<p><a target="_blank" href="http://kenkou-land.com/lemures-blue/"><img src="/img/5.游戏官网/午前二时.jpg" alt="游戏官网banner" title="点击跳转至游戏官网" /></a></p>
+<p style='line-height:1;text-align:center'><b><font color=#435ab7>OFFICIAL WEBSITE</font></b></p>
 
-<h2 id="◈-攻略流程"><a href="#◈-攻略流程" class="headerlink" title="◈ 攻略流程"></a><p style="font-size:25px">◈ 攻略流程</p></h2><h3 id="◈-共通线"><a href="#◈-共通线" class="headerlink" title="◈ 共通线"></a><p style="font-size:22px">◈ 共通线</p></h3><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
- <col style='width:72.5pt'>
- <col style='width:217.5pt'>
- <tr rowspan=2>
-  <td colspan=2><b>2.&#8194;不能坐视不管<br><div style="color:#d3625d;">1.&#8194;不该做出引人注目的举动&#8194;→&#8194;end</div></b>
+<h2 id="◈-故事梗概"><a href="#◈-故事梗概" class="headerlink" title="◈ 故事梗概"></a><p style="font-size:25px">◈ 故事梗概</p></h2><p><b>7月の半ば、ある一人の天才が消えた。</p>
+<p>中高一貫男子校に通う中学3年生の少年アオイ。<br>午前2時に桜の木の下で出会った不思議な少年、ヒナタ。<br>二人は密会を通じ惹かれあっていくが、お互いにある思惑があって――。</p>
+<p>「――『アオイのハートを手に入れて』<br>　これがレムレス・ブルーを手に入れる唯一の方法らしい」</p>
+<p>生きてるものは不老不死に、死んでしまったものは蘇るという<br>幻の存在『レムレス・ブルー』とは</p>
+<p>消えてしまった天才、アカネの真実とは――</p>
+<p>「真夜中の午前2時、幽霊に恋をした。」</b></p>
+<h2 id="◈-攻略流程"><a href="#◈-攻略流程" class="headerlink" title="◈ 攻略流程"></a><p style="font-size:25px">◈ 攻略流程</p></h2><p><b>攻略顺序固定为サクラ、イツキ、ヒナタ＆アオイ。</b></p>
+<h3 id="◈-サクラ"><a href="#◈-サクラ" class="headerlink" title="◈ サクラ"></a><p style="font-size:22px">◈ サクラ</p></h3><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:13%'>
+ <col style='width:87%'>
+  <td rowspan=6 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter1</b>
+  <td><b>2.&#8194;なんかフツー</b>
  <tr>
-  <td rowspan=4 style='text-align:center'><b>【存档】</b>
-  <td><b>1.&#8194;调查房间<br>3.&#8194;都不是<br>1.&#8194;很久没人住了<br>【分歧】1.&#8194;抓住橘&#8194;→&#8194;榎本峰雄线<br>【分歧】2.&#8194;逃去玄关&#8194;→&#8194;柳爱时线<br><div style="color:#d3625d ;">【分歧】3.&#8194;待在原地不动&#8194;→&#8194;end</b>
+  <td><b>1.&#8194;ぼく</b>
  <tr>
-  <td><b>2.&#8194;调查房间里的电脑<br>密码：HERO&#8194;→&#8194;笹冢尊线<br><div style="color:#d3625d ;">一直输错密码&#8194;→&#8194;end<br>解密过程：英文字母第8个是H，<br>替换ZERO的Z得到HERO</div></b>
+  <td><b>2.&#8194;３人の天才</b>
  <tr>
-  <td><b>3.&#8194;委托鉴定信件<br>2.&#8194;你讨厌吃什么？<br>2.&#8194;小时候无法忘怀的回忆是什么？<br>→&#8194;白石景之线</b>
+  <td><b>3.&#8194;レムレス・ブルー</b>
  <tr>
-  <td><b>4.&#8194;去周边询问，搜集线索<br>射击模式成功&#8194;→&#8194;冈崎契线<br><div style="color:#d3625d ;">射击模式失败&#8194;→&#8194;end</div></b>
+  <td><b>2.&#8194;いらない</b>
+ <tr>
+  <td><b>2.&#8194;いらない</b>
+ <tr>
+  <td rowspan=3 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter2</b>
+  <td><b>1.&#8194;容姿を褒める&#8194;/&#8194;2.天気の話をする</b>
+ <tr>
+  <td><b>1.&#8194;ポケットをまさぐる&#8194;/&#8194;2.野花を渡す</b>
+ <tr>
+  <td><b>2.&#8194;別に構わねぇけど……</b>  
+ <tr>
+  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter3</b>
+  <td><b>1.&#8194;普段行かないような場所に行く<br><font color=#3a62a0>2.&#8194;ここに残る&#8194;→&#8194;1.頭をなでてあげる&#8194;→&#8194;CG回收<br>2.&#8194;ここに残る&#8194;→&#8194;2.いたずらする&#8194;→&#8194;CG回收<br>3.&#8194;やっぱり桜の木の元へ行く&#8194;→&#8194;CG回收</font></b>
+ <tr>
+  <td><b>1.&#8194;心残りがあるから</b>
+ <tr>
+  <td rowspan=4 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter4</b>
+  <td><b>2.&#8194;アイドル</b>
+ <tr>
+  <td><b>2.&#8194;アオイ</b>
+ <tr>
+  <td><b>1.&#8194;本人から情報を聞き出す</b>
+ <tr>
+  <td><b>2.&#8194;アオイ</b>
+ <tr>
+  <td rowspan=3 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter5</b>
+  <td><b>[调查]右侧书架从上往下第二层</b>
+ <tr>
+  <td><b>[输入]154</b>
+ <tr>
+  <td><b>[调查]右侧窗户</b>
+ <tr>
+  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter7</b>
+  <td><b>2.&#8194;無視する</b>
+ <tr>
+  <td><b>2.&#8194;だめじゃない</b>
+ <tr>
+  <td rowspan=3 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter8</b>
+  <td><b>2.&#8194;音楽室</b>
+ <tr>
+  <td><b>2.&#8194;殴りこみに行く</b>
+ <tr>
+  <td><b>アオイの一線を越える</b>
+ <tr>
+  <td rowspan=4 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter9</b>
+  <td><b>1.&#8194;だから……<br><font color=#3a62a0>2.&#8194;だけど……&#8194;→&#8194;END2.&#8194;underground yggdrasil</font></b>
+ <tr>
+  <td><b>2.&#8194;時間がほしい<br><font color=#3a62a0>1.&#8194;認められない&#8194;→&#8194;END4.&#8194;ミッドナイト・ブルー</font></b>
+ <tr>
+  <td><b>2.&#8194;大切な人<br><font color=#3a62a0>1.&#8194;大事な後輩&#8194;→&#8194;END1.&#8194;成れの果て</font></b>
+ <tr>
+  <td><b>1.&#8194;開ける<br><font color=#3a62a0>2.&#8194;開けられない&#8194;→&#8194;END3.&#8194;美しい風</font></b>
+ <tr>
+  <td colspan=2 bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>TRUE END.&#8194;いとしのあおいひと</font></b>
  </tr>
 </table>
 </div>
 
-<h3 id="◈-柳-爱时"><a href="#◈-柳-爱时" class="headerlink" title="◈ 柳 爱时"></a><p style="font-size:22px">◈ 柳 爱时</p></h3><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
- <col style='width:72.5pt'>
- <col style='width:217.5pt'>
-  <td rowspan=1 style='text-align:center'><b>cp.1</b>
-  <td><b>2.&#8194;我最喜欢你了！</b>
+<h3 id="◈-イツキ"><a href="#◈-イツキ" class="headerlink" title="◈ イツキ"></a><p style="font-size:22px">◈ イツキ</p></h3><p><b>从start&#8194;-&#8194;Chapter4开始。</b></p>
+<div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:13%'>
+ <col style='width:87%'>
+  <td rowspan=4 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter4</b>
+  <td><b>2.&#8194;アイドル</b>
  <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.2</b>
-  <td><b>1.&#8194;请多对我撒娇一些</b>
+  <td><b>2.&#8194;アオイ</b>
  <tr>
-  <td><b>1.&#8194;我不这么认为</b>
+  <td><b>1.&#8194;本人から情報を聞き出す</b>
  <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.3</b>
-  <td><b>2.&#8194;对，还不够</b>
+  <td><b>2.&#8194;アオイ</b>
  <tr>
-  <td><b>1.&#8194;我想和你吵架</b>
+  <td rowspan=7 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter6</b>
+  <td><b>2.&#8194;公園に行こう！</b>
  <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.4</b>
-  <td><b>2.&#8194;到时请来参加婚礼</b>
+  <td><b>2.（下面的）…………<br><font color=#3a62a0>1.（上面的）…………&#8194;×3&#8194;→&#8194;END1.&#8194;彼者誰の鳥</font></b>
  <tr>
-  <td><b>1.&#8194;去见他&#8194;→&#8194;Best ED<br>通关白石景之线后解锁Adonis篇<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>柳爱时cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
+  <td><b>1.（上面的）…………</b>  
+ <tr>
+  <td><b>2.（下面的）…………</b>
+ <tr>
+  <td><b>2.&#8194;はやく行こう<br><font color=#3a62a0>1.&#8194;入りたい？&#8194;→&#8194;1.&#8194;アオイ、一人にしてくれる？&#8194;→&#8194;END2.&#8194;Asymmetry Scapegoat<br>1.&#8194;入りたい？&#8194;→&#8194;2.&#8194;ほっといてよアカネ&#8194;→&#8194;END4.&#8194;GHOST BLUE</font></b>
+ <tr>
+  <td><b>1.&#8194;屋上だった<br><font color=#3a62a0>2.&#8194;プールだった&#8194;→&#8194;END3.&#8194;たそがれの天使</font></b>
+ <tr>
+  <td><b>1.&#8194;ベッドに腰掛けた</b>
+ <tr>
+  <td colspan=2 bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>TRUE END.&#8194;スーパースター</font></b>
  </tr>
 </table>
 </div>
 
-<h3 id="◈-冈崎-契"><a href="#◈-冈崎-契" class="headerlink" title="◈ 冈崎 契"></a><p style="font-size:22px">◈ 冈崎 契</p></h3><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
- <col style='width:72.5pt'>
- <col style='width:217.5pt'>
-  <td rowspan=2 style='text-align:center'><b>cp.1</b>
-  <td><b>2.&#8194;笑容很温柔</b>
+<h3 id="◈-ヒナタ＆アオイ"><a href="#◈-ヒナタ＆アオイ" class="headerlink" title="◈ ヒナタ＆アオイ"></a><p style="font-size:22px">◈ ヒナタ＆アオイ</p></h3><p><b>从start&#8194;-&#8194;Chapter10开始。<br>通关后记得在EXTRA&#8194;-&#8194;Epilogue游玩后日谈。</b></p>
+<div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:13%'>
+ <col style='width:29%'>
+ <col style='width:29%'>
+ <col style='width:29%'>
+  <td rowspan=11 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter10</b>
+  <td colspan=2><b>2.&#8194;好きにしていいんだよ？</b>
+  <td><b><font color=#d3625d>1.&#8194;……そっか</font></b>
  <tr>
-  <td><b>2.&#8194;我只会对冈崎先生心跳加速</b>
+  <td colspan=2><b>[调查]図書室</b>
+  <td><b><font color=#d3625d>[调查]図書室</font></b>
  <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.2</b>
-  <td><b>1.&#8194;会生气</b>
+  <td colspan=2><b>2.&#8194;中央</b>
+  <td><b><font color=#d3625d>2.&#8194;中央</font></b>
  <tr>
-  <td><b>2.&#8194;我很高兴</b>
+  <td colspan=2><b>[调查]体育館</b>
+  <td><b><font color=#d3625d>[调查]体育館</font></b>
  <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.3</b>
-  <td><b>1.&#8194;就算不理解，我也喜欢你</b>
+  <td colspan=2><b>[调查]サクラの部屋</b>
+  <td><b><font color=#d3625d>[调查]サクラの部屋</font></b>
  <tr>
-  <td><b>2.&#8194;把你的后半生交给我吧</b>
+  <td><b>[调查]ぼくの農園</b>
+  <td><b><font color=#008b8b>[调查]家庭科室</font></b>
+  <td><b><font color=#d3625d>[调查]ぼくの農園</font></b>
  <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.4</b>
-  <td><b>1.&#8194;传贴图&#8194;→&#8194;Best ED<br>解锁Side Story Crossroad(吉成秀明)<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>冈崎契cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
+  <td><b>[调查]桜の木</b>
+  <td><b><font color=#008b8b>1.&#8194;準備オッケー！</font></b>
+  <td><b><font color=#d3625d>[调查]桜の木</font></b>
+ <tr>
+  <td><b>[调查]イツキの部屋</b>
+  <td style='text-align:center'><b><font color=#008b8b>---</font></b>
+  <td><b><font color=#d3625d>[调查]イツキの部屋</font></b>
+ <tr>
+  <td><b>2.&#8194;小麦粉</b>
+  <td style='text-align:center'><b><font color=#008b8b>---</font></b>
+  <td><b><font color=#d3625d>2.&#8194;小麦粉</font></b>
+ <tr>
+  <td><b>[调查]イツキの部屋</b>
+  <td style='text-align:center'><b><font color=#008b8b>---</font></b>
+  <td><b><font color=#d3625d>[调查]イツキの部屋</font></b>
+ <tr>
+  <td><b>3.&#8194;鶏肉</b>
+  <td style='text-align:center'><b><font color=#008b8b>---</font></b>
+  <td><b><font color=#d3625d>3.&#8194;鶏肉</font></b>
+ <tr>
+  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter11</b>
+  <td><b>1.&#8194;優しく手を握った</b>
+  <td><b><font color=#008b8b>1.&#8194;優しく手を握った</font></b>
+  <td><b><font color=#d3625d>2.&#8194;声を掛け続けた</font></b>
+ <tr>
+  <td><b>1.立ち上がる<br><font color=#3a62a0>2.&#8194;うずくまる<br>→&#8194;END1.PERFECT DYSTOPIA</font></b>
+  <td><b><font color=#008b8b>1.&#8194;立ち上がる<br>→&#8194;END3.&#8194;MALICIOUS</font></b>
+  <td><b><font color=#d3625d>1.&#8194;立ち上がる<br>→&#8194;END4.&#8194;lost blue</font></b>
+ <tr>
+  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter12</b>
+  <td colspan=3><b>1.&#8194;愛してる</b>
+ <tr>
+  <td colspan=3><b>2.&#8194;入らない<br><font color=#3a62a0>1.&#8194;入る&#8194;→&#8194;END2.&#8194;Freeze drown</font></b>
+ <tr>
+  <td colspan=4 bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>TRUE END.&#8194;レムレスブルーの午前２時</font></b>
  </tr>
 </table>
 </div>
 
-<h3 id="◈-榎本-峰雄"><a href="#◈-榎本-峰雄" class="headerlink" title="◈ 榎本 峰雄"></a><p style="font-size:22px">◈ 榎本 峰雄</p></h3><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
- <col style='width:72.5pt'>
- <col style='width:217.5pt'>
-  <td rowspan=2 style='text-align:center'><b>cp.1</b>
-  <td><b>2.&#8194;向峰雄先生发出SOS！</b>
- <tr>
-  <td><b>1.&#8194;走到峰雄先生身边</b>
- <tr>
-  <td rowspan=1 style='text-align:center'><b>cp.2</b>
-  <td><b>1.&#8194;原地等待</b>
- <tr>
-  <td rowspan=1 style='text-align:center'><b>cp.3</b>
-  <td><b>1.&#8194;我不觉得</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.4</b>
-  <td><b>1.&#8194;你想喝味增汤吗？</b>
- <tr>
-  <td><b>2.&#8194;有趣的地方&#8194;→&#8194;Best ED<br>解锁Side Story ONWARD(星野香月)<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>榎本峰雄cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
- </tr>
-</table>
-</div>
-
-<h3 id="◈-笹冢-尊"><a href="#◈-笹冢-尊" class="headerlink" title="◈ 笹冢 尊"></a><p style="font-size:22px">◈ 笹冢 尊</p></h3><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
- <col style='width:72.5pt'>
- <col style='width:217.5pt'>
-  <td rowspan=1 style='text-align:center'><b>cp.1</b>
-  <td><b>2.&#8194;尊先生？</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.2</b>
-  <td><b>1.&#8194;可靠</b>
- <tr>
-  <td><b>2.&#8194;我等着你</b>
- <tr>
-  <td rowspan=1 style='text-align:center'><b>cp.3</b>
-  <td><b>1.&#8194;笹冢先生是我的</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.4</b>
-  <td><b>1.&#8194;brother...？&#8194;→&#8194;Best ED<br>解锁Side Story Pride(峰岸诚司)<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>笹冢尊cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
- </tr>
-</table>
-</div>
-
-<h3 id="◈-白石-景之"><a href="#◈-白石-景之" class="headerlink" title="◈ 白石 景之"></a><p style="font-size:22px">◈ 白石 景之</p></h3><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
- <col style='width:72.5pt'>
- <col style='width:72.5pt'>
- <col style='width:145pt'>
-  <td rowspan=1 style='text-align:center'><b>cp.1</b>
-  <td colspan=2><b>2.&#8194;不敢看他</b>
- <tr>
-  <td rowspan=4 style='text-align:center'><b>cp.2</b>
-  <td colspan=2><b>1.&#8194;有非他不可的理由</b>
- <tr>
-  <td colspan=2><b>2.&#8194;因为他认识白石先生</b>
- <tr>
-  <td colspan=2><b>1.&#8194;因为那里的人和白石先生有交情</b>
- <tr>
-  <td colspan=2><b>2.&#8194;很寂寞</b>
- <tr>
-  <td rowspan=6 style='text-align:center'><b>cp.3</b>
-  <td colspan=2><b>3.&#8194;摩天轮</b>
- <tr>
-  <td rowspan=5 style='text-align:center'><b>【解密】<br>繁体中文<br>注音输入<br><font color=#d3625d>一直输错<br>→&#8194;end</font></b>  
-  <td><b>青梅竹馬<br>ㄑㄧㄥ ㄇㄟˊ ㄓㄨˊ ㄇㄚˇ</b>
- <tr>
-  <td><b>相濡以沫<br>ㄒㄧㄤ ㄖㄨˊ ㄧˇ ㄇㄛˋ</b>
- <tr>
-  <td><b>大庭廣眾<br>ㄉㄚˋ ㄊㄧㄥˊ ㄍㄨㄤˇ<br>ㄓㄨㄥˋ</b>
- <tr>
-  <td><b>宮廷<br>ㄍㄨㄥ ㄊㄧㄥˊ</b>
- <tr>
-  <td><b>箱庭<br>ㄒㄧㄤ ㄊㄧㄥˊ</b>
- <tr>
-  <td rowspan=4 style='text-align:center'><b>cp.4</b>
-  <td colspan=2><b>2.&#8194;好幸福</b>
- <tr>
-  <td colspan=2><b>2.&#8194;白石先生身边的人</b>
- <tr>
-  <td colspan=2><b>1.&#8194;柳先生</b>
- <tr>
-  <td colspan=2><b>1.&#8194;不写收件人&#8194;→&#8194;Best ED<br>通关柳爱时线后解锁Adonis篇<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>白石景之cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
- </tr>
-</table>
-</div>
-
-<h2 id="◈-相关链接"><a href="#◈-相关链接" class="headerlink" title="◈ 相关链接"></a><p style="font-size:25px">◈ 相关链接</p></h2><p><a target="_blank" href="https://vndb.org/v21789"><img src="/img/4.相关链接图/vndb.webp" alt="点击跳转至The Visual Novel Database" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a></p>
+<h2 id="◈-相关链接"><a href="#◈-相关链接" class="headerlink" title="◈ 相关链接"></a><p style="font-size:25px">◈ 相关链接</p></h2><p><a target="_blank" href="https://www.freem.ne.jp/win/game/7849"><img src="/img/4.相关链接图/freem.webp" alt="freem的logo" title="点击跳转至Freem!游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v19818"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
 ]]></content>
       <categories>
-        <category>乙女向ADV攻略</category>
+        <category>蔷薇向ADV攻略</category>
       </categories>
       <tags>
-        <tag>乙女向ADV攻略</tag>
+        <tag>蔷薇向ADV攻略</tag>
       </tags>
   </entry>
   <entry>
@@ -1304,260 +1524,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【教程】LunaTranslator配置及使用方法</title>
-    <url>/posts/11.html</url>
-    <content><![CDATA[<h2 id="◈-LunaTranslator是什么？"><a href="#◈-LunaTranslator是什么？" class="headerlink" title="◈ LunaTranslator是什么？"></a><p style="font-size:21px">◈ LunaTranslator是什么？</p></h2><p>LunaTranslator是一款Galgame翻译工具，支持剪贴板、OCR、HOOK，支持40余种翻译引擎。<br>简单来说，它可以提取游戏文本并生成一个翻译窗口，帮助你游玩非中文的游戏（啃生肉）。<br>项目主页：<a href="https://github.com/HIllya51/LunaTranslator">点击跳转至github</a><br>最新版本：<a href="https://github.com/HIllya51/LunaTranslator/releases">点击LunaTranslator.zip下载</a><br>备用下载链接：<a href="https://www.mediafire.com/file/9scndgit2joo9w5/LunaTranslator.zip/file">Mediafire</a></p>
-<h2 id="◈-启动"><a href="#◈-启动" class="headerlink" title="◈ 启动"></a><p style="font-size:21px">◈ 启动</p></h2><p>下载并解压”LunaTranslator.zip”，双击”LunaTranslator.exe”启动。<br></p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/1.png" alt="翻译器启动程序图" title="双击第一个即可。第二个是管理员模式。" /></div>
-
-<h2 id="◈-设置"><a href="#◈-设置" class="headerlink" title="◈ 设置"></a><p style="font-size:21px">◈ 设置</p></h2><p>点击从左往右第三个（小齿轮）进入设置。<br></p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/2513bae783f4c2f2f.png" alt="翻译窗口图" title="翻译窗口" /></div>
-在翻译前先对软件进行如下设置：
-
-<h3 id="◈-翻译设置"><a href="#◈-翻译设置" class="headerlink" title="◈ 翻译设置"></a><p style="font-size:19px">◈ 翻译设置</p></h3><div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/3.png" alt="翻译设置图" title="翻译设置" /></div>
-上图是我的设置。该设置作用于<b><font color=#d3625d>HOOK翻译</font></b>，OCR设置在<b><font color=#d3625d>[文本输入]</font></b>。<br>
-玩英文游戏建议提高<b><font color=#d3625d>[最长翻译字数]</font></b>，我的经验是特殊情况1000不够，保险设为2000。<br>
-<b><font color=#d3625d>[翻译请求间隔]</font></b>设为0或保持不变皆可。<br>
-<b><font color=#d3625d>[均衡负载]</font></b>打开，<b><font color=#d3625d>[单次负载个数]</font></b>设为你想同时出现的翻译个数。<br>
-底下是翻译源，想用就<b><font color=#d3625d>[打钩]</font></b>，后面<b><font color=#d3625d>[画笔]</font></b>选字体颜色。翻译源可以选多个，反应越快越在上面。<br>
-<b><font color=#d3625d>[注册在线翻译]</font></b>需要调用API，点击右侧小齿轮中的链接自行获取APPID和KEY，填入即可。
-
-<h3 id="◈-显示设置"><a href="#◈-显示设置" class="headerlink" title="◈ 显示设置"></a><p style="font-size:19px">◈ 显示设置</p></h3><p>按照需求修改。保持默认也可以。</p>
-<h3 id="◈-文本处理"><a href="#◈-文本处理" class="headerlink" title="◈ 文本处理"></a><p style="font-size:19px">◈ 文本处理</p></h3><p><b><font color=#d3625d>[文本预处理]</font></b>建议如下图设置，其他选项遇到特殊情况时再按需设置。<br>读取的文本缺字的话把去除重复字符&#x2F;行看情况关掉。<br></p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/4.png" alt="文本处理图" title="文本处理" /></div>
-在<b><font color=#d3625d>[使用专有名词翻译]</font></b>中对游戏内的专有名词（人名、地名等）进行手动收录，在之后的翻译中将进行替换。<br>
-在打开游戏的情况下点击<b><font color=#d3625d>[使用专有名词翻译]</font></b>右侧的小齿轮，点击<b><font color=#d3625d>[添加行]</font></b>，然后在<b><font color=#d3625d>[日文]</font></b>一栏输入原文，在<b><font color=#d3625d>[翻译]</font></b>一栏输入想要替换的词，完成后右上角点X退出即可。<br>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/5.png" alt="专有名词翻译设置图" title="专有名词翻译设置" /></div>
-如图所示，即在翻译时该游戏中的所有“トワ”都将翻译为“Towa”。
-
-<h3 id="◈-语言设置"><a href="#◈-语言设置" class="headerlink" title="◈ 语言设置"></a><p style="font-size:19px">◈ 语言设置</p></h3><p>开始翻译前记得确认<b><font color=#d3625d>[源语言]</font></b>是否与游戏相对应。</p>
-<h3 id="◈-文本输入"><a href="#◈-文本输入" class="headerlink" title="◈ 文本输入"></a><p style="font-size:19px">◈ 文本输入</p></h3><h4 id="◈-HOOK翻译"><a href="#◈-HOOK翻译" class="headerlink" title="◈ HOOK翻译"></a><p style="font-size:17px">◈ HOOK翻译</p></h4><p>1.在<b><font color=#d3625d>[选择文本输入源]</font></b>下的<b><font color=#d3625d>[HOOK]</font></b>后打钩。<br>2.点击<b><font color=#d3625d>[HOOK设置]</font></b>-<b><font color=#d3625d>[选择游戏]</font></b>右侧的小齿轮，选择游戏进程，点击<b><font color=#d3625d>[OK]</font></b>。<br>3.点击几下游戏，使游戏内文本刷新。<br>4.如下图所示，在正确的行前打钩，然后点击右上角X关闭。</p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/6.png" alt="Hook翻译界面" title="HOOK翻译" /></div>
-5.调出翻译窗口，可能在电脑右下角任务栏里，点击图标即可。<br>
-6.此时翻译器应当可以正常工作，点击游戏等待翻译即可。
-
-<h4 id="◈-OCR翻译"><a href="#◈-OCR翻译" class="headerlink" title="◈ OCR翻译"></a><p style="font-size:17px">◈ OCR翻译</p></h4><p>1.在<b><font color=#d3625d>[选择文本输入源]</font></b>下的<b><font color=#d3625d>[OCR]</font></b>后打钩。<br>2.<b><font color=#d3625d> [OCR设置]</font></b>下按需调整，<b><font color=#d3625d>[执行周期]</font></b>指每几秒进行一次截图翻译，我设置为1.0，即每秒进行一次翻译。<br>3.调出翻译窗口，可能在电脑右下角任务栏里，点击图标即可。</p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/7.png" alt="OCR翻译界面" title="OCR翻译" /></div>
-4.点击翻译窗口中的<b><font color=#d3625d>[选取OCR范围]</font></b>，框选想要截图翻译的文本区域。<br>
-5.点击翻译窗口中的<b><font color=#d3625d>[显示/隐藏文本框]</font></b>。（为了不挡画面）<br>
-6.此时翻译器应当可以正常工作，点击游戏等待翻译即可。
-]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【攻略】レムレスブルーの午前２時</title>
-    <url>/posts/14.html</url>
-    <content><![CDATA[<style>
-.center
-{
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-  font-size:1vw;
-  @media screen and (max-width:2000px){font-size:15px}
-  @media screen and (max-width:768px){font-size:12px}
-  @media screen and (max-width:600px){font-size:10px}
-}
-</style>
-
-<p><a target="_blank" href="http://kenkou-land.com/lemures-blue/"><img src="/img/5.游戏官网/午前二时.jpg" alt="游戏官网banner" title="点击跳转至游戏官网" /></a></p>
-<p style='line-height:1;text-align:center'><b><font color=#435ab7>OFFICIAL WEBSITE</font></b></p>
-
-<h2 id="◈-故事梗概"><a href="#◈-故事梗概" class="headerlink" title="◈ 故事梗概"></a><p style="font-size:25px">◈ 故事梗概</p></h2><p><b>7月の半ば、ある一人の天才が消えた。</p>
-<p>中高一貫男子校に通う中学3年生の少年アオイ。<br>午前2時に桜の木の下で出会った不思議な少年、ヒナタ。<br>二人は密会を通じ惹かれあっていくが、お互いにある思惑があって――。</p>
-<p>「――『アオイのハートを手に入れて』<br>　これがレムレス・ブルーを手に入れる唯一の方法らしい」</p>
-<p>生きてるものは不老不死に、死んでしまったものは蘇るという<br>幻の存在『レムレス・ブルー』とは</p>
-<p>消えてしまった天才、アカネの真実とは――</p>
-<p>「真夜中の午前2時、幽霊に恋をした。」</b></p>
-<h2 id="◈-攻略流程"><a href="#◈-攻略流程" class="headerlink" title="◈ 攻略流程"></a><p style="font-size:25px">◈ 攻略流程</p></h2><p><b>攻略顺序固定为サクラ、イツキ、ヒナタ＆アオイ。</b></p>
-<h3 id="◈-サクラ"><a href="#◈-サクラ" class="headerlink" title="◈ サクラ"></a><p style="font-size:22px">◈ サクラ</p></h3><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:13%'>
- <col style='width:87%'>
-  <td rowspan=6 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter1</b>
-  <td><b>2.&#8194;なんかフツー</b>
- <tr>
-  <td><b>1.&#8194;ぼく</b>
- <tr>
-  <td><b>2.&#8194;３人の天才</b>
- <tr>
-  <td><b>3.&#8194;レムレス・ブルー</b>
- <tr>
-  <td><b>2.&#8194;いらない</b>
- <tr>
-  <td><b>2.&#8194;いらない</b>
- <tr>
-  <td rowspan=3 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter2</b>
-  <td><b>1.&#8194;容姿を褒める&#8194;/&#8194;2.天気の話をする</b>
- <tr>
-  <td><b>1.&#8194;ポケットをまさぐる&#8194;/&#8194;2.野花を渡す</b>
- <tr>
-  <td><b>2.&#8194;別に構わねぇけど……</b>  
- <tr>
-  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter3</b>
-  <td><b>1.&#8194;普段行かないような場所に行く<br><font color=#3a62a0>2.&#8194;ここに残る&#8194;→&#8194;1.頭をなでてあげる&#8194;→&#8194;CG回收<br>2.&#8194;ここに残る&#8194;→&#8194;2.いたずらする&#8194;→&#8194;CG回收<br>3.&#8194;やっぱり桜の木の元へ行く&#8194;→&#8194;CG回收</font></b>
- <tr>
-  <td><b>1.&#8194;心残りがあるから</b>
- <tr>
-  <td rowspan=4 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter4</b>
-  <td><b>2.&#8194;アイドル</b>
- <tr>
-  <td><b>2.&#8194;アオイ</b>
- <tr>
-  <td><b>1.&#8194;本人から情報を聞き出す</b>
- <tr>
-  <td><b>2.&#8194;アオイ</b>
- <tr>
-  <td rowspan=3 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter5</b>
-  <td><b>[调查]右侧书架从上往下第二层</b>
- <tr>
-  <td><b>[输入]154</b>
- <tr>
-  <td><b>[调查]右侧窗户</b>
- <tr>
-  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter7</b>
-  <td><b>2.&#8194;無視する</b>
- <tr>
-  <td><b>2.&#8194;だめじゃない</b>
- <tr>
-  <td rowspan=3 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter8</b>
-  <td><b>2.&#8194;音楽室</b>
- <tr>
-  <td><b>2.&#8194;殴りこみに行く</b>
- <tr>
-  <td><b>アオイの一線を越える</b>
- <tr>
-  <td rowspan=4 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter9</b>
-  <td><b>1.&#8194;だから……<br><font color=#3a62a0>2.&#8194;だけど……&#8194;→&#8194;END2.&#8194;underground yggdrasil</font></b>
- <tr>
-  <td><b>2.&#8194;時間がほしい<br><font color=#3a62a0>1.&#8194;認められない&#8194;→&#8194;END4.&#8194;ミッドナイト・ブルー</font></b>
- <tr>
-  <td><b>2.&#8194;大切な人<br><font color=#3a62a0>1.&#8194;大事な後輩&#8194;→&#8194;END1.&#8194;成れの果て</font></b>
- <tr>
-  <td><b>1.&#8194;開ける<br><font color=#3a62a0>2.&#8194;開けられない&#8194;→&#8194;END3.&#8194;美しい風</font></b>
- <tr>
-  <td colspan=2 bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>TRUE END.&#8194;いとしのあおいひと</font></b>
- </tr>
-</table>
-</div>
-
-<h3 id="◈-イツキ"><a href="#◈-イツキ" class="headerlink" title="◈ イツキ"></a><p style="font-size:22px">◈ イツキ</p></h3><p><b>从start&#8194;-&#8194;Chapter4开始。</b></p>
-<div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:13%'>
- <col style='width:87%'>
-  <td rowspan=4 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter4</b>
-  <td><b>2.&#8194;アイドル</b>
- <tr>
-  <td><b>2.&#8194;アオイ</b>
- <tr>
-  <td><b>1.&#8194;本人から情報を聞き出す</b>
- <tr>
-  <td><b>2.&#8194;アオイ</b>
- <tr>
-  <td rowspan=7 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter6</b>
-  <td><b>2.&#8194;公園に行こう！</b>
- <tr>
-  <td><b>2.（下面的）…………<br><font color=#3a62a0>1.（上面的）…………&#8194;×3&#8194;→&#8194;END1.&#8194;彼者誰の鳥</font></b>
- <tr>
-  <td><b>1.（上面的）…………</b>  
- <tr>
-  <td><b>2.（下面的）…………</b>
- <tr>
-  <td><b>2.&#8194;はやく行こう<br><font color=#3a62a0>1.&#8194;入りたい？&#8194;→&#8194;1.&#8194;アオイ、一人にしてくれる？&#8194;→&#8194;END2.&#8194;Asymmetry Scapegoat<br>1.&#8194;入りたい？&#8194;→&#8194;2.&#8194;ほっといてよアカネ&#8194;→&#8194;END4.&#8194;GHOST BLUE</font></b>
- <tr>
-  <td><b>1.&#8194;屋上だった<br><font color=#3a62a0>2.&#8194;プールだった&#8194;→&#8194;END3.&#8194;たそがれの天使</font></b>
- <tr>
-  <td><b>1.&#8194;ベッドに腰掛けた</b>
- <tr>
-  <td colspan=2 bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>TRUE END.&#8194;スーパースター</font></b>
- </tr>
-</table>
-</div>
-
-<h3 id="◈-ヒナタ＆アオイ"><a href="#◈-ヒナタ＆アオイ" class="headerlink" title="◈ ヒナタ＆アオイ"></a><p style="font-size:22px">◈ ヒナタ＆アオイ</p></h3><p><b>从start&#8194;-&#8194;Chapter10开始。<br>通关后记得在EXTRA&#8194;-&#8194;Epilogue游玩后日谈。</b></p>
-<div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:13%'>
- <col style='width:29%'>
- <col style='width:29%'>
- <col style='width:29%'>
-  <td rowspan=11 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter10</b>
-  <td colspan=2><b>2.&#8194;好きにしていいんだよ？</b>
-  <td><b><font color=#d3625d>1.&#8194;……そっか</font></b>
- <tr>
-  <td colspan=2><b>[调查]図書室</b>
-  <td><b><font color=#d3625d>[调查]図書室</font></b>
- <tr>
-  <td colspan=2><b>2.&#8194;中央</b>
-  <td><b><font color=#d3625d>2.&#8194;中央</font></b>
- <tr>
-  <td colspan=2><b>[调查]体育館</b>
-  <td><b><font color=#d3625d>[调查]体育館</font></b>
- <tr>
-  <td colspan=2><b>[调查]サクラの部屋</b>
-  <td><b><font color=#d3625d>[调查]サクラの部屋</font></b>
- <tr>
-  <td><b>[调查]ぼくの農園</b>
-  <td><b><font color=#008b8b>[调查]家庭科室</font></b>
-  <td><b><font color=#d3625d>[调查]ぼくの農園</font></b>
- <tr>
-  <td><b>[调查]桜の木</b>
-  <td><b><font color=#008b8b>1.&#8194;準備オッケー！</font></b>
-  <td><b><font color=#d3625d>[调查]桜の木</font></b>
- <tr>
-  <td><b>[调查]イツキの部屋</b>
-  <td style='text-align:center'><b><font color=#008b8b>---</font></b>
-  <td><b><font color=#d3625d>[调查]イツキの部屋</font></b>
- <tr>
-  <td><b>2.&#8194;小麦粉</b>
-  <td style='text-align:center'><b><font color=#008b8b>---</font></b>
-  <td><b><font color=#d3625d>2.&#8194;小麦粉</font></b>
- <tr>
-  <td><b>[调查]イツキの部屋</b>
-  <td style='text-align:center'><b><font color=#008b8b>---</font></b>
-  <td><b><font color=#d3625d>[调查]イツキの部屋</font></b>
- <tr>
-  <td><b>3.&#8194;鶏肉</b>
-  <td style='text-align:center'><b><font color=#008b8b>---</font></b>
-  <td><b><font color=#d3625d>3.&#8194;鶏肉</font></b>
- <tr>
-  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter11</b>
-  <td><b>1.&#8194;優しく手を握った</b>
-  <td><b><font color=#008b8b>1.&#8194;優しく手を握った</font></b>
-  <td><b><font color=#d3625d>2.&#8194;声を掛け続けた</font></b>
- <tr>
-  <td><b>1.立ち上がる<br><font color=#3a62a0>2.&#8194;うずくまる<br>→&#8194;END1.PERFECT DYSTOPIA</font></b>
-  <td><b><font color=#008b8b>1.&#8194;立ち上がる<br>→&#8194;END3.&#8194;MALICIOUS</font></b>
-  <td><b><font color=#d3625d>1.&#8194;立ち上がる<br>→&#8194;END4.&#8194;lost blue</font></b>
- <tr>
-  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter12</b>
-  <td colspan=3><b>1.&#8194;愛してる</b>
- <tr>
-  <td colspan=3><b>2.&#8194;入らない<br><font color=#3a62a0>1.&#8194;入る&#8194;→&#8194;END2.&#8194;Freeze drown</font></b>
- <tr>
-  <td colspan=4 bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>TRUE END.&#8194;レムレスブルーの午前２時</font></b>
- </tr>
-</table>
-</div>
-
-<h2 id="◈-相关链接"><a href="#◈-相关链接" class="headerlink" title="◈ 相关链接"></a><p style="font-size:25px">◈ 相关链接</p></h2><p><a target="_blank" href="https://www.freem.ne.jp/win/game/7849"><img src="/img/4.相关链接图/freem.webp" alt="freem的logo" title="点击跳转至Freem!游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v19818"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
-]]></content>
-      <categories>
-        <category>蔷薇向ADV攻略</category>
-      </categories>
-      <tags>
-        <tag>蔷薇向ADV攻略</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【教程】Luckydog1+badegg安装教程</title>
     <url>/posts/17.html</url>
     <content><![CDATA[<p><b>&#12288;&#12288;安装遇到问题的话可以查看这个：</b><br><a target="_blank" href="https://www.flamecho.top/posts/27.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/27.html</span></span></span></a></p>
@@ -1589,22 +1555,76 @@
       </tags>
   </entry>
   <entry>
-    <title>【攻略】ソレノナ &amp; ソレノナ -And to End-</title>
-    <url>/posts/2.html</url>
-    <content><![CDATA[<h2 id="◈-ソレノナ"><a href="#◈-ソレノナ" class="headerlink" title="◈ ソレノナ"></a><p style="font-size:30px">◈ ソレノナ</p></h2><h3 id="◈-故事梗概-STORYLINE"><a href="#◈-故事梗概-STORYLINE" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:20px">◈ 故事梗概 &#x2F; STORYLINE</p></h3><p>「一本の線が繋がった時、現実は夢を見せる。」<br><br>夏休みも一週間前に控えた夏。<br>主人公、『藤澤慶介（ふじさわけいすけ）』は変わらぬ日常を過ごしていた。<br>風と日差しの屋上、そこには彼の特等席があった。<br><br>いつものように屋上へ出向いたある日。<br>彼は一人の男子生徒と出会う。<br>そこで、慶介は落とした覚えの無い生徒手帳を受け取ることとなる。<br><br><br>彼は知らなかった。<br>自分を取り巻く現実が、既に歪んでいる事を。<br>夢とも願望とも言い切れない、矛盾して曖昧な境界線に自分が立っている事を。<br><br>まだ気付く事のない「其れの名」を。</p>
-<h3 id="◈-攻略-WALKTHROUGH"><a href="#◈-攻略-WALKTHROUGH" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:20px">◈ 攻略 &#x2F; WALKTHROUGH</p></h3><p>“1”表示第1个选项，”2”表示第2个选项，以此类推。</p>
-<h4 id="◈-小野寺-真人"><a href="#◈-小野寺-真人" class="headerlink" title="◈ 小野寺 真人"></a><p style="font-size:17px">◈ 小野寺 真人</p></h4><p>1.&#8194;来ると思う<br>2.&#8194;屋上へ行く<br>1.&#8194;構わない<br>2.&#8194;屋上へ行く<br>2.&#8194;F組&#8194;&#x2F;&#8194;3.&#8194;C組&#8194;&#x2F;&#8194;4.&#8194;図書室&#8195;◆ 选择”屋上”通往<b>PIG END</b>；选择”明日は来ない”通往<b>BAD END 2</b><br>1.&#8194;悪くない<br>1.&#8194;わかった&#8195;◆ 选择”いつもの冗談だろ？”通往<b>BAD END 2</b><br>2.&#8194;信じない&#8195;◆ 选择”信じる”通往<b>BAD END 1</b><br><b>GOOD END</b></p>
-<h4 id="◈-坂下-荘矢"><a href="#◈-坂下-荘矢" class="headerlink" title="◈ 坂下 荘矢"></a><p style="font-size:17px">◈ 坂下 荘矢</p></h4><p>2.&#8194;わからない<br>1.&#8194;2ーCへいく<br>1.&#8194;2ーCへいく<br>1.&#8194;一緒にやる<br>2.&#8194;荘矢を追いかけた<br>1.&#8194;別に構わない&#8195;◆ 选择”ちょっときつい”通往<b>BAD END 2</b><br>2.&#8194;もう少し此処にいる&#8195;◆ 选择”図書室に戻る”通往<b>BAD END 1</b><br><b>GOOD END</b></p>
-<h4 id="◈-花村-園香"><a href="#◈-花村-園香" class="headerlink" title="◈ 花村 園香"></a><p style="font-size:17px">◈ 花村 園香</p></h4><p>1.&#8194;来ると思う&#8194;&#x2F;&#8194;2.&#8194;わからない<br>3.&#8194;花村に声をかける<br>1.&#8194;花村は参加するのか？&#x2F;&#8194;3.&#8194;花村って委員長？<br>3.&#8194;花村に声をかける<br>1.&#8194;参加だ<br>1.&#8194;残念だ&#8195;◆ 选择”ラッキーだ”通往<b>BAD END</b><br>2.&#8194;そんなことは無い&#8195;◆ 选择”迷惑だ”通往<b>BAD END</b><br><b>GOOD END</b></p>
-<h3 id="◈-相关链接-LINKS"><a href="#◈-相关链接-LINKS" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:20px">◈ 相关链接 &#x2F; LINKS</p></h3><p><a target="_blank" href="https://www.freem.ne.jp/win/game/17762"><img src="/img/4.相关链接图/freem.webp" alt="freem的logo" title="点击跳转至Freem!游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v13351"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+    <title>【教程】神学校 -Noli me tangere-安装教程</title>
+    <url>/posts/16.html</url>
+    <content><![CDATA[<p><b>&#12288;&#12288;安装遇到问题的话可以查看这个：</b><br><a target="_blank" href="https://www.flamecho.top/posts/27.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/27.html</span></span></span></a></p>
+<h2 id="◈-安装"><a href="#◈-安装" class="headerlink" title="◈ 安装"></a><p style="font-size:25px">◈ 安装</p></h2><img src="/img/12.神学校安装教程/1.png" alt="安装教程_神学校 -Noli me tangere-" />
+<img src="/img/12.神学校安装教程/2.png" alt="安装教程_神学校 -Noli me tangere-" />
+<img src="/img/12.神学校安装教程/3.png" alt="安装教程_神学校 -Noli me tangere-" />
+<img src="/img/12.神学校安装教程/4.png" alt="安装教程_神学校 -Noli me tangere-" />
+<b><font color=#d3625d>&#12288;&#12288;注：上一步↑找不到装载的话：右键-打开方式-Windows资源管理器，然后继续进行下一步↓</font></b>
+<img src="/img/12.神学校安装教程/5.png" alt="安装教程_神学校 -Noli me tangere-" />
+<img src="/img/12.神学校安装教程/6.png" alt="安装教程_神学校 -Noli me tangere-" />
+<img src="/img/12.神学校安装教程/7.png" alt="安装教程_神学校 -Noli me tangere-" />
+<img src="/img/12.神学校安装教程/8.png" alt="安装教程_神学校 -Noli me tangere-" />
+<b><font color=#d3625d>&#12288;&#12288;注：上一步↑找不到装载的话：右键-打开方式-Windows资源管理器，然后继续进行下一步↓</font></b>
+<img src="/img/12.神学校安装教程/9.png" alt="安装教程_神学校 -Noli me tangere-" />
+<img src="/img/12.神学校安装教程/10.png" alt="安装教程_神学校 -Noli me tangere-" />
+<img src="/img/12.神学校安装教程/11.png" alt="安装教程_神学校 -Noli me tangere-" />
+<img src="/img/12.神学校安装教程/12.png" alt="安装教程_神学校 -Noli me tangere-" />
+<img src="/img/12.神学校安装教程/13.png" alt="安装教程_神学校 -Noli me tangere-" />
+<img src="/img/12.神学校安装教程/14.png" alt="安装教程_神学校 -Noli me tangere-" />
+<img src="/img/12.神学校安装教程/15.png" alt="安装教程_神学校 -Noli me tangere-" />
+<img src="/img/12.神学校安装教程/16.png" alt="安装教程_神学校 -Noli me tangere-" />
+<img src="/img/12.神学校安装教程/17.png" alt="安装教程_神学校 -Noli me tangere-" />
+<img src="/img/12.神学校安装教程/18.png" alt="安装教程_神学校 -Noli me tangere-" />
 
-<h2 id="◈-ソレノナ-And-to-End"><a href="#◈-ソレノナ-And-to-End" class="headerlink" title="◈ ソレノナ -And to End-"></a><p style="font-size:30px">◈ ソレノナ -And to End-</p></h2><h3 id="◈-故事梗概-STORYLINE-1"><a href="#◈-故事梗概-STORYLINE-1" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:20px">◈ 故事梗概 &#x2F; STORYLINE</p></h3><p>ソレノナの後日談ゲーム。二人きりの春休み。<br><br>メインは小野寺ルートとなっております。<br><br>人気の無い校舎。<br>窓の外は雨粒に覆われていた。<br><br>三月。<br>屋上が立ち入り禁止になって大分経つ、世間では春休みのある一日。<br>藤澤慶介（ふじさわけいすけ）と小野寺真人（おのでらまこと）は、続く時間を過ごしていた。<br><br>前作「ソレノナ」の後日談に当たるお話です。</p>
-<h3 id="◈-攻略-WALKTHROUGH-1"><a href="#◈-攻略-WALKTHROUGH-1" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:20px">◈ 攻略 &#x2F; WALKTHROUGH</p></h3><p>“1”表示第1个选项，”2”表示第2个选项，以此类推。<br><br>2.&#8194;今日はやめる&#8195;◆ 选择”探す”通往<b>BAD END</b><br>3.&#8194;屋上へ&#8195;◆ 选择”Ｃ組へ”通往<b>Normal End 1</b>；选择”Ｆ組へ”通往<b>Normal End 2</b><br><b>GOOD END</b><br><br>◆ 本篇通关后在Extra有坂下荘矢和花村園香的后日谈，全通后获得通关CG。<img src="/img/7.其他/sorenona.webp" alt="游戏全通cg" width="500" /></p>
-<h3 id="◈-相关链接-LINKS-1"><a href="#◈-相关链接-LINKS-1" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:20px">◈ 相关链接 &#x2F; LINKS</p></h3><p><a target="_blank" href="https://www.freem.ne.jp/win/game/17822"><img src="/img/4.相关链接图/freem.webp" alt="freem的logo" title="点击跳转至Freem!游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v13135"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+<h2 id="◈-卸载"><a href="#◈-卸载" class="headerlink" title="◈ 卸载"></a><p style="font-size:25px">◈ 卸载</p></h2><p><b>&#12288;&#12288;把文件夹删掉即可。</b></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【攻略】ユキソラ・コンフリクト</title>
+    <url>/posts/18.html</url>
+    <content><![CDATA[<style>
+.center
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  font-size:1vw;
+  @media screen and (max-width:2000px){font-size:15px}
+  @media screen and (max-width:768px){font-size:13px}
+  @media screen and (max-width:600px){font-size:11px}
+}
+</style>
+
+<p><b>注：原作是drama，游戏流程不到一小时，是真的很短。<br>共17张cg，cg列表的问号实际上并没有cg。<br><del>试了半小时，你妈</del></b></p>
+<h2 id="◈-故事梗概"><a href="#◈-故事梗概" class="headerlink" title="◈ 故事梗概"></a><p style="font-size:25px">◈ 故事梗概</p></h2><p><b>「蒼き魂たちの眠り」<a href="https://www.dlsite.com/bl/work/=/product_id/RJ260406.html">https://www.dlsite.com/bl/work/=/product_id/RJ260406.html</a><br>に続く、眞と由紀の再会とはじまりの物語。</p>
+<p>雪降るクリスマスの夜、由紀の家へ突然眞が来訪する。<br>眞は由紀への想いを吐露し、由紀はそれを受け入れられずにいた。</p>
+<p>一年後、あのクリスマスの夜の告白に答えようとする由紀を、眞は拒否して……!?</b></p>
+<h2 id="◈-攻略流程"><a href="#◈-攻略流程" class="headerlink" title="◈ 攻略流程"></a><p style="font-size:25px">◈ 攻略流程</p></h2><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:100%'>
+  <td><b>1.&#8194;眞の実家に行く</b>
+ <tr>
+  <td><b>1.&#8194;眞の後を追う<br><font color=#3a62a0>2.&#8194;足がすくむ&#8194;→&#8194;BAD END</font></b>
+ <tr>
+  <td><b>1.&#8194;眞に声をかける</b>
+ <tr>
+  <td><b>1.&#8194;寒い……カフェで暖をとる<br><font color=#3a62a0>2.&#8194;凍えてる……近くのホテルへ&#8194;→&#8194;NORMAL END</font></b>
+ <tr>
+  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>TRUE END.&#8194;YUKISORA・CONFLICT</font></b>
+ </tr>
+</table>
+</div>
+
+<h2 id="◈-相关链接"><a href="#◈-相关链接" class="headerlink" title="◈ 相关链接"></a><p style="font-size:25px">◈ 相关链接</p></h2><p><a target="_blank" href="https://vndb.org/v31683"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a></p>
 ]]></content>
       <categories>
         <category>蔷薇向ADV攻略</category>
@@ -2066,6 +2086,178 @@
       </tags>
   </entry>
   <entry>
+    <title>【攻略】ソレノナ &amp; ソレノナ -And to End-</title>
+    <url>/posts/2.html</url>
+    <content><![CDATA[<h2 id="◈-ソレノナ"><a href="#◈-ソレノナ" class="headerlink" title="◈ ソレノナ"></a><p style="font-size:30px">◈ ソレノナ</p></h2><h3 id="◈-故事梗概-STORYLINE"><a href="#◈-故事梗概-STORYLINE" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:20px">◈ 故事梗概 &#x2F; STORYLINE</p></h3><p>「一本の線が繋がった時、現実は夢を見せる。」<br><br>夏休みも一週間前に控えた夏。<br>主人公、『藤澤慶介（ふじさわけいすけ）』は変わらぬ日常を過ごしていた。<br>風と日差しの屋上、そこには彼の特等席があった。<br><br>いつものように屋上へ出向いたある日。<br>彼は一人の男子生徒と出会う。<br>そこで、慶介は落とした覚えの無い生徒手帳を受け取ることとなる。<br><br><br>彼は知らなかった。<br>自分を取り巻く現実が、既に歪んでいる事を。<br>夢とも願望とも言い切れない、矛盾して曖昧な境界線に自分が立っている事を。<br><br>まだ気付く事のない「其れの名」を。</p>
+<h3 id="◈-攻略-WALKTHROUGH"><a href="#◈-攻略-WALKTHROUGH" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:20px">◈ 攻略 &#x2F; WALKTHROUGH</p></h3><p>“1”表示第1个选项，”2”表示第2个选项，以此类推。</p>
+<h4 id="◈-小野寺-真人"><a href="#◈-小野寺-真人" class="headerlink" title="◈ 小野寺 真人"></a><p style="font-size:17px">◈ 小野寺 真人</p></h4><p>1.&#8194;来ると思う<br>2.&#8194;屋上へ行く<br>1.&#8194;構わない<br>2.&#8194;屋上へ行く<br>2.&#8194;F組&#8194;&#x2F;&#8194;3.&#8194;C組&#8194;&#x2F;&#8194;4.&#8194;図書室&#8195;◆ 选择”屋上”通往<b>PIG END</b>；选择”明日は来ない”通往<b>BAD END 2</b><br>1.&#8194;悪くない<br>1.&#8194;わかった&#8195;◆ 选择”いつもの冗談だろ？”通往<b>BAD END 2</b><br>2.&#8194;信じない&#8195;◆ 选择”信じる”通往<b>BAD END 1</b><br><b>GOOD END</b></p>
+<h4 id="◈-坂下-荘矢"><a href="#◈-坂下-荘矢" class="headerlink" title="◈ 坂下 荘矢"></a><p style="font-size:17px">◈ 坂下 荘矢</p></h4><p>2.&#8194;わからない<br>1.&#8194;2ーCへいく<br>1.&#8194;2ーCへいく<br>1.&#8194;一緒にやる<br>2.&#8194;荘矢を追いかけた<br>1.&#8194;別に構わない&#8195;◆ 选择”ちょっときつい”通往<b>BAD END 2</b><br>2.&#8194;もう少し此処にいる&#8195;◆ 选择”図書室に戻る”通往<b>BAD END 1</b><br><b>GOOD END</b></p>
+<h4 id="◈-花村-園香"><a href="#◈-花村-園香" class="headerlink" title="◈ 花村 園香"></a><p style="font-size:17px">◈ 花村 園香</p></h4><p>1.&#8194;来ると思う&#8194;&#x2F;&#8194;2.&#8194;わからない<br>3.&#8194;花村に声をかける<br>1.&#8194;花村は参加するのか？&#x2F;&#8194;3.&#8194;花村って委員長？<br>3.&#8194;花村に声をかける<br>1.&#8194;参加だ<br>1.&#8194;残念だ&#8195;◆ 选择”ラッキーだ”通往<b>BAD END</b><br>2.&#8194;そんなことは無い&#8195;◆ 选择”迷惑だ”通往<b>BAD END</b><br><b>GOOD END</b></p>
+<h3 id="◈-相关链接-LINKS"><a href="#◈-相关链接-LINKS" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:20px">◈ 相关链接 &#x2F; LINKS</p></h3><p><a target="_blank" href="https://www.freem.ne.jp/win/game/17762"><img src="/img/4.相关链接图/freem.webp" alt="freem的logo" title="点击跳转至Freem!游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v13351"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+
+<h2 id="◈-ソレノナ-And-to-End"><a href="#◈-ソレノナ-And-to-End" class="headerlink" title="◈ ソレノナ -And to End-"></a><p style="font-size:30px">◈ ソレノナ -And to End-</p></h2><h3 id="◈-故事梗概-STORYLINE-1"><a href="#◈-故事梗概-STORYLINE-1" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:20px">◈ 故事梗概 &#x2F; STORYLINE</p></h3><p>ソレノナの後日談ゲーム。二人きりの春休み。<br><br>メインは小野寺ルートとなっております。<br><br>人気の無い校舎。<br>窓の外は雨粒に覆われていた。<br><br>三月。<br>屋上が立ち入り禁止になって大分経つ、世間では春休みのある一日。<br>藤澤慶介（ふじさわけいすけ）と小野寺真人（おのでらまこと）は、続く時間を過ごしていた。<br><br>前作「ソレノナ」の後日談に当たるお話です。</p>
+<h3 id="◈-攻略-WALKTHROUGH-1"><a href="#◈-攻略-WALKTHROUGH-1" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:20px">◈ 攻略 &#x2F; WALKTHROUGH</p></h3><p>“1”表示第1个选项，”2”表示第2个选项，以此类推。<br><br>2.&#8194;今日はやめる&#8195;◆ 选择”探す”通往<b>BAD END</b><br>3.&#8194;屋上へ&#8195;◆ 选择”Ｃ組へ”通往<b>Normal End 1</b>；选择”Ｆ組へ”通往<b>Normal End 2</b><br><b>GOOD END</b><br><br>◆ 本篇通关后在Extra有坂下荘矢和花村園香的后日谈，全通后获得通关CG。<img src="/img/7.其他/sorenona.webp" alt="游戏全通cg" width="500" /></p>
+<h3 id="◈-相关链接-LINKS-1"><a href="#◈-相关链接-LINKS-1" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:20px">◈ 相关链接 &#x2F; LINKS</p></h3><p><a target="_blank" href="https://www.freem.ne.jp/win/game/17822"><img src="/img/4.相关链接图/freem.webp" alt="freem的logo" title="点击跳转至Freem!游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v13135"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+]]></content>
+      <categories>
+        <category>蔷薇向ADV攻略</category>
+      </categories>
+      <tags>
+        <tag>蔷薇向ADV攻略</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【攻略】Code︰Realize ～白银的奇迹～（ns港版）</title>
+    <url>/posts/22.html</url>
+    <content><![CDATA[<style>
+.center
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  font-size:1vw;
+  @media screen and (max-width:2000px){font-size:15px}
+  @media screen and (max-width:768px){font-size:14px}
+  @media screen and (max-width:600px){font-size:13px}
+}
+</style>
+
+<p><a target="_blank" href="https://justdan.com/tw/product/published/CodeRealize%E7%99%BD%E9%8A%80%E7%9A%84%E5%A5%87%E8%B9%9F"><img src="/img/5.游戏官网/白银的奇迹.jpg" alt="点击跳转至游戏官网" width="500" title="点击跳转至游戏官网" /></a></p>
+<p style='line-height:1;text-align:center'><b><font color=#3f1503>OFFICIAL WEBSITE</font></b></p>
+
+<h2 id="◈-故事梗概"><a href="#◈-故事梗概" class="headerlink" title="◈ 故事梗概"></a><p style="font-size:25px">◈ 故事梗概</p></h2><p><b>——受到祝福的少女，<br>于白银的世界中再次歌颂奇迹。</p>
+<p>这是一个发生在整座钢铁都市<br>都被纷飞白雪覆盖的冬天，<br>你与他相互思念，<br>却分隔两地的故事。</p>
+<p>你与自己选择的两位青年度过的甜蜜一日。</p>
+<p>在寻找父亲的冒险途中，历经某次邂逅的插曲。</p>
+<p>以及描绘与「他们」的未来的故事——</p>
+<p>尚未揭晓的过去、<br>与珍视之人共同度过的现在，<br>以及无从知晓的未来。</p>
+<p>在寻获「祝福的未来」之后，进而向前方迈出新的一步。</p>
+<p>在一个又一个奇迹降临的故事当中，<br>少女心中又会萌生出怎样的感情——？</b></p>
+<h2 id="◈-攻略流程"><a href="#◈-攻略流程" class="headerlink" title="◈ 攻略流程"></a><p style="font-size:25px">◈ 攻略流程</p></h2><h3 id="◈-三人约会"><a href="#◈-三人约会" class="headerlink" title="◈ 三人约会"></a><p style="font-size:22px">◈ 三人约会</p></h3><p><b>◈ 可参考的排列</b></p>
+<div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:50%'>
+ <col style='width:50%'>
+  <td><b>鲁邦×凡</b>
+  <td><b>凡×弗兰</b>
+ <tr>
+  <td><b>鲁邦×弗兰</b>
+  <td><b>凡×因倍</b>  
+ <tr>
+  <td><b>鲁邦×因倍</b>
+  <td><b>凡×圣</b>
+ <tr>
+  <td><b>鲁邦×圣</b>
+  <td><b>弗兰×因倍</b>
+ <tr>
+  <td><b>因倍×圣</b>
+  <td><b>弗兰×圣</b>
+ </tr>
+</table>
+</div>
+<b>◈ 秘密指令 四个键按顺序同时按</b>
+<p style="line-height:1"></p>
+<div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:100%'>
+  <td><b>小德×茜茜</b>
+ <tr>
+  <td><b>阿雷斯特×尼莫</b>
+ <tr>
+  <td><b>华生×汉赛尔</b>
+ </tr>
+</table>
+</div>
+
+<h3 id="◈-第一个圣诞节"><a href="#◈-第一个圣诞节" class="headerlink" title="◈ 第一个圣诞节"></a><p style="font-size:22px">◈ 第一个圣诞节</p></h3><p><b>＊ FD1 祝福的未来的菲尼斯线后日谈<br>每完成一个章节，在EVENT对应角色界面解锁一张泳装cg，选中cg按X游玩附加剧情。<br>夏尔摩斯线和菲尼斯线没有选项。<br>没有分歧路线，以下是个人认为最符合情境的选项。</b></p>
+<div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:15%'>
+ <col style='width:85%'>
+  <td rowspan=3 style='padding:6px 0px;text-align:center'><b>鲁邦</b>
+  <td><b>2.&#8194;突然想到的事<br><font color=#3a62a0>1.&#8194;最近发生的事&#8194;→&#8194;回收cg差分</font></b>
+ <tr>
+  <td><b>2.&#8194;默不作声</b>
+ <tr>
+  <td><b>1.&#8194;不是那样</b>
+ <tr>
+  <td rowspan=2 style='padding:6px 0px;text-align:center'><b>凡</b>
+  <td><b>1.&#8194;保持沉默</b>
+ <tr>
+  <td><b>2.&#8194;等等</b>
+ <tr>
+  <td rowspan=3 style='padding:6px 0px;text-align:center'><b>弗兰</b>
+  <td><b>2.&#8194;让别人去</b>
+ <tr>
+  <td><b>1.&#8194;你更美</b>
+ <tr>
+  <td><b>三个餐品均可</b>
+ <tr>
+  <td style='padding:6px 0px;text-align:center'><b>因倍</b>
+  <td><b>1.&#8194;喜欢</b>
+ <tr>
+  <td rowspan=3 style='padding:6px 0px;text-align:center'><b>圣</b>
+  <td><b>1.&#8194;出去旅行</b>
+ <tr>
+  <td><b>2.&#8194;主动去见圣</b>
+ <tr>
+  <td><b>2.&#8194;没有了来的理由</b>  
+ </tr>
+</table>
+</div>
+
+<h3 id="◈-坎特雷拉"><a href="#◈-坎特雷拉" class="headerlink" title="◈ 坎特雷拉"></a><p style="font-size:22px">◈ 坎特雷拉</p></h3><p><b>没有分歧路线，括号内代表是谁的剧情。</b></p>
+<div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:100%'>
+  <td><b>1.&#8194;坎特雷拉的言行举止&#8194;/&#8194;2.&#8194;麦尔斯的父亲形象</b>
+ <tr>
+  <td><b>1.&#8194;和鲁邦、弗兰一起&#8194;/&#8194;2.&#8194;和凡、圣、因倍一起</b>
+ <tr>
+  <td><b>1.&#8194;去市内逛街（凡）<br>2.&#8194;在家里招待她（圣）<br>3.&#8194;去参观白金汉宫（弗兰）<br>4.&#8194;去飞艇的停泊场（因倍）<br>5.&#8194;去伦敦外（鲁邦）</b>
+ <tr>
+  <td><b>1.&#8194;东侧沿外墙走的路线（鲁邦、弗兰）<br>2.&#8194;西侧沿通道走的路线（凡、圣、因倍）<br><font color=#3a62a0>＊ 两个选项各一张cg</font></b>
+ </tr>
+</table>
+</div>
+
+<h3 id="◈-Special-After"><a href="#◈-Special-After" class="headerlink" title="◈ Special After"></a><p style="font-size:22px">◈ Special After</p></h3><p><b>＊ FD1 祝福的未来的个人线后日谈<br>完成除三人约会外所有剧情后解锁，在标题页面进入。<br>没有分歧路线，以下是个人认为最符合情境的选项。</b></p>
+<div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:15%'>
+ <col style='width:85%'>
+  <td style='padding:6px 0px;text-align:center'><b>鲁邦</b>
+  <td><b>2.&#8194;想享受约会</b>
+ <tr>
+  <td style='padding:6px 0px;text-align:center'><b>凡</b>
+  <td><b>2.&#8194;……这种时候就要……！</b>
+ <tr>
+  <td style='padding:6px 0px;text-align:center'><b>弗兰</b>
+  <td><b>2.&#8194;不办也很幸福</b>
+ <tr>
+  <td style='padding:6px 0px;text-align:center'><b>因倍</b>
+  <td><b>2.&#8194;确认状况</b>
+ <tr>
+  <td style='padding:6px 0px;text-align:center'><b>圣</b>
+  <td><b>2.&#8194;有点害怕</b>
+ </tr>
+</table>
+</div>
+
+<h2 id="◈-相关链接"><a href="#◈-相关链接" class="headerlink" title="◈ 相关链接"></a><p style="font-size:25px">◈ 相关链接</p></h2><p><a target="_blank" href="https://vndb.org/v21521"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a></p>
+]]></content>
+      <categories>
+        <category>乙女向ADV攻略</category>
+      </categories>
+      <tags>
+        <tag>乙女向ADV攻略</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【教程】PigeonBlood鸽子血安装教程</title>
     <url>/posts/20.html</url>
     <content><![CDATA[<p><b>&#12288;&#12288;安装遇到问题的话可以查看这个：</b><br><a target="_blank" href="https://www.flamecho.top/posts/27.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/27.html</span></span></span></a><b>&#12288;&#12288;汉化补丁请访问百度贴吧自行获取 <a href="https://tieba.baidu.com/p/8834667748">点击跳转至百度贴吧</a><br>&#12288;&#12288;日文版游戏本体分享 <a href="https://www.mediafire.com/file/easkhlnuvyk1mws/%255BJP%255DPigeon_Blood.exe/file">点击跳转至Mediafire</a><br>&#12288;&#12288;游戏正版购买链接 <a href="https://www.animategames.jp/home/detail/30079">点击跳转至Animate Games</a><br>&#12288;&#12288;游戏相关信息 <a href="https://vndb.org/v10773">点击跳转至The Visual Novel Database</a></b></p>
@@ -2096,51 +2288,6 @@
       </categories>
       <tags>
         <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【攻略】ユキソラ・コンフリクト</title>
-    <url>/posts/18.html</url>
-    <content><![CDATA[<style>
-.center
-{
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-  font-size:1vw;
-  @media screen and (max-width:2000px){font-size:15px}
-  @media screen and (max-width:768px){font-size:13px}
-  @media screen and (max-width:600px){font-size:11px}
-}
-</style>
-
-<p><b>注：原作是drama，游戏流程不到一小时，是真的很短。<br>共17张cg，cg列表的问号实际上并没有cg。<br><del>试了半小时，你妈</del></b></p>
-<h2 id="◈-故事梗概"><a href="#◈-故事梗概" class="headerlink" title="◈ 故事梗概"></a><p style="font-size:25px">◈ 故事梗概</p></h2><p><b>「蒼き魂たちの眠り」<a href="https://www.dlsite.com/bl/work/=/product_id/RJ260406.html">https://www.dlsite.com/bl/work/=/product_id/RJ260406.html</a><br>に続く、眞と由紀の再会とはじまりの物語。</p>
-<p>雪降るクリスマスの夜、由紀の家へ突然眞が来訪する。<br>眞は由紀への想いを吐露し、由紀はそれを受け入れられずにいた。</p>
-<p>一年後、あのクリスマスの夜の告白に答えようとする由紀を、眞は拒否して……!?</b></p>
-<h2 id="◈-攻略流程"><a href="#◈-攻略流程" class="headerlink" title="◈ 攻略流程"></a><p style="font-size:25px">◈ 攻略流程</p></h2><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:100%'>
-  <td><b>1.&#8194;眞の実家に行く</b>
- <tr>
-  <td><b>1.&#8194;眞の後を追う<br><font color=#3a62a0>2.&#8194;足がすくむ&#8194;→&#8194;BAD END</font></b>
- <tr>
-  <td><b>1.&#8194;眞に声をかける</b>
- <tr>
-  <td><b>1.&#8194;寒い……カフェで暖をとる<br><font color=#3a62a0>2.&#8194;凍えてる……近くのホテルへ&#8194;→&#8194;NORMAL END</font></b>
- <tr>
-  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>TRUE END.&#8194;YUKISORA・CONFLICT</font></b>
- </tr>
-</table>
-</div>
-
-<h2 id="◈-相关链接"><a href="#◈-相关链接" class="headerlink" title="◈ 相关链接"></a><p style="font-size:25px">◈ 相关链接</p></h2><p><a target="_blank" href="https://vndb.org/v31683"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a></p>
-]]></content>
-      <categories>
-        <category>蔷薇向ADV攻略</category>
-      </categories>
-      <tags>
-        <tag>蔷薇向ADV攻略</tag>
       </tags>
   </entry>
   <entry>
@@ -2588,150 +2735,45 @@
       </tags>
   </entry>
   <entry>
-    <title>【攻略】Code︰Realize ～白银的奇迹～（ns港版）</title>
-    <url>/posts/22.html</url>
-    <content><![CDATA[<style>
-.center
-{
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-  font-size:1vw;
-  @media screen and (max-width:2000px){font-size:15px}
-  @media screen and (max-width:768px){font-size:14px}
-  @media screen and (max-width:600px){font-size:13px}
-}
-</style>
+    <title>【教程】沉默的法则 CODE:TYCOON安装教程</title>
+    <url>/posts/25.html</url>
+    <content><![CDATA[<p><b>&#12288;&#12288;安装遇到问题的话可以查看这个：</b><br><a target="_blank" href="https://www.flamecho.top/posts/27.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/27.html</span></span></span></a><b>&#12288;&#12288;日文版游戏本体分享 <a href="https://www.mediafire.com/file/g2yi6m3s9m4bkhj/%255BJP%255D%25E6%25B2%2589%25E9%25BB%2598%25E7%259A%2584%25E6%25B3%2595%25E5%2588%2599_CODE_TYCOON.part1.exe/file">part1</a>&#8194;<a href="https://www.mediafire.com/file/f5wdcra6ng35a0p/%255BJP%255D%25E6%25B2%2589%25E9%25BB%2598%25E7%259A%2584%25E6%25B3%2595%25E5%2588%2599_CODE_TYCOON.part2.rar/file">part2</a><br>&#12288;&#12288;游戏正版购买链接 <a href="https://www.dlsite.com/pro/work/=/product_id/VJ010835.html">点击跳转至dlsite</a><br>&#12288;&#12288;游戏相关信息 <a href="https://vndb.org/v10279">点击跳转至The Visual Novel Database</a></b></p>
+<h2 id="◈-安装"><a href="#◈-安装" class="headerlink" title="◈ 安装"></a><p style="font-size:25px">◈ 安装</p></h2><img src="/img/16.沉默的法则FD安装教程/1.png" alt="安装教程_沉默的法则FD" />
+<img src="/img/16.沉默的法则FD安装教程/2.png" alt="安装教程_沉默的法则FD" />
+<img src="/img/16.沉默的法则FD安装教程/3.png" alt="安装教程_沉默的法则FD" />
+<img src="/img/16.沉默的法则FD安装教程/4.png" alt="安装教程_沉默的法则FD" />
+<img src="/img/16.沉默的法则FD安装教程/5.png" alt="安装教程_沉默的法则FD" />
+<img src="/img/16.沉默的法则FD安装教程/6.png" alt="安装教程_沉默的法则FD" />
+<img src="/img/16.沉默的法则FD安装教程/7.png" alt="安装教程_沉默的法则FD" />
 
-<p><a target="_blank" href="https://justdan.com/tw/product/published/CodeRealize%E7%99%BD%E9%8A%80%E7%9A%84%E5%A5%87%E8%B9%9F"><img src="/img/5.游戏官网/白银的奇迹.jpg" alt="点击跳转至游戏官网" width="500" title="点击跳转至游戏官网" /></a></p>
-<p style='line-height:1;text-align:center'><b><font color=#3f1503>OFFICIAL WEBSITE</font></b></p>
-
-<h2 id="◈-故事梗概"><a href="#◈-故事梗概" class="headerlink" title="◈ 故事梗概"></a><p style="font-size:25px">◈ 故事梗概</p></h2><p><b>——受到祝福的少女，<br>于白银的世界中再次歌颂奇迹。</p>
-<p>这是一个发生在整座钢铁都市<br>都被纷飞白雪覆盖的冬天，<br>你与他相互思念，<br>却分隔两地的故事。</p>
-<p>你与自己选择的两位青年度过的甜蜜一日。</p>
-<p>在寻找父亲的冒险途中，历经某次邂逅的插曲。</p>
-<p>以及描绘与「他们」的未来的故事——</p>
-<p>尚未揭晓的过去、<br>与珍视之人共同度过的现在，<br>以及无从知晓的未来。</p>
-<p>在寻获「祝福的未来」之后，进而向前方迈出新的一步。</p>
-<p>在一个又一个奇迹降临的故事当中，<br>少女心中又会萌生出怎样的感情——？</b></p>
-<h2 id="◈-攻略流程"><a href="#◈-攻略流程" class="headerlink" title="◈ 攻略流程"></a><p style="font-size:25px">◈ 攻略流程</p></h2><h3 id="◈-三人约会"><a href="#◈-三人约会" class="headerlink" title="◈ 三人约会"></a><p style="font-size:22px">◈ 三人约会</p></h3><p><b>◈ 可参考的排列</b></p>
-<div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:50%'>
- <col style='width:50%'>
-  <td><b>鲁邦×凡</b>
-  <td><b>凡×弗兰</b>
- <tr>
-  <td><b>鲁邦×弗兰</b>
-  <td><b>凡×因倍</b>  
- <tr>
-  <td><b>鲁邦×因倍</b>
-  <td><b>凡×圣</b>
- <tr>
-  <td><b>鲁邦×圣</b>
-  <td><b>弗兰×因倍</b>
- <tr>
-  <td><b>因倍×圣</b>
-  <td><b>弗兰×圣</b>
- </tr>
-</table>
-</div>
-<b>◈ 秘密指令 四个键按顺序同时按</b>
-<p style="line-height:1"></p>
-<div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:100%'>
-  <td><b>小德×茜茜</b>
- <tr>
-  <td><b>阿雷斯特×尼莫</b>
- <tr>
-  <td><b>华生×汉赛尔</b>
- </tr>
-</table>
-</div>
-
-<h3 id="◈-第一个圣诞节"><a href="#◈-第一个圣诞节" class="headerlink" title="◈ 第一个圣诞节"></a><p style="font-size:22px">◈ 第一个圣诞节</p></h3><p><b>＊ FD1 祝福的未来的菲尼斯线后日谈<br>每完成一个章节，在EVENT对应角色界面解锁一张泳装cg，选中cg按X游玩附加剧情。<br>夏尔摩斯线和菲尼斯线没有选项。<br>没有分歧路线，以下是个人认为最符合情境的选项。</b></p>
-<div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:15%'>
- <col style='width:85%'>
-  <td rowspan=3 style='padding:6px 0px;text-align:center'><b>鲁邦</b>
-  <td><b>2.&#8194;突然想到的事<br><font color=#3a62a0>1.&#8194;最近发生的事&#8194;→&#8194;回收cg差分</font></b>
- <tr>
-  <td><b>2.&#8194;默不作声</b>
- <tr>
-  <td><b>1.&#8194;不是那样</b>
- <tr>
-  <td rowspan=2 style='padding:6px 0px;text-align:center'><b>凡</b>
-  <td><b>1.&#8194;保持沉默</b>
- <tr>
-  <td><b>2.&#8194;等等</b>
- <tr>
-  <td rowspan=3 style='padding:6px 0px;text-align:center'><b>弗兰</b>
-  <td><b>2.&#8194;让别人去</b>
- <tr>
-  <td><b>1.&#8194;你更美</b>
- <tr>
-  <td><b>三个餐品均可</b>
- <tr>
-  <td style='padding:6px 0px;text-align:center'><b>因倍</b>
-  <td><b>1.&#8194;喜欢</b>
- <tr>
-  <td rowspan=3 style='padding:6px 0px;text-align:center'><b>圣</b>
-  <td><b>1.&#8194;出去旅行</b>
- <tr>
-  <td><b>2.&#8194;主动去见圣</b>
- <tr>
-  <td><b>2.&#8194;没有了来的理由</b>  
- </tr>
-</table>
-</div>
-
-<h3 id="◈-坎特雷拉"><a href="#◈-坎特雷拉" class="headerlink" title="◈ 坎特雷拉"></a><p style="font-size:22px">◈ 坎特雷拉</p></h3><p><b>没有分歧路线，括号内代表是谁的剧情。</b></p>
-<div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:100%'>
-  <td><b>1.&#8194;坎特雷拉的言行举止&#8194;/&#8194;2.&#8194;麦尔斯的父亲形象</b>
- <tr>
-  <td><b>1.&#8194;和鲁邦、弗兰一起&#8194;/&#8194;2.&#8194;和凡、圣、因倍一起</b>
- <tr>
-  <td><b>1.&#8194;去市内逛街（凡）<br>2.&#8194;在家里招待她（圣）<br>3.&#8194;去参观白金汉宫（弗兰）<br>4.&#8194;去飞艇的停泊场（因倍）<br>5.&#8194;去伦敦外（鲁邦）</b>
- <tr>
-  <td><b>1.&#8194;东侧沿外墙走的路线（鲁邦、弗兰）<br>2.&#8194;西侧沿通道走的路线（凡、圣、因倍）<br><font color=#3a62a0>＊ 两个选项各一张cg</font></b>
- </tr>
-</table>
-</div>
-
-<h3 id="◈-Special-After"><a href="#◈-Special-After" class="headerlink" title="◈ Special After"></a><p style="font-size:22px">◈ Special After</p></h3><p><b>＊ FD1 祝福的未来的个人线后日谈<br>完成除三人约会外所有剧情后解锁，在标题页面进入。<br>没有分歧路线，以下是个人认为最符合情境的选项。</b></p>
-<div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:15%'>
- <col style='width:85%'>
-  <td style='padding:6px 0px;text-align:center'><b>鲁邦</b>
-  <td><b>2.&#8194;想享受约会</b>
- <tr>
-  <td style='padding:6px 0px;text-align:center'><b>凡</b>
-  <td><b>2.&#8194;……这种时候就要……！</b>
- <tr>
-  <td style='padding:6px 0px;text-align:center'><b>弗兰</b>
-  <td><b>2.&#8194;不办也很幸福</b>
- <tr>
-  <td style='padding:6px 0px;text-align:center'><b>因倍</b>
-  <td><b>2.&#8194;确认状况</b>
- <tr>
-  <td style='padding:6px 0px;text-align:center'><b>圣</b>
-  <td><b>2.&#8194;有点害怕</b>
- </tr>
-</table>
-</div>
-
-<h2 id="◈-相关链接"><a href="#◈-相关链接" class="headerlink" title="◈ 相关链接"></a><p style="font-size:25px">◈ 相关链接</p></h2><p><a target="_blank" href="https://vndb.org/v21521"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a></p>
+<h2 id="◈-卸载"><a href="#◈-卸载" class="headerlink" title="◈ 卸载"></a><p style="font-size:25px">◈ 卸载</p></h2><p><b>&#12288;&#12288;把文件夹删掉即可。</b></p>
 ]]></content>
       <categories>
-        <category>乙女向ADV攻略</category>
+        <category>教程</category>
       </categories>
       <tags>
-        <tag>乙女向ADV攻略</tag>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【教程】Omega Vampire安装教程</title>
+    <url>/posts/26.html</url>
+    <content><![CDATA[<p><b>&#12288;&#12288;安装遇到问题的话可以查看这个：</b><br><a target="_blank" href="https://www.flamecho.top/posts/27.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/27.html</span></span></span></a><b>&#12288;&#12288;日文版游戏本体分享 <a href="https://www.mediafire.com/file/9fgswxpd7mcfof0/%255BJP%255DOmegaVampire.exe/file">点击跳转至Mediafire</a><br>&#12288;&#12288;游戏正版购买链接 <a href="https://www.dlsite.com/pro/work/=/product_id/VJ012247.html">点击跳转至dlsite</a><br>&#12288;&#12288;游戏相关信息 <a href="https://vndb.org/v19455">点击跳转至The Visual Novel Database</a></b></p>
+<h2 id="◈-安装"><a href="#◈-安装" class="headerlink" title="◈ 安装"></a><p style="font-size:25px">◈ 安装</p></h2><img src="/img/17.omegavampire安装教程/1.png" alt="安装教程_omegavampire" />
+<img src="/img/17.omegavampire安装教程/2.png" alt="安装教程_omegavampire" />
+<img src="/img/17.omegavampire安装教程/3.png" alt="安装教程_omegavampire" />
+<img src="/img/17.omegavampire安装教程/4.png" alt="安装教程_omegavampire" />
+<img src="/img/17.omegavampire安装教程/5.png" alt="安装教程_omegavampire" />
+<img src="/img/17.omegavampire安装教程/6.png" alt="安装教程_omegavampire" />
+<img src="/img/17.omegavampire安装教程/7.png" alt="安装教程_omegavampire" />
+
+<h2 id="◈-卸载"><a href="#◈-卸载" class="headerlink" title="◈ 卸载"></a><p style="font-size:25px">◈ 卸载</p></h2><p><b>&#12288;&#12288;把文件夹删掉即可。</b></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
@@ -2746,27 +2788,6 @@
 <h2 id="🍨​-以上都试了还是打不开"><a href="#🍨​-以上都试了还是打不开" class="headerlink" title="🍨​ 以上都试了还是打不开"></a><p style="font-size:25px">🍨​ 以上都试了还是打不开</p></h2><p><b>&#12288;&#12288;1. 游戏路径不能有中文。整个路径都不能有，请修改每一级的文件夹名称。<br>&#12288;&#12288;2. 右键游戏启动程序-属性，勾上“以兼容程序运行这个程序”和“以管理员身份运行此程序”。<br>&#12288;&#12288;&#12288;可以选winxp、win7、win10，都试试。</b><img src="/img/18.安装常见问题/9.png" alt="兼容性" /></p>
 <h2 id="🍨​-还是打不开-且-游戏是多年前的老游戏-且-我的电脑是win10-win11-新买的"><a href="#🍨​-还是打不开-且-游戏是多年前的老游戏-且-我的电脑是win10-win11-新买的" class="headerlink" title="🍨​ 还是打不开 且 游戏是多年前的老游戏 且 我的电脑是win10&#x2F;win11&#x2F;新买的"></a><p style="font-size:25px">🍨​ 还是打不开 且 游戏是多年前的老游戏 且 我的电脑是win10&#x2F;win11&#x2F;新买的</p></h2><p><b>&#12288;&#12288;事已至此，只能采取一个较为繁琐但一劳永逸的方法——安装虚拟机。<br>&#12288;&#12288;你可以通过查看以下教程来安装虚拟机，或者在b站看视频一步步操作。<br>&#12288;&#12288;想玩中文游戏就安装中文winxp系统，想玩日文游戏就安装日文winxp系统。</b><br><a target="_blank" href="https://www.bilibili.com/read/cv13698880" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">&#8194;【日文winxp系统】虚拟机安装教程-以VMware Workstation 15 Pro为例+支持winxp的Daemon Tools Lite下载</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.bilibili.com/read/cv13698880</span></span></span></a> <a target="_blank" href="https://zhuanlan.zhihu.com/p/424182506" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">&#8194;【中文winxp系统】虚拟机安装教程-以VMware Workstation 16 Pro为例</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://zhuanlan.zhihu.com/p/424182506</span></span></span></a> <a target="_blank" href="https://next.itellyou.cn/" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">&#12288;ITELLYOU 镜像下载网站</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://next.itellyou.cn/</span></span></span></a> <a target="_blank" href="https://zhuanlan.zhihu.com/p/340221558" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">&#12288;激活winxp教程</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://zhuanlan.zhihu.com/p/340221558</span></span></span></a> <a target="_blank" href="https://zhuanlan.zhihu.com/p/552938724" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">&#12288;两款除Daemon Tools Lite之外的免安装虚拟光驱，亲测LZZ VirtualDrive是好用的</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://zhuanlan.zhihu.com/p/552938724</span></span></span></a> <a target="_blank" href="https://zhuanlan.zhihu.com/p/586010170" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">&#12288;VMware Workstation Pro 16永久激活码激活</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://zhuanlan.zhihu.com/p/586010170</span></span></span></a> <a target="_blank" href="https://www.bilibili.com/video/BV12g411j7R5/" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">&#12288;虚拟机联网教程-以VMware Workstation为例</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.bilibili.com/video/BV12g411j7R5/</span></span></span></a></p>
 <h2 id="🍨​-后缀是ISO、MDF、MDS的文件怎么安装"><a href="#🍨​-后缀是ISO、MDF、MDS的文件怎么安装" class="headerlink" title="🍨​ 后缀是ISO、MDF、MDS的文件怎么安装"></a><p style="font-size:25px">🍨​ 后缀是ISO、MDF、MDS的文件怎么安装</p></h2><p><b>&#12288;&#12288;有多个文件的，哪个文件大就装载哪个<br>&#12288;&#12288;方法1：双击<br>&#12288;&#12288;方法2：右键-装载<br>&#12288;&#12288;方法3：右键 - 打开方式 - Windows 资源管理器<br>&#12288;&#12288;方法4：用虚拟光驱软件DTLite</b><br><a target="_blank" href="https://flamecho.lanzout.com/iywju1w4f80b" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">&#12288;DTLite-蓝奏云下载 密码3w69</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://flamecho.lanzout.com/iywju1w4f80b</span></span></span></a><img src="/img/18.安装常见问题/10.png" alt="DTLite使用方法" /></p>
-]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【教程】沉默的法则 CODE:TYCOON安装教程</title>
-    <url>/posts/25.html</url>
-    <content><![CDATA[<p><b>&#12288;&#12288;安装遇到问题的话可以查看这个：</b><br><a target="_blank" href="https://www.flamecho.top/posts/27.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/27.html</span></span></span></a><b>&#12288;&#12288;日文版游戏本体分享 <a href="https://www.mediafire.com/file/g2yi6m3s9m4bkhj/%255BJP%255D%25E6%25B2%2589%25E9%25BB%2598%25E7%259A%2584%25E6%25B3%2595%25E5%2588%2599_CODE_TYCOON.part1.exe/file">part1</a>&#8194;<a href="https://www.mediafire.com/file/f5wdcra6ng35a0p/%255BJP%255D%25E6%25B2%2589%25E9%25BB%2598%25E7%259A%2584%25E6%25B3%2595%25E5%2588%2599_CODE_TYCOON.part2.rar/file">part2</a><br>&#12288;&#12288;游戏正版购买链接 <a href="https://www.dlsite.com/pro/work/=/product_id/VJ010835.html">点击跳转至dlsite</a><br>&#12288;&#12288;游戏相关信息 <a href="https://vndb.org/v10279">点击跳转至The Visual Novel Database</a></b></p>
-<h2 id="◈-安装"><a href="#◈-安装" class="headerlink" title="◈ 安装"></a><p style="font-size:25px">◈ 安装</p></h2><img src="/img/16.沉默的法则FD安装教程/1.png" alt="安装教程_沉默的法则FD" />
-<img src="/img/16.沉默的法则FD安装教程/2.png" alt="安装教程_沉默的法则FD" />
-<img src="/img/16.沉默的法则FD安装教程/3.png" alt="安装教程_沉默的法则FD" />
-<img src="/img/16.沉默的法则FD安装教程/4.png" alt="安装教程_沉默的法则FD" />
-<img src="/img/16.沉默的法则FD安装教程/5.png" alt="安装教程_沉默的法则FD" />
-<img src="/img/16.沉默的法则FD安装教程/6.png" alt="安装教程_沉默的法则FD" />
-<img src="/img/16.沉默的法则FD安装教程/7.png" alt="安装教程_沉默的法则FD" />
-
-<h2 id="◈-卸载"><a href="#◈-卸载" class="headerlink" title="◈ 卸载"></a><p style="font-size:25px">◈ 卸载</p></h2><p><b>&#12288;&#12288;把文件夹删掉即可。</b></p>
 ]]></content>
       <categories>
         <category>教程</category>
@@ -3416,27 +3437,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【教程】Omega Vampire安装教程</title>
-    <url>/posts/26.html</url>
-    <content><![CDATA[<p><b>&#12288;&#12288;安装遇到问题的话可以查看这个：</b><br><a target="_blank" href="https://www.flamecho.top/posts/27.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/27.html</span></span></span></a><b>&#12288;&#12288;日文版游戏本体分享 <a href="https://www.mediafire.com/file/9fgswxpd7mcfof0/%255BJP%255DOmegaVampire.exe/file">点击跳转至Mediafire</a><br>&#12288;&#12288;游戏正版购买链接 <a href="https://www.dlsite.com/pro/work/=/product_id/VJ012247.html">点击跳转至dlsite</a><br>&#12288;&#12288;游戏相关信息 <a href="https://vndb.org/v19455">点击跳转至The Visual Novel Database</a></b></p>
-<h2 id="◈-安装"><a href="#◈-安装" class="headerlink" title="◈ 安装"></a><p style="font-size:25px">◈ 安装</p></h2><img src="/img/17.omegavampire安装教程/1.png" alt="安装教程_omegavampire" />
-<img src="/img/17.omegavampire安装教程/2.png" alt="安装教程_omegavampire" />
-<img src="/img/17.omegavampire安装教程/3.png" alt="安装教程_omegavampire" />
-<img src="/img/17.omegavampire安装教程/4.png" alt="安装教程_omegavampire" />
-<img src="/img/17.omegavampire安装教程/5.png" alt="安装教程_omegavampire" />
-<img src="/img/17.omegavampire安装教程/6.png" alt="安装教程_omegavampire" />
-<img src="/img/17.omegavampire安装教程/7.png" alt="安装教程_omegavampire" />
-
-<h2 id="◈-卸载"><a href="#◈-卸载" class="headerlink" title="◈ 卸载"></a><p style="font-size:25px">◈ 卸载</p></h2><p><b>&#12288;&#12288;把文件夹删掉即可。</b></p>
-]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【机翻补丁】Dreambound（附攻略）</title>
     <url>/posts/31.html</url>
     <content><![CDATA[<style>
@@ -3539,28 +3539,108 @@
       </tags>
   </entry>
   <entry>
-    <title>【搬运】诺提里森官方四格漫画</title>
-    <url>/posts/32.html</url>
-    <content><![CDATA[<p>仅作交流欣赏用途，请关注诺提里森：于黎明之前官方Twitter&#x2F;X: <a href="https://x.com/Noctilucent0321">https://x.com/Noctilucent0321</a><br>©2023-2024 Immorterius studio&#x2F;Noctilucent: Before Dawn</p>
-<h2 id="◈-安里"><a href="#◈-安里" class="headerlink" title="◈ 安里"></a><p style="font-size:20px">◈ 安里</p></h2><p>在乡村成长的淳朴少年，自幼就与森林中的动物为伍。<br>各位身旁是否也有和安里一样，擅长与小动物沟通的人呢？<br><img src="/img/19.诺提里森四格漫画/1.jpg" alt="四格漫画-安里" /></p>
-<h2 id="◈-西珀"><a href="#◈-西珀" class="headerlink" title="◈ 西珀"></a><p style="font-size:20px">◈ 西珀</p></h2><p>受欢迎的小剑客总是过没几天就没人理，究竟是出了什么问题呢?<br><img src="/img/19.诺提里森四格漫画/2.jpg" alt="四格漫画-西珀" /></p>
-<h2 id="◈-德洛斯"><a href="#◈-德洛斯" class="headerlink" title="◈ 德洛斯"></a><p style="font-size:20px">◈ 德洛斯</p></h2><p>德洛斯总是乐于助人，在萨克镇中人缘极好。 ……不过，似乎有点好过头了？<br><img src="/img/19.诺提里森四格漫画/3.jpg" alt="四格漫画-德洛斯" /></p>
-<h2 id="◈-米修"><a href="#◈-米修" class="headerlink" title="◈ 米修"></a><p style="font-size:20px">◈ 米修</p></h2><p>米修控制魔法的能力很好。</p>
-<p>有时候……也会有意想不到的惊喜。<br><img src="/img/19.诺提里森四格漫画/4.jpg" alt="四格漫画-米修" /></p>
-<h2 id="◈-平鲸"><a href="#◈-平鲸" class="headerlink" title="◈ 平鲸"></a><p style="font-size:20px">◈ 平鲸</p></h2><p>平鲸取材时经常过于讲求真实。</p>
-<p>把自己变成报导中的一环也是家常便饭了。<br><img src="/img/19.诺提里森四格漫画/5.jpg" alt="四格漫画-平鲸" /></p>
-<h2 id="◈-千玄"><a href="#◈-千玄" class="headerlink" title="◈ 千玄"></a><p style="font-size:20px">◈ 千玄</p></h2><p>随着成长，人是会变的。<br>而变化的方向往往出乎意料。<br><img src="/img/19.诺提里森四格漫画/6.jpg" alt="四格漫画-千玄" /></p>
-<h2 id="◈-希亚纱"><a href="#◈-希亚纱" class="headerlink" title="◈ 希亚纱"></a><p style="font-size:20px">◈ 希亚纱</p></h2><p>有时候，美丽的事物是具有迷惑性的，请小心。<br><img src="/img/19.诺提里森四格漫画/7.jpg" alt="四格漫画-希亚纱" /></p>
-<h2 id="◈-伊凡"><a href="#◈-伊凡" class="headerlink" title="◈ 伊凡"></a><p style="font-size:20px">◈ 伊凡</p></h2><p>这是只有小动物沟通协会的两人才拥有的共同话题。<br><img src="/img/19.诺提里森四格漫画/8.jpg" alt="四格漫画-伊凡" /></p>
-<h2 id="◈-乌因"><a href="#◈-乌因" class="headerlink" title="◈ 乌因"></a><p style="font-size:20px">◈ 乌因</p></h2><p>什么时候，才可以遇到独一无二的那个人呢？<br><img src="/img/19.诺提里森四格漫画/9.jpg" alt="四格漫画-乌因" /></p>
-<h2 id="◈-达克托"><a href="#◈-达克托" class="headerlink" title="◈ 达克托"></a><p style="font-size:20px">◈ 达克托</p></h2><p>别出心裁的表演，有时除了九十九分的天赋与努力，还需要一分的机遇。<br><img src="/img/19.诺提里森四格漫画/10.jpg" alt="四格漫画-达克托" /></p>
-<h2 id="◈-席尔"><a href="#◈-席尔" class="headerlink" title="◈ 席尔"></a><p style="font-size:20px">◈ 席尔</p></h2><p>身为一个好上司，除了严厉的一面，有时也需要适时地放松一下。<br><img src="/img/19.诺提里森四格漫画/11.jpg" alt="四格漫画-席尔" /></p>
+    <title>【攻略】Dreambound</title>
+    <url>/posts/30.html</url>
+    <content><![CDATA[<style>
+.center
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+  font-size:1vw;
+  @media screen and (max-width:2000px){font-size:15px}
+  @media screen and (max-width:768px){font-size:12px}
+  @media screen and (max-width:600px){font-size:10px}
+}
+</style>
+
+<p><a target="_blank" href="https://www.twoandahalfstudios.com/dreambound"><img src="/img/5.游戏官网/dreambound.jpg" alt="点击跳转至游戏官网" width="500" title="点击跳转至游戏官网" /></a></p>
+<p style='line-height:1;text-align:center'><b><font color=#0d4ddc>OFFICIAL WEBSITE</font></b></p>
+
+<h2 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h2><p><b>当诺亚这名内向的艺术家发现他自己身陷于一连串的谋杀案之中时，他被迫走出自己那隔绝外界的壳，回到现实之中——或者对他来说，是回到那场曾经扭曲了他的梦中。<br>沉浸在悲痛之中的诺亚，是否能够继续向前迈进并解开谜团——或是他会向他过去的心魔屈服呢？<br>这是一个关于爱与失去，过去与未来的故事。在梦的世界里，诺亚是否能找到面对现实的方法呢？</b></p>
+<h2 id="❖-攻略流程"><a href="#❖-攻略流程" class="headerlink" title="❖ 攻略流程"></a><p style="font-size:25px">❖ 攻略流程</p></h2><p><b>本攻略为对官方guidebook的搬运，且由于本人游玩时选择了text only模式，所以如果要找解谜模式的攻略请往他处。<br>如果你能接受机翻，请查看：</b><a target="_blank" href="https://www.flamecho.top/posts/31.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">【机翻补丁】Dreambound（附攻略）</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/31.html</span></span></span></a><b>“1”指第1个选项，”2”指第2个选项，以此类推。</b></p>
+<h3 id="◈-Crow"><a href="#◈-Crow" class="headerlink" title="◈ Crow"></a><p style="font-size:22px">◈ Crow</p></h3><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:33%'>
+ <col style='width:33%'>
+ <col style='width:33%'>
+  <td colspan=3>1.&#8194;Show him&#8194;/&#8194;2.&#8194;Don't show him<tr>
+  <td colspan=3>2.&#8194;I never asked for your help<tr>
+  <td colspan=3>2.&#8194;No<tr>
+  <td colspan=3>1.&#8194;Sit<tr>
+  <td colspan=3>Crow isn't a real name<br>What were you doing here?<br>You didn't see Ivan?<tr>
+  <td colspan=3>1.&#8194;Take his hand<tr>
+  <td colspan=2>1.&#8194;Ask him about the markings<td>2.&#8194;Don't ask him<tr>
+  <td colspan=2>1.&#8194;Why are you helping me?<td>2.&#8194;Stay quiet<tr>
+  <td colspan=2>Look at the shopping list<br>Look at the web browser<td>Look at the shopping list<br>Look at the web browser<tr>
+  <td colspan=2>1.&#8194;Yes&#8194;/&#8194;2.&#8194;No<td>1.&#8194;Yes&#8194;/&#8194;2.&#8194;No<tr>
+  <td colspan=2>1.&#8194;Question him<td>2.&#8194;Leave it<tr>
+  <td colspan=2>1.&#8194;Not anymore<td>2.&#8194;Yes, I do<tr>
+  <td colspan=2>1.&#8194;I don't forgive you<td>2.&#8194;I forgive you<tr>
+  <td colspan=2>1.&#8194;Ready to move on<td>2.&#8194;Not ready to move on<tr>
+  <td colspan=2>2.&#8194;I'm ready, too<td>1.&#8194;I'm not ready<tr>
+  <td>1.&#8194;I won't ever forgive you<td>2.&#8194;I'll forgive you<td>2.&#8194;I'll forgive you<tr>
+  <td>1.&#8194;Reach out to him<td>1.&#8194;Reach out to him<td rowspan=2>2.&#8194;Shy away from him<tr>
+  <td>2.&#8194;Crow<td>1.&#8194;August<tr>
+  <td bgcolor='#3a62a0' style='text-align:center'><font color=#ffffff>GOOD END</font><td bgcolor='#008b8b' style='text-align:center'><font color=#ffffff>NEUTRAL END</font><td bgcolor='#d3625d' style='text-align:center'><font color=#ffffff>BAD END</font>
+ </tr>
+</table>
+</div>
+
+<h3 id="◈-Ivan"><a href="#◈-Ivan" class="headerlink" title="◈ Ivan"></a><p style="font-size:22px">◈ Ivan</p></h3><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:33%'>
+ <col style='width:33%'>
+ <col style='width:33%'>
+  <td colspan=3>1.&#8194;Show him<tr>
+  <td colspan=3>2.&#8194;I never asked for your help<tr>
+  <td colspan=3>1.&#8194;Yes<tr>
+  <td colspan=3>2.&#8194;Hesitate<tr>
+  <td colspan=3>Crow isn't a real name<br>What were you doing here?<br>You didn't see Ivan?<tr>
+  <td colspan=3>2.&#8194;Don't take his hand<tr>
+  <td colspan=3>Are you a prisoner here too?<br>Is there anyone else like us here?<tr>
+  <td>2.&#8194;Ivan is dying?<td colspan=2>1.&#8194;How does Daisy come into this?<br>3.&#8194;What about photography?<tr>
+  <td>1.&#8194;Is there really no way to save Ivan?<td>1.&#8194;Is there really no way to save Ivan?<td>2.&#8194;Did you do anything to August?<tr>
+  <td>2.&#8194;Grab Luka<td>1.&#8194;Stay quiet<td>1.&#8194;Stay quiet<tr>
+  <td>2.&#8194;Stop Daisy<td>2.&#8194;Stop Daisy<td>2.&#8194;Stop Daisy<br><font color=#d3625d>1.&#8194;Hesitate&#8194;→&#8194;mini badend</font><tr>
+  <td>2.&#8194;He didn't<td>2.&#8194;He didn't<td>1.&#8194;He did<tr>
+  <td bgcolor='#3a62a0' style='text-align:center'><font color=#ffffff>GOOD END</font><td bgcolor='#008b8b' style='text-align:center'><font color=#ffffff>NEUTRAL END</font><td bgcolor='#d3625d' style='text-align:center'><font color=#ffffff>BAD END</font>
+ </tr>
+</table>
+</div>
+
+<h3 id="◈-Kaine"><a href="#◈-Kaine" class="headerlink" title="◈ Kaine"></a><p style="font-size:22px">◈ Kaine</p></h3><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:33%'>
+ <col style='width:33%'>
+ <col style='width:33%'>
+  <td colspan=3>2.&#8194;Don't show him<tr>
+  <td colspan=3>1.&#8194;...Thank you for trying<tr>
+  <td colspan=3>2.&#8194;No<tr>
+  <td colspan=3>2.&#8194;Hesitate<tr>
+  <td colspan=3>Crow isn't a real name<br>What were you doing here?<br>You didn't see Ivan?<tr>
+  <td colspan=3>2.&#8194;Don't take his hand<tr>
+  <td colspan=2>2.&#8194;Okay, I want to come with you<td>1.&#8194;If I have to...<tr>
+  <td>1.&#8194;...Alright, show me<td>3.&#8194;...<td>2.&#8194;...Just let me fall<tr>
+  <td>2.&#8194;Don't talk about Kaine like that!<td>2.&#8194;Don't talk about Kaine like that!<td>1.&#8194;I would never do anything like that with him<br>3.&#8194;The only person I love is August...!<tr>
+  <td>1.&#8194;Look towards Kaine<td>2.&#8194;Face forwards<td>2.&#8194;Face forwards<tr>
+  <td>1.&#8194;I've been having nightmares<br>2.&#8194;I think it's related to the murders<td>1.&#8194;I've been having nightmares<br>2.&#8194;I think it's related to the murders<td rowspan=2>1.&#8194;I've been having nightmares<br>2.&#8194;I think it's related to the murders<tr>
+  <td>2.&#8194;You're more than my best friend<td>1.&#8194;You're my best friend<tr>
+  <td bgcolor='#3a62a0' style='text-align:center'><font color=#ffffff>GOOD END</font><td bgcolor='#008b8b' style='text-align:center'><font color=#ffffff>NEUTRAL END</font><td bgcolor='#d3625d' style='text-align:center'><font color=#ffffff>BAD END</font>
+ </tr>
+</table>
+</div>
+
+<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://store.steampowered.com/app/2071120/Dreambound/"><img src="/img/4.相关链接图/steam.webp" alt="steam的logo" title="点击跳转至Steam游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v37001"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
 ]]></content>
       <categories>
-        <category>搬运</category>
+        <category>蔷薇向ADV攻略</category>
       </categories>
       <tags>
-        <tag>搬运</tag>
+        <tag>蔷薇向ADV攻略</tag>
       </tags>
   </entry>
   <entry>
@@ -3793,128 +3873,43 @@
       </tags>
   </entry>
   <entry>
-    <title>【攻略】Dreambound</title>
-    <url>/posts/30.html</url>
-    <content><![CDATA[<style>
-.center
-{
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-  font-weight: bold;
-  font-size:1vw;
-  @media screen and (max-width:2000px){font-size:15px}
-  @media screen and (max-width:768px){font-size:12px}
-  @media screen and (max-width:600px){font-size:10px}
-}
-</style>
-
-<p><a target="_blank" href="https://www.twoandahalfstudios.com/dreambound"><img src="/img/5.游戏官网/dreambound.jpg" alt="点击跳转至游戏官网" width="500" title="点击跳转至游戏官网" /></a></p>
-<p style='line-height:1;text-align:center'><b><font color=#0d4ddc>OFFICIAL WEBSITE</font></b></p>
-
-<h2 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h2><p><b>当诺亚这名内向的艺术家发现他自己身陷于一连串的谋杀案之中时，他被迫走出自己那隔绝外界的壳，回到现实之中——或者对他来说，是回到那场曾经扭曲了他的梦中。<br>沉浸在悲痛之中的诺亚，是否能够继续向前迈进并解开谜团——或是他会向他过去的心魔屈服呢？<br>这是一个关于爱与失去，过去与未来的故事。在梦的世界里，诺亚是否能找到面对现实的方法呢？</b></p>
-<h2 id="❖-攻略流程"><a href="#❖-攻略流程" class="headerlink" title="❖ 攻略流程"></a><p style="font-size:25px">❖ 攻略流程</p></h2><p><b>本攻略为对官方guidebook的搬运，且由于本人游玩时选择了text only模式，所以如果要找解谜模式的攻略请往他处。<br>如果你能接受机翻，请查看：</b><a target="_blank" href="https://www.flamecho.top/posts/31.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">【机翻补丁】Dreambound（附攻略）</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/31.html</span></span></span></a><b>“1”指第1个选项，”2”指第2个选项，以此类推。</b></p>
-<h3 id="◈-Crow"><a href="#◈-Crow" class="headerlink" title="◈ Crow"></a><p style="font-size:22px">◈ Crow</p></h3><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:33%'>
- <col style='width:33%'>
- <col style='width:33%'>
-  <td colspan=3>1.&#8194;Show him&#8194;/&#8194;2.&#8194;Don't show him<tr>
-  <td colspan=3>2.&#8194;I never asked for your help<tr>
-  <td colspan=3>2.&#8194;No<tr>
-  <td colspan=3>1.&#8194;Sit<tr>
-  <td colspan=3>Crow isn't a real name<br>What were you doing here?<br>You didn't see Ivan?<tr>
-  <td colspan=3>1.&#8194;Take his hand<tr>
-  <td colspan=2>1.&#8194;Ask him about the markings<td>2.&#8194;Don't ask him<tr>
-  <td colspan=2>1.&#8194;Why are you helping me?<td>2.&#8194;Stay quiet<tr>
-  <td colspan=2>Look at the shopping list<br>Look at the web browser<td>Look at the shopping list<br>Look at the web browser<tr>
-  <td colspan=2>1.&#8194;Yes&#8194;/&#8194;2.&#8194;No<td>1.&#8194;Yes&#8194;/&#8194;2.&#8194;No<tr>
-  <td colspan=2>1.&#8194;Question him<td>2.&#8194;Leave it<tr>
-  <td colspan=2>1.&#8194;Not anymore<td>2.&#8194;Yes, I do<tr>
-  <td colspan=2>1.&#8194;I don't forgive you<td>2.&#8194;I forgive you<tr>
-  <td colspan=2>1.&#8194;Ready to move on<td>2.&#8194;Not ready to move on<tr>
-  <td colspan=2>2.&#8194;I'm ready, too<td>1.&#8194;I'm not ready<tr>
-  <td>1.&#8194;I won't ever forgive you<td>2.&#8194;I'll forgive you<td>2.&#8194;I'll forgive you<tr>
-  <td>1.&#8194;Reach out to him<td>1.&#8194;Reach out to him<td rowspan=2>2.&#8194;Shy away from him<tr>
-  <td>2.&#8194;Crow<td>1.&#8194;August<tr>
-  <td bgcolor='#3a62a0' style='text-align:center'><font color=#ffffff>GOOD END</font><td bgcolor='#008b8b' style='text-align:center'><font color=#ffffff>NEUTRAL END</font><td bgcolor='#d3625d' style='text-align:center'><font color=#ffffff>BAD END</font>
- </tr>
-</table>
-</div>
-
-<h3 id="◈-Ivan"><a href="#◈-Ivan" class="headerlink" title="◈ Ivan"></a><p style="font-size:22px">◈ Ivan</p></h3><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:33%'>
- <col style='width:33%'>
- <col style='width:33%'>
-  <td colspan=3>1.&#8194;Show him<tr>
-  <td colspan=3>2.&#8194;I never asked for your help<tr>
-  <td colspan=3>1.&#8194;Yes<tr>
-  <td colspan=3>2.&#8194;Hesitate<tr>
-  <td colspan=3>Crow isn't a real name<br>What were you doing here?<br>You didn't see Ivan?<tr>
-  <td colspan=3>2.&#8194;Don't take his hand<tr>
-  <td colspan=3>Are you a prisoner here too?<br>Is there anyone else like us here?<tr>
-  <td>2.&#8194;Ivan is dying?<td colspan=2>1.&#8194;How does Daisy come into this?<br>3.&#8194;What about photography?<tr>
-  <td>1.&#8194;Is there really no way to save Ivan?<td>1.&#8194;Is there really no way to save Ivan?<td>2.&#8194;Did you do anything to August?<tr>
-  <td>2.&#8194;Grab Luka<td>1.&#8194;Stay quiet<td>1.&#8194;Stay quiet<tr>
-  <td>2.&#8194;Stop Daisy<td>2.&#8194;Stop Daisy<td>2.&#8194;Stop Daisy<br><font color=#d3625d>1.&#8194;Hesitate&#8194;→&#8194;mini badend</font><tr>
-  <td>2.&#8194;He didn't<td>2.&#8194;He didn't<td>1.&#8194;He did<tr>
-  <td bgcolor='#3a62a0' style='text-align:center'><font color=#ffffff>GOOD END</font><td bgcolor='#008b8b' style='text-align:center'><font color=#ffffff>NEUTRAL END</font><td bgcolor='#d3625d' style='text-align:center'><font color=#ffffff>BAD END</font>
- </tr>
-</table>
-</div>
-
-<h3 id="◈-Kaine"><a href="#◈-Kaine" class="headerlink" title="◈ Kaine"></a><p style="font-size:22px">◈ Kaine</p></h3><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:33%'>
- <col style='width:33%'>
- <col style='width:33%'>
-  <td colspan=3>2.&#8194;Don't show him<tr>
-  <td colspan=3>1.&#8194;...Thank you for trying<tr>
-  <td colspan=3>2.&#8194;No<tr>
-  <td colspan=3>2.&#8194;Hesitate<tr>
-  <td colspan=3>Crow isn't a real name<br>What were you doing here?<br>You didn't see Ivan?<tr>
-  <td colspan=3>2.&#8194;Don't take his hand<tr>
-  <td colspan=2>2.&#8194;Okay, I want to come with you<td>1.&#8194;If I have to...<tr>
-  <td>1.&#8194;...Alright, show me<td>3.&#8194;...<td>2.&#8194;...Just let me fall<tr>
-  <td>2.&#8194;Don't talk about Kaine like that!<td>2.&#8194;Don't talk about Kaine like that!<td>1.&#8194;I would never do anything like that with him<br>3.&#8194;The only person I love is August...!<tr>
-  <td>1.&#8194;Look towards Kaine<td>2.&#8194;Face forwards<td>2.&#8194;Face forwards<tr>
-  <td>1.&#8194;I've been having nightmares<br>2.&#8194;I think it's related to the murders<td>1.&#8194;I've been having nightmares<br>2.&#8194;I think it's related to the murders<td rowspan=2>1.&#8194;I've been having nightmares<br>2.&#8194;I think it's related to the murders<tr>
-  <td>2.&#8194;You're more than my best friend<td>1.&#8194;You're my best friend<tr>
-  <td bgcolor='#3a62a0' style='text-align:center'><font color=#ffffff>GOOD END</font><td bgcolor='#008b8b' style='text-align:center'><font color=#ffffff>NEUTRAL END</font><td bgcolor='#d3625d' style='text-align:center'><font color=#ffffff>BAD END</font>
- </tr>
-</table>
-</div>
-
-<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://store.steampowered.com/app/2071120/Dreambound/"><img src="/img/4.相关链接图/steam.webp" alt="steam的logo" title="点击跳转至Steam游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v37001"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+    <title>【搬运】诺提里森官方四格漫画</title>
+    <url>/posts/32.html</url>
+    <content><![CDATA[<p>仅作交流欣赏用途，请关注诺提里森：于黎明之前官方Twitter&#x2F;X: <a href="https://x.com/Noctilucent0321">https://x.com/Noctilucent0321</a><br>©2023-2024 Immorterius studio&#x2F;Noctilucent: Before Dawn</p>
+<h2 id="◈-安里"><a href="#◈-安里" class="headerlink" title="◈ 安里"></a><p style="font-size:20px">◈ 安里</p></h2><p>在乡村成长的淳朴少年，自幼就与森林中的动物为伍。<br>各位身旁是否也有和安里一样，擅长与小动物沟通的人呢？<br><img src="/img/19.诺提里森四格漫画/1.jpg" alt="四格漫画-安里" /></p>
+<h2 id="◈-西珀"><a href="#◈-西珀" class="headerlink" title="◈ 西珀"></a><p style="font-size:20px">◈ 西珀</p></h2><p>受欢迎的小剑客总是过没几天就没人理，究竟是出了什么问题呢?<br><img src="/img/19.诺提里森四格漫画/2.jpg" alt="四格漫画-西珀" /></p>
+<h2 id="◈-德洛斯"><a href="#◈-德洛斯" class="headerlink" title="◈ 德洛斯"></a><p style="font-size:20px">◈ 德洛斯</p></h2><p>德洛斯总是乐于助人，在萨克镇中人缘极好。 ……不过，似乎有点好过头了？<br><img src="/img/19.诺提里森四格漫画/3.jpg" alt="四格漫画-德洛斯" /></p>
+<h2 id="◈-米修"><a href="#◈-米修" class="headerlink" title="◈ 米修"></a><p style="font-size:20px">◈ 米修</p></h2><p>米修控制魔法的能力很好。</p>
+<p>有时候……也会有意想不到的惊喜。<br><img src="/img/19.诺提里森四格漫画/4.jpg" alt="四格漫画-米修" /></p>
+<h2 id="◈-平鲸"><a href="#◈-平鲸" class="headerlink" title="◈ 平鲸"></a><p style="font-size:20px">◈ 平鲸</p></h2><p>平鲸取材时经常过于讲求真实。</p>
+<p>把自己变成报导中的一环也是家常便饭了。<br><img src="/img/19.诺提里森四格漫画/5.jpg" alt="四格漫画-平鲸" /></p>
+<h2 id="◈-千玄"><a href="#◈-千玄" class="headerlink" title="◈ 千玄"></a><p style="font-size:20px">◈ 千玄</p></h2><p>随着成长，人是会变的。<br>而变化的方向往往出乎意料。<br><img src="/img/19.诺提里森四格漫画/6.jpg" alt="四格漫画-千玄" /></p>
+<h2 id="◈-希亚纱"><a href="#◈-希亚纱" class="headerlink" title="◈ 希亚纱"></a><p style="font-size:20px">◈ 希亚纱</p></h2><p>有时候，美丽的事物是具有迷惑性的，请小心。<br><img src="/img/19.诺提里森四格漫画/7.jpg" alt="四格漫画-希亚纱" /></p>
+<h2 id="◈-伊凡"><a href="#◈-伊凡" class="headerlink" title="◈ 伊凡"></a><p style="font-size:20px">◈ 伊凡</p></h2><p>这是只有小动物沟通协会的两人才拥有的共同话题。<br><img src="/img/19.诺提里森四格漫画/8.jpg" alt="四格漫画-伊凡" /></p>
+<h2 id="◈-乌因"><a href="#◈-乌因" class="headerlink" title="◈ 乌因"></a><p style="font-size:20px">◈ 乌因</p></h2><p>什么时候，才可以遇到独一无二的那个人呢？<br><img src="/img/19.诺提里森四格漫画/9.jpg" alt="四格漫画-乌因" /></p>
+<h2 id="◈-达克托"><a href="#◈-达克托" class="headerlink" title="◈ 达克托"></a><p style="font-size:20px">◈ 达克托</p></h2><p>别出心裁的表演，有时除了九十九分的天赋与努力，还需要一分的机遇。<br><img src="/img/19.诺提里森四格漫画/10.jpg" alt="四格漫画-达克托" /></p>
+<h2 id="◈-席尔"><a href="#◈-席尔" class="headerlink" title="◈ 席尔"></a><p style="font-size:20px">◈ 席尔</p></h2><p>身为一个好上司，除了严厉的一面，有时也需要适时地放松一下。<br><img src="/img/19.诺提里森四格漫画/11.jpg" alt="四格漫画-席尔" /></p>
 ]]></content>
       <categories>
-        <category>蔷薇向ADV攻略</category>
+        <category>搬运</category>
       </categories>
       <tags>
-        <tag>蔷薇向ADV攻略</tag>
+        <tag>搬运</tag>
       </tags>
   </entry>
   <entry>
-    <title>【攻略】かみさまの棺</title>
-    <url>/posts/4.html</url>
-    <content><![CDATA[<p><a target="_blank" href="https://kamisamanohitsugi.jimdofree.com/"><img src="/img/5.游戏官网/kamisama.webp" alt="游戏官网的banner" title="点击跳转至游戏官网" /></a></p>
-<h2 id="◈-故事梗概-STORYLINE"><a href="#◈-故事梗概-STORYLINE" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:30px">◈ 故事梗概 &#x2F; STORYLINE</p></h2><p>ある日突然の隕石落下により地球は滅び、知花ミチルの日常は消え去ってしまう。<br><br>…見知らぬ呼び声に目を覚ますと、目の前には口をきいたこともないクラスメイトの廻が一人。<br>そして自分は今“謎の部屋”の中にいることを知る。<br><br>これは 忘れていた記憶を<br>少しずつ思い出す物語。<br><br>悲しくて 残酷で<br>美しくて 痛い<br>最悪な恋の物語。</p>
-<h2 id="◈-章节-CHAPTER"><a href="#◈-章节-CHAPTER" class="headerlink" title="◈ 章节 &#x2F; CHAPTER"></a><p style="font-size:30px">◈ 章节 &#x2F; CHAPTER</p></h2><p>◆&#8194;第一章&#8194;擦り切れた生迷線<br>◆&#8194;第二章&#8194;廻りだす天体と紅茶<br>◆&#8194;第三章&#8194;眠り姫とアダム<br>◆&#8194;第四章&#8194;その笑みは陽だまりだ<br>◆&#8194;第五章&#8194;友を切り止める矢<br>◆&#8194;第六章&#8194;手助け<br>◆&#8194;第七章&#8194;桜色の感傷<br>◆&#8194;第八章&#8194;罪<br>◆&#8194;終章&#8194;君の僕のための嘘</p>
-<h2 id="◈-攻略-WALKTHROUGH"><a href="#◈-攻略-WALKTHROUGH" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:30px">◈ 攻略 &#x2F; WALKTHROUGH</p></h2><p>1.&#8194;鏡を見つめる&#8194;&#x2F;&#8194;2.&#8194;見ない<br>1.&#8194;笑太郎に会いたい&#8195;◆ 选择”･・･ 会えるわけない”通往<b>Bad end - 界葬 -</b><br>2.&#8194;箱を開けない&#8195;◆ 选择”箱を開ける”通往<b>Happy end 1 - 友愛 -</b><br>1.&#8194;廻を信じる&#8195;◆ 选择”･・･ ･・･”通往<b>Happy end 2 - 恋人 -</b><br><b>Happy end 3 - 共存 - &amp; True end</b></p>
-<h2 id="◈-相关链接-LINKS"><a href="#◈-相关链接-LINKS" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:30px">◈ 相关链接 &#x2F; LINKS</p></h2><p><a target="_blank" href="https://nohana-cream.booth.pm/items/1970328"><img src="/img/4.相关链接图/booth.webp" alt="booth的logo" title="点击跳转至Booth游戏详情页" width="297" height="86" /></a></p>
+    <title>【AI汉化】大秽 试玩版</title>
+    <url>/posts/33.html</url>
+    <content><![CDATA[<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><p><b>游戏本体，非补丁。<br>使用方式请查看压缩包内的”汉化声明.txt”。<br>请从以下方式中自行选择。</b><a target="_blank" href="https://share.feijipan.com/s/ilCAji5r" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">小飞机网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://share.feijipan.com/s/ilCAji5r</span></span></span></a> <a target="_blank" href="https://pan.baidu.com/s/15IWKhsIqBBYLZ9m86BJaxw?pwd=jjvm" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">百度网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.baidu.com/s/15IWKhsIqBBYLZ9m86BJaxw?pwd=jjvm</span></span></span></a> <a target="_blank" href="https://pan.quark.cn/s/ff01b631f6f6" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">夸克网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.quark.cn/s/ff01b631f6f6</span></span></span></a> <a target="_blank" href="https://pan.xunlei.com/s/VO4AWOnJpzhgq8J-speuiOfmA1?pwd=trhq" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 12px 9px 12px; background-color: #F6F6F6;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #121212;">迅雷网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #999; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.xunlei.com/s/VO4AWOnJpzhgq8J-speuiOfmA1?pwd=trhq</span></span></span></a></p>
+<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://booth.pm/ja/items/5960428"><img src="/img/4.相关链接图/booth.webp" alt="Booth的logo" title="点击跳转至Booth游戏详情页" width="297" height="86" /></a></p>
 <p style="line-height:1"></p>
-<a target="_blank" href="https://www.dlsite.com/bl/work/=/product_id/RJ259167.html"><img src="/img/4.相关链接图/dlsite.webp" alt="dlsite的logo" title="点击跳转至dlsite游戏详情页" width="297" height="86" /></a>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v27184"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+<a target="_blank" href="https://vndb.org/v30925"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
 ]]></content>
       <categories>
-        <category>蔷薇向ADV攻略</category>
+        <category>机翻补丁</category>
       </categories>
       <tags>
-        <tag>蔷薇向ADV攻略</tag>
+        <tag>机翻补丁</tag>
       </tags>
   </entry>
   <entry>
@@ -4001,147 +3996,23 @@
       </tags>
   </entry>
   <entry>
-    <title>【攻略】Lost Friends1 -Disappeard Name-</title>
-    <url>/posts/7.html</url>
-    <content><![CDATA[<p><a target="_blank" href="https://uzumeya.wixsite.com/lost"><img src="/img/5.游戏官网/lostfriends1.webp" alt="游戏标题图" width="500" title="点击跳转至游戏官网" /></a></p>
-<h2 id="◈-故事梗概-STORYLINE"><a href="#◈-故事梗概-STORYLINE" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:25px">◈ 故事梗概 &#x2F; STORYLINE</p></h2><p>山間の孤村ウルクに暮らす少年キリオには、どうしても許して欲しい相手がいた。<br>それは同じくウルクに生まれたにも関わらず、<br>罪人 「ナナシ」として村を追放されてしまった少年ハカモリのことだ。</p>
-<p>彼に許されるためにキリオは五年もの間ハカモリのもとへ足を運び続けていたが、<br>ある日ジャックと名乗る化け物と出会ったことで事態は思わぬ方向へと動き出してしまう･･････</p>
-<h2 id="◈-攻略-WALKTHROUGH"><a href="#◈-攻略-WALKTHROUGH" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:25px">◈ 攻略 &#x2F; WALKTHROUGH</p></h2><h3 id="◈-流程图"><a href="#◈-流程图" class="headerlink" title="◈ 流程图"></a><p style="font-size:20px">◈ 流程图</p></h3><img src="/img/6.流程图/LostFriends1.webp" alt="游戏流程图" width="500" title="点击放大流程图" />
+    <title>【攻略】かみさまの棺</title>
+    <url>/posts/4.html</url>
+    <content><![CDATA[<p><a target="_blank" href="https://kamisamanohitsugi.jimdofree.com/"><img src="/img/5.游戏官网/kamisama.webp" alt="游戏官网的banner" title="点击跳转至游戏官网" /></a></p>
+<h2 id="◈-故事梗概-STORYLINE"><a href="#◈-故事梗概-STORYLINE" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:30px">◈ 故事梗概 &#x2F; STORYLINE</p></h2><p>ある日突然の隕石落下により地球は滅び、知花ミチルの日常は消え去ってしまう。<br><br>…見知らぬ呼び声に目を覚ますと、目の前には口をきいたこともないクラスメイトの廻が一人。<br>そして自分は今“謎の部屋”の中にいることを知る。<br><br>これは 忘れていた記憶を<br>少しずつ思い出す物語。<br><br>悲しくて 残酷で<br>美しくて 痛い<br>最悪な恋の物語。</p>
+<h2 id="◈-章节-CHAPTER"><a href="#◈-章节-CHAPTER" class="headerlink" title="◈ 章节 &#x2F; CHAPTER"></a><p style="font-size:30px">◈ 章节 &#x2F; CHAPTER</p></h2><p>◆&#8194;第一章&#8194;擦り切れた生迷線<br>◆&#8194;第二章&#8194;廻りだす天体と紅茶<br>◆&#8194;第三章&#8194;眠り姫とアダム<br>◆&#8194;第四章&#8194;その笑みは陽だまりだ<br>◆&#8194;第五章&#8194;友を切り止める矢<br>◆&#8194;第六章&#8194;手助け<br>◆&#8194;第七章&#8194;桜色の感傷<br>◆&#8194;第八章&#8194;罪<br>◆&#8194;終章&#8194;君の僕のための嘘</p>
+<h2 id="◈-攻略-WALKTHROUGH"><a href="#◈-攻略-WALKTHROUGH" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:30px">◈ 攻略 &#x2F; WALKTHROUGH</p></h2><p>1.&#8194;鏡を見つめる&#8194;&#x2F;&#8194;2.&#8194;見ない<br>1.&#8194;笑太郎に会いたい&#8195;◆ 选择”･・･ 会えるわけない”通往<b>Bad end - 界葬 -</b><br>2.&#8194;箱を開けない&#8195;◆ 选择”箱を開ける”通往<b>Happy end 1 - 友愛 -</b><br>1.&#8194;廻を信じる&#8195;◆ 选择”･・･ ･・･”通往<b>Happy end 2 - 恋人 -</b><br><b>Happy end 3 - 共存 - &amp; True end</b></p>
+<h2 id="◈-相关链接-LINKS"><a href="#◈-相关链接-LINKS" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:30px">◈ 相关链接 &#x2F; LINKS</p></h2><p><a target="_blank" href="https://nohana-cream.booth.pm/items/1970328"><img src="/img/4.相关链接图/booth.webp" alt="booth的logo" title="点击跳转至Booth游戏详情页" width="297" height="86" /></a></p>
 <p style="line-height:1"></p>
-
-<p>“1”表示第1个选项，”2”表示第2个选项。</p>
-<h3 id="◈-ED01"><a href="#◈-ED01" class="headerlink" title="◈ ED01"></a><p style="font-size:20px">◈ ED01</p></h3><p style="font-size:17px"><b>ED01:ロストフレンズ</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td><b>2.&#8194;お前に何かあったらハカモリが･･････</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>2.&#8194;同族も悪いものじゃないかも知れないよ</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>1.&#8194;ハカモリと話をしよう</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>2.&#8194;あいつを説得してほしい</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>1.&#8194;村人を止める</b><br>◆&#8194;选择"村人を止めない"通往ED03
- </tr>
-</table>
-
-<h3 id="◈-ED02"><a href="#◈-ED02" class="headerlink" title="◈ ED02"></a><p style="font-size:20px">◈ ED02</p></h3><p style="font-size:17px"><b>ED02:おいて行かれた</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td><b>1.&#8194;下手に村のみんなを刺激しないでよ<br>2.&#8194;お前に何かあったらハカモリが･･････</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>1.&#8194;拒絶されるに決まってる<br>2.&#8194;同族も悪いものじゃないかも知れないよ</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>1.&#8194;ハカモリと話をしよう</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>1.&#8194;あいつと別れてほしい</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>1.&#8194;村人を止める</b><br>◆&#8194;选择"村人を止めない"通往ED03
- </tr>
-</table>
-
-<h3 id="◈-ED03"><a href="#◈-ED03" class="headerlink" title="◈ ED03"></a><p style="font-size:20px">◈ ED03</p></h3><p style="font-size:17px"><b>ED03:二度と赦されない</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td><b>1.&#8194;下手に村のみんなを刺激しないでよ<br>2.&#8194;お前に何かあったらハカモリが･･････</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>1.&#8194;拒絶されるに決まってる<br>2.&#8194;同族も悪いものじゃないかも知れないよ</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>1.&#8194;ハカモリと話をしよう</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>1.&#8194;あいつと別れてほしい</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>2.&#8194;村人を止めない</b><br>◆&#8194;选择"村人を止める"通往ED02
- </tr>
-</table>
-或
+<a target="_blank" href="https://www.dlsite.com/bl/work/=/product_id/RJ259167.html"><img src="/img/4.相关链接图/dlsite.webp" alt="dlsite的logo" title="点击跳转至dlsite游戏详情页" width="297" height="86" /></a>
 <p style="line-height:1"></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td><b>2.&#8194;お前に何かあったらハカモリが･･････</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>2.&#8194;同族も悪いものじゃないかも知れないよ</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>1.&#8194;ハカモリと話をしよう</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>2.&#8194;あいつを説得してほしい</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>2.&#8194;村人を止めない</b><br>◆&#8194;选择"村人を止める"通往ED01
- </tr>
-</table>
-
-<h3 id="◈-ED04"><a href="#◈-ED04" class="headerlink" title="◈ ED04"></a><p style="font-size:20px">◈ ED04</p></h3><p style="font-size:17px"><b>ED04: 袋小路のナナシ達</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td><b>1.&#8194;下手に村のみんなを刺激しないでよ</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>1.&#8194;拒絶されるに決まってる<br>2.&#8194;同族も悪いものじゃないかも知れないよ</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>1.&#8194;ハカモリと話をしよう</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>2.&#8194;あいつを説得してほしい</b>
- </tr>
-</table>
-或
-<p style="line-height:1"></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td><b>2.&#8194;お前に何かあったらハカモリが･･････</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>1.&#8194;拒絶されるに決まってる</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>1.&#8194;ハカモリと話をしよう</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>2.&#8194;あいつを説得してほしい</b>
- </tr>
-</table>
-
-<h3 id="◈-ED05"><a href="#◈-ED05" class="headerlink" title="◈ ED05"></a><p style="font-size:20px">◈ ED05</p></h3><p style="font-size:17px"><b>ED05:帰還と生誕</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td><b>1.&#8194;下手に村のみんなを刺激しないでよ<br>2.&#8194;お前に何かあったらハカモリが･･････</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>1.&#8194;拒絶されるに決まってる<br>2.&#8194;同族も悪いものじゃないかも知れないよ</b>
- <tr height=19 style='height:14.4pt'>
-  <td><b>2.&#8194;ハカモリを連れ戻そう</b>
- </tr>
-</table>
-
-<h2 id="◈-相关链接-LINKS"><a href="#◈-相关链接-LINKS" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:25px">◈ 相关链接 &#x2F; LINKS</p></h2><p><a target="_blank" href="https://booth.pm/zh-cn/items/2607783"><img src="/img/4.相关链接图/booth.webp" alt="Booth的logo" title="点击跳转至Booth游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://www.freem.ne.jp/win/game/24589"><img src="/img/4.相关链接图/freem.webp" alt="freem的logo" title="点击跳转至Freem!游戏详情页" width="297" height="86" /></a>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v19893"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+<a target="_blank" href="https://vndb.org/v27184"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
 ]]></content>
       <categories>
-        <category>一般向ADV攻略</category>
+        <category>蔷薇向ADV攻略</category>
       </categories>
       <tags>
-        <tag>一般向ADV攻略</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【教程】ns游戏(nsp/xci)解包提取bgm</title>
-    <url>/posts/8.html</url>
-    <content><![CDATA[<p>本想看一眼脚本文件以便制作严谨攻略但失败了(卡在了解密的一步,script是个dat文件，怎么打开都是乱码，那就这样吧)。说不定以后会想听bgm，所以还是记录一下。<br>*本文章含大量对其他文章的引用(仅含链接)，产出为0，本质是个<del>文献综述</del>。</p>
-<h2 id="◈-前期准备"><a href="#◈-前期准备" class="headerlink" title="◈ 前期准备"></a><p style="font-size:25px">◈ 前期准备</p></h2><p>要解包的游戏格式需要是nsp&#x2F;xci，如果不是则需要先转换为nsp，见帖子<a href="https://tieba.baidu.com/p/7690214909">【有手就行】极简好用的NSZ&amp;NSP互转工具</a>，帖子中提到的工具SAK的下载地址：<a href="i6q.cn/5T3qx8">密码i95u</a>。<br>本文将使用以下两个工具：<br>NSCbuilder&#8194;<a href="https://github.com/julesontheroad/NSC_BUILDER">github项目地址</a>&#8194;<a href="https://www.mediafire.com/file/8c021cmj2qtb480/NSCbuilder.zip/file">点击下载</a><br>CRIFileSystem&#8194;<a href="https://www.mediafire.com/file/q65tzkbyh58q0r4/CRIFileSystem.rar/file">点击下载</a></p>
-<h2 id="◈-使用NSCbuilder解包游戏文件"><a href="#◈-使用NSCbuilder解包游戏文件" class="headerlink" title="◈ 使用NSCbuilder解包游戏文件"></a><p style="font-size:25px">◈ 使用NSCbuilder解包游戏文件</p></h2><p>流程见<a href="https://blog.csdn.net/today__present/article/details/123171658">记一次nsp解包</a>第一章（nscbuilder解包游戏文件）。<br>博主拆CollarxMalice的fd的时候写了上面的文章，我阅读时正好在拆CollarxMalice的本篇，<del>但我看配图似乎博主拆的正是本篇。</del></p>
-<h2 id="◈-使用CRIFileSystem解包游戏文件"><a href="#◈-使用CRIFileSystem解包游戏文件" class="headerlink" title="◈ 使用CRIFileSystem解包游戏文件"></a><p style="font-size:25px">◈ 使用CRIFileSystem解包游戏文件</p></h2><p>完成上一步后，使用CRIFileSystem继续解包。<br>上面引用的文章使用CriPakTools解包cpk，但我用了闪退，于是使用CRIFileSystem进行解包。<del>这款工具似乎更多用于实况足球修改球员脸型。</del><br>使用方法见<a href="http://www.3h3.com/patch/259966.html">当游网的软件详情页的资源介绍</a>。</p>
-<h2 id="◈-提取音乐"><a href="#◈-提取音乐" class="headerlink" title="◈ 提取音乐"></a><p style="font-size:25px">◈ 提取音乐</p></h2><p>流程见<a href="https://blog.csdn.net/today__present/article/details/123171658">记一次nsp解包</a>第三章（关于音乐hca转mp3）。</p>
-<h2 id="◈-引用文章"><a href="#◈-引用文章" class="headerlink" title="◈ 引用文章"></a><p style="font-size:25px">◈ 引用文章</p></h2><p>[1]一平步青楼一. 【有手就行】极简好用的NSZ&amp;NSP互转工具 — URL: <a href="https://tieba.baidu.com/p/7690214909">https://tieba.baidu.com/p/7690214909</a><br>[2]today__present. 记一次nsp解包（nscb解包nsp&#x2F;xci，cpk解包，转hca、adx到MP3，转nsm、m2v到MP4方法集锦） — URL: <a href="https://blog.csdn.net/today__present/article/details/123171658">https://blog.csdn.net/today__present/article/details/123171658</a></p>
-]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
+        <tag>蔷薇向ADV攻略</tag>
       </tags>
   </entry>
   <entry>
@@ -4904,6 +4775,150 @@
       </categories>
       <tags>
         <tag>乙女向ADV攻略</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【攻略】Lost Friends1 -Disappeard Name-</title>
+    <url>/posts/7.html</url>
+    <content><![CDATA[<p><a target="_blank" href="https://uzumeya.wixsite.com/lost"><img src="/img/5.游戏官网/lostfriends1.webp" alt="游戏标题图" width="500" title="点击跳转至游戏官网" /></a></p>
+<h2 id="◈-故事梗概-STORYLINE"><a href="#◈-故事梗概-STORYLINE" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:25px">◈ 故事梗概 &#x2F; STORYLINE</p></h2><p>山間の孤村ウルクに暮らす少年キリオには、どうしても許して欲しい相手がいた。<br>それは同じくウルクに生まれたにも関わらず、<br>罪人 「ナナシ」として村を追放されてしまった少年ハカモリのことだ。</p>
+<p>彼に許されるためにキリオは五年もの間ハカモリのもとへ足を運び続けていたが、<br>ある日ジャックと名乗る化け物と出会ったことで事態は思わぬ方向へと動き出してしまう･･････</p>
+<h2 id="◈-攻略-WALKTHROUGH"><a href="#◈-攻略-WALKTHROUGH" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:25px">◈ 攻略 &#x2F; WALKTHROUGH</p></h2><h3 id="◈-流程图"><a href="#◈-流程图" class="headerlink" title="◈ 流程图"></a><p style="font-size:20px">◈ 流程图</p></h3><img src="/img/6.流程图/LostFriends1.webp" alt="游戏流程图" width="500" title="点击放大流程图" />
+<p style="line-height:1"></p>
+
+<p>“1”表示第1个选项，”2”表示第2个选项。</p>
+<h3 id="◈-ED01"><a href="#◈-ED01" class="headerlink" title="◈ ED01"></a><p style="font-size:20px">◈ ED01</p></h3><p style="font-size:17px"><b>ED01:ロストフレンズ</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>2.&#8194;お前に何かあったらハカモリが･･････</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>2.&#8194;同族も悪いものじゃないかも知れないよ</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>1.&#8194;ハカモリと話をしよう</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>2.&#8194;あいつを説得してほしい</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>1.&#8194;村人を止める</b><br>◆&#8194;选择"村人を止めない"通往ED03
+ </tr>
+</table>
+
+<h3 id="◈-ED02"><a href="#◈-ED02" class="headerlink" title="◈ ED02"></a><p style="font-size:20px">◈ ED02</p></h3><p style="font-size:17px"><b>ED02:おいて行かれた</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>1.&#8194;下手に村のみんなを刺激しないでよ<br>2.&#8194;お前に何かあったらハカモリが･･････</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>1.&#8194;拒絶されるに決まってる<br>2.&#8194;同族も悪いものじゃないかも知れないよ</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>1.&#8194;ハカモリと話をしよう</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>1.&#8194;あいつと別れてほしい</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>1.&#8194;村人を止める</b><br>◆&#8194;选择"村人を止めない"通往ED03
+ </tr>
+</table>
+
+<h3 id="◈-ED03"><a href="#◈-ED03" class="headerlink" title="◈ ED03"></a><p style="font-size:20px">◈ ED03</p></h3><p style="font-size:17px"><b>ED03:二度と赦されない</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>1.&#8194;下手に村のみんなを刺激しないでよ<br>2.&#8194;お前に何かあったらハカモリが･･････</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>1.&#8194;拒絶されるに決まってる<br>2.&#8194;同族も悪いものじゃないかも知れないよ</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>1.&#8194;ハカモリと話をしよう</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>1.&#8194;あいつと別れてほしい</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>2.&#8194;村人を止めない</b><br>◆&#8194;选择"村人を止める"通往ED02
+ </tr>
+</table>
+或
+<p style="line-height:1"></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>2.&#8194;お前に何かあったらハカモリが･･････</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>2.&#8194;同族も悪いものじゃないかも知れないよ</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>1.&#8194;ハカモリと話をしよう</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>2.&#8194;あいつを説得してほしい</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>2.&#8194;村人を止めない</b><br>◆&#8194;选择"村人を止める"通往ED01
+ </tr>
+</table>
+
+<h3 id="◈-ED04"><a href="#◈-ED04" class="headerlink" title="◈ ED04"></a><p style="font-size:20px">◈ ED04</p></h3><p style="font-size:17px"><b>ED04: 袋小路のナナシ達</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>1.&#8194;下手に村のみんなを刺激しないでよ</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>1.&#8194;拒絶されるに決まってる<br>2.&#8194;同族も悪いものじゃないかも知れないよ</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>1.&#8194;ハカモリと話をしよう</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>2.&#8194;あいつを説得してほしい</b>
+ </tr>
+</table>
+或
+<p style="line-height:1"></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>2.&#8194;お前に何かあったらハカモリが･･････</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>1.&#8194;拒絶されるに決まってる</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>1.&#8194;ハカモリと話をしよう</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>2.&#8194;あいつを説得してほしい</b>
+ </tr>
+</table>
+
+<h3 id="◈-ED05"><a href="#◈-ED05" class="headerlink" title="◈ ED05"></a><p style="font-size:20px">◈ ED05</p></h3><p style="font-size:17px"><b>ED05:帰還と生誕</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>1.&#8194;下手に村のみんなを刺激しないでよ<br>2.&#8194;お前に何かあったらハカモリが･･････</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>1.&#8194;拒絶されるに決まってる<br>2.&#8194;同族も悪いものじゃないかも知れないよ</b>
+ <tr height=19 style='height:14.4pt'>
+  <td><b>2.&#8194;ハカモリを連れ戻そう</b>
+ </tr>
+</table>
+
+<h2 id="◈-相关链接-LINKS"><a href="#◈-相关链接-LINKS" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:25px">◈ 相关链接 &#x2F; LINKS</p></h2><p><a target="_blank" href="https://booth.pm/zh-cn/items/2607783"><img src="/img/4.相关链接图/booth.webp" alt="Booth的logo" title="点击跳转至Booth游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://www.freem.ne.jp/win/game/24589"><img src="/img/4.相关链接图/freem.webp" alt="freem的logo" title="点击跳转至Freem!游戏详情页" width="297" height="86" /></a>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v19893"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+]]></content>
+      <categories>
+        <category>一般向ADV攻略</category>
+      </categories>
+      <tags>
+        <tag>一般向ADV攻略</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【教程】ns游戏(nsp/xci)解包提取bgm</title>
+    <url>/posts/8.html</url>
+    <content><![CDATA[<p>本想看一眼脚本文件以便制作严谨攻略但失败了(卡在了解密的一步,script是个dat文件，怎么打开都是乱码，那就这样吧)。说不定以后会想听bgm，所以还是记录一下。<br>*本文章含大量对其他文章的引用(仅含链接)，产出为0，本质是个<del>文献综述</del>。</p>
+<h2 id="◈-前期准备"><a href="#◈-前期准备" class="headerlink" title="◈ 前期准备"></a><p style="font-size:25px">◈ 前期准备</p></h2><p>要解包的游戏格式需要是nsp&#x2F;xci，如果不是则需要先转换为nsp，见帖子<a href="https://tieba.baidu.com/p/7690214909">【有手就行】极简好用的NSZ&amp;NSP互转工具</a>，帖子中提到的工具SAK的下载地址：<a href="i6q.cn/5T3qx8">密码i95u</a>。<br>本文将使用以下两个工具：<br>NSCbuilder&#8194;<a href="https://github.com/julesontheroad/NSC_BUILDER">github项目地址</a>&#8194;<a href="https://www.mediafire.com/file/8c021cmj2qtb480/NSCbuilder.zip/file">点击下载</a><br>CRIFileSystem&#8194;<a href="https://www.mediafire.com/file/q65tzkbyh58q0r4/CRIFileSystem.rar/file">点击下载</a></p>
+<h2 id="◈-使用NSCbuilder解包游戏文件"><a href="#◈-使用NSCbuilder解包游戏文件" class="headerlink" title="◈ 使用NSCbuilder解包游戏文件"></a><p style="font-size:25px">◈ 使用NSCbuilder解包游戏文件</p></h2><p>流程见<a href="https://blog.csdn.net/today__present/article/details/123171658">记一次nsp解包</a>第一章（nscbuilder解包游戏文件）。<br>博主拆CollarxMalice的fd的时候写了上面的文章，我阅读时正好在拆CollarxMalice的本篇，<del>但我看配图似乎博主拆的正是本篇。</del></p>
+<h2 id="◈-使用CRIFileSystem解包游戏文件"><a href="#◈-使用CRIFileSystem解包游戏文件" class="headerlink" title="◈ 使用CRIFileSystem解包游戏文件"></a><p style="font-size:25px">◈ 使用CRIFileSystem解包游戏文件</p></h2><p>完成上一步后，使用CRIFileSystem继续解包。<br>上面引用的文章使用CriPakTools解包cpk，但我用了闪退，于是使用CRIFileSystem进行解包。<del>这款工具似乎更多用于实况足球修改球员脸型。</del><br>使用方法见<a href="http://www.3h3.com/patch/259966.html">当游网的软件详情页的资源介绍</a>。</p>
+<h2 id="◈-提取音乐"><a href="#◈-提取音乐" class="headerlink" title="◈ 提取音乐"></a><p style="font-size:25px">◈ 提取音乐</p></h2><p>流程见<a href="https://blog.csdn.net/today__present/article/details/123171658">记一次nsp解包</a>第三章（关于音乐hca转mp3）。</p>
+<h2 id="◈-引用文章"><a href="#◈-引用文章" class="headerlink" title="◈ 引用文章"></a><p style="font-size:25px">◈ 引用文章</p></h2><p>[1]一平步青楼一. 【有手就行】极简好用的NSZ&amp;NSP互转工具 — URL: <a href="https://tieba.baidu.com/p/7690214909">https://tieba.baidu.com/p/7690214909</a><br>[2]today__present. 记一次nsp解包（nscb解包nsp&#x2F;xci，cpk解包，转hca、adx到MP3，转nsm、m2v到MP4方法集锦） — URL: <a href="https://blog.csdn.net/today__present/article/details/123171658">https://blog.csdn.net/today__present/article/details/123171658</a></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
       </tags>
   </entry>
 </search>
