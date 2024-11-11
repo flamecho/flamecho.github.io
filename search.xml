@@ -1,193 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>【攻略】Collar×Malice -Unlimited-（ns港版）</title>
-    <url>/posts/10.html</url>
-    <content><![CDATA[<style>
-.center
-{
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p><a target="_blank" href="https://www.otomate.jp/collar_malice/fd/"><img src="/img/5.游戏官网/collarxmalicefd.jpg" alt="点击跳转至游戏官网" width="500" title="点击跳转至游戏官网" /></a></p>
-<h2 id="◈-故事梗概"><a href="#◈-故事梗概" class="headerlink" title="◈ 故事梗概"></a><p style="font-size:25px">◈ 故事梗概</p></h2><p style="font-size:18px">跨越恶意之后，拼凑未来的碎片。</p>
-解决了连续恶性犯罪事件——通称X-day事件后，<br>
-主人公逐渐找回原本的日常生活。<br>
-追查事件期间，她知晓了无数沉重的真相与哀痛，<br>
-然而她决定背负着一切，<br>
-与【他】携手克服困难，在本作中展开成为恋人后的生活。
-
-<h2 id="◈-攻略流程"><a href="#◈-攻略流程" class="headerlink" title="◈ 攻略流程"></a><p style="font-size:25px">◈ 攻略流程</p></h2><h3 id="◈-共通线"><a href="#◈-共通线" class="headerlink" title="◈ 共通线"></a><p style="font-size:22px">◈ 共通线</p></h3><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
- <col style='width:72.5pt'>
- <col style='width:217.5pt'>
- <tr rowspan=2>
-  <td colspan=2><b>2.&#8194;不能坐视不管<br><div style="color:#d3625d;">1.&#8194;不该做出引人注目的举动&#8194;→&#8194;end</div></b>
- <tr>
-  <td rowspan=4 style='text-align:center'><b>【存档】</b>
-  <td><b>1.&#8194;调查房间<br>3.&#8194;都不是<br>1.&#8194;很久没人住了<br>【分歧】1.&#8194;抓住橘&#8194;→&#8194;榎本峰雄线<br>【分歧】2.&#8194;逃去玄关&#8194;→&#8194;柳爱时线<br><div style="color:#d3625d ;">【分歧】3.&#8194;待在原地不动&#8194;→&#8194;end</b>
- <tr>
-  <td><b>2.&#8194;调查房间里的电脑<br>密码：HERO&#8194;→&#8194;笹冢尊线<br><div style="color:#d3625d ;">一直输错密码&#8194;→&#8194;end<br>解密过程：英文字母第8个是H，<br>替换ZERO的Z得到HERO</div></b>
- <tr>
-  <td><b>3.&#8194;委托鉴定信件<br>2.&#8194;你讨厌吃什么？<br>2.&#8194;小时候无法忘怀的回忆是什么？<br>→&#8194;白石景之线</b>
- <tr>
-  <td><b>4.&#8194;去周边询问，搜集线索<br>射击模式成功&#8194;→&#8194;冈崎契线<br><div style="color:#d3625d ;">射击模式失败&#8194;→&#8194;end</div></b>
- </tr>
-</table>
-</div>
-
-<h3 id="◈-柳-爱时"><a href="#◈-柳-爱时" class="headerlink" title="◈ 柳 爱时"></a><p style="font-size:22px">◈ 柳 爱时</p></h3><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
- <col style='width:72.5pt'>
- <col style='width:217.5pt'>
-  <td rowspan=1 style='text-align:center'><b>cp.1</b>
-  <td><b>2.&#8194;我最喜欢你了！</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.2</b>
-  <td><b>1.&#8194;请多对我撒娇一些</b>
- <tr>
-  <td><b>1.&#8194;我不这么认为</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.3</b>
-  <td><b>2.&#8194;对，还不够</b>
- <tr>
-  <td><b>1.&#8194;我想和你吵架</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.4</b>
-  <td><b>2.&#8194;到时请来参加婚礼</b>
- <tr>
-  <td><b>1.&#8194;去见他&#8194;→&#8194;Best ED<br>通关白石景之线后解锁Adonis篇<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>柳爱时cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
- </tr>
-</table>
-</div>
-
-<h3 id="◈-冈崎-契"><a href="#◈-冈崎-契" class="headerlink" title="◈ 冈崎 契"></a><p style="font-size:22px">◈ 冈崎 契</p></h3><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
- <col style='width:72.5pt'>
- <col style='width:217.5pt'>
-  <td rowspan=2 style='text-align:center'><b>cp.1</b>
-  <td><b>2.&#8194;笑容很温柔</b>
- <tr>
-  <td><b>2.&#8194;我只会对冈崎先生心跳加速</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.2</b>
-  <td><b>1.&#8194;会生气</b>
- <tr>
-  <td><b>2.&#8194;我很高兴</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.3</b>
-  <td><b>1.&#8194;就算不理解，我也喜欢你</b>
- <tr>
-  <td><b>2.&#8194;把你的后半生交给我吧</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.4</b>
-  <td><b>1.&#8194;传贴图&#8194;→&#8194;Best ED<br>解锁Side Story Crossroad(吉成秀明)<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>冈崎契cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
- </tr>
-</table>
-</div>
-
-<h3 id="◈-榎本-峰雄"><a href="#◈-榎本-峰雄" class="headerlink" title="◈ 榎本 峰雄"></a><p style="font-size:22px">◈ 榎本 峰雄</p></h3><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
- <col style='width:72.5pt'>
- <col style='width:217.5pt'>
-  <td rowspan=2 style='text-align:center'><b>cp.1</b>
-  <td><b>2.&#8194;向峰雄先生发出SOS！</b>
- <tr>
-  <td><b>1.&#8194;走到峰雄先生身边</b>
- <tr>
-  <td rowspan=1 style='text-align:center'><b>cp.2</b>
-  <td><b>1.&#8194;原地等待</b>
- <tr>
-  <td rowspan=1 style='text-align:center'><b>cp.3</b>
-  <td><b>1.&#8194;我不觉得</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.4</b>
-  <td><b>1.&#8194;你想喝味增汤吗？</b>
- <tr>
-  <td><b>2.&#8194;有趣的地方&#8194;→&#8194;Best ED<br>解锁Side Story ONWARD(星野香月)<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>榎本峰雄cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
- </tr>
-</table>
-</div>
-
-<h3 id="◈-笹冢-尊"><a href="#◈-笹冢-尊" class="headerlink" title="◈ 笹冢 尊"></a><p style="font-size:22px">◈ 笹冢 尊</p></h3><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
- <col style='width:72.5pt'>
- <col style='width:217.5pt'>
-  <td rowspan=1 style='text-align:center'><b>cp.1</b>
-  <td><b>2.&#8194;尊先生？</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.2</b>
-  <td><b>1.&#8194;可靠</b>
- <tr>
-  <td><b>2.&#8194;我等着你</b>
- <tr>
-  <td rowspan=1 style='text-align:center'><b>cp.3</b>
-  <td><b>1.&#8194;笹冢先生是我的</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.4</b>
-  <td><b>1.&#8194;brother...？&#8194;→&#8194;Best ED<br>解锁Side Story Pride(峰岸诚司)<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>笹冢尊cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
- </tr>
-</table>
-</div>
-
-<h3 id="◈-白石-景之"><a href="#◈-白石-景之" class="headerlink" title="◈ 白石 景之"></a><p style="font-size:22px">◈ 白石 景之</p></h3><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
- <col style='width:72.5pt'>
- <col style='width:72.5pt'>
- <col style='width:145pt'>
-  <td rowspan=1 style='text-align:center'><b>cp.1</b>
-  <td colspan=2><b>2.&#8194;不敢看他</b>
- <tr>
-  <td rowspan=4 style='text-align:center'><b>cp.2</b>
-  <td colspan=2><b>1.&#8194;有非他不可的理由</b>
- <tr>
-  <td colspan=2><b>2.&#8194;因为他认识白石先生</b>
- <tr>
-  <td colspan=2><b>1.&#8194;因为那里的人和白石先生有交情</b>
- <tr>
-  <td colspan=2><b>2.&#8194;很寂寞</b>
- <tr>
-  <td rowspan=6 style='text-align:center'><b>cp.3</b>
-  <td colspan=2><b>3.&#8194;摩天轮</b>
- <tr>
-  <td rowspan=5 style='text-align:center'><b>【解密】<br>繁体中文<br>注音输入<br><font color=#d3625d>一直输错<br>→&#8194;end</font></b>  
-  <td><b>青梅竹馬<br>ㄑㄧㄥ ㄇㄟˊ ㄓㄨˊ ㄇㄚˇ</b>
- <tr>
-  <td><b>相濡以沫<br>ㄒㄧㄤ ㄖㄨˊ ㄧˇ ㄇㄛˋ</b>
- <tr>
-  <td><b>大庭廣眾<br>ㄉㄚˋ ㄊㄧㄥˊ ㄍㄨㄤˇ<br>ㄓㄨㄥˋ</b>
- <tr>
-  <td><b>宮廷<br>ㄍㄨㄥ ㄊㄧㄥˊ</b>
- <tr>
-  <td><b>箱庭<br>ㄒㄧㄤ ㄊㄧㄥˊ</b>
- <tr>
-  <td rowspan=4 style='text-align:center'><b>cp.4</b>
-  <td colspan=2><b>2.&#8194;好幸福</b>
- <tr>
-  <td colspan=2><b>2.&#8194;白石先生身边的人</b>
- <tr>
-  <td colspan=2><b>1.&#8194;柳先生</b>
- <tr>
-  <td colspan=2><b>1.&#8194;不写收件人&#8194;→&#8194;Best ED<br>通关柳爱时线后解锁Adonis篇<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>白石景之cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
- </tr>
-</table>
-</div>
-
-<h2 id="◈-相关链接"><a href="#◈-相关链接" class="headerlink" title="◈ 相关链接"></a><p style="font-size:25px">◈ 相关链接</p></h2><p><a target="_blank" href="https://vndb.org/v21789"><img src="/img/4.相关链接图/vndb.webp" alt="点击跳转至The Visual Novel Database" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a></p>
-]]></content>
-      <categories>
-        <category>游戏攻略</category>
-        <category>乙女向</category>
-      </categories>
-      <tags>
-        <tag>游戏攻略</tag>
-        <tag>乙女向</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【攻略】世界灭亡共有幻想MAMIYA</title>
     <url>/posts/1.html</url>
     <content><![CDATA[<style>
@@ -414,49 +227,190 @@
       </tags>
   </entry>
   <entry>
-    <title>【教程】LunaTranslator配置及使用方法</title>
-    <url>/posts/11.html</url>
-    <content><![CDATA[<h2 id="◈-LunaTranslator是什么？"><a href="#◈-LunaTranslator是什么？" class="headerlink" title="◈ LunaTranslator是什么？"></a><p style="font-size:21px">◈ LunaTranslator是什么？</p></h2><p>LunaTranslator是一款Galgame翻译工具，支持剪贴板、OCR、HOOK，支持40余种翻译引擎。<br>简单来说，它可以提取游戏文本并生成一个翻译窗口，帮助你游玩非中文的游戏（啃生肉）。<br>项目主页：<a href="https://github.com/HIllya51/LunaTranslator">点击跳转至github</a><br>最新版本：<a href="https://github.com/HIllya51/LunaTranslator/releases">点击LunaTranslator.zip下载</a><br>备用下载链接：<a href="https://www.mediafire.com/file/9scndgit2joo9w5/LunaTranslator.zip/file">Mediafire</a></p>
-<h2 id="◈-启动"><a href="#◈-启动" class="headerlink" title="◈ 启动"></a><p style="font-size:21px">◈ 启动</p></h2><p>下载并解压”LunaTranslator.zip”，双击”LunaTranslator.exe”启动。<br></p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/1.png" alt="翻译器启动程序图" title="双击第一个即可。第二个是管理员模式。" /></div>
+    <title>【攻略】Collar×Malice -Unlimited-（ns港版）</title>
+    <url>/posts/10.html</url>
+    <content><![CDATA[<style>
+.center
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 
-<h2 id="◈-设置"><a href="#◈-设置" class="headerlink" title="◈ 设置"></a><p style="font-size:21px">◈ 设置</p></h2><p>点击从左往右第三个（小齿轮）进入设置。<br></p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/2513bae783f4c2f2f.png" alt="翻译窗口图" title="翻译窗口" /></div>
-在翻译前先对软件进行如下设置：
+<p><a target="_blank" href="https://www.otomate.jp/collar_malice/fd/"><img src="/img/5.游戏官网/collarxmalicefd.jpg" alt="点击跳转至游戏官网" width="500" title="点击跳转至游戏官网" /></a></p>
+<h2 id="◈-故事梗概"><a href="#◈-故事梗概" class="headerlink" title="◈ 故事梗概"></a><p style="font-size:25px">◈ 故事梗概</p></h2><p style="font-size:18px">跨越恶意之后，拼凑未来的碎片。</p>
+解决了连续恶性犯罪事件——通称X-day事件后，<br>
+主人公逐渐找回原本的日常生活。<br>
+追查事件期间，她知晓了无数沉重的真相与哀痛，<br>
+然而她决定背负着一切，<br>
+与【他】携手克服困难，在本作中展开成为恋人后的生活。
 
-<h3 id="◈-翻译设置"><a href="#◈-翻译设置" class="headerlink" title="◈ 翻译设置"></a><p style="font-size:19px">◈ 翻译设置</p></h3><div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/3.png" alt="翻译设置图" title="翻译设置" /></div>
-上图是我的设置。该设置作用于<b><font color=#d3625d>HOOK翻译</font></b>，OCR设置在<b><font color=#d3625d>[文本输入]</font></b>。<br>
-玩英文游戏建议提高<b><font color=#d3625d>[最长翻译字数]</font></b>，我的经验是特殊情况1000不够，保险设为2000。<br>
-<b><font color=#d3625d>[翻译请求间隔]</font></b>设为0或保持不变皆可。<br>
-<b><font color=#d3625d>[均衡负载]</font></b>打开，<b><font color=#d3625d>[单次负载个数]</font></b>设为你想同时出现的翻译个数。<br>
-底下是翻译源，想用就<b><font color=#d3625d>[打钩]</font></b>，后面<b><font color=#d3625d>[画笔]</font></b>选字体颜色。翻译源可以选多个，反应越快越在上面。<br>
-<b><font color=#d3625d>[注册在线翻译]</font></b>需要调用API，点击右侧小齿轮中的链接自行获取APPID和KEY，填入即可。
+<h2 id="◈-攻略流程"><a href="#◈-攻略流程" class="headerlink" title="◈ 攻略流程"></a><p style="font-size:25px">◈ 攻略流程</p></h2><h3 id="◈-共通线"><a href="#◈-共通线" class="headerlink" title="◈ 共通线"></a><p style="font-size:22px">◈ 共通线</p></h3><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
+ <col style='width:72.5pt'>
+ <col style='width:217.5pt'>
+ <tr rowspan=2>
+  <td colspan=2><b>2.&#8194;不能坐视不管<br><div style="color:#d3625d;">1.&#8194;不该做出引人注目的举动&#8194;→&#8194;end</div></b>
+ <tr>
+  <td rowspan=4 style='text-align:center'><b>【存档】</b>
+  <td><b>1.&#8194;调查房间<br>3.&#8194;都不是<br>1.&#8194;很久没人住了<br>【分歧】1.&#8194;抓住橘&#8194;→&#8194;榎本峰雄线<br>【分歧】2.&#8194;逃去玄关&#8194;→&#8194;柳爱时线<br><div style="color:#d3625d ;">【分歧】3.&#8194;待在原地不动&#8194;→&#8194;end</b>
+ <tr>
+  <td><b>2.&#8194;调查房间里的电脑<br>密码：HERO&#8194;→&#8194;笹冢尊线<br><div style="color:#d3625d ;">一直输错密码&#8194;→&#8194;end<br>解密过程：英文字母第8个是H，<br>替换ZERO的Z得到HERO</div></b>
+ <tr>
+  <td><b>3.&#8194;委托鉴定信件<br>2.&#8194;你讨厌吃什么？<br>2.&#8194;小时候无法忘怀的回忆是什么？<br>→&#8194;白石景之线</b>
+ <tr>
+  <td><b>4.&#8194;去周边询问，搜集线索<br>射击模式成功&#8194;→&#8194;冈崎契线<br><div style="color:#d3625d ;">射击模式失败&#8194;→&#8194;end</div></b>
+ </tr>
+</table>
+</div>
 
-<h3 id="◈-显示设置"><a href="#◈-显示设置" class="headerlink" title="◈ 显示设置"></a><p style="font-size:19px">◈ 显示设置</p></h3><p>按照需求修改。保持默认也可以。</p>
-<h3 id="◈-文本处理"><a href="#◈-文本处理" class="headerlink" title="◈ 文本处理"></a><p style="font-size:19px">◈ 文本处理</p></h3><p><b><font color=#d3625d>[文本预处理]</font></b>建议如下图设置，其他选项遇到特殊情况时再按需设置。<br>读取的文本缺字的话把去除重复字符&#x2F;行看情况关掉。<br></p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/4.png" alt="文本处理图" title="文本处理" /></div>
-在<b><font color=#d3625d>[使用专有名词翻译]</font></b>中对游戏内的专有名词（人名、地名等）进行手动收录，在之后的翻译中将进行替换。<br>
-在打开游戏的情况下点击<b><font color=#d3625d>[使用专有名词翻译]</font></b>右侧的小齿轮，点击<b><font color=#d3625d>[添加行]</font></b>，然后在<b><font color=#d3625d>[日文]</font></b>一栏输入原文，在<b><font color=#d3625d>[翻译]</font></b>一栏输入想要替换的词，完成后右上角点X退出即可。<br>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/5.png" alt="专有名词翻译设置图" title="专有名词翻译设置" /></div>
-如图所示，即在翻译时该游戏中的所有“トワ”都将翻译为“Towa”。
+<h3 id="◈-柳-爱时"><a href="#◈-柳-爱时" class="headerlink" title="◈ 柳 爱时"></a><p style="font-size:22px">◈ 柳 爱时</p></h3><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
+ <col style='width:72.5pt'>
+ <col style='width:217.5pt'>
+  <td rowspan=1 style='text-align:center'><b>cp.1</b>
+  <td><b>2.&#8194;我最喜欢你了！</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.2</b>
+  <td><b>1.&#8194;请多对我撒娇一些</b>
+ <tr>
+  <td><b>1.&#8194;我不这么认为</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.3</b>
+  <td><b>2.&#8194;对，还不够</b>
+ <tr>
+  <td><b>1.&#8194;我想和你吵架</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.4</b>
+  <td><b>2.&#8194;到时请来参加婚礼</b>
+ <tr>
+  <td><b>1.&#8194;去见他&#8194;→&#8194;Best ED<br>通关白石景之线后解锁Adonis篇<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>柳爱时cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
+ </tr>
+</table>
+</div>
 
-<h3 id="◈-语言设置"><a href="#◈-语言设置" class="headerlink" title="◈ 语言设置"></a><p style="font-size:19px">◈ 语言设置</p></h3><p>开始翻译前记得确认<b><font color=#d3625d>[源语言]</font></b>是否与游戏相对应。</p>
-<h3 id="◈-文本输入"><a href="#◈-文本输入" class="headerlink" title="◈ 文本输入"></a><p style="font-size:19px">◈ 文本输入</p></h3><h4 id="◈-HOOK翻译"><a href="#◈-HOOK翻译" class="headerlink" title="◈ HOOK翻译"></a><p style="font-size:17px">◈ HOOK翻译</p></h4><p>1.在<b><font color=#d3625d>[选择文本输入源]</font></b>下的<b><font color=#d3625d>[HOOK]</font></b>后打钩。<br>2.点击<b><font color=#d3625d>[HOOK设置]</font></b>-<b><font color=#d3625d>[选择游戏]</font></b>右侧的小齿轮，选择游戏进程，点击<b><font color=#d3625d>[OK]</font></b>。<br>3.点击几下游戏，使游戏内文本刷新。<br>4.如下图所示，在正确的行前打钩，然后点击右上角X关闭。</p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/6.png" alt="Hook翻译界面" title="HOOK翻译" /></div>
-5.调出翻译窗口，可能在电脑右下角任务栏里，点击图标即可。<br>
-6.此时翻译器应当可以正常工作，点击游戏等待翻译即可。
+<h3 id="◈-冈崎-契"><a href="#◈-冈崎-契" class="headerlink" title="◈ 冈崎 契"></a><p style="font-size:22px">◈ 冈崎 契</p></h3><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
+ <col style='width:72.5pt'>
+ <col style='width:217.5pt'>
+  <td rowspan=2 style='text-align:center'><b>cp.1</b>
+  <td><b>2.&#8194;笑容很温柔</b>
+ <tr>
+  <td><b>2.&#8194;我只会对冈崎先生心跳加速</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.2</b>
+  <td><b>1.&#8194;会生气</b>
+ <tr>
+  <td><b>2.&#8194;我很高兴</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.3</b>
+  <td><b>1.&#8194;就算不理解，我也喜欢你</b>
+ <tr>
+  <td><b>2.&#8194;把你的后半生交给我吧</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.4</b>
+  <td><b>1.&#8194;传贴图&#8194;→&#8194;Best ED<br>解锁Side Story Crossroad(吉成秀明)<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>冈崎契cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
+ </tr>
+</table>
+</div>
 
-<h4 id="◈-OCR翻译"><a href="#◈-OCR翻译" class="headerlink" title="◈ OCR翻译"></a><p style="font-size:17px">◈ OCR翻译</p></h4><p>1.在<b><font color=#d3625d>[选择文本输入源]</font></b>下的<b><font color=#d3625d>[OCR]</font></b>后打钩。<br>2.<b><font color=#d3625d> [OCR设置]</font></b>下按需调整，<b><font color=#d3625d>[执行周期]</font></b>指每几秒进行一次截图翻译，我设置为1.0，即每秒进行一次翻译。<br>3.调出翻译窗口，可能在电脑右下角任务栏里，点击图标即可。</p>
-<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/7.png" alt="OCR翻译界面" title="OCR翻译" /></div>
-4.点击翻译窗口中的<b><font color=#d3625d>[选取OCR范围]</font></b>，框选想要截图翻译的文本区域。<br>
-5.点击翻译窗口中的<b><font color=#d3625d>[显示/隐藏文本框]</font></b>。（为了不挡画面）<br>
-6.此时翻译器应当可以正常工作，点击游戏等待翻译即可。
+<h3 id="◈-榎本-峰雄"><a href="#◈-榎本-峰雄" class="headerlink" title="◈ 榎本 峰雄"></a><p style="font-size:22px">◈ 榎本 峰雄</p></h3><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
+ <col style='width:72.5pt'>
+ <col style='width:217.5pt'>
+  <td rowspan=2 style='text-align:center'><b>cp.1</b>
+  <td><b>2.&#8194;向峰雄先生发出SOS！</b>
+ <tr>
+  <td><b>1.&#8194;走到峰雄先生身边</b>
+ <tr>
+  <td rowspan=1 style='text-align:center'><b>cp.2</b>
+  <td><b>1.&#8194;原地等待</b>
+ <tr>
+  <td rowspan=1 style='text-align:center'><b>cp.3</b>
+  <td><b>1.&#8194;我不觉得</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.4</b>
+  <td><b>1.&#8194;你想喝味增汤吗？</b>
+ <tr>
+  <td><b>2.&#8194;有趣的地方&#8194;→&#8194;Best ED<br>解锁Side Story ONWARD(星野香月)<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>榎本峰雄cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
+ </tr>
+</table>
+</div>
+
+<h3 id="◈-笹冢-尊"><a href="#◈-笹冢-尊" class="headerlink" title="◈ 笹冢 尊"></a><p style="font-size:22px">◈ 笹冢 尊</p></h3><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
+ <col style='width:72.5pt'>
+ <col style='width:217.5pt'>
+  <td rowspan=1 style='text-align:center'><b>cp.1</b>
+  <td><b>2.&#8194;尊先生？</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.2</b>
+  <td><b>1.&#8194;可靠</b>
+ <tr>
+  <td><b>2.&#8194;我等着你</b>
+ <tr>
+  <td rowspan=1 style='text-align:center'><b>cp.3</b>
+  <td><b>1.&#8194;笹冢先生是我的</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.4</b>
+  <td><b>1.&#8194;brother...？&#8194;→&#8194;Best ED<br>解锁Side Story Pride(峰岸诚司)<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>笹冢尊cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
+ </tr>
+</table>
+</div>
+
+<h3 id="◈-白石-景之"><a href="#◈-白石-景之" class="headerlink" title="◈ 白石 景之"></a><p style="font-size:22px">◈ 白石 景之</p></h3><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:290pt'>
+ <col style='width:72.5pt'>
+ <col style='width:72.5pt'>
+ <col style='width:145pt'>
+  <td rowspan=1 style='text-align:center'><b>cp.1</b>
+  <td colspan=2><b>2.&#8194;不敢看他</b>
+ <tr>
+  <td rowspan=4 style='text-align:center'><b>cp.2</b>
+  <td colspan=2><b>1.&#8194;有非他不可的理由</b>
+ <tr>
+  <td colspan=2><b>2.&#8194;因为他认识白石先生</b>
+ <tr>
+  <td colspan=2><b>1.&#8194;因为那里的人和白石先生有交情</b>
+ <tr>
+  <td colspan=2><b>2.&#8194;很寂寞</b>
+ <tr>
+  <td rowspan=6 style='text-align:center'><b>cp.3</b>
+  <td colspan=2><b>3.&#8194;摩天轮</b>
+ <tr>
+  <td rowspan=5 style='text-align:center'><b>【解密】<br>繁体中文<br>注音输入<br><font color=#d3625d>一直输错<br>→&#8194;end</font></b>  
+  <td><b>青梅竹馬<br>ㄑㄧㄥ ㄇㄟˊ ㄓㄨˊ ㄇㄚˇ</b>
+ <tr>
+  <td><b>相濡以沫<br>ㄒㄧㄤ ㄖㄨˊ ㄧˇ ㄇㄛˋ</b>
+ <tr>
+  <td><b>大庭廣眾<br>ㄉㄚˋ ㄊㄧㄥˊ ㄍㄨㄤˇ<br>ㄓㄨㄥˋ</b>
+ <tr>
+  <td><b>宮廷<br>ㄍㄨㄥ ㄊㄧㄥˊ</b>
+ <tr>
+  <td><b>箱庭<br>ㄒㄧㄤ ㄊㄧㄥˊ</b>
+ <tr>
+  <td rowspan=4 style='text-align:center'><b>cp.4</b>
+  <td colspan=2><b>2.&#8194;好幸福</b>
+ <tr>
+  <td colspan=2><b>2.&#8194;白石先生身边的人</b>
+ <tr>
+  <td colspan=2><b>1.&#8194;柳先生</b>
+ <tr>
+  <td colspan=2><b>1.&#8194;不写收件人&#8194;→&#8194;Best ED<br>通关柳爱时线后解锁Adonis篇<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>白石景之cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
+ </tr>
+</table>
+</div>
+
+<h2 id="◈-相关链接"><a href="#◈-相关链接" class="headerlink" title="◈ 相关链接"></a><p style="font-size:25px">◈ 相关链接</p></h2><p><a target="_blank" href="https://vndb.org/v21789"><img src="/img/4.相关链接图/vndb.webp" alt="点击跳转至The Visual Novel Database" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a></p>
 ]]></content>
       <categories>
-        <category>教程</category>
+        <category>游戏攻略</category>
+        <category>乙女向</category>
       </categories>
       <tags>
-        <tag>教程</tag>
+        <tag>游戏攻略</tag>
+        <tag>乙女向</tag>
       </tags>
   </entry>
   <entry>
@@ -880,6 +834,52 @@
       <tags>
         <tag>游戏攻略</tag>
         <tag>乙女向</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【教程】LunaTranslator配置及使用方法</title>
+    <url>/posts/11.html</url>
+    <content><![CDATA[<h2 id="◈-LunaTranslator是什么？"><a href="#◈-LunaTranslator是什么？" class="headerlink" title="◈ LunaTranslator是什么？"></a><p style="font-size:21px">◈ LunaTranslator是什么？</p></h2><p>LunaTranslator是一款Galgame翻译工具，支持剪贴板、OCR、HOOK，支持40余种翻译引擎。<br>简单来说，它可以提取游戏文本并生成一个翻译窗口，帮助你游玩非中文的游戏（啃生肉）。<br>项目主页：<a href="https://github.com/HIllya51/LunaTranslator">点击跳转至github</a><br>最新版本：<a href="https://github.com/HIllya51/LunaTranslator/releases">点击LunaTranslator.zip下载</a><br>备用下载链接：<a href="https://www.mediafire.com/file/9scndgit2joo9w5/LunaTranslator.zip/file">Mediafire</a></p>
+<h2 id="◈-启动"><a href="#◈-启动" class="headerlink" title="◈ 启动"></a><p style="font-size:21px">◈ 启动</p></h2><p>下载并解压”LunaTranslator.zip”，双击”LunaTranslator.exe”启动。<br></p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/1.png" alt="翻译器启动程序图" title="双击第一个即可。第二个是管理员模式。" /></div>
+
+<h2 id="◈-设置"><a href="#◈-设置" class="headerlink" title="◈ 设置"></a><p style="font-size:21px">◈ 设置</p></h2><p>点击从左往右第三个（小齿轮）进入设置。<br></p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/2513bae783f4c2f2f.png" alt="翻译窗口图" title="翻译窗口" /></div>
+在翻译前先对软件进行如下设置：
+
+<h3 id="◈-翻译设置"><a href="#◈-翻译设置" class="headerlink" title="◈ 翻译设置"></a><p style="font-size:19px">◈ 翻译设置</p></h3><div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/3.png" alt="翻译设置图" title="翻译设置" /></div>
+上图是我的设置。该设置作用于<b><font color=#d3625d>HOOK翻译</font></b>，OCR设置在<b><font color=#d3625d>[文本输入]</font></b>。<br>
+玩英文游戏建议提高<b><font color=#d3625d>[最长翻译字数]</font></b>，我的经验是特殊情况1000不够，保险设为2000。<br>
+<b><font color=#d3625d>[翻译请求间隔]</font></b>设为0或保持不变皆可。<br>
+<b><font color=#d3625d>[均衡负载]</font></b>打开，<b><font color=#d3625d>[单次负载个数]</font></b>设为你想同时出现的翻译个数。<br>
+底下是翻译源，想用就<b><font color=#d3625d>[打钩]</font></b>，后面<b><font color=#d3625d>[画笔]</font></b>选字体颜色。翻译源可以选多个，反应越快越在上面。<br>
+<b><font color=#d3625d>[注册在线翻译]</font></b>需要调用API，点击右侧小齿轮中的链接自行获取APPID和KEY，填入即可。
+
+<h3 id="◈-显示设置"><a href="#◈-显示设置" class="headerlink" title="◈ 显示设置"></a><p style="font-size:19px">◈ 显示设置</p></h3><p>按照需求修改。保持默认也可以。</p>
+<h3 id="◈-文本处理"><a href="#◈-文本处理" class="headerlink" title="◈ 文本处理"></a><p style="font-size:19px">◈ 文本处理</p></h3><p><b><font color=#d3625d>[文本预处理]</font></b>建议如下图设置，其他选项遇到特殊情况时再按需设置。<br>读取的文本缺字的话把去除重复字符&#x2F;行看情况关掉。<br></p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/4.png" alt="文本处理图" title="文本处理" /></div>
+在<b><font color=#d3625d>[使用专有名词翻译]</font></b>中对游戏内的专有名词（人名、地名等）进行手动收录，在之后的翻译中将进行替换。<br>
+在打开游戏的情况下点击<b><font color=#d3625d>[使用专有名词翻译]</font></b>右侧的小齿轮，点击<b><font color=#d3625d>[添加行]</font></b>，然后在<b><font color=#d3625d>[日文]</font></b>一栏输入原文，在<b><font color=#d3625d>[翻译]</font></b>一栏输入想要替换的词，完成后右上角点X退出即可。<br>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/5.png" alt="专有名词翻译设置图" title="专有名词翻译设置" /></div>
+如图所示，即在翻译时该游戏中的所有“トワ”都将翻译为“Towa”。
+
+<h3 id="◈-语言设置"><a href="#◈-语言设置" class="headerlink" title="◈ 语言设置"></a><p style="font-size:19px">◈ 语言设置</p></h3><p>开始翻译前记得确认<b><font color=#d3625d>[源语言]</font></b>是否与游戏相对应。</p>
+<h3 id="◈-文本输入"><a href="#◈-文本输入" class="headerlink" title="◈ 文本输入"></a><p style="font-size:19px">◈ 文本输入</p></h3><h4 id="◈-HOOK翻译"><a href="#◈-HOOK翻译" class="headerlink" title="◈ HOOK翻译"></a><p style="font-size:17px">◈ HOOK翻译</p></h4><p>1.在<b><font color=#d3625d>[选择文本输入源]</font></b>下的<b><font color=#d3625d>[HOOK]</font></b>后打钩。<br>2.点击<b><font color=#d3625d>[HOOK设置]</font></b>-<b><font color=#d3625d>[选择游戏]</font></b>右侧的小齿轮，选择游戏进程，点击<b><font color=#d3625d>[OK]</font></b>。<br>3.点击几下游戏，使游戏内文本刷新。<br>4.如下图所示，在正确的行前打钩，然后点击右上角X关闭。</p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/6.png" alt="Hook翻译界面" title="HOOK翻译" /></div>
+5.调出翻译窗口，可能在电脑右下角任务栏里，点击图标即可。<br>
+6.此时翻译器应当可以正常工作，点击游戏等待翻译即可。
+
+<h4 id="◈-OCR翻译"><a href="#◈-OCR翻译" class="headerlink" title="◈ OCR翻译"></a><p style="font-size:17px">◈ OCR翻译</p></h4><p>1.在<b><font color=#d3625d>[选择文本输入源]</font></b>下的<b><font color=#d3625d>[OCR]</font></b>后打钩。<br>2.<b><font color=#d3625d> [OCR设置]</font></b>下按需调整，<b><font color=#d3625d>[执行周期]</font></b>指每几秒进行一次截图翻译，我设置为1.0，即每秒进行一次翻译。<br>3.调出翻译窗口，可能在电脑右下角任务栏里，点击图标即可。</p>
+<div style="display:block;"><img src="https://cdnjson.com/images/2023/09/10/7.png" alt="OCR翻译界面" title="OCR翻译" /></div>
+4.点击翻译窗口中的<b><font color=#d3625d>[选取OCR范围]</font></b>，框选想要截图翻译的文本区域。<br>
+5.点击翻译窗口中的<b><font color=#d3625d>[显示/隐藏文本框]</font></b>。（为了不挡画面）<br>
+6.此时翻译器应当可以正常工作，点击游戏等待翻译即可。
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
@@ -1534,6 +1534,22 @@
       </tags>
   </entry>
   <entry>
+    <title>【教程】Lucky dog 1安装教程</title>
+    <url>/posts/15.html</url>
+    <content><![CDATA[<p><b>&#12288;&#12288;安装遇到问题的话可以查看这个：</b><br><a target="_blank" href="https://www.flamecho.top/posts/27.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/27.html</span></span></span></a></p>
+<h2 id="◈-安装"><a href="#◈-安装" class="headerlink" title="◈ 安装"></a><p style="font-size:25px">◈ 安装</p></h2><p><b><font color=#d3625d>&#12288;&#12288;免安装版安装方式是：双击注册表，按回车，双击LD1.exe。以下是光驱版的安装教程。</font></b><br><img src="/img/11.luckydog1安装教程/1.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/2.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/3.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/4.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/5.png" alt="安装教程_Lucky dog 1" /><br><b><font color=#d3625d>&#12288;&#12288;注：上一步↑找不到装载的话：右键-打开方式-Windows资源管理器，然后继续进行下一步↓</font></b><br><img src="/img/11.luckydog1安装教程/6.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/7.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/8.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/9.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/10.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/11.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/12.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/13.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/14.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/15.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/16.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/17.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/18.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/19.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/20.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/21.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/22.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/23.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/24.png" alt="安装教程_Lucky dog 1" /></p>
+<h2 id="◈-卸载"><a href="#◈-卸载" class="headerlink" title="◈ 卸载"></a><p style="font-size:25px">◈ 卸载</p></h2><img src="/img/11.luckydog1安装教程/25.png" alt="安装教程_Lucky dog 1" />
+<img src="/img/11.luckydog1安装教程/26.png" alt="安装教程_Lucky dog 1" />
+<img src="/img/11.luckydog1安装教程/27.png" alt="安装教程_Lucky dog 1" />
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【教程】神学校 -Noli me tangere-安装教程</title>
     <url>/posts/16.html</url>
     <content><![CDATA[<p><b>&#12288;&#12288;安装遇到问题的话可以查看这个：</b><br><a target="_blank" href="https://www.flamecho.top/posts/27.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/27.html</span></span></span></a></p>
@@ -1559,22 +1575,6 @@
 <img src="/img/12.神学校安装教程/18.png" alt="安装教程_神学校 -Noli me tangere-" />
 
 <h2 id="◈-卸载"><a href="#◈-卸载" class="headerlink" title="◈ 卸载"></a><p style="font-size:25px">◈ 卸载</p></h2><p><b>&#12288;&#12288;把文件夹删掉即可。</b></p>
-]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【教程】Lucky dog 1安装教程</title>
-    <url>/posts/15.html</url>
-    <content><![CDATA[<p><b>&#12288;&#12288;安装遇到问题的话可以查看这个：</b><br><a target="_blank" href="https://www.flamecho.top/posts/27.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/27.html</span></span></span></a></p>
-<h2 id="◈-安装"><a href="#◈-安装" class="headerlink" title="◈ 安装"></a><p style="font-size:25px">◈ 安装</p></h2><p><b><font color=#d3625d>&#12288;&#12288;免安装版安装方式是：双击注册表，按回车，双击LD1.exe。以下是光驱版的安装教程。</font></b><br><img src="/img/11.luckydog1安装教程/1.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/2.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/3.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/4.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/5.png" alt="安装教程_Lucky dog 1" /><br><b><font color=#d3625d>&#12288;&#12288;注：上一步↑找不到装载的话：右键-打开方式-Windows资源管理器，然后继续进行下一步↓</font></b><br><img src="/img/11.luckydog1安装教程/6.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/7.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/8.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/9.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/10.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/11.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/12.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/13.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/14.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/15.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/16.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/17.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/18.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/19.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/20.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/21.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/22.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/23.png" alt="安装教程_Lucky dog 1" /><br><img src="/img/11.luckydog1安装教程/24.png" alt="安装教程_Lucky dog 1" /></p>
-<h2 id="◈-卸载"><a href="#◈-卸载" class="headerlink" title="◈ 卸载"></a><p style="font-size:25px">◈ 卸载</p></h2><img src="/img/11.luckydog1安装教程/25.png" alt="安装教程_Lucky dog 1" />
-<img src="/img/11.luckydog1安装教程/26.png" alt="安装教程_Lucky dog 1" />
-<img src="/img/11.luckydog1安装教程/27.png" alt="安装教程_Lucky dog 1" />
 ]]></content>
       <categories>
         <category>教程</category>
@@ -2127,6 +2127,39 @@
       </tags>
   </entry>
   <entry>
+    <title>【教程】PigeonBlood鸽子血安装教程</title>
+    <url>/posts/20.html</url>
+    <content><![CDATA[<p><b>&#12288;&#12288;安装遇到问题的话可以查看这个：</b><br><a target="_blank" href="https://www.flamecho.top/posts/27.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/27.html</span></span></span></a><b>&#12288;&#12288;汉化补丁请访问百度贴吧自行获取 <a href="https://tieba.baidu.com/p/8834667748">点击跳转至百度贴吧</a><br>&#12288;&#12288;日文版游戏本体分享 <a href="https://www.mediafire.com/file/easkhlnuvyk1mws/%255BJP%255DPigeon_Blood.exe/file">点击跳转至Mediafire</a><br>&#12288;&#12288;游戏正版购买链接 <a href="https://www.animategames.jp/home/detail/30079">点击跳转至Animate Games</a><br>&#12288;&#12288;游戏相关信息 <a href="https://vndb.org/v10773">点击跳转至The Visual Novel Database</a></b></p>
+<h2 id="◈-安装"><a href="#◈-安装" class="headerlink" title="◈ 安装"></a><p style="font-size:25px">◈ 安装</p></h2><img src="/img/14.PigeonBlood鸽子血安装教程/1.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/2.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/3.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/4.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/5.png" alt="安装教程_PigeonBlood鸽子血" />
+<b><font color=#d3625d>&#12288;&#12288;注：上一步↑没反应的话：右键-打开方式-Windows资源管理器，然后继续进行下一步↓</font></b>
+<img src="/img/14.PigeonBlood鸽子血安装教程/6.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/7.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/8.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/9.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/10.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/11.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/12.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/13.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/14.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/15.png" alt="安装教程_PigeonBlood鸽子血" />
+<img src="/img/14.PigeonBlood鸽子血安装教程/16.png" alt="安装教程_PigeonBlood鸽子血" />
+<b><font color=#d3625d>&#12288;&#12288;注：不汉化，游玩日文版的话，不弹出↑，每次打开游戏前都要装载（双击）pigeonblood.ISO。</font></b>
+
+<h2 id="◈-汉化"><a href="#◈-汉化" class="headerlink" title="◈ 汉化"></a><p style="font-size:25px">◈ 汉化</p></h2><p><b><font color=#d3625d>&#12288;&#12288;仅提供安装教程，解压密码等问题请于<a href="https://tieba.baidu.com/p/8834667748">百度贴吧（点击跳转）</a>自行查找。感谢汉化组的付出。</font></b><br><img src="/img/14.PigeonBlood鸽子血安装教程/17.png" alt="安装教程_PigeonBlood鸽子血" /><br><img src="/img/14.PigeonBlood鸽子血安装教程/18.png" alt="安装教程_PigeonBlood鸽子血" /><br><img src="/img/14.PigeonBlood鸽子血安装教程/19.png" alt="安装教程_PigeonBlood鸽子血" /></p>
+<h2 id="◈-卸载"><a href="#◈-卸载" class="headerlink" title="◈ 卸载"></a><p style="font-size:25px">◈ 卸载</p></h2><img src="/img/14.PigeonBlood鸽子血安装教程/20.png" alt="安装教程_PigeonBlood鸽子血" />
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【攻略】Code︰Realize ～祝福的未来～（ns港版）</title>
     <url>/posts/21.html</url>
     <content><![CDATA[<style>
@@ -2220,39 +2253,6 @@
       <tags>
         <tag>游戏攻略</tag>
         <tag>乙女向</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【教程】PigeonBlood鸽子血安装教程</title>
-    <url>/posts/20.html</url>
-    <content><![CDATA[<p><b>&#12288;&#12288;安装遇到问题的话可以查看这个：</b><br><a target="_blank" href="https://www.flamecho.top/posts/27.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/27.html</span></span></span></a><b>&#12288;&#12288;汉化补丁请访问百度贴吧自行获取 <a href="https://tieba.baidu.com/p/8834667748">点击跳转至百度贴吧</a><br>&#12288;&#12288;日文版游戏本体分享 <a href="https://www.mediafire.com/file/easkhlnuvyk1mws/%255BJP%255DPigeon_Blood.exe/file">点击跳转至Mediafire</a><br>&#12288;&#12288;游戏正版购买链接 <a href="https://www.animategames.jp/home/detail/30079">点击跳转至Animate Games</a><br>&#12288;&#12288;游戏相关信息 <a href="https://vndb.org/v10773">点击跳转至The Visual Novel Database</a></b></p>
-<h2 id="◈-安装"><a href="#◈-安装" class="headerlink" title="◈ 安装"></a><p style="font-size:25px">◈ 安装</p></h2><img src="/img/14.PigeonBlood鸽子血安装教程/1.png" alt="安装教程_PigeonBlood鸽子血" />
-<img src="/img/14.PigeonBlood鸽子血安装教程/2.png" alt="安装教程_PigeonBlood鸽子血" />
-<img src="/img/14.PigeonBlood鸽子血安装教程/3.png" alt="安装教程_PigeonBlood鸽子血" />
-<img src="/img/14.PigeonBlood鸽子血安装教程/4.png" alt="安装教程_PigeonBlood鸽子血" />
-<img src="/img/14.PigeonBlood鸽子血安装教程/5.png" alt="安装教程_PigeonBlood鸽子血" />
-<b><font color=#d3625d>&#12288;&#12288;注：上一步↑没反应的话：右键-打开方式-Windows资源管理器，然后继续进行下一步↓</font></b>
-<img src="/img/14.PigeonBlood鸽子血安装教程/6.png" alt="安装教程_PigeonBlood鸽子血" />
-<img src="/img/14.PigeonBlood鸽子血安装教程/7.png" alt="安装教程_PigeonBlood鸽子血" />
-<img src="/img/14.PigeonBlood鸽子血安装教程/8.png" alt="安装教程_PigeonBlood鸽子血" />
-<img src="/img/14.PigeonBlood鸽子血安装教程/9.png" alt="安装教程_PigeonBlood鸽子血" />
-<img src="/img/14.PigeonBlood鸽子血安装教程/10.png" alt="安装教程_PigeonBlood鸽子血" />
-<img src="/img/14.PigeonBlood鸽子血安装教程/11.png" alt="安装教程_PigeonBlood鸽子血" />
-<img src="/img/14.PigeonBlood鸽子血安装教程/12.png" alt="安装教程_PigeonBlood鸽子血" />
-<img src="/img/14.PigeonBlood鸽子血安装教程/13.png" alt="安装教程_PigeonBlood鸽子血" />
-<img src="/img/14.PigeonBlood鸽子血安装教程/14.png" alt="安装教程_PigeonBlood鸽子血" />
-<img src="/img/14.PigeonBlood鸽子血安装教程/15.png" alt="安装教程_PigeonBlood鸽子血" />
-<img src="/img/14.PigeonBlood鸽子血安装教程/16.png" alt="安装教程_PigeonBlood鸽子血" />
-<b><font color=#d3625d>&#12288;&#12288;注：不汉化，游玩日文版的话，不弹出↑，每次打开游戏前都要装载（双击）pigeonblood.ISO。</font></b>
-
-<h2 id="◈-汉化"><a href="#◈-汉化" class="headerlink" title="◈ 汉化"></a><p style="font-size:25px">◈ 汉化</p></h2><p><b><font color=#d3625d>&#12288;&#12288;仅提供安装教程，解压密码等问题请于<a href="https://tieba.baidu.com/p/8834667748">百度贴吧（点击跳转）</a>自行查找。感谢汉化组的付出。</font></b><br><img src="/img/14.PigeonBlood鸽子血安装教程/17.png" alt="安装教程_PigeonBlood鸽子血" /><br><img src="/img/14.PigeonBlood鸽子血安装教程/18.png" alt="安装教程_PigeonBlood鸽子血" /><br><img src="/img/14.PigeonBlood鸽子血安装教程/19.png" alt="安装教程_PigeonBlood鸽子血" /></p>
-<h2 id="◈-卸载"><a href="#◈-卸载" class="headerlink" title="◈ 卸载"></a><p style="font-size:25px">◈ 卸载</p></h2><img src="/img/14.PigeonBlood鸽子血安装教程/20.png" alt="安装教程_PigeonBlood鸽子血" />
-]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
@@ -2816,237 +2816,6 @@
       </categories>
       <tags>
         <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【攻略】Voice &amp; Voice -Be Quite in the Dark-</title>
-    <url>/posts/3.html</url>
-    <content><![CDATA[<h2 id="◈-Voice"><a href="#◈-Voice" class="headerlink" title="◈ Voice"></a><p style="font-size:30px">◈ Voice</p></h2><h3 id="◈-故事梗概-STORYLINE"><a href="#◈-故事梗概-STORYLINE" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:20px">◈ 故事梗概 &#x2F; STORYLINE</p></h3><p>２年前の冬。<br><br>主人公『妹尾奏巳（せのおそうし）』は、『月本亜貴（つきもとあき）』と出会った。<br>それまで知りもしなかった相手。<br>会う回数を重ねるうち、いつしか二人は体を重ねる関係にまで成り上がる。<br><br>２年後の冬。<br><br>二人は変わらない関係を続けていた。<br>だが其処にあるのは変わり果てた風景だった。<br><br>自分の感情すら見失い、奏巳はいい加減な状態のまま別れを切り出すこともせず現状維持を続けた。<br><br>アキは変わらず自分へ好意を向けてくれる。<br>だが、自分は今の気持ちが見えない。<br><br><br>そして奏巳は毎日自分の部屋へ通う亜貴へ言う。<br>こなくていい、と。<br><br>別れ話をしたかった訳ではなかった。<br>だが、その言葉は状況を逆撫でする。<br><br><br>翌日、亜貴の兄『健人（たけひと）』から呼び出され、行った先にいたのは記憶を失った亜貴だった。<br>奏巳は、記憶の無い亜貴を一晩健人に任される事になる。<br><br><br>遠くなる声。<br>——————————–拙く紡いだその言葉が再び共鳴する日は、来るだろうか。</p>
-<h3 id="◈-攻略-WALKTHROUGH"><a href="#◈-攻略-WALKTHROUGH" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:20px">◈ 攻略 &#x2F; WALKTHROUGH</p></h3><p>“1”表示第1个选项，”2”表示第2个选项。</p>
-<h4 id="◈-TRUE-END"><a href="#◈-TRUE-END" class="headerlink" title="◈ TRUE END"></a><p style="font-size:17px">◈ TRUE END</p></h4><p><b>TRUE END - 偽 false</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;アキの様子を伺う
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何処か行こうと誘う
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;見せる
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;ごめん<br>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;追いかける
- </tr>
-</table>
-
-<h4 id="◈-GOOD-END-1"><a href="#◈-GOOD-END-1" class="headerlink" title="◈ GOOD END 1 "></a><p style="font-size:17px">◈ GOOD END 1 </p></h4><p><b>GOOD END 1 惹 - 自主的 first</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;承諾する
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;何か話す
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;見せる&#8194;/&#8194;2.&#8194;面白いもんじゃない
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;話しかけてみる
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;また話したい
- </tr>
-</table>
-
-<h4 id="◈-GOOD-END-2"><a href="#◈-GOOD-END-2" class="headerlink" title="◈ GOOD END 2 "></a><p style="font-size:17px">◈ GOOD END 2 </p></h4><p><b>GOOD END 2 自省と自制 - 現狀維持 maintenance</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;アキの様子を伺う
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;何か話す
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;面白いもんじゃない
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;話しかけてみる
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;なんでもない
- </tr>
-</table>
-
-<h4 id="◈-BAD-END-1"><a href="#◈-BAD-END-1" class="headerlink" title="◈ BAD END 1 "></a><p style="font-size:17px">◈ BAD END 1 </p></h4><p><b>BAD END 1 声 - 真 true</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;承諾する
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何処か行こうと誘う
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;面白いもんじゃない
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;寝る
- </tr>
-</table>
-或
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;承諾する
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;何か話す
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;見せる&#8194;/&#8194;2.&#8194;面白いもんじゃない
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;寝る
- </tr>
-</table>
-或
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;アキの様子を伺う
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何処か行こうと誘う&#8194;/&#8194;2.&#8194;何か話す
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;面白いもんじゃない
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;寝る
- </tr>
-</table>
-
-<h4 id="◈-BAD-END-2"><a href="#◈-BAD-END-2" class="headerlink" title="◈ BAD END 2 "></a><p style="font-size:17px">◈ BAD END 2 </p></h4><p><b>BAD END 2 忘却の欠片 - 逃避主義 escapism</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;承諾する
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何処か行こうと誘う
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;見せる
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;ごめん<br>◆ 选择"いいよ"通往BAD END 3
- </tr>
-</table>
-或
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;アキの様子を伺う
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何処か行こうと誘う&#8194;/&#8194;2.&#8194;何か話す
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;見せる
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;ごめん&#8194;/&#8194;2.&#8194;いいよ
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;諦める
- </tr>
-</table>
-
-<h4 id="◈-BAD-END-3"><a href="#◈-BAD-END-3" class="headerlink" title="◈ BAD END 3 "></a><p style="font-size:17px">◈ BAD END 3 </p></h4><p><b>BAD END 3 夢 - 帰結 a conclusion</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;承諾する
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何処か行こうと誘う
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;見せる
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;いいよ<br>◆ 选择"ごめん"通往BAD END 2
- </tr>
-</table>
-
-<h4 id="◈-BAD-END-4"><a href="#◈-BAD-END-4" class="headerlink" title="◈ BAD END 4 "></a><p style="font-size:17px">◈ BAD END 4 </p></h4><p><b>BAD END 4 独往 - independence</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;承諾する&#8194;/&#8194;2.&#8194;アキの様子を伺う
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何処か行こうと誘う
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;面白いもんじゃない
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;話しかけてみる
- </tr>
-</table>
-
-<h3 id="◈-相关链接-LINKS"><a href="#◈-相关链接-LINKS" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:20px">◈ 相关链接 &#x2F; LINKS</p></h3><p><a target="_blank" href="https://vndb.org/v13347"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a></p>
-<h2 id="◈-Voice-Be-Quite-in-the-Dark"><a href="#◈-Voice-Be-Quite-in-the-Dark" class="headerlink" title="◈ Voice -Be Quite in the Dark-"></a><p style="font-size:30px">◈ Voice -Be Quite in the Dark-</p></h2><h3 id="◈-故事梗概-STORYLINE-1"><a href="#◈-故事梗概-STORYLINE-1" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:20px">◈ 故事梗概 &#x2F; STORYLINE</p></h3><p>冬の一件から数ヶ月。<br>何事も無いような素振りで時間は流れていた、そんなある休日。<br><br>前作「voice」の後日談に当たるお話です。<br><br>※ 物語引継ぎは前作のグッドエンド１（voice攻略参照）からになります。</p>
-<h3 id="◈-攻略-WALKTHROUGH-1"><a href="#◈-攻略-WALKTHROUGH-1" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:20px">◈ 攻略 &#x2F; WALKTHROUGH</p></h3><h4 id="◈-END-1"><a href="#◈-END-1" class="headerlink" title="◈ END 1 "></a><p style="font-size:17px">◈ END 1 </p></h4><p><b>END 1 五里霧中</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;諦める
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;やっぱりいい<br>◆ 选择"いつ頃戻るのかを訊く"通往END 3
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;撮りに出る<br>◆ 选择"瞼を閉じる"通往END 3
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;出来ない<br>◆ 选择"出来る"通往END 2
- </tr>
-</table>
-
-<h4 id="◈-END-2"><a href="#◈-END-2" class="headerlink" title="◈ END 2 "></a><p style="font-size:17px">◈ END 2 </p></h4><p><b>END 2 唯一つ</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;諦める
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;やっぱりいい<br>◆ 选择"いつ頃戻るのかを訊く"通往END 3
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;撮りに出る<br>◆ 选择"瞼を閉じる"通往END 3
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;出来る<br>◆ 选择"出来ない"通往END 1
- </tr>
-</table>
-
-<h4 id="◈-END-3"><a href="#◈-END-3" class="headerlink" title="◈ END 3 "></a><p style="font-size:17px">◈ END 3 </p></h4><p><b>END 3 届かない場所</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何か買いに行く
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;ノー<br>◆ 选择"イエス"通往END 4
- </tr>
-</table>
-或
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;諦める
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;いつ頃戻るのかを訊く
- </tr>
-</table>
-或
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;諦める
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;やっぱりいい
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;瞼を閉じる
- </tr>
-</table>
-
-<h4 id="◈-END-4"><a href="#◈-END-4" class="headerlink" title="◈ END 4 "></a><p style="font-size:17px">◈ END 4 </p></h4><p><b>END 4 めくる裏側</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何か買いに行く
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;イエス<br>◆ 选择"ノー"通往END 3
- </tr>
-</table>
-
-<h3 id="◈-相关链接-LINKS-1"><a href="#◈-相关链接-LINKS-1" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:20px">◈ 相关链接 &#x2F; LINKS</p></h3><p><a target="_blank" href="https://vndb.org/v13348"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a></p>
-]]></content>
-      <categories>
-        <category>游戏攻略</category>
-        <category>蔷薇向</category>
-      </categories>
-      <tags>
-        <tag>游戏攻略</tag>
-        <tag>蔷薇向</tag>
       </tags>
   </entry>
   <entry>
@@ -3694,6 +3463,237 @@
       </tags>
   </entry>
   <entry>
+    <title>【攻略】Voice &amp; Voice -Be Quite in the Dark-</title>
+    <url>/posts/3.html</url>
+    <content><![CDATA[<h2 id="◈-Voice"><a href="#◈-Voice" class="headerlink" title="◈ Voice"></a><p style="font-size:30px">◈ Voice</p></h2><h3 id="◈-故事梗概-STORYLINE"><a href="#◈-故事梗概-STORYLINE" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:20px">◈ 故事梗概 &#x2F; STORYLINE</p></h3><p>２年前の冬。<br><br>主人公『妹尾奏巳（せのおそうし）』は、『月本亜貴（つきもとあき）』と出会った。<br>それまで知りもしなかった相手。<br>会う回数を重ねるうち、いつしか二人は体を重ねる関係にまで成り上がる。<br><br>２年後の冬。<br><br>二人は変わらない関係を続けていた。<br>だが其処にあるのは変わり果てた風景だった。<br><br>自分の感情すら見失い、奏巳はいい加減な状態のまま別れを切り出すこともせず現状維持を続けた。<br><br>アキは変わらず自分へ好意を向けてくれる。<br>だが、自分は今の気持ちが見えない。<br><br><br>そして奏巳は毎日自分の部屋へ通う亜貴へ言う。<br>こなくていい、と。<br><br>別れ話をしたかった訳ではなかった。<br>だが、その言葉は状況を逆撫でする。<br><br><br>翌日、亜貴の兄『健人（たけひと）』から呼び出され、行った先にいたのは記憶を失った亜貴だった。<br>奏巳は、記憶の無い亜貴を一晩健人に任される事になる。<br><br><br>遠くなる声。<br>——————————–拙く紡いだその言葉が再び共鳴する日は、来るだろうか。</p>
+<h3 id="◈-攻略-WALKTHROUGH"><a href="#◈-攻略-WALKTHROUGH" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:20px">◈ 攻略 &#x2F; WALKTHROUGH</p></h3><p>“1”表示第1个选项，”2”表示第2个选项。</p>
+<h4 id="◈-TRUE-END"><a href="#◈-TRUE-END" class="headerlink" title="◈ TRUE END"></a><p style="font-size:17px">◈ TRUE END</p></h4><p><b>TRUE END - 偽 false</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;アキの様子を伺う
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何処か行こうと誘う
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;見せる
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;ごめん<br>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;追いかける
+ </tr>
+</table>
+
+<h4 id="◈-GOOD-END-1"><a href="#◈-GOOD-END-1" class="headerlink" title="◈ GOOD END 1 "></a><p style="font-size:17px">◈ GOOD END 1 </p></h4><p><b>GOOD END 1 惹 - 自主的 first</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;承諾する
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;何か話す
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;見せる&#8194;/&#8194;2.&#8194;面白いもんじゃない
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;話しかけてみる
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;また話したい
+ </tr>
+</table>
+
+<h4 id="◈-GOOD-END-2"><a href="#◈-GOOD-END-2" class="headerlink" title="◈ GOOD END 2 "></a><p style="font-size:17px">◈ GOOD END 2 </p></h4><p><b>GOOD END 2 自省と自制 - 現狀維持 maintenance</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;アキの様子を伺う
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;何か話す
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;面白いもんじゃない
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;話しかけてみる
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;なんでもない
+ </tr>
+</table>
+
+<h4 id="◈-BAD-END-1"><a href="#◈-BAD-END-1" class="headerlink" title="◈ BAD END 1 "></a><p style="font-size:17px">◈ BAD END 1 </p></h4><p><b>BAD END 1 声 - 真 true</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;承諾する
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何処か行こうと誘う
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;面白いもんじゃない
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;寝る
+ </tr>
+</table>
+或
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;承諾する
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;何か話す
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;見せる&#8194;/&#8194;2.&#8194;面白いもんじゃない
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;寝る
+ </tr>
+</table>
+或
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;アキの様子を伺う
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何処か行こうと誘う&#8194;/&#8194;2.&#8194;何か話す
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;面白いもんじゃない
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;寝る
+ </tr>
+</table>
+
+<h4 id="◈-BAD-END-2"><a href="#◈-BAD-END-2" class="headerlink" title="◈ BAD END 2 "></a><p style="font-size:17px">◈ BAD END 2 </p></h4><p><b>BAD END 2 忘却の欠片 - 逃避主義 escapism</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;承諾する
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何処か行こうと誘う
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;見せる
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;ごめん<br>◆ 选择"いいよ"通往BAD END 3
+ </tr>
+</table>
+或
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;アキの様子を伺う
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何処か行こうと誘う&#8194;/&#8194;2.&#8194;何か話す
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;見せる
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;ごめん&#8194;/&#8194;2.&#8194;いいよ
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;諦める
+ </tr>
+</table>
+
+<h4 id="◈-BAD-END-3"><a href="#◈-BAD-END-3" class="headerlink" title="◈ BAD END 3 "></a><p style="font-size:17px">◈ BAD END 3 </p></h4><p><b>BAD END 3 夢 - 帰結 a conclusion</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;承諾する
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何処か行こうと誘う
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;見せる
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;いいよ<br>◆ 选择"ごめん"通往BAD END 2
+ </tr>
+</table>
+
+<h4 id="◈-BAD-END-4"><a href="#◈-BAD-END-4" class="headerlink" title="◈ BAD END 4 "></a><p style="font-size:17px">◈ BAD END 4 </p></h4><p><b>BAD END 4 独往 - independence</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;承諾する&#8194;/&#8194;2.&#8194;アキの様子を伺う
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何処か行こうと誘う
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;面白いもんじゃない
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;話しかけてみる
+ </tr>
+</table>
+
+<h3 id="◈-相关链接-LINKS"><a href="#◈-相关链接-LINKS" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:20px">◈ 相关链接 &#x2F; LINKS</p></h3><p><a target="_blank" href="https://vndb.org/v13347"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a></p>
+<h2 id="◈-Voice-Be-Quite-in-the-Dark"><a href="#◈-Voice-Be-Quite-in-the-Dark" class="headerlink" title="◈ Voice -Be Quite in the Dark-"></a><p style="font-size:30px">◈ Voice -Be Quite in the Dark-</p></h2><h3 id="◈-故事梗概-STORYLINE-1"><a href="#◈-故事梗概-STORYLINE-1" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:20px">◈ 故事梗概 &#x2F; STORYLINE</p></h3><p>冬の一件から数ヶ月。<br>何事も無いような素振りで時間は流れていた、そんなある休日。<br><br>前作「voice」の後日談に当たるお話です。<br><br>※ 物語引継ぎは前作のグッドエンド１（voice攻略参照）からになります。</p>
+<h3 id="◈-攻略-WALKTHROUGH-1"><a href="#◈-攻略-WALKTHROUGH-1" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:20px">◈ 攻略 &#x2F; WALKTHROUGH</p></h3><h4 id="◈-END-1"><a href="#◈-END-1" class="headerlink" title="◈ END 1 "></a><p style="font-size:17px">◈ END 1 </p></h4><p><b>END 1 五里霧中</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;諦める
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;やっぱりいい<br>◆ 选择"いつ頃戻るのかを訊く"通往END 3
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;撮りに出る<br>◆ 选择"瞼を閉じる"通往END 3
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;出来ない<br>◆ 选择"出来る"通往END 2
+ </tr>
+</table>
+
+<h4 id="◈-END-2"><a href="#◈-END-2" class="headerlink" title="◈ END 2 "></a><p style="font-size:17px">◈ END 2 </p></h4><p><b>END 2 唯一つ</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;諦める
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;やっぱりいい<br>◆ 选择"いつ頃戻るのかを訊く"通往END 3
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;撮りに出る<br>◆ 选择"瞼を閉じる"通往END 3
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;出来る<br>◆ 选择"出来ない"通往END 1
+ </tr>
+</table>
+
+<h4 id="◈-END-3"><a href="#◈-END-3" class="headerlink" title="◈ END 3 "></a><p style="font-size:17px">◈ END 3 </p></h4><p><b>END 3 届かない場所</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何か買いに行く
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;ノー<br>◆ 选择"イエス"通往END 4
+ </tr>
+</table>
+或
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;諦める
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;いつ頃戻るのかを訊く
+ </tr>
+</table>
+或
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;諦める
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;やっぱりいい
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;瞼を閉じる
+ </tr>
+</table>
+
+<h4 id="◈-END-4"><a href="#◈-END-4" class="headerlink" title="◈ END 4 "></a><p style="font-size:17px">◈ END 4 </p></h4><p><b>END 4 めくる裏側</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何か買いに行く
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;イエス<br>◆ 选择"ノー"通往END 3
+ </tr>
+</table>
+
+<h3 id="◈-相关链接-LINKS-1"><a href="#◈-相关链接-LINKS-1" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:20px">◈ 相关链接 &#x2F; LINKS</p></h3><p><a target="_blank" href="https://vndb.org/v13348"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a></p>
+]]></content>
+      <categories>
+        <category>游戏攻略</category>
+        <category>蔷薇向</category>
+      </categories>
+      <tags>
+        <tag>游戏攻略</tag>
+        <tag>蔷薇向</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【攻略】Dreambound</title>
     <url>/posts/30.html</url>
     <content><![CDATA[<style>
@@ -3903,6 +3903,33 @@
       </tags>
   </entry>
   <entry>
+    <title>【搬运】诺提里森官方四格漫画</title>
+    <url>/posts/32.html</url>
+    <content><![CDATA[<p>仅作交流欣赏用途，请关注诺提里森：于黎明之前官方Twitter&#x2F;X: <a href="https://x.com/Noctilucent0321">https://x.com/Noctilucent0321</a><br>©2023-2024 Immorterius studio&#x2F;Noctilucent: Before Dawn</p>
+<h2 id="◈-安里"><a href="#◈-安里" class="headerlink" title="◈ 安里"></a><p style="font-size:20px">◈ 安里</p></h2><p>在乡村成长的淳朴少年，自幼就与森林中的动物为伍。<br>各位身旁是否也有和安里一样，擅长与小动物沟通的人呢？<br><img src="/img/19.诺提里森四格漫画/1.jpg" alt="四格漫画-安里" /></p>
+<h2 id="◈-西珀"><a href="#◈-西珀" class="headerlink" title="◈ 西珀"></a><p style="font-size:20px">◈ 西珀</p></h2><p>受欢迎的小剑客总是过没几天就没人理，究竟是出了什么问题呢?<br><img src="/img/19.诺提里森四格漫画/2.jpg" alt="四格漫画-西珀" /></p>
+<h2 id="◈-德洛斯"><a href="#◈-德洛斯" class="headerlink" title="◈ 德洛斯"></a><p style="font-size:20px">◈ 德洛斯</p></h2><p>德洛斯总是乐于助人，在萨克镇中人缘极好。 ……不过，似乎有点好过头了？<br><img src="/img/19.诺提里森四格漫画/3.jpg" alt="四格漫画-德洛斯" /></p>
+<h2 id="◈-米修"><a href="#◈-米修" class="headerlink" title="◈ 米修"></a><p style="font-size:20px">◈ 米修</p></h2><p>米修控制魔法的能力很好。</p>
+<p>有时候……也会有意想不到的惊喜。<br><img src="/img/19.诺提里森四格漫画/4.jpg" alt="四格漫画-米修" /></p>
+<h2 id="◈-平鲸"><a href="#◈-平鲸" class="headerlink" title="◈ 平鲸"></a><p style="font-size:20px">◈ 平鲸</p></h2><p>平鲸取材时经常过于讲求真实。</p>
+<p>把自己变成报导中的一环也是家常便饭了。<br><img src="/img/19.诺提里森四格漫画/5.jpg" alt="四格漫画-平鲸" /></p>
+<h2 id="◈-千玄"><a href="#◈-千玄" class="headerlink" title="◈ 千玄"></a><p style="font-size:20px">◈ 千玄</p></h2><p>随着成长，人是会变的。<br>而变化的方向往往出乎意料。<br><img src="/img/19.诺提里森四格漫画/6.jpg" alt="四格漫画-千玄" /></p>
+<h2 id="◈-希亚纱"><a href="#◈-希亚纱" class="headerlink" title="◈ 希亚纱"></a><p style="font-size:20px">◈ 希亚纱</p></h2><p>有时候，美丽的事物是具有迷惑性的，请小心。<br><img src="/img/19.诺提里森四格漫画/7.jpg" alt="四格漫画-希亚纱" /></p>
+<h2 id="◈-伊凡"><a href="#◈-伊凡" class="headerlink" title="◈ 伊凡"></a><p style="font-size:20px">◈ 伊凡</p></h2><p>这是只有小动物沟通协会的两人才拥有的共同话题。<br><img src="/img/19.诺提里森四格漫画/8.jpg" alt="四格漫画-伊凡" /></p>
+<h2 id="◈-乌因"><a href="#◈-乌因" class="headerlink" title="◈ 乌因"></a><p style="font-size:20px">◈ 乌因</p></h2><p>什么时候，才可以遇到独一无二的那个人呢？<br><img src="/img/19.诺提里森四格漫画/9.jpg" alt="四格漫画-乌因" /></p>
+<h2 id="◈-达克托"><a href="#◈-达克托" class="headerlink" title="◈ 达克托"></a><p style="font-size:20px">◈ 达克托</p></h2><p>别出心裁的表演，有时除了九十九分的天赋与努力，还需要一分的机遇。<br><img src="/img/19.诺提里森四格漫画/10.jpg" alt="四格漫画-达克托" /></p>
+<h2 id="◈-席尔"><a href="#◈-席尔" class="headerlink" title="◈ 席尔"></a><p style="font-size:20px">◈ 席尔</p></h2><p>身为一个好上司，除了严厉的一面，有时也需要适时地放松一下。<br><img src="/img/19.诺提里森四格漫画/11.jpg" alt="四格漫画-席尔" /></p>
+<h2 id="◈-祭海流灯"><a href="#◈-祭海流灯" class="headerlink" title="◈ 祭海流灯"></a><p style="font-size:20px">◈ 祭海流灯</p></h2><p>对于身为海妖后裔一员的德洛斯来说，今夜肯定是个不眠之夜。<br><img src="/img/19.诺提里森四格漫画/12.jpg" alt="四格漫画-祭海流灯" /></p>
+<h2 id="◈-午夜迷踪"><a href="#◈-午夜迷踪" class="headerlink" title="◈ 午夜迷踪"></a><p style="font-size:20px">◈ 午夜迷踪</p></h2><p>久违踏上土地的感觉让伊凡雀跃不已，像刚学会走路的小孩一样横冲直撞——啊！小心！<br><img src="/img/19.诺提里森四格漫画/13.jpg" alt="四格漫画-午夜迷踪" /></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【AI汉化补丁】powdergray</title>
     <url>/posts/34.html</url>
     <content><![CDATA[<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><p><b>使用方式请查看压缩包内的”汉化声明.txt”。<br>请从以下下载方式中自行选择。</b><a target="_blank" href="https://share.feijipan.com/s/s6CBloUq" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;小飞机网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://share.feijipan.com/s/s6CBloUq</span></span></span></a> <a target="_blank" href="https://pan.baidu.com/s/1bbw_oPF1nRsqJ_owU6KDxA?pwd=4bh8" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;百度网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.baidu.com/s/1bbw_oPF1nRsqJ_owU6KDxA?pwd&#x3D;4bh8</span></span></span></a> <a target="_blank" href="https://pan.quark.cn/s/9b244e367ac5" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;夸克网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.quark.cn/s/9b244e367ac5</span></span></span></a> <a target="_blank" href="https://pan.xunlei.com/s/VO4FygqSjF3orAuUk4hbprH2A1?pwd=426t" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;迅雷网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.xunlei.com/s/VO4FygqSjF3orAuUk4hbprH2A1?pwd=426t</span></span></span></a></p>
@@ -3939,76 +3966,6 @@
 <h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://booth.pm/ja/items/5960428"><img src="/img/4.相关链接图/booth.webp" alt="Booth的logo" title="点击跳转至Booth游戏详情页" width="297" height="86" /></a></p>
 <p style="line-height:1"></p>
 <a target="_blank" href="https://vndb.org/v30925"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
-]]></content>
-      <categories>
-        <category>机翻补丁</category>
-      </categories>
-      <tags>
-        <tag>机翻补丁</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【AI汉化补丁】神之棺 かみさまの棺</title>
-    <url>/posts/35.html</url>
-    <content><![CDATA[<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><p><b>选项由于是图片所以没有汉化。<br>使用方式请查看压缩包内的”汉化声明.txt”。<br>请从以下下载方式中自行选择。</b><a target="_blank" href="https://share.feijipan.com/s/H4CDef8u" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;小飞机网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://share.feijipan.com/s/H4CDef8u</span></span></span></a> <a target="_blank" href="https://pan.baidu.com/s/1IyK1oQujRXxPygqSTvZmWg?pwd=x5nw" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;百度网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.baidu.com/s/1IyK1oQujRXxPygqSTvZmWg?pwd=x5nw</span></span></span></a> <a target="_blank" href="https://pan.quark.cn/s/1cf9695571aa" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;夸克网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.quark.cn/s/1cf9695571aa</span></span></span></a> <a target="_blank" href="https://pan.xunlei.com/s/VO4PICznDDktZlVR_RCiXHzEA1?pwd=rxve" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;迅雷网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.xunlei.com/s/VO4PICznDDktZlVR_RCiXHzEA1?pwd&#x3D;rxve</span></span></span></a></p>
-<h2 id="❖-攻略"><a href="#❖-攻略" class="headerlink" title="❖ 攻略"></a><p style="font-size:25px">❖ 攻略</p></h2><p><b>如有需要请查看这一日文攻略。</b><br><a target="_blank" href="https://www.flamecho.top/posts/4.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【攻略】かみさまの棺</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/4.html</span></span></span></a></p>
-<h2 id="❖-实况"><a href="#❖-实况" class="headerlink" title="❖ 实况"></a><p style="font-size:25px">❖ 实况</p></h2><div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=112970793355153&bvid=BV13iegefEXs&cid=500001651445983&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no">
-</iframe>
-</div>
-
-<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://nohana-cream.booth.pm/items/1970328"><img src="/img/4.相关链接图/booth.webp" alt="booth的logo" title="点击跳转至Booth游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://www.dlsite.com/bl/work/=/product_id/RJ259167.html"><img src="/img/4.相关链接图/dlsite.webp" alt="dlsite的logo" title="点击跳转至dlsite游戏详情页" width="297" height="86" /></a>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v27184"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
-]]></content>
-      <categories>
-        <category>机翻补丁</category>
-      </categories>
-      <tags>
-        <tag>机翻补丁</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【搬运】诺提里森官方四格漫画</title>
-    <url>/posts/32.html</url>
-    <content><![CDATA[<p>仅作交流欣赏用途，请关注诺提里森：于黎明之前官方Twitter&#x2F;X: <a href="https://x.com/Noctilucent0321">https://x.com/Noctilucent0321</a><br>©2023-2024 Immorterius studio&#x2F;Noctilucent: Before Dawn</p>
-<h2 id="◈-安里"><a href="#◈-安里" class="headerlink" title="◈ 安里"></a><p style="font-size:20px">◈ 安里</p></h2><p>在乡村成长的淳朴少年，自幼就与森林中的动物为伍。<br>各位身旁是否也有和安里一样，擅长与小动物沟通的人呢？<br><img src="/img/19.诺提里森四格漫画/1.jpg" alt="四格漫画-安里" /></p>
-<h2 id="◈-西珀"><a href="#◈-西珀" class="headerlink" title="◈ 西珀"></a><p style="font-size:20px">◈ 西珀</p></h2><p>受欢迎的小剑客总是过没几天就没人理，究竟是出了什么问题呢?<br><img src="/img/19.诺提里森四格漫画/2.jpg" alt="四格漫画-西珀" /></p>
-<h2 id="◈-德洛斯"><a href="#◈-德洛斯" class="headerlink" title="◈ 德洛斯"></a><p style="font-size:20px">◈ 德洛斯</p></h2><p>德洛斯总是乐于助人，在萨克镇中人缘极好。 ……不过，似乎有点好过头了？<br><img src="/img/19.诺提里森四格漫画/3.jpg" alt="四格漫画-德洛斯" /></p>
-<h2 id="◈-米修"><a href="#◈-米修" class="headerlink" title="◈ 米修"></a><p style="font-size:20px">◈ 米修</p></h2><p>米修控制魔法的能力很好。</p>
-<p>有时候……也会有意想不到的惊喜。<br><img src="/img/19.诺提里森四格漫画/4.jpg" alt="四格漫画-米修" /></p>
-<h2 id="◈-平鲸"><a href="#◈-平鲸" class="headerlink" title="◈ 平鲸"></a><p style="font-size:20px">◈ 平鲸</p></h2><p>平鲸取材时经常过于讲求真实。</p>
-<p>把自己变成报导中的一环也是家常便饭了。<br><img src="/img/19.诺提里森四格漫画/5.jpg" alt="四格漫画-平鲸" /></p>
-<h2 id="◈-千玄"><a href="#◈-千玄" class="headerlink" title="◈ 千玄"></a><p style="font-size:20px">◈ 千玄</p></h2><p>随着成长，人是会变的。<br>而变化的方向往往出乎意料。<br><img src="/img/19.诺提里森四格漫画/6.jpg" alt="四格漫画-千玄" /></p>
-<h2 id="◈-希亚纱"><a href="#◈-希亚纱" class="headerlink" title="◈ 希亚纱"></a><p style="font-size:20px">◈ 希亚纱</p></h2><p>有时候，美丽的事物是具有迷惑性的，请小心。<br><img src="/img/19.诺提里森四格漫画/7.jpg" alt="四格漫画-希亚纱" /></p>
-<h2 id="◈-伊凡"><a href="#◈-伊凡" class="headerlink" title="◈ 伊凡"></a><p style="font-size:20px">◈ 伊凡</p></h2><p>这是只有小动物沟通协会的两人才拥有的共同话题。<br><img src="/img/19.诺提里森四格漫画/8.jpg" alt="四格漫画-伊凡" /></p>
-<h2 id="◈-乌因"><a href="#◈-乌因" class="headerlink" title="◈ 乌因"></a><p style="font-size:20px">◈ 乌因</p></h2><p>什么时候，才可以遇到独一无二的那个人呢？<br><img src="/img/19.诺提里森四格漫画/9.jpg" alt="四格漫画-乌因" /></p>
-<h2 id="◈-达克托"><a href="#◈-达克托" class="headerlink" title="◈ 达克托"></a><p style="font-size:20px">◈ 达克托</p></h2><p>别出心裁的表演，有时除了九十九分的天赋与努力，还需要一分的机遇。<br><img src="/img/19.诺提里森四格漫画/10.jpg" alt="四格漫画-达克托" /></p>
-<h2 id="◈-席尔"><a href="#◈-席尔" class="headerlink" title="◈ 席尔"></a><p style="font-size:20px">◈ 席尔</p></h2><p>身为一个好上司，除了严厉的一面，有时也需要适时地放松一下。<br><img src="/img/19.诺提里森四格漫画/11.jpg" alt="四格漫画-席尔" /></p>
-<h2 id="◈-祭海流灯"><a href="#◈-祭海流灯" class="headerlink" title="◈ 祭海流灯"></a><p style="font-size:20px">◈ 祭海流灯</p></h2><p>对于身为海妖后裔一员的德洛斯来说，今夜肯定是个不眠之夜。<br><img src="/img/19.诺提里森四格漫画/12.jpg" alt="四格漫画-祭海流灯" /></p>
-<h2 id="◈-午夜迷踪"><a href="#◈-午夜迷踪" class="headerlink" title="◈ 午夜迷踪"></a><p style="font-size:20px">◈ 午夜迷踪</p></h2><p>久违踏上土地的感觉让伊凡雀跃不已，像刚学会走路的小孩一样横冲直撞——啊！小心！<br><img src="/img/19.诺提里森四格漫画/13.jpg" alt="四格漫画-午夜迷踪" /></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【AI汉化补丁】未成之缘 なりそこないのよすが</title>
-    <url>/posts/36.html</url>
-    <content><![CDATA[<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><p><b>使用方式请查看压缩包内的”汉化声明.txt”。<br>请从以下下载方式中自行选择。</b><a target="_blank" href="https://share.feijipan.com/s/l9CX7Rc7" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;小飞机网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://share.feijipan.com/s/l9CX7Rc7</span></span></span></a> <a target="_blank" href="https://pan.baidu.com/s/1s6DlWGGNyrfZvmJx-TvfVw?pwd=pf4a" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;百度网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.baidu.com/s/1s6DlWGGNyrfZvmJx-TvfVw?pwd=pf4a</span></span></span></a> <a target="_blank" href="https://pan.quark.cn/s/782cb2f76e11" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;夸克网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.quark.cn/s/782cb2f76e11</span></span></span></a> <a target="_blank" href="https://pan.xunlei.com/s/VO5ELXkwGFryThtuHpikLuICA1?pwd=wnc5" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;迅雷网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.xunlei.com/s/VO5ELXkwGFryThtuHpikLuICA1?pwd=wnc5</span></span></span></a><b>2024.8.29更新<br>如果出现无法退出、反复进行同一段剧情的情况，请将如下的<font color=#3a62a0>ysbin.ypf</font>替换到<font color=#3a62a0>pac文件夹</font>中。</b><br><a target="_blank" href="https://share.feijipan.com/s/NkCZsi3d" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;小飞机网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://share.feijipan.com/s/NkCZsi3d</span></span></span></a> <a target="_blank" href="https://pan.baidu.com/s/1794hluPY4Md-jmWeehpoZA?pwd=absg" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;百度网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.baidu.com/s/1794hluPY4Md-jmWeehpoZA?pwd=absg</span></span></span></a> <a target="_blank" href="https://pan.quark.cn/s/8867fcfc0420" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;夸克网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.quark.cn/s/8867fcfc0420</span></span></span></a> <a target="_blank" href="https://pan.xunlei.com/s/VO5ShRPHARUMAaU0_ZXpuooVA1?pwd=mr26" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;迅雷网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.xunlei.com/s/VO5ShRPHARUMAaU0_ZXpuooVA1?pwd&#x3D;mr26</span></span></span></a></p>
-<h2 id="❖-实况"><a href="#❖-实况" class="headerlink" title="❖ 实况"></a><p style="font-size:25px">❖ 实况</p></h2><div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=112993425820169&bvid=BV15SWpeGE1w&cid=500001655762054&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no">
-</iframe>
-</div>
-
-<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://www.dlsite.com/home/work/=/product_id/RJ260221.html"><img src="/img/4.相关链接图/dlsite.webp" alt="dlsite的logo" title="点击跳转至dlsite游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v27495"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
 ]]></content>
       <categories>
         <category>机翻补丁</category>
@@ -4087,6 +4044,29 @@
       </tags>
   </entry>
   <entry>
+    <title>【AI汉化补丁】神之棺 かみさまの棺</title>
+    <url>/posts/35.html</url>
+    <content><![CDATA[<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><p><b>选项由于是图片所以没有汉化。<br>使用方式请查看压缩包内的”汉化声明.txt”。<br>请从以下下载方式中自行选择。</b><a target="_blank" href="https://share.feijipan.com/s/H4CDef8u" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;小飞机网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://share.feijipan.com/s/H4CDef8u</span></span></span></a> <a target="_blank" href="https://pan.baidu.com/s/1IyK1oQujRXxPygqSTvZmWg?pwd=x5nw" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;百度网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.baidu.com/s/1IyK1oQujRXxPygqSTvZmWg?pwd=x5nw</span></span></span></a> <a target="_blank" href="https://pan.quark.cn/s/1cf9695571aa" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;夸克网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.quark.cn/s/1cf9695571aa</span></span></span></a> <a target="_blank" href="https://pan.xunlei.com/s/VO4PICznDDktZlVR_RCiXHzEA1?pwd=rxve" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;迅雷网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.xunlei.com/s/VO4PICznDDktZlVR_RCiXHzEA1?pwd&#x3D;rxve</span></span></span></a></p>
+<h2 id="❖-攻略"><a href="#❖-攻略" class="headerlink" title="❖ 攻略"></a><p style="font-size:25px">❖ 攻略</p></h2><p><b>如有需要请查看这一日文攻略。</b><br><a target="_blank" href="https://www.flamecho.top/posts/4.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【攻略】かみさまの棺</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/4.html</span></span></span></a></p>
+<h2 id="❖-实况"><a href="#❖-实况" class="headerlink" title="❖ 实况"></a><p style="font-size:25px">❖ 实况</p></h2><div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=112970793355153&bvid=BV13iegefEXs&cid=500001651445983&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no">
+</iframe>
+</div>
+
+<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://nohana-cream.booth.pm/items/1970328"><img src="/img/4.相关链接图/booth.webp" alt="booth的logo" title="点击跳转至Booth游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://www.dlsite.com/bl/work/=/product_id/RJ259167.html"><img src="/img/4.相关链接图/dlsite.webp" alt="dlsite的logo" title="点击跳转至dlsite游戏详情页" width="297" height="86" /></a>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v27184"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+]]></content>
+      <categories>
+        <category>机翻补丁</category>
+      </categories>
+      <tags>
+        <tag>机翻补丁</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【杂谈】自用常用网站</title>
     <url>/posts/38.html</url>
     <content><![CDATA[<style>
@@ -4151,28 +4131,6 @@
       </categories>
       <tags>
         <tag>机翻补丁</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【攻略】かみさまの棺</title>
-    <url>/posts/4.html</url>
-    <content><![CDATA[<p><a target="_blank" href="https://kamisamanohitsugi.jimdofree.com/"><img src="/img/5.游戏官网/kamisama.webp" alt="游戏官网的banner" title="点击跳转至游戏官网" /></a></p>
-<h2 id="◈-故事梗概-STORYLINE"><a href="#◈-故事梗概-STORYLINE" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:30px">◈ 故事梗概 &#x2F; STORYLINE</p></h2><p>ある日突然の隕石落下により地球は滅び、知花ミチルの日常は消え去ってしまう。<br><br>…見知らぬ呼び声に目を覚ますと、目の前には口をきいたこともないクラスメイトの廻が一人。<br>そして自分は今“謎の部屋”の中にいることを知る。<br><br>これは 忘れていた記憶を<br>少しずつ思い出す物語。<br><br>悲しくて 残酷で<br>美しくて 痛い<br>最悪な恋の物語。</p>
-<h2 id="◈-章节-CHAPTER"><a href="#◈-章节-CHAPTER" class="headerlink" title="◈ 章节 &#x2F; CHAPTER"></a><p style="font-size:30px">◈ 章节 &#x2F; CHAPTER</p></h2><p>◆&#8194;第一章&#8194;擦り切れた生迷線<br>◆&#8194;第二章&#8194;廻りだす天体と紅茶<br>◆&#8194;第三章&#8194;眠り姫とアダム<br>◆&#8194;第四章&#8194;その笑みは陽だまりだ<br>◆&#8194;第五章&#8194;友を切り止める矢<br>◆&#8194;第六章&#8194;手助け<br>◆&#8194;第七章&#8194;桜色の感傷<br>◆&#8194;第八章&#8194;罪<br>◆&#8194;終章&#8194;君の僕のための嘘</p>
-<h2 id="◈-攻略-WALKTHROUGH"><a href="#◈-攻略-WALKTHROUGH" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:30px">◈ 攻略 &#x2F; WALKTHROUGH</p></h2><p>1.&#8194;鏡を見つめる&#8194;&#x2F;&#8194;2.&#8194;見ない<br>1.&#8194;笑太郎に会いたい&#8195;◆ 选择”･・･ 会えるわけない”通往<b>Bad end - 界葬 -</b><br>1.&#8194;箱を開ける&#8195;◆ 选择”箱を開けない”通往<b>Happy end 1 - 友愛 -</b><br>1.&#8194;廻を信じる&#8195;◆ 选择”･・･ ･・･”通往<b>Happy end 2 - 恋人 -</b><br><b>Happy end 3 - 共存 - &amp; True end</b></p>
-<h2 id="◈-相关链接-LINKS"><a href="#◈-相关链接-LINKS" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:30px">◈ 相关链接 &#x2F; LINKS</p></h2><p><a target="_blank" href="https://nohana-cream.booth.pm/items/1970328"><img src="/img/4.相关链接图/booth.webp" alt="booth的logo" title="点击跳转至Booth游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://www.dlsite.com/bl/work/=/product_id/RJ259167.html"><img src="/img/4.相关链接图/dlsite.webp" alt="dlsite的logo" title="点击跳转至dlsite游戏详情页" width="297" height="86" /></a>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v27184"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
-]]></content>
-      <categories>
-        <category>游戏攻略</category>
-        <category>蔷薇向</category>
-      </categories>
-      <tags>
-        <tag>游戏攻略</tag>
-        <tag>蔷薇向</tag>
       </tags>
   </entry>
   <entry>
@@ -4267,6 +4225,48 @@
       </tags>
   </entry>
   <entry>
+    <title>【AI汉化补丁】未成之缘 なりそこないのよすが</title>
+    <url>/posts/36.html</url>
+    <content><![CDATA[<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><p><b>使用方式请查看压缩包内的”汉化声明.txt”。<br>请从以下下载方式中自行选择。</b><a target="_blank" href="https://share.feijipan.com/s/l9CX7Rc7" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;小飞机网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://share.feijipan.com/s/l9CX7Rc7</span></span></span></a> <a target="_blank" href="https://pan.baidu.com/s/1s6DlWGGNyrfZvmJx-TvfVw?pwd=pf4a" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;百度网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.baidu.com/s/1s6DlWGGNyrfZvmJx-TvfVw?pwd=pf4a</span></span></span></a> <a target="_blank" href="https://pan.quark.cn/s/782cb2f76e11" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;夸克网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.quark.cn/s/782cb2f76e11</span></span></span></a> <a target="_blank" href="https://pan.xunlei.com/s/VO5ELXkwGFryThtuHpikLuICA1?pwd=wnc5" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;迅雷网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.xunlei.com/s/VO5ELXkwGFryThtuHpikLuICA1?pwd=wnc5</span></span></span></a><b>2024.8.29更新<br>如果出现无法退出、反复进行同一段剧情的情况，请将如下的<font color=#3a62a0>ysbin.ypf</font>替换到<font color=#3a62a0>pac文件夹</font>中。</b><br><a target="_blank" href="https://share.feijipan.com/s/NkCZsi3d" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;小飞机网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://share.feijipan.com/s/NkCZsi3d</span></span></span></a> <a target="_blank" href="https://pan.baidu.com/s/1794hluPY4Md-jmWeehpoZA?pwd=absg" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;百度网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.baidu.com/s/1794hluPY4Md-jmWeehpoZA?pwd=absg</span></span></span></a> <a target="_blank" href="https://pan.quark.cn/s/8867fcfc0420" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;夸克网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.quark.cn/s/8867fcfc0420</span></span></span></a> <a target="_blank" href="https://pan.xunlei.com/s/VO5ShRPHARUMAaU0_ZXpuooVA1?pwd=mr26" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;迅雷网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.xunlei.com/s/VO5ShRPHARUMAaU0_ZXpuooVA1?pwd&#x3D;mr26</span></span></span></a></p>
+<h2 id="❖-实况"><a href="#❖-实况" class="headerlink" title="❖ 实况"></a><p style="font-size:25px">❖ 实况</p></h2><div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=112993425820169&bvid=BV15SWpeGE1w&cid=500001655762054&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no">
+</iframe>
+</div>
+
+<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://www.dlsite.com/home/work/=/product_id/RJ260221.html"><img src="/img/4.相关链接图/dlsite.webp" alt="dlsite的logo" title="点击跳转至dlsite游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v27495"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+]]></content>
+      <categories>
+        <category>机翻补丁</category>
+      </categories>
+      <tags>
+        <tag>机翻补丁</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【攻略】かみさまの棺</title>
+    <url>/posts/4.html</url>
+    <content><![CDATA[<p><a target="_blank" href="https://kamisamanohitsugi.jimdofree.com/"><img src="/img/5.游戏官网/kamisama.webp" alt="游戏官网的banner" title="点击跳转至游戏官网" /></a></p>
+<h2 id="◈-故事梗概-STORYLINE"><a href="#◈-故事梗概-STORYLINE" class="headerlink" title="◈ 故事梗概 &#x2F; STORYLINE"></a><p style="font-size:30px">◈ 故事梗概 &#x2F; STORYLINE</p></h2><p>ある日突然の隕石落下により地球は滅び、知花ミチルの日常は消え去ってしまう。<br><br>…見知らぬ呼び声に目を覚ますと、目の前には口をきいたこともないクラスメイトの廻が一人。<br>そして自分は今“謎の部屋”の中にいることを知る。<br><br>これは 忘れていた記憶を<br>少しずつ思い出す物語。<br><br>悲しくて 残酷で<br>美しくて 痛い<br>最悪な恋の物語。</p>
+<h2 id="◈-章节-CHAPTER"><a href="#◈-章节-CHAPTER" class="headerlink" title="◈ 章节 &#x2F; CHAPTER"></a><p style="font-size:30px">◈ 章节 &#x2F; CHAPTER</p></h2><p>◆&#8194;第一章&#8194;擦り切れた生迷線<br>◆&#8194;第二章&#8194;廻りだす天体と紅茶<br>◆&#8194;第三章&#8194;眠り姫とアダム<br>◆&#8194;第四章&#8194;その笑みは陽だまりだ<br>◆&#8194;第五章&#8194;友を切り止める矢<br>◆&#8194;第六章&#8194;手助け<br>◆&#8194;第七章&#8194;桜色の感傷<br>◆&#8194;第八章&#8194;罪<br>◆&#8194;終章&#8194;君の僕のための嘘</p>
+<h2 id="◈-攻略-WALKTHROUGH"><a href="#◈-攻略-WALKTHROUGH" class="headerlink" title="◈ 攻略 &#x2F; WALKTHROUGH"></a><p style="font-size:30px">◈ 攻略 &#x2F; WALKTHROUGH</p></h2><p>1.&#8194;鏡を見つめる&#8194;&#x2F;&#8194;2.&#8194;見ない<br>1.&#8194;笑太郎に会いたい&#8195;◆ 选择”･・･ 会えるわけない”通往<b>Bad end - 界葬 -</b><br>1.&#8194;箱を開ける&#8195;◆ 选择”箱を開けない”通往<b>Happy end 1 - 友愛 -</b><br>1.&#8194;廻を信じる&#8195;◆ 选择”･・･ ･・･”通往<b>Happy end 2 - 恋人 -</b><br><b>Happy end 3 - 共存 - &amp; True end</b></p>
+<h2 id="◈-相关链接-LINKS"><a href="#◈-相关链接-LINKS" class="headerlink" title="◈ 相关链接 &#x2F; LINKS"></a><p style="font-size:30px">◈ 相关链接 &#x2F; LINKS</p></h2><p><a target="_blank" href="https://nohana-cream.booth.pm/items/1970328"><img src="/img/4.相关链接图/booth.webp" alt="booth的logo" title="点击跳转至Booth游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://www.dlsite.com/bl/work/=/product_id/RJ259167.html"><img src="/img/4.相关链接图/dlsite.webp" alt="dlsite的logo" title="点击跳转至dlsite游戏详情页" width="297" height="86" /></a>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v27184"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+]]></content>
+      <categories>
+        <category>游戏攻略</category>
+        <category>蔷薇向</category>
+      </categories>
+      <tags>
+        <tag>游戏攻略</tag>
+        <tag>蔷薇向</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【AI汉化补丁】大秽-前篇- 未校对补丁+全开存档+攻略</title>
     <url>/posts/41.html</url>
     <content><![CDATA[<style>
@@ -4337,6 +4337,152 @@
       </categories>
       <tags>
         <tag>机翻补丁</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【AI汉化补丁】Cocoon -Black Noise-（附攻略）</title>
+    <url>/posts/42.html</url>
+    <content><![CDATA[<style>
+.center
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+}
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+
+<h2 id="❖-置顶"><a href="#❖-置顶" class="headerlink" title="❖ 置顶"></a><p style="font-size:25px">❖ 置顶</p></h2><p><b><details class="toggle" ><summary class="toggle-button" style="">汉化声明</summary><div class="toggle-content"><p>在使用此补丁前，请您务必仔细阅读并透彻理解本声明。<br>如果您使用此补丁，您的使用行为将视为对本声明的全部内容认可。</p>
+<p>本AI汉化补丁由 Flamecho 使用 claude-3.5-haiku-20241022 模型进行汉化，<br>依据 CC BY-NC-SA 4.0 License 署名-非商业性使用-相同方式共享协议 进行发布。<br>本补丁为永久免费使用，仅供个人学习交流用途，禁止贩卖。<br>禁止包括但不限于录屏并上传、直播等在公开场合分享汉化版游戏内容的行为。<br>本补丁对游戏原文件不进行任何添加、删减、修改，包括但不限于任何转载、整合、修改、盈利的行为本人不承担任何责任。<br>分享请保留此声明并注明发布地址。</p>
+<p>以上声明的最终解释权归 Flamecho 所有。</p>
+</div></details><details class="toggle" ><summary class="toggle-button" style="">关于翻译错误</summary><div class="toggle-content"><p>有，而且不少，但结合语境并不耽误看懂剧情。<br>如果非常在意建议直接看日语原文或者开个翻译器看。<br>不是阴阳怪气，这只是个中肯的建议。<br>做补丁只是为了我打游戏快一点：我会修改一部分，保留一部分，这样你才知道你玩的是机翻。</p>
+</div></details></b></p>
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><p><b>使用方式请查看压缩包内的”汉化声明及补丁使用方法.txt”。<br>请从以下下载方式中自行选择。</b><a target="_blank" href="https://share.feijipan.com/s/zYD31L4j" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;小飞机网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://share.feijipan.com/s/zYD31L4j</span></span></span></a> <a target="_blank" href="https://flamecho.lanzout.com/iBay92etxakj" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#12288;蓝奏云网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://flamecho.lanzout.com/iBay92etxakj</span></span></span></a></p>
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-攻略流程"><a href="#❖-攻略流程" class="headerlink" title="❖ 攻略流程"></a><p style="font-size:25px">❖ 攻略流程</p></h2><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:33%'>
+ <col style='width:33%'>
+ <col style='width:33%'>
+  <td>2.&#8194;睡觉并遗忘<td>1.&#8194;出门散心<td>1.&#8194;出门散心<tr>
+  <td>1.&#8194;重新来过吧<br><font color=#d3625d>2.&#8194;能不能当作什么都没发生&#8194;→&#8194;鹰宫BE1</font><td>1.&#8194;我想冷静一下<td>2.&#8194;我想见个人<tr>
+  <td>1.&#8194;鸨色<br><font color=#d3625d>2.&#8194;漆黑&#8194;→&#8194;鹰宫BE2</font><td>1.&#8194;分开<br><font color=#d3625d>2.&#8194;守望&#8194;→&#8194;八代BE</font><td>1.&#8194;相信镜<br><font color=#d3625d>2.&#8194;想要救雪&#8194;→&#8194;彩人/义正BE</font><tr>    
+  <td style='text-align:center'>-<td>1.&#8194;就这样就好<br><font color=#d3625d>2.&#8194;希望他能醒来&#8194;→&#8194;彩人BE</font><td>1.&#8194;我会跟随<br><font color=#d3625d>2.&#8194;我会等待&#8194;→&#8194;义正BE</font><tr>
+  <td bgcolor='#3a62a0' style='text-align:center'><font color=#ffffff>鹰宫HE</font><td bgcolor='#008b8b' style='text-align:center'><font color=#ffffff>八代HE</font><td bgcolor='#d3625d' style='text-align:center'><font color=#ffffff>镜HE</font>
+ </tr>
+</table>
+</div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://www.dlsite.com/bl/work/=/product_id/RJ154673.html"><img src="/img/4.相关链接图/dlsite.webp" alt="dlsite的logo" title="点击跳转至dlsite游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v15918"><img src="/img/4.相关链接图/vndb.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+]]></content>
+      <categories>
+        <category>机翻补丁</category>
+      </categories>
+      <tags>
+        <tag>机翻补丁</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【教程】御坂翻译器MisakaTranslator配置及使用方法</title>
+    <url>/posts/6.html</url>
+    <content><![CDATA[<h2 id="◈-御坂翻译器是什么？"><a href="#◈-御坂翻译器是什么？" class="headerlink" title="◈ 御坂翻译器是什么？"></a><p style="font-size:20px">◈ 御坂翻译器是什么？</p></h2><p>御坂翻译器MisakaTranslator是一款Galgame&#x2F;文字游戏&#x2F;漫画多语种实时机翻工具。<br>简单来说，它可以提取游戏文本并生成一个翻译窗口，帮助你游玩非中文的游戏（啃生肉）。<br>项目主页：<a href="https://github.com/hanmin0822/MisakaTranslator">点击跳转至github</a><br>最新版本(2.12.2)：<a href="https://github.com/hanmin0822/MisakaTranslator/releases/tag/2.12.2">点击MisakaTranslator.2.12.2.zip下载</a><br>备用下载链接：<a href="https://www.mediafire.com/file/3fszss5tachxvxn/MisakaTranslator.2.12.2.zip/file">Mediafire</a></p>
+<h2 id="◈-启动"><a href="#◈-启动" class="headerlink" title="◈ 启动"></a><p style="font-size:20px">◈ 启动</p></h2><p>下载并解压”MisakaTranslator.2.12.2.zip”，双击”MisakaTranslator-WPF.exe”启动。<br><img src="https://cdnjson.com/images/2023/08/06/_bcc5527e2f3891d3.webp" alt="翻译器启动程序图" title="双击这个文件启动" /></p>
+<h2 id="◈-界面"><a href="#◈-界面" class="headerlink" title="◈ 界面"></a><p style="font-size:20px">◈ 界面</p></h2><img src="https://cdnjson.com/images/2023/08/06/_0bc62b4ff3f86987.webp" alt="翻译器界面图" title="翻译器界面" />
+
+<h2 id="◈-翻译器设置"><a href="#◈-翻译器设置" class="headerlink" title="◈ 翻译器设置"></a><p style="font-size:20px">◈ 翻译器设置</p></h2><h3 id="◈-软件本体设置"><a href="#◈-软件本体设置" class="headerlink" title="◈ 软件本体设置"></a><p style="font-size:17px">◈ 软件本体设置</p></h3><p>保持默认即可。<br><img src="https://cdnjson.com/images/2023/08/06/_.webp" alt="软件本体设置图" title="软件本体设置" /></p>
+<h3 id="◈-LE转区相关设置"><a href="#◈-LE转区相关设置" class="headerlink" title="◈ LE转区相关设置"></a><p style="font-size:17px">◈ LE转区相关设置</p></h3><p>路径设置如图所示。请注意，MisakaTranslator与Locale Emulator所在路径皆<b>不要</b>有中文。<br>这一项可以留空不设置，可在启动游戏时自行右键使用LE打开，只是在使用主界面左下角的”自动开始翻译”时可能出现问题。<br>关于Locale Emulator是什么以及如何使用可查看<a href="https://www.bilibili.com/read/cv6506213">[转区工具]Locale Emulator的使用</a>。<br><img src="https://cdnjson.com/images/2023/08/06/_LE.webp" alt="LE转区相关设置图" title="LE转区相关设置" /></p>
+<h3 id="◈-Hook相关设置"><a href="#◈-Hook相关设置" class="headerlink" title="◈ Hook相关设置"></a><p style="font-size:17px">◈ Hook相关设置</p></h3><p>保持默认即可。<br><img src="https://cdnjson.com/images/2023/08/06/_Hook.webp" alt="Hook相关设置图" title="Hook相关设置" /></p>
+<h3 id="◈-OCR相关设置"><a href="#◈-OCR相关设置" class="headerlink" title="◈ OCR相关设置"></a><p style="font-size:17px">◈ OCR相关设置</p></h3><p>OCR即截屏翻译。</p>
+<h4 id="◈-通用设置"><a href="#◈-通用设置" class="headerlink" title="◈ 通用设置"></a><p style="font-size:15px">◈ 通用设置</p></h4><img src="https://cdnjson.com/images/2023/08/06/ocr.webp" alt="OCR通用设置图" title="OCR通用设置" />
+
+<h4 id="◈-百度智能云OCR-API"><a href="#◈-百度智能云OCR-API" class="headerlink" title="◈ 百度智能云OCR API"></a><p style="font-size:15px">◈ 百度智能云OCR API</p></h4><p>关于如何申请API可查看<a href="https://blog.csdn.net/qq_34673086/article/details/107845615">如何使用百度智能云OCR获取APIKey和SecretKey，</a>将获取的API Key和Secret Key填入如下的位置，显示工作正常即可。<br><img src="https://cdnjson.com/images/2023/08/06/ocrbcb0164bde873c71.webp" alt="百度智能云OCR API设置图" title="百度智能云OCR API设置" /></p>
+<h4 id="◈-百度翻译OCR-API"><a href="#◈-百度翻译OCR-API" class="headerlink" title="◈ 百度翻译OCR API"></a><p style="font-size:15px">◈ 百度翻译OCR API</p></h4><p>关于如何配置百度翻译OCR API下见<b>翻译相关设置-百度翻译API</b>，并<a href="https://fanyi-api.baidu.com/product/22">开通图片翻译API</a>。</p>
+<h3 id="◈-翻译相关设置"><a href="#◈-翻译相关设置" class="headerlink" title="◈ 翻译相关设置"></a><p style="font-size:17px">◈ 翻译相关设置</p></h3><h4 id="◈-通用设置-1"><a href="#◈-通用设置-1" class="headerlink" title="◈ 通用设置"></a><p style="font-size:15px">◈ 通用设置</p></h4><img src="https://cdnjson.com/images/2023/08/06/7ae7f8eeb57ca30dfe09300dc47f4b14.webp" alt="翻译通用设置图" title="翻译通用设置" />
+这里仅以百度翻译API为例，其他API配置方式大同小异请自行搜索。
+
+<h4 id="◈-百度翻译API"><a href="#◈-百度翻译API" class="headerlink" title="◈ 百度翻译API"></a><p style="font-size:15px">◈ 百度翻译API</p></h4><p>关于如何申请API可查看<a href="https://zhuanlan.zhihu.com/p/375789804">获取百度翻译官方接口API与密钥并授权至软件或插件的方法</a>，将获取的APP ID和密钥填入如下的位置，显示工作正常即可。<br><img src="https://cdnjson.com/images/2023/08/06/API.webp" alt="百度翻译API配置图" title="百度翻译API" /></p>
+<h3 id="◈-其他设置"><a href="#◈-其他设置" class="headerlink" title="◈ 其他设置"></a><p style="font-size:17px">◈ 其他设置</p></h3><p>词典相关设置、TTS相关设置、人工翻译相关设置保持默认即可，如有需要请自行配置。</p>
+<h2 id="◈-对游戏进行翻译"><a href="#◈-对游戏进行翻译" class="headerlink" title="◈ 对游戏进行翻译"></a><p style="font-size:20px">◈ 对游戏进行翻译</p></h2><p>点击主界面-添加游戏。</p>
+<h3 id="◈-Hook方式游戏向导"><a href="#◈-Hook方式游戏向导" class="headerlink" title="◈ Hook方式游戏向导"></a><p style="font-size:17px">◈ Hook方式游戏向导</p></h3><p>请确认已完成<b>翻译相关设置</b>。<br><img src="https://cdnjson.com/images/2023/08/06/hook1.webp" alt="Hook翻译图1" title="选择游戏" /><br>运行游戏并点击对话框，使游戏中文本发生变化，一直点到出现你满意的结果为止。<br><img src="https://cdnjson.com/images/2023/08/06/hook2.webp" alt="Hook翻译图2" title="以Omega Vampire为例" /><br><img src="https://cdnjson.com/images/2023/08/06/hook3.webp" alt="Hook翻译图3" title="选择去重方法" /><br><img src="https://cdnjson.com/images/2023/08/06/hook4.webp" alt="Hook翻译图4" title="选择翻译语言" /><br><img src="https://cdnjson.com/images/2023/08/06/hook5.webp" alt="Hook翻译图5" title="完成设置" /></p>
+<h3 id="◈-OCR方式游戏向导"><a href="#◈-OCR方式游戏向导" class="headerlink" title="◈ OCR方式游戏向导"></a><p style="font-size:17px">◈ OCR方式游戏向导</p></h3><p>请确认已完成<b>OCR相关设置</b>。<br><img src="https://cdnjson.com/images/2023/08/06/ocr1.webp" alt="OCR翻译图1" title="选择截图区域" /><br>选择全屏截取也可以，游玩时注意不要挪动游戏窗口。<br><img src="https://cdnjson.com/images/2023/08/06/ocr2.webp" alt="OCR翻译图2" title="OCR预处理" /><br><img src="https://cdnjson.com/images/2023/08/06/ocr3.webp" alt="OCR翻译图3" title="设置触发键" /></p>
+<h2 id="◈-引用文章"><a href="#◈-引用文章" class="headerlink" title="◈ 引用文章"></a><p style="font-size:20px">◈ 引用文章</p></h2><p>[1]梦境无恒. [转区工具]Locale Emulator的使用 — URL: <a href="https://www.bilibili.com/read/cv6506213">https://www.bilibili.com/read/cv6506213</a><br>[2]M@ple. 如何使用百度智能云OCR获取APIKey和SecretKey — URL: <a href="https://blog.csdn.net/qq_34673086/article/details/107845615">https://blog.csdn.net/qq_34673086/article/details/107845615</a><br>[3]疯狂学习GIS. 获取百度翻译官方接口API与密钥并授权至软件或插件的方法 — URL: <a href="https://zhuanlan.zhihu.com/p/375789804">https://zhuanlan.zhihu.com/p/375789804</a></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【搬运】新世界狂欢官方四格漫画</title>
+    <url>/posts/5.html</url>
+    <content><![CDATA[<p>仅作交流欣赏用途，请关注新世界狂欢官方Facebook: <a href="https://www.facebook.com/nucarnival">https://www.facebook.com/nucarnival</a><br>© 2022-2024 infinity α studio &#x2F; S.G.Art Ltd. &#x2F; PINKCORE<br>NU: Carnival™ All rights reserved.</p>
+<h2 id="◈-伊得"><a href="#◈-伊得" class="headerlink" title="◈ 伊得"></a><p style="font-size:20px">◈ 伊得</p></h2><p>各位主人~晚上好!<br>今天想跟主人们分享伊得大人的趣事，<br>伊得大人来到卡莱因大陆前，是情趣用品公司的设计师。<br>虽然在下不太了解那些「用品」是什么，但据说是一种会让人感到快乐的玩具。<br>没想到就连在原本的世界，伊得大人也跟现在一样，努力地想带给身旁的人更多快乐，<br>这让在下又更加敬佩伊得大人了。</p>
+<p>但「假O」到底要如何令人感到快乐？<br>不晓得有没有主人能为在下解惑呢？<br><img src="/img/8.新世界狂欢四格漫画/1.webp" alt="四格漫画-伊得" /></p>
+<h2 id="◈-艾斯特-墨菲"><a href="#◈-艾斯特-墨菲" class="headerlink" title="◈ 艾斯特&amp;墨菲"></a><p style="font-size:20px">◈ 艾斯特&amp;墨菲</p></h2><p>主人们~晚上好!<br>终于放年假了，主人们有睡得比较充足吗?<br>伊得大人担心在下年假期间过于忙碌，特别准许在下休息一天。<br>好久没有睡到自然醒，现在充满活力，准备好张罗年夜饭了。</p>
+<p>伊得大人近来睡眠品质不好，导致精神不佳，甚至还会全身酸痛。<br>据说原因可能跟两位使魔有关……<br>究竟为什么会全身酸痛，请进官方讨论区瞧瞧。<br>官方讨论区：<a href="http://www.facebook.com/groups/nucarnival/">www.facebook.com/groups/nucarnival/</a></p>
+<p>另外预祝主人们，福虎生丰，事事顺心！<br>在下要先离席去准备鸡汤，为伊得大人补补身子了。<br><img src="/img/8.新世界狂欢四格漫画/2.webp" alt="四格漫画-艾斯特&墨菲" /></p>
+<h2 id="◈-八云"><a href="#◈-八云" class="headerlink" title="◈ 八云"></a><p style="font-size:20px">◈ 八云</p></h2><p>主人们晚安！</p>
+<p>今夜跟主人们分享宅邸内发生的小趣事。</p>
+<p>八云大人热爱料理，经常能看到他在厨房内尝试做出新的食谱。<br>前几天，当八云大人端出他精心准备的新菜色要给伊得大人品尝时……<br>发生了一个意外，导致八云大人大暴走，差点衍变成一起命案事件！？<br>究竟是谁引发了这场意外呢？ 各位主人赶紧来瞧瞧。<br><img src="/img/8.新世界狂欢四格漫画/3.webp" alt="四格漫画-八云" /></p>
+<h2 id="◈-艾德蒙特"><a href="#◈-艾德蒙特" class="headerlink" title="◈ 艾德蒙特"></a><p style="font-size:20px">◈ 艾德蒙特</p></h2><p>出身贵族拥有良好教养的艾德蒙特大人，平常不轻易承认自己的情感。<br>明明常不由自主接近伊得大人，却总用别扭的理由来解释行为。<br>口嫌体正直的傲娇模样，正是艾德蒙特大人的魅力之处吧！</p>
+<p>以下开放使用「我只是… 才不是…」照样造句！<br>在下先来:「我只是来跟主人分享这个好东西，才不是期盼主人们多多分享呢！」<br><img src="/img/8.新世界狂欢四格漫画/4.webp" alt="四格漫画-艾德蒙特" /></p>
+<h2 id="◈-奥利文"><a href="#◈-奥利文" class="headerlink" title="◈ 奥利文"></a><p style="font-size:20px">◈ 奥利文</p></h2><p>各位主人，晚上好。</p>
+<p>主人们还记得第一则漫画的内容吗？<br>来到新世界的伊得大人，竟然真的把那个惊人的「玩具」制作出来了！<br>不过奥利文大人看起来一点也不害怕，甚至还有些……期待？？？<br>看来就像伊得大人所说，是个能够带来快乐的好东西呢～<br>在下非常好奇，如果主人们在游戏中获得这个玩具，会怎么使用它来传递快乐呢……？<br><img src="/img/8.新世界狂欢四格漫画/5.webp" alt="四格漫画-奥利文" /></p>
+<h2 id="◈-昆西"><a href="#◈-昆西" class="headerlink" title="◈ 昆西"></a><p style="font-size:20px">◈ 昆西</p></h2><p>各位主人，晚上好。<br>今天要来分享住在森林中的昆西大人以及黄昏之星修尔贝克（中略）托帕的小趣事。<br>身为超级小帮手的托帕，平时与昆西大人究竟是如何互动的呢？<br>请主人们快来跟在下一探究竟吧！<br><img src="/img/8.新世界狂欢四格漫画/6.webp" alt="四格漫画-昆西" /></p>
+<h2 id="◈-玖夜"><a href="#◈-玖夜" class="headerlink" title="◈ 玖夜"></a><p style="font-size:20px">◈ 玖夜</p></h2><p>热爱收集世界各地稀珍绝品的玖夜大人，家中除了各式各样的精美「服饰」，还有造型独特的「用品」……可以说是一间怪奇展示馆。</p>
+<p>不知道伊得大人参观之后，对产品设计的灵感是不是又更上一层了呢？<br><img src="/img/8.新世界狂欢四格漫画/7.webp" alt="四格漫画-玖夜" /></p>
+<h2 id="◈-可尔-凯尔"><a href="#◈-可尔-凯尔" class="headerlink" title="◈ 可尔&amp;凯尔"></a><p style="font-size:20px">◈ 可尔&amp;凯尔</p></h2><p>相较于性格温和沉稳的可尔大人，凯尔大人就像一只野狼般，暴躁且气势凌人，也很排斥被伊得大人命令。</p>
+<p>话虽这么说……伊得大人这次似乎很巧妙的，找到驯服凯尔大人的方法了？<br><img src="/img/8.新世界狂欢四格漫画/8.webp" alt="四格漫画-可尔&凯尔" /></p>
+<h2 id="◈-布儡"><a href="#◈-布儡" class="headerlink" title="◈ 布儡"></a><p style="font-size:20px">◈ 布儡</p></h2><p>稍微缺乏一般常识的布儡大人，很喜欢阅读各式各样的书籍来学习新事物。刚看完某本雕刻书籍的他，马上花了三天三夜，努力亲手做出给「达令」的礼物。这样的诚意，真是让在下十分敬佩。</p>
+<p>看着双眼发光、期待被夸奖的布儡大人，伊得大人会做出什么样的评价呢？<br><img src="/img/8.新世界狂欢四格漫画/9.webp" alt="四格漫画-布儡" /></p>
+<h2 id="◈-啖天"><a href="#◈-啖天" class="headerlink" title="◈ 啖天"></a><p style="font-size:20px">◈ 啖天</p></h2><p>啖天大人总是不断的鞭策自我，对自己和他人都相当严格，绝不会错过任何适合锻炼的天气。拖走正在悠哉纳凉的伊得大人后，两人究竟做了那些「训练」呢……？<br><img src="/img/8.新世界狂欢四格漫画/10.webp" alt="四格漫画-啖天" /></p>
+<h2 id="◈-春林狂欢宴"><a href="#◈-春林狂欢宴" class="headerlink" title="◈ 春林狂欢宴"></a><p style="font-size:20px">◈ 春林狂欢宴</p></h2><p>宴会落幕之后，艾德蒙特大人和玖夜大人相当用心地准备了专属的礼物。特制的减糖松饼、以及画有一些不妙图案的……？？？伊得大人是否能承受这沉重的爱呢 (｡ŏ_ŏ)<br><img src="/img/8.新世界狂欢四格漫画/11.webp" alt="四格漫画-春林狂欢宴" /></p>
+<h2 id="◈-誓约x血x命定之人"><a href="#◈-誓约x血x命定之人" class="headerlink" title="◈ 誓约x血x命定之人"></a><p style="font-size:20px">◈ 誓约x血x命定之人</p></h2><p>每位眷属的身上，都散发着独特的香气。带有清晰花香的布儡大人、香甜果香的可尔大人、以及…… 嗯……不知道托帕大人是什么样的气味呢？<br><img src="/img/8.新世界狂欢四格漫画/12.webp" alt="四格漫画-誓约x血x命定之人" /></p>
+<h2 id="◈-真神之晚钟"><a href="#◈-真神之晚钟" class="headerlink" title="◈ 真神之晚钟"></a><p style="font-size:20px">◈ 真神之晚钟</p></h2><p>当～当！现在是奥利文老师的专属指导时间！乖乖坐在台下的两位同学，都为了各自的目标认真的学习着魔法…… 看来我们的大魔法师，似乎有其它更迫切的需求呢？<br><img src="/img/8.新世界狂欢四格漫画/13.webp" alt="四格漫画-真神之晚钟" /></p>
+<h2 id="◈-敛"><a href="#◈-敛" class="headerlink" title="◈ 敛"></a><p style="font-size:20px">◈ 敛</p></h2><p>朝夕相处的敛大人和老爸感情相当深厚，和昆西大人与托帕一样，常说着只有两人才能理解的动物语言。喜欢他们的主人们，千万不要错过这次的限定活动“虚实雨季”啰！或许…… 有机会解读咕咕声背后的秘密？<br><img src="/img/8.新世界狂欢四格漫画/14.webp" alt="四格漫画-敛" /></p>
+<h2 id="◈-虚实雨季"><a href="#◈-虚实雨季" class="headerlink" title="◈ 虚实雨季"></a><p style="font-size:20px">◈ 虚实雨季</p></h2><p>大雨淅沥淅沥之后…… 不仅浸湿了眷属们的衣服，脱下小雨衣的托帕和老爸，也都展现了他们毛茸茸之下的好身材&#128170;<br><img src="/img/8.新世界狂欢四格漫画/15.webp" alt="四格漫画-虚实雨季" /></p>
+<h2 id="◈-炽漠烈日谭"><a href="#◈-炽漠烈日谭" class="headerlink" title="◈ 炽漠烈日谭"></a><p style="font-size:20px">◈ 炽漠烈日谭</p></h2><p>热闹的烈日祭贩售着琳琅满目的珍品，看来就算是大猫咪，也依然对纸箱情有独钟呢 (&#x3D;ↀωↀ&#x3D;)<br><img src="/img/8.新世界狂欢四格漫画/16.webp" alt="四格漫画-炽漠烈日谭" /></p>
+<h2 id="◈-黑街狂赌"><a href="#◈-黑街狂赌" class="headerlink" title="◈ 黑街狂赌"></a><p style="font-size:20px">◈ 黑街狂赌</p></h2><p>全盛状态的艾斯特大人散发着一股危险又性感的魅力，宅邸的各位也不禁为他神魂颠倒……主人们喜欢怎么样的艾斯特大人呢❤️<br><img src="/img/8.新世界狂欢四格漫画/17.jpg" alt="四格漫画-黑街狂赌" /></p>
+<h2 id="◈-烟岚秘境"><a href="#◈-烟岚秘境" class="headerlink" title="◈ 烟岚秘境"></a><p style="font-size:20px">◈ 烟岚秘境</p></h2><p>被神秘力量环绕的恒居谷，有着壮阔又有些凶险的地形。在两位妖族的热情带领下，伊得大人度过了精疲力尽的时光，看来需要好好补补身体了……<br><img src="/img/8.新世界狂欢四格漫画/18.jpg" alt="四格漫画-烟岚秘境" /></p>
+<h2 id="◈-锖色国度"><a href="#◈-锖色国度" class="headerlink" title="◈ 锖色国度"></a><p style="font-size:20px">◈ 锖色国度</p></h2><p>晶能矿石拥有着无与伦比的力量，当落入不同眷属们的手中时，会被作为什么用途呢？玖夜大人和敛大人的实验精神，真是有点令人害怕呢……<br><img src="/img/8.新世界狂欢四格漫画/19.jpg" alt="四格漫画-锖色国度" /></p>
+<h2 id="◈-血之秘钥"><a href="#◈-血之秘钥" class="headerlink" title="◈ 血之秘钥"></a><p style="font-size:20px">◈ 血之秘钥</p></h2><p>终于有机会可以看到各位大人不为人知的一面👀<br>奥… 奥利文大人竟然……也使用的太勤奋了！<br>啖天大人与苏利私底下倒是意外的可爱(<em>´艸&#96;</em>)<br><img src="/img/8.新世界狂欢四格漫画/20.jpg" alt="四格漫画-血之秘钥" /></p>
+<h2 id="◈-晶霜回声"><a href="#◈-晶霜回声" class="headerlink" title="◈ 晶霜回声"></a><p style="font-size:20px">◈ 晶霜回声</p></h2><p>难得可以加入各位大人们的团练现场！<br>往模特儿之路迈进的可尔大人进步的相当迅速<br>艾德蒙特大人的歌声则是一如既往地美妙且精湛<br>昆西大人的歌声真..真是太.太..好…(。-ω-)zzz<br><img src="/img/8.新世界狂欢四格漫画/21.jpg" alt="四格漫画-晶霜回声" /></p>
+<h2 id="◈-勇闯新世界"><a href="#◈-勇闯新世界" class="headerlink" title="◈ 勇闯新世界"></a><p style="font-size:20px">◈ 勇闯新世界</p></h2><p>在慾望的集结下，猫猫神显灵啦😺<br>不过即使得到了三倍的伊得之力，对加班好像也没有帮助呢……<br>这么可怕的噩梦，还是快点醒来比较好( ˘•ω•˘ )<br><img src="/img/8.新世界狂欢四格漫画/22.jpg" alt="四格漫画-勇闯新世界" /></p>
+<h2 id="◈-迷梦绮想曲-空想幻域"><a href="#◈-迷梦绮想曲-空想幻域" class="headerlink" title="◈ 迷梦绮想曲 空想幻域"></a><p style="font-size:20px">◈ 迷梦绮想曲 空想幻域</p></h2><p>在伊得的童話世界中，小兔子喜欢的不是红萝卜🐰🥕<br>而是手感很好的大……蛇蛇👀？<br><img src="/img/8.新世界狂欢四格漫画/23.jpg" alt="四格漫画-迷梦绮想曲 空想幻域" /></p>
+<h2 id="◈-迷梦绮想曲-虚妄梦泉"><a href="#◈-迷梦绮想曲-虚妄梦泉" class="headerlink" title="◈ 迷梦绮想曲 虚妄梦泉"></a><p style="font-size:20px">◈ 迷梦绮想曲 虚妄梦泉</p></h2><p>若捡到大桃子的人是玖夜和敛，伊得太郎的命运会是……🍑？<br><img src="/img/8.新世界狂欢四格漫画/24.jpg" alt="四格漫画-迷梦绮想曲 虚妄梦泉" /></p>
+<h2 id="◈-夕暮狂沙"><a href="#◈-夕暮狂沙" class="headerlink" title="◈ 夕暮狂沙"></a><p style="font-size:20px">◈ 夕暮狂沙</p></h2><p>一起來射靶！你当靶！🤠<br>诱人的奖励总是伴随着一些代价…… 但好像跟预想的不太一样？<br><img src="/img/8.新世界狂欢四格漫画/25.jpg" alt="四格漫画-夕暮狂沙" /></p>
+<h2 id="◈-监禁骚乱大反动"><a href="#◈-监禁骚乱大反动" class="headerlink" title="◈ 监禁骚乱大反动"></a><p style="font-size:20px">◈ 监禁骚乱大反动</p></h2><p>管理员突袭检查，把身上的物品都交出来❗<br>看起来监狱里的伙食不合托帕胃口，<br>良好的睡眠品质就从光线阻隔开始……<br>嗯？有奇怪的商人混进来了？！<br><img src="/img/8.新世界狂欢四格漫画/26.jpg" alt="四格漫画-监禁骚乱大反动" /></p>
+<h2 id="◈-迷藏的邀约函"><a href="#◈-迷藏的邀约函" class="headerlink" title="◈ 迷藏的邀约函"></a><p style="font-size:20px">◈ 迷藏的邀约函</p></h2><p>侦探社有了新的委托📃<br>委托者是我们的社长──伊得大人！<br>看来大家对伊得大人的「珍宝」都有不同的使用方法呢👀<br><img src="/img/8.新世界狂欢四格漫画/27.jpg" alt="四格漫画-迷藏的邀约函" /></p>
+<h2 id="◈-极乐幻町"><a href="#◈-极乐幻町" class="headerlink" title="◈ 极乐幻町"></a><p style="font-size:20px">◈ 极乐幻町</p></h2><p>不愧是打工经验丰富的伊得大人，连钢管舞也难不倒他！<br>看著伊得大人游刃有余的在钢管上灵活旋转🕺<br>奥利文大人和玖夜大人也忍不住跃跃欲试……<br>不得不说两位大人的表演相当具有「个人风格」呢😳<br><img src="/img/8.新世界狂欢四格漫画/28.jpg" alt="四格漫画-极乐幻町" /></p>
+<h2 id="◈-全力求胜！决战无人岛"><a href="#◈-全力求胜！决战无人岛" class="headerlink" title="◈ 全力求胜！决战无人岛"></a><p style="font-size:20px">◈ 全力求胜！决战无人岛</p></h2><p>为了获得伊得大人的专属特制椰雕🥥<br>可尔选手拚尽全力，使出浑身解数！<br>啖天选手嘴上嫌弃，身体倒是很诚实呢👀<br>嗯？昆西选手在……？💤<br>不愧是手工艺大师！自己的椰雕自己刻👍<br><img src="/img/8.新世界狂欢四格漫画/29.jpg" alt="四格漫画-全力求胜！决战无人岛" /></p>
+<h2 id="◈-来自星界的呼唤"><a href="#◈-来自星界的呼唤" class="headerlink" title="◈ 来自星界的呼唤"></a><p style="font-size:20px">◈ 来自星界的呼唤</p></h2><p>听见叫声的艾德蒙特大人迅速斩除危险，⚔️<br>没想到这竟是伊得大人的全新力作──背包型触手！<br>这项新设计不仅携带、穿脱方便，捆绑功能似乎也相当出色呢～🤭<br><img src="/img/8.新世界狂欢四格漫画/30.jpg" alt="四格漫画-来自星界的呼唤" /></p>
+<h2 id="◈-沧鳞泡影"><a href="#◈-沧鳞泡影" class="headerlink" title="◈ 沧鳞泡影"></a><p style="font-size:20px">◈ 沧鳞泡影</p></h2><p>除了流传已久的人鱼传说之外，<br>充满异地风情的祭祀服装也是一大亮点，<br>连伊得大人都赞不绝口呢！👍<br>但……玖夜大人为伊得大人准备的祭祀用服装，<br>严格来说应该是「被」祭祀用服装吧🤣<br><img src="/img/8.新世界狂欢四格漫画/31.jpg" alt="四格漫画-沧鳞泡影" /></p>
+<h2 id="◈-甜蜜心动爆击"><a href="#◈-甜蜜心动爆击" class="headerlink" title="◈ 甜蜜心动爆击"></a><p style="font-size:20px">◈ 甜蜜心动爆击</p></h2><p>伊梦大人提出了提升业绩的新方法──双人画像🎨<br>三位女仆的个人特色都透过画像完美呈现了呢～<br>天天大人会不定时的炸毛💢<br>奥利萌大人则负责浇灌各位乾涸的心灵🌱<br>敛喵大人……敛喵大人可以满足各位「被驾驭」的渴望🤔<br><img src="/img/8.新世界狂欢四格漫画/32.jpg" alt="四格漫画-甜蜜心动爆击" /></p>
+<h2 id="◈-林野奇迹"><a href="#◈-林野奇迹" class="headerlink" title="◈ 林野奇迹"></a><p style="font-size:20px">◈ 林野奇迹</p></h2><p>随着冬季逐渐到来，照顾小动物们的身体健康也很重要 💪<br>糟…糕……！大家好像变得太健美了，都长得比医生高啦！<br><img src="/img/8.新世界狂欢四格漫画/33.jpg" alt="四格漫画-林野奇迹" /></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
       </tags>
   </entry>
   <entry>
@@ -4466,23 +4612,6 @@
       <tags>
         <tag>游戏攻略</tag>
         <tag>一般向</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【教程】ns游戏(nsp/xci)解包提取bgm</title>
-    <url>/posts/8.html</url>
-    <content><![CDATA[<p>本想看一眼脚本文件以便制作严谨攻略但失败了(卡在了解密的一步,script是个dat文件，怎么打开都是乱码，那就这样吧)。说不定以后会想听bgm，所以还是记录一下。<br>*本文章含大量对其他文章的引用(仅含链接)，产出为0，本质是个<del>文献综述</del>。</p>
-<h2 id="◈-前期准备"><a href="#◈-前期准备" class="headerlink" title="◈ 前期准备"></a><p style="font-size:25px">◈ 前期准备</p></h2><p>要解包的游戏格式需要是nsp&#x2F;xci，如果不是则需要先转换为nsp，见帖子<a href="https://tieba.baidu.com/p/7690214909">【有手就行】极简好用的NSZ&amp;NSP互转工具</a>，帖子中提到的工具SAK的下载地址：<a href="i6q.cn/5T3qx8">密码i95u</a>。<br>本文将使用以下两个工具：<br>NSCbuilder&#8194;<a href="https://github.com/julesontheroad/NSC_BUILDER">github项目地址</a>&#8194;<a href="https://www.mediafire.com/file/8c021cmj2qtb480/NSCbuilder.zip/file">点击下载</a><br>CRIFileSystem&#8194;<a href="https://www.mediafire.com/file/q65tzkbyh58q0r4/CRIFileSystem.rar/file">点击下载</a></p>
-<h2 id="◈-使用NSCbuilder解包游戏文件"><a href="#◈-使用NSCbuilder解包游戏文件" class="headerlink" title="◈ 使用NSCbuilder解包游戏文件"></a><p style="font-size:25px">◈ 使用NSCbuilder解包游戏文件</p></h2><p>流程见<a href="https://blog.csdn.net/today__present/article/details/123171658">记一次nsp解包</a>第一章（nscbuilder解包游戏文件）。<br>博主拆CollarxMalice的fd的时候写了上面的文章，我阅读时正好在拆CollarxMalice的本篇，<del>但我看配图似乎博主拆的正是本篇。</del></p>
-<h2 id="◈-使用CRIFileSystem解包游戏文件"><a href="#◈-使用CRIFileSystem解包游戏文件" class="headerlink" title="◈ 使用CRIFileSystem解包游戏文件"></a><p style="font-size:25px">◈ 使用CRIFileSystem解包游戏文件</p></h2><p>完成上一步后，使用CRIFileSystem继续解包。<br>上面引用的文章使用CriPakTools解包cpk，但我用了闪退，于是使用CRIFileSystem进行解包。<del>这款工具似乎更多用于实况足球修改球员脸型。</del><br>使用方法见<a href="http://www.3h3.com/patch/259966.html">当游网的软件详情页的资源介绍</a>。</p>
-<h2 id="◈-提取音乐"><a href="#◈-提取音乐" class="headerlink" title="◈ 提取音乐"></a><p style="font-size:25px">◈ 提取音乐</p></h2><p>流程见<a href="https://blog.csdn.net/today__present/article/details/123171658">记一次nsp解包</a>第三章（关于音乐hca转mp3）。</p>
-<h2 id="◈-引用文章"><a href="#◈-引用文章" class="headerlink" title="◈ 引用文章"></a><p style="font-size:25px">◈ 引用文章</p></h2><p>[1]一平步青楼一. 【有手就行】极简好用的NSZ&amp;NSP互转工具 — URL: <a href="https://tieba.baidu.com/p/7690214909">https://tieba.baidu.com/p/7690214909</a><br>[2]today__present. 记一次nsp解包（nscb解包nsp&#x2F;xci，cpk解包，转hca、adx到MP3，转nsm、m2v到MP4方法集锦） — URL: <a href="https://blog.csdn.net/today__present/article/details/123171658">https://blog.csdn.net/today__present/article/details/123171658</a></p>
-]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
@@ -5250,84 +5379,14 @@
       </tags>
   </entry>
   <entry>
-    <title>【搬运】新世界狂欢官方四格漫画</title>
-    <url>/posts/5.html</url>
-    <content><![CDATA[<p>仅作交流欣赏用途，请关注新世界狂欢官方Facebook: <a href="https://www.facebook.com/nucarnival">https://www.facebook.com/nucarnival</a><br>© 2022-2024 infinity α studio &#x2F; S.G.Art Ltd. &#x2F; PINKCORE<br>NU: Carnival™ All rights reserved.</p>
-<h2 id="◈-伊得"><a href="#◈-伊得" class="headerlink" title="◈ 伊得"></a><p style="font-size:20px">◈ 伊得</p></h2><p>各位主人~晚上好!<br>今天想跟主人们分享伊得大人的趣事，<br>伊得大人来到卡莱因大陆前，是情趣用品公司的设计师。<br>虽然在下不太了解那些「用品」是什么，但据说是一种会让人感到快乐的玩具。<br>没想到就连在原本的世界，伊得大人也跟现在一样，努力地想带给身旁的人更多快乐，<br>这让在下又更加敬佩伊得大人了。</p>
-<p>但「假O」到底要如何令人感到快乐？<br>不晓得有没有主人能为在下解惑呢？<br><img src="/img/8.新世界狂欢四格漫画/1.webp" alt="四格漫画-伊得" /></p>
-<h2 id="◈-艾斯特-墨菲"><a href="#◈-艾斯特-墨菲" class="headerlink" title="◈ 艾斯特&amp;墨菲"></a><p style="font-size:20px">◈ 艾斯特&amp;墨菲</p></h2><p>主人们~晚上好!<br>终于放年假了，主人们有睡得比较充足吗?<br>伊得大人担心在下年假期间过于忙碌，特别准许在下休息一天。<br>好久没有睡到自然醒，现在充满活力，准备好张罗年夜饭了。</p>
-<p>伊得大人近来睡眠品质不好，导致精神不佳，甚至还会全身酸痛。<br>据说原因可能跟两位使魔有关……<br>究竟为什么会全身酸痛，请进官方讨论区瞧瞧。<br>官方讨论区：<a href="http://www.facebook.com/groups/nucarnival/">www.facebook.com/groups/nucarnival/</a></p>
-<p>另外预祝主人们，福虎生丰，事事顺心！<br>在下要先离席去准备鸡汤，为伊得大人补补身子了。<br><img src="/img/8.新世界狂欢四格漫画/2.webp" alt="四格漫画-艾斯特&墨菲" /></p>
-<h2 id="◈-八云"><a href="#◈-八云" class="headerlink" title="◈ 八云"></a><p style="font-size:20px">◈ 八云</p></h2><p>主人们晚安！</p>
-<p>今夜跟主人们分享宅邸内发生的小趣事。</p>
-<p>八云大人热爱料理，经常能看到他在厨房内尝试做出新的食谱。<br>前几天，当八云大人端出他精心准备的新菜色要给伊得大人品尝时……<br>发生了一个意外，导致八云大人大暴走，差点衍变成一起命案事件！？<br>究竟是谁引发了这场意外呢？ 各位主人赶紧来瞧瞧。<br><img src="/img/8.新世界狂欢四格漫画/3.webp" alt="四格漫画-八云" /></p>
-<h2 id="◈-艾德蒙特"><a href="#◈-艾德蒙特" class="headerlink" title="◈ 艾德蒙特"></a><p style="font-size:20px">◈ 艾德蒙特</p></h2><p>出身贵族拥有良好教养的艾德蒙特大人，平常不轻易承认自己的情感。<br>明明常不由自主接近伊得大人，却总用别扭的理由来解释行为。<br>口嫌体正直的傲娇模样，正是艾德蒙特大人的魅力之处吧！</p>
-<p>以下开放使用「我只是… 才不是…」照样造句！<br>在下先来:「我只是来跟主人分享这个好东西，才不是期盼主人们多多分享呢！」<br><img src="/img/8.新世界狂欢四格漫画/4.webp" alt="四格漫画-艾德蒙特" /></p>
-<h2 id="◈-奥利文"><a href="#◈-奥利文" class="headerlink" title="◈ 奥利文"></a><p style="font-size:20px">◈ 奥利文</p></h2><p>各位主人，晚上好。</p>
-<p>主人们还记得第一则漫画的内容吗？<br>来到新世界的伊得大人，竟然真的把那个惊人的「玩具」制作出来了！<br>不过奥利文大人看起来一点也不害怕，甚至还有些……期待？？？<br>看来就像伊得大人所说，是个能够带来快乐的好东西呢～<br>在下非常好奇，如果主人们在游戏中获得这个玩具，会怎么使用它来传递快乐呢……？<br><img src="/img/8.新世界狂欢四格漫画/5.webp" alt="四格漫画-奥利文" /></p>
-<h2 id="◈-昆西"><a href="#◈-昆西" class="headerlink" title="◈ 昆西"></a><p style="font-size:20px">◈ 昆西</p></h2><p>各位主人，晚上好。<br>今天要来分享住在森林中的昆西大人以及黄昏之星修尔贝克（中略）托帕的小趣事。<br>身为超级小帮手的托帕，平时与昆西大人究竟是如何互动的呢？<br>请主人们快来跟在下一探究竟吧！<br><img src="/img/8.新世界狂欢四格漫画/6.webp" alt="四格漫画-昆西" /></p>
-<h2 id="◈-玖夜"><a href="#◈-玖夜" class="headerlink" title="◈ 玖夜"></a><p style="font-size:20px">◈ 玖夜</p></h2><p>热爱收集世界各地稀珍绝品的玖夜大人，家中除了各式各样的精美「服饰」，还有造型独特的「用品」……可以说是一间怪奇展示馆。</p>
-<p>不知道伊得大人参观之后，对产品设计的灵感是不是又更上一层了呢？<br><img src="/img/8.新世界狂欢四格漫画/7.webp" alt="四格漫画-玖夜" /></p>
-<h2 id="◈-可尔-凯尔"><a href="#◈-可尔-凯尔" class="headerlink" title="◈ 可尔&amp;凯尔"></a><p style="font-size:20px">◈ 可尔&amp;凯尔</p></h2><p>相较于性格温和沉稳的可尔大人，凯尔大人就像一只野狼般，暴躁且气势凌人，也很排斥被伊得大人命令。</p>
-<p>话虽这么说……伊得大人这次似乎很巧妙的，找到驯服凯尔大人的方法了？<br><img src="/img/8.新世界狂欢四格漫画/8.webp" alt="四格漫画-可尔&凯尔" /></p>
-<h2 id="◈-布儡"><a href="#◈-布儡" class="headerlink" title="◈ 布儡"></a><p style="font-size:20px">◈ 布儡</p></h2><p>稍微缺乏一般常识的布儡大人，很喜欢阅读各式各样的书籍来学习新事物。刚看完某本雕刻书籍的他，马上花了三天三夜，努力亲手做出给「达令」的礼物。这样的诚意，真是让在下十分敬佩。</p>
-<p>看着双眼发光、期待被夸奖的布儡大人，伊得大人会做出什么样的评价呢？<br><img src="/img/8.新世界狂欢四格漫画/9.webp" alt="四格漫画-布儡" /></p>
-<h2 id="◈-啖天"><a href="#◈-啖天" class="headerlink" title="◈ 啖天"></a><p style="font-size:20px">◈ 啖天</p></h2><p>啖天大人总是不断的鞭策自我，对自己和他人都相当严格，绝不会错过任何适合锻炼的天气。拖走正在悠哉纳凉的伊得大人后，两人究竟做了那些「训练」呢……？<br><img src="/img/8.新世界狂欢四格漫画/10.webp" alt="四格漫画-啖天" /></p>
-<h2 id="◈-春林狂欢宴"><a href="#◈-春林狂欢宴" class="headerlink" title="◈ 春林狂欢宴"></a><p style="font-size:20px">◈ 春林狂欢宴</p></h2><p>宴会落幕之后，艾德蒙特大人和玖夜大人相当用心地准备了专属的礼物。特制的减糖松饼、以及画有一些不妙图案的……？？？伊得大人是否能承受这沉重的爱呢 (｡ŏ_ŏ)<br><img src="/img/8.新世界狂欢四格漫画/11.webp" alt="四格漫画-春林狂欢宴" /></p>
-<h2 id="◈-誓约x血x命定之人"><a href="#◈-誓约x血x命定之人" class="headerlink" title="◈ 誓约x血x命定之人"></a><p style="font-size:20px">◈ 誓约x血x命定之人</p></h2><p>每位眷属的身上，都散发着独特的香气。带有清晰花香的布儡大人、香甜果香的可尔大人、以及…… 嗯……不知道托帕大人是什么样的气味呢？<br><img src="/img/8.新世界狂欢四格漫画/12.webp" alt="四格漫画-誓约x血x命定之人" /></p>
-<h2 id="◈-真神之晚钟"><a href="#◈-真神之晚钟" class="headerlink" title="◈ 真神之晚钟"></a><p style="font-size:20px">◈ 真神之晚钟</p></h2><p>当～当！现在是奥利文老师的专属指导时间！乖乖坐在台下的两位同学，都为了各自的目标认真的学习着魔法…… 看来我们的大魔法师，似乎有其它更迫切的需求呢？<br><img src="/img/8.新世界狂欢四格漫画/13.webp" alt="四格漫画-真神之晚钟" /></p>
-<h2 id="◈-敛"><a href="#◈-敛" class="headerlink" title="◈ 敛"></a><p style="font-size:20px">◈ 敛</p></h2><p>朝夕相处的敛大人和老爸感情相当深厚，和昆西大人与托帕一样，常说着只有两人才能理解的动物语言。喜欢他们的主人们，千万不要错过这次的限定活动“虚实雨季”啰！或许…… 有机会解读咕咕声背后的秘密？<br><img src="/img/8.新世界狂欢四格漫画/14.webp" alt="四格漫画-敛" /></p>
-<h2 id="◈-虚实雨季"><a href="#◈-虚实雨季" class="headerlink" title="◈ 虚实雨季"></a><p style="font-size:20px">◈ 虚实雨季</p></h2><p>大雨淅沥淅沥之后…… 不仅浸湿了眷属们的衣服，脱下小雨衣的托帕和老爸，也都展现了他们毛茸茸之下的好身材&#128170;<br><img src="/img/8.新世界狂欢四格漫画/15.webp" alt="四格漫画-虚实雨季" /></p>
-<h2 id="◈-炽漠烈日谭"><a href="#◈-炽漠烈日谭" class="headerlink" title="◈ 炽漠烈日谭"></a><p style="font-size:20px">◈ 炽漠烈日谭</p></h2><p>热闹的烈日祭贩售着琳琅满目的珍品，看来就算是大猫咪，也依然对纸箱情有独钟呢 (&#x3D;ↀωↀ&#x3D;)<br><img src="/img/8.新世界狂欢四格漫画/16.webp" alt="四格漫画-炽漠烈日谭" /></p>
-<h2 id="◈-黑街狂赌"><a href="#◈-黑街狂赌" class="headerlink" title="◈ 黑街狂赌"></a><p style="font-size:20px">◈ 黑街狂赌</p></h2><p>全盛状态的艾斯特大人散发着一股危险又性感的魅力，宅邸的各位也不禁为他神魂颠倒……主人们喜欢怎么样的艾斯特大人呢❤️<br><img src="/img/8.新世界狂欢四格漫画/17.jpg" alt="四格漫画-黑街狂赌" /></p>
-<h2 id="◈-烟岚秘境"><a href="#◈-烟岚秘境" class="headerlink" title="◈ 烟岚秘境"></a><p style="font-size:20px">◈ 烟岚秘境</p></h2><p>被神秘力量环绕的恒居谷，有着壮阔又有些凶险的地形。在两位妖族的热情带领下，伊得大人度过了精疲力尽的时光，看来需要好好补补身体了……<br><img src="/img/8.新世界狂欢四格漫画/18.jpg" alt="四格漫画-烟岚秘境" /></p>
-<h2 id="◈-锖色国度"><a href="#◈-锖色国度" class="headerlink" title="◈ 锖色国度"></a><p style="font-size:20px">◈ 锖色国度</p></h2><p>晶能矿石拥有着无与伦比的力量，当落入不同眷属们的手中时，会被作为什么用途呢？玖夜大人和敛大人的实验精神，真是有点令人害怕呢……<br><img src="/img/8.新世界狂欢四格漫画/19.jpg" alt="四格漫画-锖色国度" /></p>
-<h2 id="◈-血之秘钥"><a href="#◈-血之秘钥" class="headerlink" title="◈ 血之秘钥"></a><p style="font-size:20px">◈ 血之秘钥</p></h2><p>终于有机会可以看到各位大人不为人知的一面👀<br>奥… 奥利文大人竟然……也使用的太勤奋了！<br>啖天大人与苏利私底下倒是意外的可爱(<em>´艸&#96;</em>)<br><img src="/img/8.新世界狂欢四格漫画/20.jpg" alt="四格漫画-血之秘钥" /></p>
-<h2 id="◈-晶霜回声"><a href="#◈-晶霜回声" class="headerlink" title="◈ 晶霜回声"></a><p style="font-size:20px">◈ 晶霜回声</p></h2><p>难得可以加入各位大人们的团练现场！<br>往模特儿之路迈进的可尔大人进步的相当迅速<br>艾德蒙特大人的歌声则是一如既往地美妙且精湛<br>昆西大人的歌声真..真是太.太..好…(。-ω-)zzz<br><img src="/img/8.新世界狂欢四格漫画/21.jpg" alt="四格漫画-晶霜回声" /></p>
-<h2 id="◈-勇闯新世界"><a href="#◈-勇闯新世界" class="headerlink" title="◈ 勇闯新世界"></a><p style="font-size:20px">◈ 勇闯新世界</p></h2><p>在慾望的集结下，猫猫神显灵啦😺<br>不过即使得到了三倍的伊得之力，对加班好像也没有帮助呢……<br>这么可怕的噩梦，还是快点醒来比较好( ˘•ω•˘ )<br><img src="/img/8.新世界狂欢四格漫画/22.jpg" alt="四格漫画-勇闯新世界" /></p>
-<h2 id="◈-迷梦绮想曲-空想幻域"><a href="#◈-迷梦绮想曲-空想幻域" class="headerlink" title="◈ 迷梦绮想曲 空想幻域"></a><p style="font-size:20px">◈ 迷梦绮想曲 空想幻域</p></h2><p>在伊得的童話世界中，小兔子喜欢的不是红萝卜🐰🥕<br>而是手感很好的大……蛇蛇👀？<br><img src="/img/8.新世界狂欢四格漫画/23.jpg" alt="四格漫画-迷梦绮想曲 空想幻域" /></p>
-<h2 id="◈-迷梦绮想曲-虚妄梦泉"><a href="#◈-迷梦绮想曲-虚妄梦泉" class="headerlink" title="◈ 迷梦绮想曲 虚妄梦泉"></a><p style="font-size:20px">◈ 迷梦绮想曲 虚妄梦泉</p></h2><p>若捡到大桃子的人是玖夜和敛，伊得太郎的命运会是……🍑？<br><img src="/img/8.新世界狂欢四格漫画/24.jpg" alt="四格漫画-迷梦绮想曲 虚妄梦泉" /></p>
-<h2 id="◈-夕暮狂沙"><a href="#◈-夕暮狂沙" class="headerlink" title="◈ 夕暮狂沙"></a><p style="font-size:20px">◈ 夕暮狂沙</p></h2><p>一起來射靶！你当靶！🤠<br>诱人的奖励总是伴随着一些代价…… 但好像跟预想的不太一样？<br><img src="/img/8.新世界狂欢四格漫画/25.jpg" alt="四格漫画-夕暮狂沙" /></p>
-<h2 id="◈-监禁骚乱大反动"><a href="#◈-监禁骚乱大反动" class="headerlink" title="◈ 监禁骚乱大反动"></a><p style="font-size:20px">◈ 监禁骚乱大反动</p></h2><p>管理员突袭检查，把身上的物品都交出来❗<br>看起来监狱里的伙食不合托帕胃口，<br>良好的睡眠品质就从光线阻隔开始……<br>嗯？有奇怪的商人混进来了？！<br><img src="/img/8.新世界狂欢四格漫画/26.jpg" alt="四格漫画-监禁骚乱大反动" /></p>
-<h2 id="◈-迷藏的邀约函"><a href="#◈-迷藏的邀约函" class="headerlink" title="◈ 迷藏的邀约函"></a><p style="font-size:20px">◈ 迷藏的邀约函</p></h2><p>侦探社有了新的委托📃<br>委托者是我们的社长──伊得大人！<br>看来大家对伊得大人的「珍宝」都有不同的使用方法呢👀<br><img src="/img/8.新世界狂欢四格漫画/27.jpg" alt="四格漫画-迷藏的邀约函" /></p>
-<h2 id="◈-极乐幻町"><a href="#◈-极乐幻町" class="headerlink" title="◈ 极乐幻町"></a><p style="font-size:20px">◈ 极乐幻町</p></h2><p>不愧是打工经验丰富的伊得大人，连钢管舞也难不倒他！<br>看著伊得大人游刃有余的在钢管上灵活旋转🕺<br>奥利文大人和玖夜大人也忍不住跃跃欲试……<br>不得不说两位大人的表演相当具有「个人风格」呢😳<br><img src="/img/8.新世界狂欢四格漫画/28.jpg" alt="四格漫画-极乐幻町" /></p>
-<h2 id="◈-全力求胜！决战无人岛"><a href="#◈-全力求胜！决战无人岛" class="headerlink" title="◈ 全力求胜！决战无人岛"></a><p style="font-size:20px">◈ 全力求胜！决战无人岛</p></h2><p>为了获得伊得大人的专属特制椰雕🥥<br>可尔选手拚尽全力，使出浑身解数！<br>啖天选手嘴上嫌弃，身体倒是很诚实呢👀<br>嗯？昆西选手在……？💤<br>不愧是手工艺大师！自己的椰雕自己刻👍<br><img src="/img/8.新世界狂欢四格漫画/29.jpg" alt="四格漫画-全力求胜！决战无人岛" /></p>
-<h2 id="◈-来自星界的呼唤"><a href="#◈-来自星界的呼唤" class="headerlink" title="◈ 来自星界的呼唤"></a><p style="font-size:20px">◈ 来自星界的呼唤</p></h2><p>听见叫声的艾德蒙特大人迅速斩除危险，⚔️<br>没想到这竟是伊得大人的全新力作──背包型触手！<br>这项新设计不仅携带、穿脱方便，捆绑功能似乎也相当出色呢～🤭<br><img src="/img/8.新世界狂欢四格漫画/30.jpg" alt="四格漫画-来自星界的呼唤" /></p>
-<h2 id="◈-沧鳞泡影"><a href="#◈-沧鳞泡影" class="headerlink" title="◈ 沧鳞泡影"></a><p style="font-size:20px">◈ 沧鳞泡影</p></h2><p>除了流传已久的人鱼传说之外，<br>充满异地风情的祭祀服装也是一大亮点，<br>连伊得大人都赞不绝口呢！👍<br>但……玖夜大人为伊得大人准备的祭祀用服装，<br>严格来说应该是「被」祭祀用服装吧🤣<br><img src="/img/8.新世界狂欢四格漫画/31.jpg" alt="四格漫画-沧鳞泡影" /></p>
-<h2 id="◈-甜蜜心动爆击"><a href="#◈-甜蜜心动爆击" class="headerlink" title="◈ 甜蜜心动爆击"></a><p style="font-size:20px">◈ 甜蜜心动爆击</p></h2><p>伊梦大人提出了提升业绩的新方法──双人画像🎨<br>三位女仆的个人特色都透过画像完美呈现了呢～<br>天天大人会不定时的炸毛💢<br>奥利萌大人则负责浇灌各位乾涸的心灵🌱<br>敛喵大人……敛喵大人可以满足各位「被驾驭」的渴望🤔<br><img src="/img/8.新世界狂欢四格漫画/32.jpg" alt="四格漫画-甜蜜心动爆击" /></p>
-<h2 id="◈-林野奇迹"><a href="#◈-林野奇迹" class="headerlink" title="◈ 林野奇迹"></a><p style="font-size:20px">◈ 林野奇迹</p></h2><p>随着冬季逐渐到来，照顾小动物们的身体健康也很重要 💪<br>糟…糕……！大家好像变得太健美了，都长得比医生高啦！<br><img src="/img/8.新世界狂欢四格漫画/33.jpg" alt="四格漫画-林野奇迹" /></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【教程】御坂翻译器MisakaTranslator配置及使用方法</title>
-    <url>/posts/6.html</url>
-    <content><![CDATA[<h2 id="◈-御坂翻译器是什么？"><a href="#◈-御坂翻译器是什么？" class="headerlink" title="◈ 御坂翻译器是什么？"></a><p style="font-size:20px">◈ 御坂翻译器是什么？</p></h2><p>御坂翻译器MisakaTranslator是一款Galgame&#x2F;文字游戏&#x2F;漫画多语种实时机翻工具。<br>简单来说，它可以提取游戏文本并生成一个翻译窗口，帮助你游玩非中文的游戏（啃生肉）。<br>项目主页：<a href="https://github.com/hanmin0822/MisakaTranslator">点击跳转至github</a><br>最新版本(2.12.2)：<a href="https://github.com/hanmin0822/MisakaTranslator/releases/tag/2.12.2">点击MisakaTranslator.2.12.2.zip下载</a><br>备用下载链接：<a href="https://www.mediafire.com/file/3fszss5tachxvxn/MisakaTranslator.2.12.2.zip/file">Mediafire</a></p>
-<h2 id="◈-启动"><a href="#◈-启动" class="headerlink" title="◈ 启动"></a><p style="font-size:20px">◈ 启动</p></h2><p>下载并解压”MisakaTranslator.2.12.2.zip”，双击”MisakaTranslator-WPF.exe”启动。<br><img src="https://cdnjson.com/images/2023/08/06/_bcc5527e2f3891d3.webp" alt="翻译器启动程序图" title="双击这个文件启动" /></p>
-<h2 id="◈-界面"><a href="#◈-界面" class="headerlink" title="◈ 界面"></a><p style="font-size:20px">◈ 界面</p></h2><img src="https://cdnjson.com/images/2023/08/06/_0bc62b4ff3f86987.webp" alt="翻译器界面图" title="翻译器界面" />
-
-<h2 id="◈-翻译器设置"><a href="#◈-翻译器设置" class="headerlink" title="◈ 翻译器设置"></a><p style="font-size:20px">◈ 翻译器设置</p></h2><h3 id="◈-软件本体设置"><a href="#◈-软件本体设置" class="headerlink" title="◈ 软件本体设置"></a><p style="font-size:17px">◈ 软件本体设置</p></h3><p>保持默认即可。<br><img src="https://cdnjson.com/images/2023/08/06/_.webp" alt="软件本体设置图" title="软件本体设置" /></p>
-<h3 id="◈-LE转区相关设置"><a href="#◈-LE转区相关设置" class="headerlink" title="◈ LE转区相关设置"></a><p style="font-size:17px">◈ LE转区相关设置</p></h3><p>路径设置如图所示。请注意，MisakaTranslator与Locale Emulator所在路径皆<b>不要</b>有中文。<br>这一项可以留空不设置，可在启动游戏时自行右键使用LE打开，只是在使用主界面左下角的”自动开始翻译”时可能出现问题。<br>关于Locale Emulator是什么以及如何使用可查看<a href="https://www.bilibili.com/read/cv6506213">[转区工具]Locale Emulator的使用</a>。<br><img src="https://cdnjson.com/images/2023/08/06/_LE.webp" alt="LE转区相关设置图" title="LE转区相关设置" /></p>
-<h3 id="◈-Hook相关设置"><a href="#◈-Hook相关设置" class="headerlink" title="◈ Hook相关设置"></a><p style="font-size:17px">◈ Hook相关设置</p></h3><p>保持默认即可。<br><img src="https://cdnjson.com/images/2023/08/06/_Hook.webp" alt="Hook相关设置图" title="Hook相关设置" /></p>
-<h3 id="◈-OCR相关设置"><a href="#◈-OCR相关设置" class="headerlink" title="◈ OCR相关设置"></a><p style="font-size:17px">◈ OCR相关设置</p></h3><p>OCR即截屏翻译。</p>
-<h4 id="◈-通用设置"><a href="#◈-通用设置" class="headerlink" title="◈ 通用设置"></a><p style="font-size:15px">◈ 通用设置</p></h4><img src="https://cdnjson.com/images/2023/08/06/ocr.webp" alt="OCR通用设置图" title="OCR通用设置" />
-
-<h4 id="◈-百度智能云OCR-API"><a href="#◈-百度智能云OCR-API" class="headerlink" title="◈ 百度智能云OCR API"></a><p style="font-size:15px">◈ 百度智能云OCR API</p></h4><p>关于如何申请API可查看<a href="https://blog.csdn.net/qq_34673086/article/details/107845615">如何使用百度智能云OCR获取APIKey和SecretKey，</a>将获取的API Key和Secret Key填入如下的位置，显示工作正常即可。<br><img src="https://cdnjson.com/images/2023/08/06/ocrbcb0164bde873c71.webp" alt="百度智能云OCR API设置图" title="百度智能云OCR API设置" /></p>
-<h4 id="◈-百度翻译OCR-API"><a href="#◈-百度翻译OCR-API" class="headerlink" title="◈ 百度翻译OCR API"></a><p style="font-size:15px">◈ 百度翻译OCR API</p></h4><p>关于如何配置百度翻译OCR API下见<b>翻译相关设置-百度翻译API</b>，并<a href="https://fanyi-api.baidu.com/product/22">开通图片翻译API</a>。</p>
-<h3 id="◈-翻译相关设置"><a href="#◈-翻译相关设置" class="headerlink" title="◈ 翻译相关设置"></a><p style="font-size:17px">◈ 翻译相关设置</p></h3><h4 id="◈-通用设置-1"><a href="#◈-通用设置-1" class="headerlink" title="◈ 通用设置"></a><p style="font-size:15px">◈ 通用设置</p></h4><img src="https://cdnjson.com/images/2023/08/06/7ae7f8eeb57ca30dfe09300dc47f4b14.webp" alt="翻译通用设置图" title="翻译通用设置" />
-这里仅以百度翻译API为例，其他API配置方式大同小异请自行搜索。
-
-<h4 id="◈-百度翻译API"><a href="#◈-百度翻译API" class="headerlink" title="◈ 百度翻译API"></a><p style="font-size:15px">◈ 百度翻译API</p></h4><p>关于如何申请API可查看<a href="https://zhuanlan.zhihu.com/p/375789804">获取百度翻译官方接口API与密钥并授权至软件或插件的方法</a>，将获取的APP ID和密钥填入如下的位置，显示工作正常即可。<br><img src="https://cdnjson.com/images/2023/08/06/API.webp" alt="百度翻译API配置图" title="百度翻译API" /></p>
-<h3 id="◈-其他设置"><a href="#◈-其他设置" class="headerlink" title="◈ 其他设置"></a><p style="font-size:17px">◈ 其他设置</p></h3><p>词典相关设置、TTS相关设置、人工翻译相关设置保持默认即可，如有需要请自行配置。</p>
-<h2 id="◈-对游戏进行翻译"><a href="#◈-对游戏进行翻译" class="headerlink" title="◈ 对游戏进行翻译"></a><p style="font-size:20px">◈ 对游戏进行翻译</p></h2><p>点击主界面-添加游戏。</p>
-<h3 id="◈-Hook方式游戏向导"><a href="#◈-Hook方式游戏向导" class="headerlink" title="◈ Hook方式游戏向导"></a><p style="font-size:17px">◈ Hook方式游戏向导</p></h3><p>请确认已完成<b>翻译相关设置</b>。<br><img src="https://cdnjson.com/images/2023/08/06/hook1.webp" alt="Hook翻译图1" title="选择游戏" /><br>运行游戏并点击对话框，使游戏中文本发生变化，一直点到出现你满意的结果为止。<br><img src="https://cdnjson.com/images/2023/08/06/hook2.webp" alt="Hook翻译图2" title="以Omega Vampire为例" /><br><img src="https://cdnjson.com/images/2023/08/06/hook3.webp" alt="Hook翻译图3" title="选择去重方法" /><br><img src="https://cdnjson.com/images/2023/08/06/hook4.webp" alt="Hook翻译图4" title="选择翻译语言" /><br><img src="https://cdnjson.com/images/2023/08/06/hook5.webp" alt="Hook翻译图5" title="完成设置" /></p>
-<h3 id="◈-OCR方式游戏向导"><a href="#◈-OCR方式游戏向导" class="headerlink" title="◈ OCR方式游戏向导"></a><p style="font-size:17px">◈ OCR方式游戏向导</p></h3><p>请确认已完成<b>OCR相关设置</b>。<br><img src="https://cdnjson.com/images/2023/08/06/ocr1.webp" alt="OCR翻译图1" title="选择截图区域" /><br>选择全屏截取也可以，游玩时注意不要挪动游戏窗口。<br><img src="https://cdnjson.com/images/2023/08/06/ocr2.webp" alt="OCR翻译图2" title="OCR预处理" /><br><img src="https://cdnjson.com/images/2023/08/06/ocr3.webp" alt="OCR翻译图3" title="设置触发键" /></p>
-<h2 id="◈-引用文章"><a href="#◈-引用文章" class="headerlink" title="◈ 引用文章"></a><p style="font-size:20px">◈ 引用文章</p></h2><p>[1]梦境无恒. [转区工具]Locale Emulator的使用 — URL: <a href="https://www.bilibili.com/read/cv6506213">https://www.bilibili.com/read/cv6506213</a><br>[2]M@ple. 如何使用百度智能云OCR获取APIKey和SecretKey — URL: <a href="https://blog.csdn.net/qq_34673086/article/details/107845615">https://blog.csdn.net/qq_34673086/article/details/107845615</a><br>[3]疯狂学习GIS. 获取百度翻译官方接口API与密钥并授权至软件或插件的方法 — URL: <a href="https://zhuanlan.zhihu.com/p/375789804">https://zhuanlan.zhihu.com/p/375789804</a></p>
+    <title>【教程】ns游戏(nsp/xci)解包提取bgm</title>
+    <url>/posts/8.html</url>
+    <content><![CDATA[<p>本想看一眼脚本文件以便制作严谨攻略但失败了(卡在了解密的一步,script是个dat文件，怎么打开都是乱码，那就这样吧)。说不定以后会想听bgm，所以还是记录一下。<br>*本文章含大量对其他文章的引用(仅含链接)，产出为0，本质是个<del>文献综述</del>。</p>
+<h2 id="◈-前期准备"><a href="#◈-前期准备" class="headerlink" title="◈ 前期准备"></a><p style="font-size:25px">◈ 前期准备</p></h2><p>要解包的游戏格式需要是nsp&#x2F;xci，如果不是则需要先转换为nsp，见帖子<a href="https://tieba.baidu.com/p/7690214909">【有手就行】极简好用的NSZ&amp;NSP互转工具</a>，帖子中提到的工具SAK的下载地址：<a href="i6q.cn/5T3qx8">密码i95u</a>。<br>本文将使用以下两个工具：<br>NSCbuilder&#8194;<a href="https://github.com/julesontheroad/NSC_BUILDER">github项目地址</a>&#8194;<a href="https://www.mediafire.com/file/8c021cmj2qtb480/NSCbuilder.zip/file">点击下载</a><br>CRIFileSystem&#8194;<a href="https://www.mediafire.com/file/q65tzkbyh58q0r4/CRIFileSystem.rar/file">点击下载</a></p>
+<h2 id="◈-使用NSCbuilder解包游戏文件"><a href="#◈-使用NSCbuilder解包游戏文件" class="headerlink" title="◈ 使用NSCbuilder解包游戏文件"></a><p style="font-size:25px">◈ 使用NSCbuilder解包游戏文件</p></h2><p>流程见<a href="https://blog.csdn.net/today__present/article/details/123171658">记一次nsp解包</a>第一章（nscbuilder解包游戏文件）。<br>博主拆CollarxMalice的fd的时候写了上面的文章，我阅读时正好在拆CollarxMalice的本篇，<del>但我看配图似乎博主拆的正是本篇。</del></p>
+<h2 id="◈-使用CRIFileSystem解包游戏文件"><a href="#◈-使用CRIFileSystem解包游戏文件" class="headerlink" title="◈ 使用CRIFileSystem解包游戏文件"></a><p style="font-size:25px">◈ 使用CRIFileSystem解包游戏文件</p></h2><p>完成上一步后，使用CRIFileSystem继续解包。<br>上面引用的文章使用CriPakTools解包cpk，但我用了闪退，于是使用CRIFileSystem进行解包。<del>这款工具似乎更多用于实况足球修改球员脸型。</del><br>使用方法见<a href="http://www.3h3.com/patch/259966.html">当游网的软件详情页的资源介绍</a>。</p>
+<h2 id="◈-提取音乐"><a href="#◈-提取音乐" class="headerlink" title="◈ 提取音乐"></a><p style="font-size:25px">◈ 提取音乐</p></h2><p>流程见<a href="https://blog.csdn.net/today__present/article/details/123171658">记一次nsp解包</a>第三章（关于音乐hca转mp3）。</p>
+<h2 id="◈-引用文章"><a href="#◈-引用文章" class="headerlink" title="◈ 引用文章"></a><p style="font-size:25px">◈ 引用文章</p></h2><p>[1]一平步青楼一. 【有手就行】极简好用的NSZ&amp;NSP互转工具 — URL: <a href="https://tieba.baidu.com/p/7690214909">https://tieba.baidu.com/p/7690214909</a><br>[2]today__present. 记一次nsp解包（nscb解包nsp&#x2F;xci，cpk解包，转hca、adx到MP3，转nsm、m2v到MP4方法集锦） — URL: <a href="https://blog.csdn.net/today__present/article/details/123171658">https://blog.csdn.net/today__present/article/details/123171658</a></p>
 ]]></content>
       <categories>
         <category>教程</category>
