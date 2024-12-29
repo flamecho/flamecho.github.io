@@ -771,6 +771,12 @@ document.addEventListener('DOMContentLoaded', function () {
     })
   }
 
+  //你知道的太多了
+  const addheimuTitle = function(){
+    console.log(123)
+    $('.heimu').attr('title','你知道的太多了')
+  }
+
   const unRefreshFn = function () {
     window.addEventListener('resize', () => {
       adjustMenu(false)
@@ -793,7 +799,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   window.refreshFn = function () {
     initAdjust()
-
+    addheimuTitle()
     if (GLOBAL_CONFIG_SITE.isPost) {
       GLOBAL_CONFIG.noticeOutdate !== undefined && addPostOutdateNotice()
       GLOBAL_CONFIG.relativeDate.post && relativeDate(document.querySelectorAll('#post-meta time'))
