@@ -155,3 +155,45 @@ border-radius: 8px; /*边框圆角*/
   background: #3a62a0;
   border-radius: 5px;
 }
+
+/* 标签页 */
+#page .tag-cloud-list a {
+    display: inline-flex;
+    color: var(--global-bg) !important;
+    font-size: 1.2em !important;
+    padding: 0.2em 0.5em;
+    background: var(--heo-theme);
+    margin: 0.5em 0.5em;
+    border-radius: 12px;
+    -webkit-backface-visibility: hidden;
+    -webkit-transform-style: preserve-3d;
+    border: var(--style-border-always);
+    box-shadow: var(--btn-hover-color);
+    align-items: center;
+}
+#page .tag-cloud-list a:before {
+    color: var(--global-bg) !important;
+    cursor: pointer;
+    content: "\e038" !important;
+    font-family: "iconfont" !important;
+    opacity: 0.4;
+    padding-top: 2px;
+    padding-right: 2px;
+}
+#page .tag-cloud-list a:hover {
+    background: var(--btn-hover-color);
+}
+#page .tag-cloud-list a > sup{
+    top: auto;
+    background: var(--heo-theme);
+    padding: 4px 4px;
+    margin-left: 8px;
+    border-radius: 6px;
+    color: var(--global-bg);
+    line-height: 1;
+    text-align: center;
+    min-width: 35px;
+    display: inline-block;
+    font-size: 1rem;
+    box-shadow: var(--global-bg);
+}
