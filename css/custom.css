@@ -203,10 +203,27 @@ border-radius: 8px; /*边框圆角*/
 
 
 /* ========================twikoo美化====================== */
-/* 隐藏评论者头像
+/* 隐藏评论者头像*/
 #twikoo .tk-comments .tk-submit .tk-avatar.tk-has-avatar {
-    display: none;
-}*/
+    /*display: none;*/
+    border-radius: 8px;
+}
+
+.tk-avatar .tk-avatar-img {
+    border-radius: 8px;
+}
+
+#aside-content .aside-list > .aside-list-item .thumbnail {
+    border-radius: 8px;
+}
+
+.article-sort-item-img {
+    border-radius: 8px;
+}
+
+#pagination .page-number.current {
+    border-radius: 8px;
+}
 
 /* 下面表情和按钮那一栏的设置 */
 #twikoo .tk-comments .tk-submit .tk-row.actions{
@@ -233,18 +250,18 @@ border-radius: 8px; /*边框圆角*/
 
 /* 圆角设置 */
 .tk-meta-input input {
-    border-top-right-radius: 12px;
-    border-bottom-right-radius: 12px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
 }
 
 .tk-meta-input div {
-    border-top-left-radius: 12px;
-    border-bottom-left-radius: 12px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
 }
 
 /* 输入框样式 */
 .tk-input.el-textarea textarea {
-    border-radius: 12px;
+    border-radius: 8px;
     min-height: 150px !important;
     height: auto;
 }
@@ -257,7 +274,7 @@ border-radius: 8px; /*边框圆角*/
 }
 
 :root {
-  --liushen-radius: 12px;
+  --liushen-radius: 8px;
   --liushen-card-border-width: 1px;
 }
 
@@ -407,7 +424,7 @@ border-radius: 8px; /*边框圆角*/
 
 /* 评论区按钮样式 */
 .tk-row.actions button.el-button {
-    border-radius: 12px !important;
+    border-radius: 8px !important;
 }
 
 
@@ -448,7 +465,7 @@ border-radius: 8px; /*边框圆角*/
     /* 文字强制不换行，防止left:50%导致的文字换行 */
     white-space: nowrap;
     /* 圆角 */
-    border-radius: 10px;
+    border-radius: 8px;
     /* 距离左边50% */
     left: 50%;
     /* 然后再向左边挪动自身的一半，即可实现居中 */
