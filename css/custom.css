@@ -203,10 +203,10 @@ border-radius: 8px; /*边框圆角*/
 
 
 /* ========================twikoo美化====================== */
-/* 隐藏评论者头像 */
+/* 隐藏评论者头像
 #twikoo .tk-comments .tk-submit .tk-avatar.tk-has-avatar {
     display: none;
-}
+}*/
 
 /* 下面表情和按钮那一栏的设置 */
 #twikoo .tk-comments .tk-submit .tk-row.actions{
