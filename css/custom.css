@@ -199,70 +199,136 @@ border-radius: 8px; /*边框圆角*/
 }
 
 
-/* 声名部分变量 */
+
+
+
+/* ========================twikoo美化====================== */
+/* 隐藏评论者头像 */
+#twikoo .tk-comments .tk-submit .tk-avatar.tk-has-avatar {
+    display: none;
+}
+
+/* 下面表情和按钮那一栏的设置 */
+#twikoo .tk-comments .tk-submit .tk-row.actions{
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+/* 个人信息和文本输入之间的空位置 */
+.tk-main .tk-submit .tk-col .tk-meta-input,
+#twikoo .tk-comments .tk-submit .tk-col .tk-meta-input{
+    margin-bottom: 16px;
+}
+
+/* 直接固定高度，解决提交按钮有时高度不起作用的问题 */
+.tk-row.actions button.el-button {
+    height: 32px;
+}
+
+/* 解决图片大小超出范围问题 */
+.tk-main .tk-content img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* 圆角设置 */
+.tk-meta-input input {
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.tk-meta-input div {
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+}
+
+/* 输入框样式 */
+.tk-input.el-textarea textarea {
+    border-radius: 12px;
+    min-height: 150px !important;
+    height: auto;
+}
+
+/* 宽度太窄的时候去掉预览按钮 */
+@media screen and (max-width:420px) {
+    .tk-main .tk-submit .tk-row.actions button.el-button.tk-preview.el-button--default.el-button--small{
+        display: none;
+    }
+}
+
 :root {
-  --cxl2020mc-radius: 7px;
-  --cxl2020mc-card-border-width: 1px;
+  --liushen-radius: 12px;
+  --liushen-card-border-width: 1px;
 }
 
 /* 浅色模式颜色 */
 [data-theme=light] {
-  --cxl2020mc-border-color: #e3e8f7;
-  --cxl2020mc-card-bg: #ffffffb3;
-  --cxl2020mc-card-border: #e3e8f7;
-  --style-border-always: 1px solid var(--cxl2020mc-card-border);
-  --cxl2020mc-blue: #425AEF;
+  --liushen-border-color: #e3e8f7;
+  --liushen-card-bg: #ffffffb3;
+  --liushen-card-font: #fff;
+  --liushen-card-border: #e3e8f7;
+  --style-border-always: 1px solid var(--liushen-card-border);
+  --liushen-blue: #425AEF;
 }
 
 /* 深色模式颜色 */
 [data-theme=dark] {
-  --cxl2020mc-border-color: #42444a;
-  --cxl2020mc-card-bg: #1d1b26;
-  --cxl2020mc-card-border: #42444a;
-  --style-border-always: 1px solid var(--cxl2020mc-card-border);
-  --cxl2020mc-blue: #0084FF;
+  --liushen-border-color: #42444a;
+  --liushen-card-bg: #2c2c2c;
+  --liushen-card-border: #42444a;
+  --style-border-always: 1px solid var(--liushen-card-border);
+  --liushen-blue: #0084FF;
 }
 
 /* 评论区评论大框 */
-.twikoo .tk-comments-container>.tk-comment {
+.twikoo .tk-comments-container>.tk-comment,
+.twikoo .tk-comments .tk-submit {
   /* 内边距 */
-  padding: 1rem;
+  padding: 20px;
+  margin-top: 0px;
+  margin-bottom: 20px;
   /* 圆角 */
-  border-radius: var(--cxl2020mc-radius);
+  border-radius: var(--liushen-radius);
   /* 背景颜色 */
-  background: var(--cxl2020mc-card-bg);
+  background: var(--liushen-card-bg);
   /* 变动动画时长 */
   transition: .3s;
 }
 
 /* 浅色模式评论区评论大框 */
-[data-theme=light] .twikoo .tk-comments-container>.tk-comment {
+[data-theme=light]
+.twikoo .tk-comments-container>.tk-comment,
+.twikoo .tk-comments .tk-submit {
   /* 阴影 */
   box-shadow: var(--card-box-shadow);
 }
 
 /* 浅色模式评论区评论大框阴影悬浮加深 */
-[data-theme=light] .twikoo .tk-comments-container>.tk-comment:hover {
+[data-theme=light]
+.twikoo .tk-comments-container>.tk-comment:hover,
+.twikoo .tk-comments .tk-submit:hover {
   /* 阴影（浅色模式突出层次感） */
   box-shadow: var(--card-hover-box-shadow);
 }
 
 /* 黑暗模式评论区评论大框 */
-[data-theme=dark] .twikoo .tk-comments-container>.tk-comment {
+[data-theme=dark]
+.twikoo .tk-comments-container>.tk-comment,
+.twikoo .tk-comments .tk-submit {
   /* 边框样式 */
   border-style: solid;
   /* 边框宽度 */
-  border-width: var(--cxl2020mc-card-border-width);
+  border-width: var(--liushen-card-border-width);
   /* 边框颜色 */
-  border-color: var(--cxl2020mc-card-border);
+  border-color: var(--liushen-card-border);
 }
 
 /* 设备信息 */
 .twikoo .tk-extra {
   /* 圆角 */
-  border-radius: var(--cxl2020mc-radius);
+  border-radius: var(--liushen-radius);
   /* 背景颜色 */
-  background: var(--cxl2020mc-card-bg);
+  background: var(--liushen-card-bg);
   /* 内边距 */
   padding: 0.4rem;
   /* 底边距 */
@@ -288,21 +354,23 @@ border-radius: 8px; /*边框圆角*/
   /* 边框样式 */
   border-style: solid;
   /* 边框宽度 */
-  border-width: var(--cxl2020mc-card-border-width);
+  border-width: var(--liushen-card-border-width);
   /* 边框颜色 */
-  border-color: var(--cxl2020mc-card-border);
+  border-color: var(--liushen-card-border);
 }
 
 /* 加载更多按钮 */
 .twikoo .tk-expand {
   /* 圆角 */
-  border-radius: var(--cxl2020mc-radius);
+  border-radius: var(--liushen-radius);
 }
 
 /* 浅色模式加载更多按钮 */
 [data-theme=light] .twikoo .tk-expand {
   /* 阴影 */
   box-shadow: var(--card-box-shadow);
+  /* 背景颜色 */
+  background: var(--liushen-card-bg);
 }
 
 /* 浅色模式加载更多按钮（鼠标悬浮时） */
@@ -311,12 +379,13 @@ border-radius: 8px; /*边框圆角*/
   box-shadow: var(--card-hover-box-shadow);
   /* 背景颜色 */
   background-color: var(--btn-bg);
+  color: var(--liushen-card-font);
 }
 
 /* 黑暗模式加载更多按钮（鼠标悬浮时） */
 [data-theme=dark] .twikoo .tk-expand:hover {
   /* 背景颜色 */
-  background-color: var(--cxl2020mc-blue);
+  background-color: var(--liushen-blue);
 }
 
 /* 黑暗模式加载更多按钮 */
@@ -324,22 +393,42 @@ border-radius: 8px; /*边框圆角*/
   /* 边框样式 */
   border-style: solid;
   /* 边框宽度 */
-  border-width: var(--cxl2020mc-card-border-width);
+  border-width: var(--liushen-card-border-width);
   /* 边框颜色 */
-  border-color: var(--cxl2020mc-card-border);
+  border-color: var(--liushen-card-border);
 }
+
+/* 分类卡片移动端个人信息卡片只显示两个 */
+@media screen and (max-width:570px) {
+    .tk-main .tk-extras {
+        display: none;
+    }
+}
+
+/* 评论区按钮样式 */
+.tk-row.actions button.el-button {
+    border-radius: 12px !important;
+}
+
+
+/* 由于twikoo内部函数不宜修改，为了合适，去掉弹窗中的刷新按钮，该部分不需要，这是为了适配右键回复弹窗的内容的
+#popup #twikoo .tk-comments .tk-comments-container .tk-comments-title > span:nth-child(2) > span:nth-child(1) {
+	display: none;
+} */
+
+/* ========================twikoo美化====================== */
 
 /* 设置文字内容 :nth-child(1)的作用是选择第几个 */
 .el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(1):before {
-    content: '输入QQ号会自动获取头像和昵称🐧';
+    content: '输入QQ号会自动获取头像和昵称';
 }
 
 .el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(2):before {
-    content: '收到回复将会发送到您的邮箱📧';
+    content: '收到回复将会发送到您的邮箱';
 }
 
 .el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(3):before {
-    content: '可以通过昵称访问您的网站🔗';
+    content: '可以通过昵称访问您的网站';
 }
 
 /* 当用户点击输入框时显示 */
