@@ -35,6 +35,23 @@
   -o-transform: scale(0.5);
 }
 
+/* 移动端隐藏鼠标特效 */
+@media (hover: none) and (pointer: coarse) {
+  #cursor {
+    display: none !important;
+    visibility: hidden !important;
+  }
+}
+
+/* 或使用屏幕宽度判断（推荐） */
+@media (max-width: 768px) {
+  #cursor {
+    opacity: 0 !important;
+    transform: scale(0) !important;
+    transition-duration: 0s !important;
+  }
+}
+
 :root {
   --trans-light: rgba(255, 255, 255, 0.8);
   --trans-dark: rgba(25, 25, 25, 0.8);
@@ -197,9 +214,6 @@ border-radius: 8px; /*边框圆角*/
     font-size: 1rem;
     box-shadow: var(--global-bg);
 }
-
-
-
 
 
 /* ========================twikoo美化====================== */
