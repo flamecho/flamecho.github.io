@@ -4362,6 +4362,35 @@ h1.page-title + .tag-cloud-list {
   height: 100%;
   background: rgba(0,0,0,0.8);
 }
+#sidebar .site-data {
+  margin-top: 0.5rem;
+}
+#sidebar #sidebar-avatar {
+  margin-top: 2rem;
+/* 作者名 */
+}
+#sidebar #sidebar-avatar .author-info__name {
+  font-weight: 500;
+  font-size: 1.57em;
+}
+#sidebar #card-info-btn {
+  display: block;
+  margin: 0.3rem 1rem 0 1rem;
+  background-color: var(--btn-bg);
+  color: var(--btn-color);
+  text-align: center;
+  line-height: 2.4;
+  overflow: hidden;
+  border-radius: 0.625rem;
+}
+#sidebar .menu-info-social-icons {
+  margin: 0.5rem 0 0 0;
+}
+#sidebar .menu-info-social-icons .social-icon {
+  display: inline;
+  padding: 0 0.7rem 0 0.7rem;
+  font-size: 1.4em;
+}
 #sidebar #sidebar-menus {
   position: fixed;
   top: 0;
@@ -4434,6 +4463,20 @@ h1.page-title + .tag-cloud-list {
 #sidebar #sidebar-menus .menus_items .menus_item_child {
   margin: 0;
   list-style: none;
+}
+#sidebar #sidebar-menus {
+  background: -webkit-linear-gradient(30deg, #ffd7e4 0%, #c8f1ff 100%);
+  background: -moz-linear-gradient(30deg, #ffd7e4 0%, #c8f1ff 100%);
+  background: -o-linear-gradient(30deg, #ffd7e4 0%, #c8f1ff 100%);
+  background: -ms-linear-gradient(30deg, #ffd7e4 0%, #c8f1ff 100%);
+  background: linear-gradient(60deg, #ffd7e4 0%, #c8f1ff 100%);
+}
+[data-theme="dark"] #sidebar #sidebar-menus {
+  background: -webkit-linear-gradient(30deg, #2c0c16 0%, #043749 100%);
+  background: -moz-linear-gradient(30deg, #2c0c16 0%, #043749 100%);
+  background: -o-linear-gradient(30deg, #2c0c16 0%, #043749 100%);
+  background: -ms-linear-gradient(30deg, #2c0c16 0%, #043749 100%);
+  background: linear-gradient(60deg, #2c0c16 0%, #043749 100%);
 }
 #vcomment {
   font-size: 1.1em;

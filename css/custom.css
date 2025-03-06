@@ -554,3 +554,54 @@ border-radius: 8px; /*边框圆角*/
   display: inline-block;
   position: relative;
 }
+
+/* 侧边栏菜单 信息卡片头像状态 https://www.fomal.cc/posts/d739261b.html */
+.card-info-avatar-sidebar .author-status-box-sidebar {
+  position: absolute;
+  bottom: 0;
+  /*right: calc(100% - 28px);*/
+  width: 28px;
+  height: 28px;
+  border: 2px solid #32b8db;
+  border-radius: 2em;
+  background-color: #f8f8f8f8;
+  transition: 0.4s;
+  overflow: hidden;
+}
+
+[data-theme="dark"] .card-info-avatar-sidebar .author-status-box-sidebar {
+  background-color: #222222f2;
+  border: 2px solid #5c6060;
+}
+
+.card-info-avatar-sidebar .author-status-box-sidebar .author-status-sidebar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 22.5px;
+  padding: 0px 5px;
+}
+
+.card-info-avatar-sidebar .author-status-box-sidebar:hover {
+  width: auto;
+}
+
+.card-info-avatar-sidebar .author-status-box-sidebar:hover .author-status-sidebar span {
+  width: auto;
+  margin-left: 4px;
+}
+
+.card-info-avatar-sidebar .author-status-box-sidebar .author-status-sidebar span {
+  width: 0;
+  font-size: 12px;
+  height: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  transition: 0.4s;
+}
+
+.card-widget .card-info-avatar-sidebar {
+  display: inline-block;
+  position: relative;
+}
