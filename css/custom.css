@@ -623,3 +623,7 @@ border-radius: 8px; /*边框圆角*/
   border-radius: 8px;
   color: #fff;
 }
+
+a.tk-ruser {
+  color: #409eff;
+}
