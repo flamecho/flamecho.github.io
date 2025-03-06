@@ -316,8 +316,8 @@ border-radius: 8px; /*边框圆角*/
 .twikoo .tk-comments .tk-submit {
   /* 内边距 */
   padding: 20px;
-  margin-top: 0px;
-  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
   /* 圆角 */
   border-radius: var(--liushen-radius);
   /* 背景颜色 */
@@ -392,6 +392,7 @@ border-radius: 8px; /*边框圆角*/
 
 /* 加载更多按钮 */
 .twikoo .tk-expand {
+  margin-top: 2em;
   /* 圆角 */
   border-radius: var(--liushen-radius);
 }
@@ -604,4 +605,151 @@ border-radius: 8px; /*边框圆角*/
 .card-widget .card-info-avatar-sidebar {
   display: inline-block;
   position: relative;
+}
+
+
+
+
+
+/* 自定义twikoo评论输入框高度 */
+.tk-input[data-v-619b4c52] .el-textarea__inner {
+  height: 130px !important;
+}
+
+/* 输入评论时自动隐藏输入框背景图片 */
+.tk-input[data-v-619b4c52] .el-textarea__inner:focus {
+  background-image: none !important;
+}
+
+
+
+/* 评论块气泡化修改 */
+.tk-content a {
+  color: #ffd93d; /*默认模式超链接配色*/
+}
+.tk-content {
+  background: #408fe1; /*默认模式访客气泡配色*/
+  padding: 10px;
+  color: #fff; /*默认模式访客气泡字体配色*/
+  border-radius: 8px;
+  font-size: 16px !important;
+  width: fit-content;
+  max-width: 100%;
+  position: relative !important;
+  overflow: visible !important;
+  max-height: none !important;
+}
+.tk-content::before {
+  content: '';
+  width: 0;
+  height: 0;
+  position: absolute;
+  top: 20px;
+  left: -13px;
+  border-top: 2px solid transparent;
+  border-bottom: 20px solid transparent;
+  border-right: 15px solid #408fe1; /*默认模式访客气泡小三角配色*/
+  border-left: 0px solid transparent;
+}
+
+.tk-master .tk-content {
+  background: #3a62a0; /*默认模式博主气泡配色*/
+  color: #fff; /*默认模式博主气泡字体配色*/
+  width: fit-content;
+  max-width: 100%;
+}
+.tk-master .tk-content a {
+  color: #ffd93d;
+}
+.tk-master .tk-content::before {
+  content: '';
+  width: 0;
+  height: 0;
+  position: absolute;
+  top: 20px;
+  left: -13px;
+  border-top: 2px solid transparent;
+  border-bottom: 20px solid transparent;
+  border-right: 15px solid #3a62a0; /*默认模式博主气泡小三角配色*/
+  border-left: 0px solid transparent;
+}
+
+/* 修复图片出框 */
+.tk-content img {
+  max-width: 100% !important;
+}
+/* 修复过长文本出框 */
+.tk-content pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+/* 自适应内容 */
+@media screen and (min-width: 1024px) {
+  /* 设置宽度上限，避免挤压博主头像 */
+  .tk-content {
+    max-width: 75%;
+    width: fit-content;
+  }
+  .tk-master .tk-content {
+    width: 75%;
+  }
+  .tk-master .tk-content::before {
+    left: 100%;
+    border-left: 15px solid #3a62a0;
+    border-right: 0px solid transparent;
+  }
+  .tk-master .tk-avatar {
+    position: relative;
+    left: calc(75% + 30px);
+  }
+  .tk-master .tk-row[data-v-d82ce9a0] {
+    position: relative;
+    top: 0px;
+    left: calc(75% - 230px);
+  }
+  [data-theme="dark"] .tk-master .tk-content::before {
+    border-left: 15px solid #000;
+    border-right: 0px solid transparent;
+  }
+}
+
+.tk-row[data-v-d82ce9a0] {
+  max-width: 100%;
+  width: fit-content;
+}
+
+
+/* 头像宽度调整 rem单位与全局字体大小挂钩，需配合自己情况调整大小以保证头像显示完整*/
+.tk-replies .tk-avatar {
+  width: 2.5rem !important;
+  height: 2.5rem !important;
+}
+.tk-replies .tk-avatar img {
+  width: 2.5rem !important;
+  height: 2.5rem !important;
+}
+
+/* 回复框左移，避免窄屏时出框 */
+.tk-comments-container .tk-submit {
+  position: relative;
+  left: -70px;
+}
+
+.tk-tag.tk-tag-green {
+  background-color: #3a62a036;
+  border: 1px solid #3a62a0;
+  color: #3a62a0;
+}
+
+div.tk-row {
+  justify-content: normal;
+}
+
+
+
+/* 锁定输入框头像位置 */
+.tk-submit .tk-avatar {
+  left: 0 !important;
+  position: relative !important;
 }
