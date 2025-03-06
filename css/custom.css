@@ -618,8 +618,8 @@ border-radius: 8px; /*边框圆角*/
 }
 
 .tk-tag.tk-tag-green {
-  background-color: transparent;
-  border: 2px solid #409eff;
+  background-color: #409eff;
+  border: 0px solid transparent;
   border-radius: 8px;
-  color: #409eff;
+  color: #fff;
 }
