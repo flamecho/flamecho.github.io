@@ -441,9 +441,6 @@ canvas:not(#ribbon-canvas),
   -ms-animation: donate_effcet 0.3s 0.1s ease both;
   animation: donate_effcet 0.3s 0.1s ease both;
 }
-.tab-to-top {
-  display: none !important;
-}
 @-moz-keyframes scroll-down-effect {
   0% {
     top: 0;
