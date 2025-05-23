@@ -479,442 +479,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【攻略】终远的维尔修 -ErroR:salvation-（ns繁中）</title>
-    <url>/posts/12.html</url>
-    <content><![CDATA[<style>
-.center
-{
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-  font-size:1vw;
-  @media screen and (max-width:2000px){font-size:15px}
-  @media screen and (max-width:768px){font-size:12px}
-  @media screen and (max-width:600px){font-size:10px}
-}
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-</style>
-
-<div class="note success flat"><p><b>此攻略已搬运至bilibili。<a href="https://www.bilibili.com/read/cv31414965/">点击前往</a></b></p>
-</div>
-
-<p><a target="_blank" href="https://www.otomate.jp/virche/"><img src="https://bbs.api.hoilai.com/upload/img/2025/3/25/a5f24704-2638-4c12-9852-f46bed41099a.jpg" alt="点击跳转至游戏官网" width="500" title="点击跳转至游戏官网" /></a></p>
-<p style='line-height:1;text-align:center'><b><font color=#d3625d>OFFICIAL WEBSITE</font></b></p>
-
-<h2 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h2><p><b>亚尔裴谢尔，一个西欧小国。<br>这个国家四面环海，并为漆黑的灾难之花——诺瓦吉彼岸花所环绕，<br>这里的国民出生便带着只能活至23岁的「死亡诅咒」。</p>
-<p>平等地将死亡降临在所有人身上的亚尔裴谢尔，不知不觉便获得了一个异名——<br>「被死神所迷恋的国家」。</p>
-<p>国民哀叹自己无法长寿的命运，与之对抗。<br>经过长年的研究，他们创造出了一个系统。<br>一个得以让他们舍去在23岁便会迎向死亡的躯体，只让记忆永远存活的系统——「下载记忆」。</p>
-<p>藉由下载记忆获得永生的人，被称为「再生之人」，<br>他们继续抗争着短暂的生命。</p>
-<p>与此同时，有一名少女因为会使周遭的人陷入不幸而被称为死神。<br>就在她感叹自己的人生，打算自我了结的那一瞬间，<br>一名自称是「死亡看守人」的神秘男子出现在她的眼前。</p>
-<p>通过看守人的指引，容不得少女拒绝，她就接近了盘踞于这个国度中的「各种各样的死亡谜团」。<br>她所不知道的是，等待着被死神所迷恋之人的命运——是绝望。</b></p>
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-攻略流程"><a href="#❖-攻略流程" class="headerlink" title="❖ 攻略流程"></a><p style="font-size:25px">❖ 攻略流程</p></h2><p><b><font color=#3a62a0>蓝色为【高好感END】选项</font><br><font color=#d3625d>红色为【低好感END】选项</font><br><font color=#008b8b>绿色为【中途END】选项</font></b></p>
-<h3 id="◈-第二幕"><a href="#◈-第二幕" class="headerlink" title="◈ 第二幕"></a><p style="font-size:22px">◈ 第二幕</p></h3><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:16%'>
- <col style='width:42%'>
- <col style='width:42%'>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章9节</b>
-  <td><b><font color=#3a62a0>1.&#8194;好的</font></b>
-  <td><b><font color=#d3625d>2.&#8194;还是请母亲说明比较好……</b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章2节</b>
-  <td colspan=2><b><font color=#3a62a0>2.&#8194;考虑一下</font><br><font color=#008b8b>1.&#8194;不答应&#8194;→&#8194;END:那个没有尽头的终点</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章4节</b>
-  <td><b><font color=#3a62a0>1.&#8194;我想帮助她</font></b>
-  <td><b><font color=#d3625d>2.&#8194;不去帮助她没关系吗……？</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章6节</b>
-  <td><b><font color=#3a62a0>1.&#8194;……</font></b>
-  <td><b><font color=#d3625d>2.&#8194;好、好的</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章10节</b>
-  <td><b><font color=#3a62a0>2.&#8194;上前攀谈</font></b>
-  <td><b><font color=#d3625d>1.&#8194;沉默不语</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章3节</b>
-  <td colspan=2><b><font color=#3a62a0>请问「他杀尸体」的情况<br>请问「离奇死亡尸体」的情况</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章4节</b>
-  <td><b><font color=#3a62a0>1.&#8194;你会这么做也情有可原……</font></b>
-  <td><b><font color=#d3625d>2.&#8194;这不是马蒂斯先生的错……</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章5节</b>
-  <td><b><font color=#3a62a0>2.&#8194;捡起日记</font></b>
-  <td><b><font color=#d3625d>1.&#8194;不接近她</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章4节</b>
-  <td><b><font color=#3a62a0>1.&#8194;反驳他</font></b>
-  <td><b><font color=#d3625d>2.&#8194;沉默不语</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章5节</b>
-  <td><b><font color=#3a62a0>1.&#8194;谢谢您……？</font></b>
-  <td><b><font color=#d3625d>2.&#8194;谢谢您</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>5章4节</b>
-  <td colspan=2><b><font color=#3a62a0>【剧情差分】1.&#8194;确认食材&#8194;/&#8194;2.&#8194;确认寝具</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>5章6节</b>
-  <td colspan=2><b><font color=#3a62a0>【剧情差分】1.&#8194;去庭院&#8194;/&#8194;2.&#8194;去田里</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>5章13节</b>
-  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>进入角色线</font></b>
-  <td bgcolor='#d3625d' style='text-align:center'><b><font color=#ffffff>END:死亡拥抱</font></b>
- </tr>
-</table>
-</div>
-
-<hr class="hr-twill-colorful">
-
-<h3 id="◈-角色线（绝望）"><a href="#◈-角色线（绝望）" class="headerlink" title="◈ 角色线（绝望）"></a><p style="font-size:22px">◈ 角色线（绝望）</p></h3><p><b>完成第三幕前仅可回收【绝望结局】<br><font color=#3a62a0>高好感</font>、<font color=#d3625d>低好感</font>各有一个【绝望结局】<br>注意在<font color=#3a62a0>高好感</font>下<font color=#008b8b>【存档】</font>用以后续回收【救赎结局】</b></p>
-<div class="tabs" id="攻略1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略1-1"><b>璐卡</b></button></li><li class="tab"><button type="button" data-href="#攻略1-2"><b>马蒂斯</b></button></li><li class="tab"><button type="button" data-href="#攻略1-3"><b>席安</b></button></li><li class="tab"><button type="button" data-href="#攻略1-4"><b>伊孚</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略1-1"><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:16%'>
- <col style='width:16%'>
- <col style='width:26%'>
- <col style='width:42%'>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章8节</b>
-  <td colspan=2><b><font color=#3a62a0>2.&#8194;拿绘本</font></b>
-  <td><b><font color=#d3625d>1.&#8194;拿爱情小说</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章10节</b>
-  <td colspan=2><b><font color=#3a62a0>1.&#8194;很开心</font></b>
-  <td><b><font color=#d3625d>2.&#8194;学到了很多东西<br>3.&#8194;孩子们很可爱</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章17节</b>
-  <td colspan=2><b><font color=#3a62a0>2.&#8194;我很乐意</font></b>
-  <td><b><font color=#d3625d>1.&#8194;我可以吗？</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章3节</b>
-  <td colspan=2><b><font color=#3a62a0>2.&#8194;我也想尝试出作业</font></b>
-  <td><b><font color=#d3625d>1.&#8194;是什么样的作业呢？</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章5节</b>
-  <td colspan=2><b><font color=#3a62a0>2.&#8194;我觉得他是个优秀的人，不过……</font></b>
-  <td><b><font color=#d3625d>1.&#8194;他只是我尊敬的对象</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章18节</b>
-  <td colspan=3><b><font color=#3a62a0>2.&#8194;去外面看看情况</font><br><font color=#008b8b>1.&#8194;就这样在家里呆着&#8194;→&#8194;END:「坏孩子」</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章4节</b>
-  <td colspan=2><b><font color=#3a62a0>1.&#8194;您一直在欺骗我吧</font></b>
-  <td><b><font color=#d3625d>2.&#8194;我明明那么相信你</font></b>
- <tr>
-  <td nowrap="nowrap" rowspan=5 style='padding:6px 0px;text-align:center'><b>3章6节</b>
-  <td colspan=2><b><font color=#3a62a0>2.&#8194;不吃</font></b>
-  <td><b><font color=#d3625d>1.&#8194;小口小口地吃</font></b>
- <tr>
-  <td nowrap="nowrap" rowspan=2 style='padding:6px 0px;text-align:center'><b>分支1</b>
-  <td colspan=2><b><font color=#3a62a0>1.&#8194;我想见阿道夫</font></b>
- <tr>
-  <td colspan=2><b><font color=#3a62a0>2.&#8194;暂时先忍耐</font><br><font color=#008b8b>1.&#8194;无声地求助&#8194;→&#8194;END:暗号</font></b>
- <tr>
-  <td nowrap="nowrap" rowspan=2 style='padding:6px 0px;text-align:center'><b>分支2</b>
-  <td colspan=2><b><font color=#3a62a0>2.&#8194;我想见母亲</font></b>
- <tr>
-  <td colspan=2><b><font color=#3a62a0>2.&#8194;不和她商量</font><br><font color=#008b8b>1.&#8194;和她商量&#8194;→&#8194;END:沦为复制品的母女</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章2节<br><font color=#008b8b>【存档】</font></b>
-  <td colspan=2><b><font color=#3a62a0>2.&#8194;扶住他</font></b>
-  <td><b><font color=#d3625d>1.&#8194;要他放下武器</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章16节</b>
-  <td colspan=2 bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>END:鸟笼的世界</font></b>
-  <td bgcolor='#d3625d' style='text-align:center'><b><font color=#ffffff>END:通往绝望的旅程</font></b>
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-2"><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:16%'>
- <col style='width:42%'>
- <col style='width:42%'>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章5节</b>
-  <td><b><font color=#3a62a0>1.&#8194;你的想法并不自私</font></b>
-  <td><b><font color=#d3625d>2.&#8194;你不要太过自责</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章6节</b>
-  <td><b><font color=#3a62a0>2.&#8194;不过，还是很替他开心呢</font></b>
-  <td><b><font color=#d3625d>1.&#8194;对方究竟是怎么样的一位女性呢？</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章5节</b>
-  <td><b><font color=#3a62a0>1.&#8194;牵住他的手</font></b>
-  <td><b><font color=#d3625d>2.&#8194;轻抚他的背</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章2节</b>
-  <td><b><font color=#3a62a0>1.&#8194;硬是上前阻止他</font></b>
-  <td><b><font color=#d3625d>2.&#8194;拜托他停下来</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章11节</b>
-  <td><b><font color=#3a62a0>2.&#8194;你真的很可靠</font></b>
-  <td><b><font color=#d3625d>1.&#8194;那身衣服很适合你</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章6节<br><font color=#008b8b>【存档】</font></b>
-  <td><b><font color=#3a62a0>2.&#8194;我没有什么理由好哭的</font></b>
-  <td style='text-align:center'><b><font color=#d3625d>---</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章</b>
-  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>END:爱与恨的故事</font></b>
-  <td bgcolor='#d3625d' style='text-align:center'><b><font color=#ffffff>END:运送人们</font></b>
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-3"><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:16%'>
- <col style='width:42%'>
- <col style='width:42%'>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章8节</b>
-  <td><b><font color=#3a62a0>2.&#8194;寻求母亲的意见</font></b>
-  <td><b><font color=#d3625d>1.&#8194;寻求阿道夫的意见</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章10节</b>
-  <td colspan=2><b><font color=#3a62a0>2.&#8194;就这么放着</font><br><font color=#008b8b>1.&#8194;整理书柜&#8194;→&#8194;END:不带感情的声音</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章11节</b>
-  <td><b><font color=#3a62a0>2.&#8194;不打扰他</font></b>
-  <td><b><font color=#d3625d>1.&#8194;出声向他搭话</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章5节</b>
-  <td><b><font color=#3a62a0>2.&#8194;国外的那些人都好厉害</font></b>
-  <td><b><font color=#d3625d>1.&#8194;居然能够做得出这种东西来</font></b>
- <tr>
-  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章8节</b>
-  <td colspan=2><b><font color=#3a62a0>浮在空中的光柱是什么？<br>里面的那间房间是？</font></b>
- <tr>
-  <td><b><font color=#3a62a0>2.&#8194;非常震撼</font></b>
-  <td><b><font color=#d3625d>1.&#8194;非常神秘</font></b>  
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章4节</b>
-  <td><b><font color=#3a62a0>1.&#8194;我其实还没有整理好思绪</font></b>
-  <td><b><font color=#d3625d>2.&#8194;我也不知道</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章11节<br><font color=#008b8b>【存档】</font></b>
-  <td><b><font color=#3a62a0>1.&#8194;因为我很憧憬席安先生</font></b>
-  <td><b><font color=#d3625d>2.&#8194;因为您是母亲的朋友</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章</b>
-  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>END:假想中的你</font></b>
-  <td bgcolor='#d3625d' style='text-align:center'><b><font color=#ffffff>END:母亲的回答</font></b>
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-4"><p><b>完成璐卡、马蒂斯、席安的<font color=#3a62a0>【高好感绝望结局:鸟笼的世界&#x2F;爱与恨的故事&#x2F;假想中的你】</font>后解锁</b></p>
-<div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:16%'>
- <col style='width:42%'>
- <col style='width:42%'>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章5节</b>
-  <td><b><font color=#3a62a0>4.&#8194;小小的汽车玩具模型</font></b>
-  <td><b><font color=#d3625d>1.&#8194;杂乱的厨房<br>2.&#8194;开着没收的急救箱<br>3.&#8194;鱼缸里面的鱼</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章6节</b>
-  <td><b><font color=#3a62a0>1.&#8194;我觉得你的料理点子都满有趣的</font></b>
-  <td><b><font color=#d3625d>2.&#8194;还是食材方面需要重新评估一下呢……？<br>3.&#8194;下次请让我尝尝你做的料理</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章13节</b>
-  <td><b><font color=#3a62a0>1.&#8194;听起来很没说服力</font></b>
-  <td><b><font color=#d3625d>2.&#8194;我不会怀疑伊孚的</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章4节</b>
-  <td><b><font color=#3a62a0>2.&#8194;摸摸看他的头</font></b>
-  <td><b><font color=#d3625d>1.&#8194;戳戳看他的脸颊</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章5节</b>
-  <td><b><font color=#3a62a0>1.&#8194;我不知道该怎么回答您才好</font></b>
-  <td><b><font color=#d3625d>2.&#8194;我想成为他的助力</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章4节</b>
-  <td><b><font color=#3a62a0>1.&#8194;受害者的人数与位置<br>2.&#8194;受害者的特征</font></b>
-  <td><b><font color=#d3625d>3.&#8194;受害者的表情</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章5节</b>
-  <td colspan=2><b><font color=#3a62a0>2.&#8194;不送去</font><br><font color=#008b8b>1.&#8194;托伊孚送去&#8194;→&#8194;END:为没能守约而忏悔</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章12节<br><font color=#008b8b>【存档】</font></b>
-  <td><b><font color=#3a62a0>1.&#8194;我认为那是假的</font></b>
-  <td><b><font color=#d3625d>2.&#8194;我认为那是真的</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章13节</b>
-  <td colspan=2><b><font color=#3a62a0>2.&#8194;从后院走出去</font><br><font color=#008b8b>1.&#8194;从窗户看看外面的状况&#8194;→&#8194;END:死神之焰</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章14节</b>
-  <td colspan=2><b><font color=#3a62a0>2.&#8194;拒绝</font><br><font color=#008b8b>1.&#8194;接受雨果先生说的话&#8194;→&#8194;END:同类</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>5章</b>
-  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>END:黑色的爱</font></b>
-  <td bgcolor='#d3625d' style='text-align:center'><b><font color=#ffffff>END:红色彼岸花</font></b>
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-<hr class="hr-twill-colorful">
-
-<h3 id="◈-第三幕"><a href="#◈-第三幕" class="headerlink" title="◈ 第三幕"></a><p style="font-size:22px">◈ 第三幕</p></h3><p><b>完成伊孚的<font color=#3a62a0>【高好感绝望结局:黑色的爱】</font>后解锁<br>回到标题界面，从Start进入第三幕</b></p>
-<div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:16%'>
- <col style='width:42%'>
- <col style='width:42%'>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章16节</b>
-  <td><b><font color=#3a62a0>1.&#8194;叫他的名字</font></b>
-  <td><b><font color=#d3625d>2.&#8194;强行拉开距离</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章18节</b>
-  <td><b><font color=#3a62a0>1.&#8194;说实话</font></b>
-  <td><b><font color=#d3625d>2.&#8194;烦恼是否该敷衍带过</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章19节</b>
-  <td><b><font color=#3a62a0>1.&#8194;贴近阿道夫的身体</font></b>
-  <td><b><font color=#d3625d>2.&#8194;对着阿道夫微笑</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章2节</b>
-  <td><b><font color=#3a62a0>1.&#8194;真是一段佳话呢</font></b>
-  <td><b><font color=#d3625d>2.&#8194;您下次要不要去见见伊孚？</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章5节</b>
-  <td colspan=2><b><font color=#3a62a0>1.&#8194;我想接下委托</font><br><font color=#008b8b>2.&#8194;我担心我去医院的话……&#8194;→&#8194;END:■■■</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章8节</font></b>
-  <td><b><font color=#3a62a0>1.&#8194;同意书的保证人</font></b>
-  <td><b><font color=#d3625d>2.&#8194;他的妹妹</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章11节</b>
-  <td><b><font color=#3a62a0>1.&#8194;和他商量</font></b>
-  <td><b><font color=#d3625d>2.&#8194;沉默以对</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章8节</b>
-  <td><b><font color=#3a62a0>2.&#8194;我相信你</font></b>
-  <td><b><font color=#d3625d>1.&#8194;我不是这个意思</font></b>
- <tr>
-  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章6节</b>
-  <td colspan=2><b><font color=#3a62a0>关于「彼岸花圣女」的事<br>关于「处刑人」的事</font></b>
- <tr>
-  <td><b><font color=#3a62a0>关于「安库异常的举止」的事</font></b>
-  <td><b><font color=#d3625d>关于「安库异常的态度」的事</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章8节</b>
-  <td><b><font color=#3a62a0>1.&#8194;在解开诅咒之前，你就会死的</font></b>
-  <td><b><font color=#d3625d>2.&#8194;席安先生他们会死不瞑目的</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章11节</font></b>
-  <td colspan=2><b><font color=#3a62a0>2.&#8194;我们一起救出他们吧</font><br><font color=#008b8b>1.&#8194;我们一起逃狱吧&#8194;→&#8194;END:逃狱的方法</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>5章3节<br><font color=#008b8b>【存档】</font></b>
-  <td><b><font color=#3a62a0>2.&#8194;我想好好回复你</font></b>
-  <td><b><font color=#d3625d>1.&#8194;希望你能给我时间考虑</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>6章1节</b>
-  <td><b><font color=#3a62a0>1.&#8194;我们好不容易才再次见面的啊</font></b>
-  <td><b><font color=#d3625d>2.&#8194;即便如此还是要阻止他</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>终章</b>
-  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>END:一心求死的死神结局</font></b>
-  <td bgcolor='#d3625d' style='text-align:center'><b><font color=#ffffff>END:杀了我</font></b>
- </tr>
-</table>
-</div>
-<p style="line-height:1"></p>
-<div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:16%'>
- <col style='width:42%'>
- <col style='width:42%'>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>5章3节<br><font color=#008b8b>【读档】</font></b>
-  <td><b>2.&#8194;我想好好回复你</b>
-  <td><b>1.&#8194;希望你能给我时间考虑</b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>6章1节</b>
-  <td><b>2.&#8194;即便如此还是要阻止他</b>
-  <td><b>1.&#8194;我们好不容易才再次见面的啊</b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>终章</b>
-  <td bgcolor='#d3625d' style='text-align:center'><b><font color=#ffffff>END:永无止境的旅途</font></b>
-  <td bgcolor='#d3625d' style='text-align:center'><b><font color=#ffffff>END:迎向终结的亲吻</font></b>
- </tr>
-</table>
-</div>
-
-<hr class="hr-twill-colorful">
-
-<h3 id="◈-角色线（救赎）"><a href="#◈-角色线（救赎）" class="headerlink" title="◈ 角色线（救赎）"></a><p style="font-size:22px">◈ 角色线（救赎）</p></h3><p><b>完成第三幕的<font color=#3a62a0>【救赎结局:一心求死的死神结局】</font>后解锁<br>读取角色线（绝望）中的<font color=#008b8b>【存档】</font>回收【救赎结局】</b></p>
-<div class="tabs" id="攻略2"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略2-1"><b>璐卡</b></button></li><li class="tab"><button type="button" data-href="#攻略2-2"><b>马蒂斯</b></button></li><li class="tab"><button type="button" data-href="#攻略2-3"><b>席安</b></button></li><li class="tab"><button type="button" data-href="#攻略2-4"><b>伊孚</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略2-1"><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:16%'>
- <col style='width:84%'>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章2节<br><font color=#008b8b>【读档】</font></b>
-  <td><b><font color=#3a62a0>2.&#8194;扶住他</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>终章</b>
-  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>END:两人一起做着幸福的美梦</font></b>
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略2-2"><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:16%'>
- <col style='width:84%'>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章6节<br><font color=#008b8b>【读档】</font></b>
-  <td><b><font color=#3a62a0>2.&#8194;我没有什么理由好哭的</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>终章</b>
-  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>END:与你编织的恋爱故事</font></b>
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略2-3"><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:16%'>
- <col style='width:84%'>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章11节<br><font color=#008b8b>【读档】</font></b>
-  <td><b><font color=#3a62a0>1.&#8194;因为我很憧憬席安先生</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>终章</b>
-  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>END:回归人性的初恋</font></b>
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略2-4"><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:16%'>
- <col style='width:84%'>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章12节<br><font color=#008b8b>【读档】</font></b>
-  <td><b><font color=#3a62a0>1.&#8194;我认为那是假的</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章13节</b>
-  <td><b><font color=#3a62a0>2.&#8194;从后院走出去</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章14节</b>
-  <td><b><font color=#3a62a0>2.&#8194;拒绝</font></b>
- <tr>
-  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>终章</b>
-  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>END:直到迎来终点的那刻为止</font></b>
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://store.nintendo.com.hk/70010000055639"><img src="https://img.picui.cn/free/2025/03/25/67e2a718dc6f8.jpg" alt="switch的logo" title="点击跳转至Nintendo Switch游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v29661"><img src="https://img.picui.cn/free/2025/03/25/67e2a7688b335.jpg" alt="点击跳转至The Visual Novel Database" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
-]]></content>
-      <categories>
-        <category>游戏攻略</category>
-        <category>乙女向</category>
-        <category>Otomate</category>
-      </categories>
-      <tags>
-        <tag>游戏攻略</tag>
-        <tag>乙女向</tag>
-        <tag>Otomate</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【攻略】even if TEMPEST 黄昏中魔女如是说（ns繁中）</title>
     <url>/posts/13.html</url>
     <content><![CDATA[<style>
@@ -1371,6 +935,442 @@
       </tags>
   </entry>
   <entry>
+    <title>【攻略】终远的维尔修 -ErroR:salvation-（ns繁中）</title>
+    <url>/posts/12.html</url>
+    <content><![CDATA[<style>
+.center
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  font-size:1vw;
+  @media screen and (max-width:2000px){font-size:15px}
+  @media screen and (max-width:768px){font-size:12px}
+  @media screen and (max-width:600px){font-size:10px}
+}
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+<div class="note success flat"><p><b>此攻略已搬运至bilibili。<a href="https://www.bilibili.com/read/cv31414965/">点击前往</a></b></p>
+</div>
+
+<p><a target="_blank" href="https://www.otomate.jp/virche/"><img src="https://bbs.api.hoilai.com/upload/img/2025/3/25/a5f24704-2638-4c12-9852-f46bed41099a.jpg" alt="点击跳转至游戏官网" width="500" title="点击跳转至游戏官网" /></a></p>
+<p style='line-height:1;text-align:center'><b><font color=#d3625d>OFFICIAL WEBSITE</font></b></p>
+
+<h2 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h2><p><b>亚尔裴谢尔，一个西欧小国。<br>这个国家四面环海，并为漆黑的灾难之花——诺瓦吉彼岸花所环绕，<br>这里的国民出生便带着只能活至23岁的「死亡诅咒」。</p>
+<p>平等地将死亡降临在所有人身上的亚尔裴谢尔，不知不觉便获得了一个异名——<br>「被死神所迷恋的国家」。</p>
+<p>国民哀叹自己无法长寿的命运，与之对抗。<br>经过长年的研究，他们创造出了一个系统。<br>一个得以让他们舍去在23岁便会迎向死亡的躯体，只让记忆永远存活的系统——「下载记忆」。</p>
+<p>藉由下载记忆获得永生的人，被称为「再生之人」，<br>他们继续抗争着短暂的生命。</p>
+<p>与此同时，有一名少女因为会使周遭的人陷入不幸而被称为死神。<br>就在她感叹自己的人生，打算自我了结的那一瞬间，<br>一名自称是「死亡看守人」的神秘男子出现在她的眼前。</p>
+<p>通过看守人的指引，容不得少女拒绝，她就接近了盘踞于这个国度中的「各种各样的死亡谜团」。<br>她所不知道的是，等待着被死神所迷恋之人的命运——是绝望。</b></p>
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-攻略流程"><a href="#❖-攻略流程" class="headerlink" title="❖ 攻略流程"></a><p style="font-size:25px">❖ 攻略流程</p></h2><p><b><font color=#3a62a0>蓝色为【高好感END】选项</font><br><font color=#d3625d>红色为【低好感END】选项</font><br><font color=#008b8b>绿色为【中途END】选项</font></b></p>
+<h3 id="◈-第二幕"><a href="#◈-第二幕" class="headerlink" title="◈ 第二幕"></a><p style="font-size:22px">◈ 第二幕</p></h3><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:16%'>
+ <col style='width:42%'>
+ <col style='width:42%'>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章9节</b>
+  <td><b><font color=#3a62a0>1.&#8194;好的</font></b>
+  <td><b><font color=#d3625d>2.&#8194;还是请母亲说明比较好……</b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章2节</b>
+  <td colspan=2><b><font color=#3a62a0>2.&#8194;考虑一下</font><br><font color=#008b8b>1.&#8194;不答应&#8194;→&#8194;END:那个没有尽头的终点</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章4节</b>
+  <td><b><font color=#3a62a0>1.&#8194;我想帮助她</font></b>
+  <td><b><font color=#d3625d>2.&#8194;不去帮助她没关系吗……？</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章6节</b>
+  <td><b><font color=#3a62a0>1.&#8194;……</font></b>
+  <td><b><font color=#d3625d>2.&#8194;好、好的</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章10节</b>
+  <td><b><font color=#3a62a0>2.&#8194;上前攀谈</font></b>
+  <td><b><font color=#d3625d>1.&#8194;沉默不语</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章3节</b>
+  <td colspan=2><b><font color=#3a62a0>请问「他杀尸体」的情况<br>请问「离奇死亡尸体」的情况</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章4节</b>
+  <td><b><font color=#3a62a0>1.&#8194;你会这么做也情有可原……</font></b>
+  <td><b><font color=#d3625d>2.&#8194;这不是马蒂斯先生的错……</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章5节</b>
+  <td><b><font color=#3a62a0>2.&#8194;捡起日记</font></b>
+  <td><b><font color=#d3625d>1.&#8194;不接近她</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章4节</b>
+  <td><b><font color=#3a62a0>1.&#8194;反驳他</font></b>
+  <td><b><font color=#d3625d>2.&#8194;沉默不语</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章5节</b>
+  <td><b><font color=#3a62a0>1.&#8194;谢谢您……？</font></b>
+  <td><b><font color=#d3625d>2.&#8194;谢谢您</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>5章4节</b>
+  <td colspan=2><b><font color=#3a62a0>【剧情差分】1.&#8194;确认食材&#8194;/&#8194;2.&#8194;确认寝具</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>5章6节</b>
+  <td colspan=2><b><font color=#3a62a0>【剧情差分】1.&#8194;去庭院&#8194;/&#8194;2.&#8194;去田里</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>5章13节</b>
+  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>进入角色线</font></b>
+  <td bgcolor='#d3625d' style='text-align:center'><b><font color=#ffffff>END:死亡拥抱</font></b>
+ </tr>
+</table>
+</div>
+
+<hr class="hr-twill-colorful">
+
+<h3 id="◈-角色线（绝望）"><a href="#◈-角色线（绝望）" class="headerlink" title="◈ 角色线（绝望）"></a><p style="font-size:22px">◈ 角色线（绝望）</p></h3><p><b>完成第三幕前仅可回收【绝望结局】<br><font color=#3a62a0>高好感</font>、<font color=#d3625d>低好感</font>各有一个【绝望结局】<br>注意在<font color=#3a62a0>高好感</font>下<font color=#008b8b>【存档】</font>用以后续回收【救赎结局】</b></p>
+<div class="tabs" id="攻略1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略1-1"><b>璐卡</b></button></li><li class="tab"><button type="button" data-href="#攻略1-2"><b>马蒂斯</b></button></li><li class="tab"><button type="button" data-href="#攻略1-3"><b>席安</b></button></li><li class="tab"><button type="button" data-href="#攻略1-4"><b>伊孚</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略1-1"><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:16%'>
+ <col style='width:16%'>
+ <col style='width:26%'>
+ <col style='width:42%'>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章8节</b>
+  <td colspan=2><b><font color=#3a62a0>2.&#8194;拿绘本</font></b>
+  <td><b><font color=#d3625d>1.&#8194;拿爱情小说</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章10节</b>
+  <td colspan=2><b><font color=#3a62a0>1.&#8194;很开心</font></b>
+  <td><b><font color=#d3625d>2.&#8194;学到了很多东西<br>3.&#8194;孩子们很可爱</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章17节</b>
+  <td colspan=2><b><font color=#3a62a0>2.&#8194;我很乐意</font></b>
+  <td><b><font color=#d3625d>1.&#8194;我可以吗？</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章3节</b>
+  <td colspan=2><b><font color=#3a62a0>2.&#8194;我也想尝试出作业</font></b>
+  <td><b><font color=#d3625d>1.&#8194;是什么样的作业呢？</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章5节</b>
+  <td colspan=2><b><font color=#3a62a0>2.&#8194;我觉得他是个优秀的人，不过……</font></b>
+  <td><b><font color=#d3625d>1.&#8194;他只是我尊敬的对象</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章18节</b>
+  <td colspan=3><b><font color=#3a62a0>2.&#8194;去外面看看情况</font><br><font color=#008b8b>1.&#8194;就这样在家里呆着&#8194;→&#8194;END:「坏孩子」</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章4节</b>
+  <td colspan=2><b><font color=#3a62a0>1.&#8194;您一直在欺骗我吧</font></b>
+  <td><b><font color=#d3625d>2.&#8194;我明明那么相信你</font></b>
+ <tr>
+  <td nowrap="nowrap" rowspan=5 style='padding:6px 0px;text-align:center'><b>3章6节</b>
+  <td colspan=2><b><font color=#3a62a0>2.&#8194;不吃</font></b>
+  <td><b><font color=#d3625d>1.&#8194;小口小口地吃</font></b>
+ <tr>
+  <td nowrap="nowrap" rowspan=2 style='padding:6px 0px;text-align:center'><b>分支1</b>
+  <td colspan=2><b><font color=#3a62a0>1.&#8194;我想见阿道夫</font></b>
+ <tr>
+  <td colspan=2><b><font color=#3a62a0>2.&#8194;暂时先忍耐</font><br><font color=#008b8b>1.&#8194;无声地求助&#8194;→&#8194;END:暗号</font></b>
+ <tr>
+  <td nowrap="nowrap" rowspan=2 style='padding:6px 0px;text-align:center'><b>分支2</b>
+  <td colspan=2><b><font color=#3a62a0>2.&#8194;我想见母亲</font></b>
+ <tr>
+  <td colspan=2><b><font color=#3a62a0>2.&#8194;不和她商量</font><br><font color=#008b8b>1.&#8194;和她商量&#8194;→&#8194;END:沦为复制品的母女</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章2节<br><font color=#008b8b>【存档】</font></b>
+  <td colspan=2><b><font color=#3a62a0>2.&#8194;扶住他</font></b>
+  <td><b><font color=#d3625d>1.&#8194;要他放下武器</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章16节</b>
+  <td colspan=2 bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>END:鸟笼的世界</font></b>
+  <td bgcolor='#d3625d' style='text-align:center'><b><font color=#ffffff>END:通往绝望的旅程</font></b>
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-2"><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:16%'>
+ <col style='width:42%'>
+ <col style='width:42%'>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章5节</b>
+  <td><b><font color=#3a62a0>1.&#8194;你的想法并不自私</font></b>
+  <td><b><font color=#d3625d>2.&#8194;你不要太过自责</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章6节</b>
+  <td><b><font color=#3a62a0>2.&#8194;不过，还是很替他开心呢</font></b>
+  <td><b><font color=#d3625d>1.&#8194;对方究竟是怎么样的一位女性呢？</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章5节</b>
+  <td><b><font color=#3a62a0>1.&#8194;牵住他的手</font></b>
+  <td><b><font color=#d3625d>2.&#8194;轻抚他的背</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章2节</b>
+  <td><b><font color=#3a62a0>1.&#8194;硬是上前阻止他</font></b>
+  <td><b><font color=#d3625d>2.&#8194;拜托他停下来</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章11节</b>
+  <td><b><font color=#3a62a0>2.&#8194;你真的很可靠</font></b>
+  <td><b><font color=#d3625d>1.&#8194;那身衣服很适合你</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章6节<br><font color=#008b8b>【存档】</font></b>
+  <td><b><font color=#3a62a0>2.&#8194;我没有什么理由好哭的</font></b>
+  <td style='text-align:center'><b><font color=#d3625d>---</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章</b>
+  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>END:爱与恨的故事</font></b>
+  <td bgcolor='#d3625d' style='text-align:center'><b><font color=#ffffff>END:运送人们</font></b>
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-3"><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:16%'>
+ <col style='width:42%'>
+ <col style='width:42%'>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章8节</b>
+  <td><b><font color=#3a62a0>2.&#8194;寻求母亲的意见</font></b>
+  <td><b><font color=#d3625d>1.&#8194;寻求阿道夫的意见</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章10节</b>
+  <td colspan=2><b><font color=#3a62a0>2.&#8194;就这么放着</font><br><font color=#008b8b>1.&#8194;整理书柜&#8194;→&#8194;END:不带感情的声音</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章11节</b>
+  <td><b><font color=#3a62a0>2.&#8194;不打扰他</font></b>
+  <td><b><font color=#d3625d>1.&#8194;出声向他搭话</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章5节</b>
+  <td><b><font color=#3a62a0>2.&#8194;国外的那些人都好厉害</font></b>
+  <td><b><font color=#d3625d>1.&#8194;居然能够做得出这种东西来</font></b>
+ <tr>
+  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章8节</b>
+  <td colspan=2><b><font color=#3a62a0>浮在空中的光柱是什么？<br>里面的那间房间是？</font></b>
+ <tr>
+  <td><b><font color=#3a62a0>2.&#8194;非常震撼</font></b>
+  <td><b><font color=#d3625d>1.&#8194;非常神秘</font></b>  
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章4节</b>
+  <td><b><font color=#3a62a0>1.&#8194;我其实还没有整理好思绪</font></b>
+  <td><b><font color=#d3625d>2.&#8194;我也不知道</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章11节<br><font color=#008b8b>【存档】</font></b>
+  <td><b><font color=#3a62a0>1.&#8194;因为我很憧憬席安先生</font></b>
+  <td><b><font color=#d3625d>2.&#8194;因为您是母亲的朋友</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章</b>
+  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>END:假想中的你</font></b>
+  <td bgcolor='#d3625d' style='text-align:center'><b><font color=#ffffff>END:母亲的回答</font></b>
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-4"><p><b>完成璐卡、马蒂斯、席安的<font color=#3a62a0>【高好感绝望结局:鸟笼的世界&#x2F;爱与恨的故事&#x2F;假想中的你】</font>后解锁</b></p>
+<div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:16%'>
+ <col style='width:42%'>
+ <col style='width:42%'>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章5节</b>
+  <td><b><font color=#3a62a0>4.&#8194;小小的汽车玩具模型</font></b>
+  <td><b><font color=#d3625d>1.&#8194;杂乱的厨房<br>2.&#8194;开着没收的急救箱<br>3.&#8194;鱼缸里面的鱼</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章6节</b>
+  <td><b><font color=#3a62a0>1.&#8194;我觉得你的料理点子都满有趣的</font></b>
+  <td><b><font color=#d3625d>2.&#8194;还是食材方面需要重新评估一下呢……？<br>3.&#8194;下次请让我尝尝你做的料理</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章13节</b>
+  <td><b><font color=#3a62a0>1.&#8194;听起来很没说服力</font></b>
+  <td><b><font color=#d3625d>2.&#8194;我不会怀疑伊孚的</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章4节</b>
+  <td><b><font color=#3a62a0>2.&#8194;摸摸看他的头</font></b>
+  <td><b><font color=#d3625d>1.&#8194;戳戳看他的脸颊</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章5节</b>
+  <td><b><font color=#3a62a0>1.&#8194;我不知道该怎么回答您才好</font></b>
+  <td><b><font color=#d3625d>2.&#8194;我想成为他的助力</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章4节</b>
+  <td><b><font color=#3a62a0>1.&#8194;受害者的人数与位置<br>2.&#8194;受害者的特征</font></b>
+  <td><b><font color=#d3625d>3.&#8194;受害者的表情</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章5节</b>
+  <td colspan=2><b><font color=#3a62a0>2.&#8194;不送去</font><br><font color=#008b8b>1.&#8194;托伊孚送去&#8194;→&#8194;END:为没能守约而忏悔</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章12节<br><font color=#008b8b>【存档】</font></b>
+  <td><b><font color=#3a62a0>1.&#8194;我认为那是假的</font></b>
+  <td><b><font color=#d3625d>2.&#8194;我认为那是真的</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章13节</b>
+  <td colspan=2><b><font color=#3a62a0>2.&#8194;从后院走出去</font><br><font color=#008b8b>1.&#8194;从窗户看看外面的状况&#8194;→&#8194;END:死神之焰</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章14节</b>
+  <td colspan=2><b><font color=#3a62a0>2.&#8194;拒绝</font><br><font color=#008b8b>1.&#8194;接受雨果先生说的话&#8194;→&#8194;END:同类</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>5章</b>
+  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>END:黑色的爱</font></b>
+  <td bgcolor='#d3625d' style='text-align:center'><b><font color=#ffffff>END:红色彼岸花</font></b>
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<hr class="hr-twill-colorful">
+
+<h3 id="◈-第三幕"><a href="#◈-第三幕" class="headerlink" title="◈ 第三幕"></a><p style="font-size:22px">◈ 第三幕</p></h3><p><b>完成伊孚的<font color=#3a62a0>【高好感绝望结局:黑色的爱】</font>后解锁<br>回到标题界面，从Start进入第三幕</b></p>
+<div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:16%'>
+ <col style='width:42%'>
+ <col style='width:42%'>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章16节</b>
+  <td><b><font color=#3a62a0>1.&#8194;叫他的名字</font></b>
+  <td><b><font color=#d3625d>2.&#8194;强行拉开距离</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章18节</b>
+  <td><b><font color=#3a62a0>1.&#8194;说实话</font></b>
+  <td><b><font color=#d3625d>2.&#8194;烦恼是否该敷衍带过</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>1章19节</b>
+  <td><b><font color=#3a62a0>1.&#8194;贴近阿道夫的身体</font></b>
+  <td><b><font color=#d3625d>2.&#8194;对着阿道夫微笑</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章2节</b>
+  <td><b><font color=#3a62a0>1.&#8194;真是一段佳话呢</font></b>
+  <td><b><font color=#d3625d>2.&#8194;您下次要不要去见见伊孚？</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章5节</b>
+  <td colspan=2><b><font color=#3a62a0>1.&#8194;我想接下委托</font><br><font color=#008b8b>2.&#8194;我担心我去医院的话……&#8194;→&#8194;END:■■■</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章8节</font></b>
+  <td><b><font color=#3a62a0>1.&#8194;同意书的保证人</font></b>
+  <td><b><font color=#d3625d>2.&#8194;他的妹妹</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>2章11节</b>
+  <td><b><font color=#3a62a0>1.&#8194;和他商量</font></b>
+  <td><b><font color=#d3625d>2.&#8194;沉默以对</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章8节</b>
+  <td><b><font color=#3a62a0>2.&#8194;我相信你</font></b>
+  <td><b><font color=#d3625d>1.&#8194;我不是这个意思</font></b>
+ <tr>
+  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章6节</b>
+  <td colspan=2><b><font color=#3a62a0>关于「彼岸花圣女」的事<br>关于「处刑人」的事</font></b>
+ <tr>
+  <td><b><font color=#3a62a0>关于「安库异常的举止」的事</font></b>
+  <td><b><font color=#d3625d>关于「安库异常的态度」的事</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章8节</b>
+  <td><b><font color=#3a62a0>1.&#8194;在解开诅咒之前，你就会死的</font></b>
+  <td><b><font color=#d3625d>2.&#8194;席安先生他们会死不瞑目的</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章11节</font></b>
+  <td colspan=2><b><font color=#3a62a0>2.&#8194;我们一起救出他们吧</font><br><font color=#008b8b>1.&#8194;我们一起逃狱吧&#8194;→&#8194;END:逃狱的方法</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>5章3节<br><font color=#008b8b>【存档】</font></b>
+  <td><b><font color=#3a62a0>2.&#8194;我想好好回复你</font></b>
+  <td><b><font color=#d3625d>1.&#8194;希望你能给我时间考虑</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>6章1节</b>
+  <td><b><font color=#3a62a0>1.&#8194;我们好不容易才再次见面的啊</font></b>
+  <td><b><font color=#d3625d>2.&#8194;即便如此还是要阻止他</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>终章</b>
+  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>END:一心求死的死神结局</font></b>
+  <td bgcolor='#d3625d' style='text-align:center'><b><font color=#ffffff>END:杀了我</font></b>
+ </tr>
+</table>
+</div>
+<p style="line-height:1"></p>
+<div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:16%'>
+ <col style='width:42%'>
+ <col style='width:42%'>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>5章3节<br><font color=#008b8b>【读档】</font></b>
+  <td><b>2.&#8194;我想好好回复你</b>
+  <td><b>1.&#8194;希望你能给我时间考虑</b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>6章1节</b>
+  <td><b>2.&#8194;即便如此还是要阻止他</b>
+  <td><b>1.&#8194;我们好不容易才再次见面的啊</b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>终章</b>
+  <td bgcolor='#d3625d' style='text-align:center'><b><font color=#ffffff>END:永无止境的旅途</font></b>
+  <td bgcolor='#d3625d' style='text-align:center'><b><font color=#ffffff>END:迎向终结的亲吻</font></b>
+ </tr>
+</table>
+</div>
+
+<hr class="hr-twill-colorful">
+
+<h3 id="◈-角色线（救赎）"><a href="#◈-角色线（救赎）" class="headerlink" title="◈ 角色线（救赎）"></a><p style="font-size:22px">◈ 角色线（救赎）</p></h3><p><b>完成第三幕的<font color=#3a62a0>【救赎结局:一心求死的死神结局】</font>后解锁<br>读取角色线（绝望）中的<font color=#008b8b>【存档】</font>回收【救赎结局】</b></p>
+<div class="tabs" id="攻略2"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略2-1"><b>璐卡</b></button></li><li class="tab"><button type="button" data-href="#攻略2-2"><b>马蒂斯</b></button></li><li class="tab"><button type="button" data-href="#攻略2-3"><b>席安</b></button></li><li class="tab"><button type="button" data-href="#攻略2-4"><b>伊孚</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略2-1"><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:16%'>
+ <col style='width:84%'>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章2节<br><font color=#008b8b>【读档】</font></b>
+  <td><b><font color=#3a62a0>2.&#8194;扶住他</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>终章</b>
+  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>END:两人一起做着幸福的美梦</font></b>
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略2-2"><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:16%'>
+ <col style='width:84%'>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>4章6节<br><font color=#008b8b>【读档】</font></b>
+  <td><b><font color=#3a62a0>2.&#8194;我没有什么理由好哭的</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>终章</b>
+  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>END:与你编织的恋爱故事</font></b>
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略2-3"><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:16%'>
+ <col style='width:84%'>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章11节<br><font color=#008b8b>【读档】</font></b>
+  <td><b><font color=#3a62a0>1.&#8194;因为我很憧憬席安先生</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>终章</b>
+  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>END:回归人性的初恋</font></b>
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略2-4"><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:16%'>
+ <col style='width:84%'>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章12节<br><font color=#008b8b>【读档】</font></b>
+  <td><b><font color=#3a62a0>1.&#8194;我认为那是假的</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章13节</b>
+  <td><b><font color=#3a62a0>2.&#8194;从后院走出去</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>3章14节</b>
+  <td><b><font color=#3a62a0>2.&#8194;拒绝</font></b>
+ <tr>
+  <td nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>终章</b>
+  <td bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>END:直到迎来终点的那刻为止</font></b>
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://store.nintendo.com.hk/70010000055639"><img src="https://img.picui.cn/free/2025/03/25/67e2a718dc6f8.jpg" alt="switch的logo" title="点击跳转至Nintendo Switch游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v29661"><img src="https://img.picui.cn/free/2025/03/25/67e2a7688b335.jpg" alt="点击跳转至The Visual Novel Database" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+]]></content>
+      <categories>
+        <category>游戏攻略</category>
+        <category>乙女向</category>
+        <category>Otomate</category>
+      </categories>
+      <tags>
+        <tag>游戏攻略</tag>
+        <tag>乙女向</tag>
+        <tag>Otomate</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【攻略】レムレスブルーの午前２時</title>
     <url>/posts/14.html</url>
     <content><![CDATA[<style>
@@ -1594,6 +1594,37 @@
       </tags>
   </entry>
   <entry>
+    <title>【教程】Lucky dog 1安装教程</title>
+    <url>/posts/15.html</url>
+    <content><![CDATA[<style>
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+<p><b>&#12288;&#12288;安装遇到问题的话可以查看这个：</b><br><a target="_blank" href="https://www.flamecho.top/posts/27.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/27.html</span></span></span></a></p>
+<h2 id="❖-安装"><a href="#❖-安装" class="headerlink" title="❖ 安装"></a><p style="font-size:25px">❖ 安装</p></h2><p><b><font color=#d3625d>&#12288;&#12288;免安装版安装方式是：双击注册表，按回车，双击LD1.exe。以下是光驱版的安装教程。</font></b><br><img src="https://img.picui.cn/free/2025/03/25/67e2aa74af444.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2aa7505690.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2aa74e0863.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2aa7484879.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2aa74b0d32.png" alt="安装教程_Lucky dog 1" /><br><b><font color=#d3625d>&#12288;&#12288;注：上一步↑找不到装载的话：右键-打开方式-Windows资源管理器，然后继续进行下一步↓</font></b><br><img src="https://img.picui.cn/free/2025/03/25/67e2aacee8296.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2aaed1fd1c.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2aad6a02dd.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2aace1e319.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2aaec959ea.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab46cb134.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab4696d63.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab46cdd02.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab4607593.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab466835a.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab81afc6d.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab8238db4.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab824f027.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab8158492.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab81b28f6.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2abafdbd5d.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2abafc34cb.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2abafdb90c.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2abaf09a94.png" alt="安装教程_Lucky dog 1" /></p>
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-卸载"><a href="#❖-卸载" class="headerlink" title="❖ 卸载"></a><p style="font-size:25px">❖ 卸载</p></h2><img src="https://img.picui.cn/free/2025/03/25/67e2abafacfcd.png" alt="安装教程_Lucky dog 1" />
+<img src="https://img.picui.cn/free/2025/03/25/67e2abe49af7a.png" alt="安装教程_Lucky dog 1" />
+<img src="https://img.picui.cn/free/2025/03/25/67e2abe413cbb.png" alt="安装教程_Lucky dog 1" />
+]]></content>
+      <categories>
+        <category>教程</category>
+        <category>安装教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>安装教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【教程】神学校 -Noli me tangere-安装教程</title>
     <url>/posts/16.html</url>
     <content><![CDATA[<style>
@@ -1632,37 +1663,6 @@
 <hr class="hr-twill-colorful">
 
 <h2 id="❖-卸载"><a href="#❖-卸载" class="headerlink" title="❖ 卸载"></a><p style="font-size:25px">❖ 卸载</p></h2><p><b>&#12288;&#12288;把文件夹删掉即可。</b></p>
-]]></content>
-      <categories>
-        <category>教程</category>
-        <category>安装教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>安装教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【教程】Lucky dog 1安装教程</title>
-    <url>/posts/15.html</url>
-    <content><![CDATA[<style>
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-</style>
-
-<p><b>&#12288;&#12288;安装遇到问题的话可以查看这个：</b><br><a target="_blank" href="https://www.flamecho.top/posts/27.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/27.html</span></span></span></a></p>
-<h2 id="❖-安装"><a href="#❖-安装" class="headerlink" title="❖ 安装"></a><p style="font-size:25px">❖ 安装</p></h2><p><b><font color=#d3625d>&#12288;&#12288;免安装版安装方式是：双击注册表，按回车，双击LD1.exe。以下是光驱版的安装教程。</font></b><br><img src="https://img.picui.cn/free/2025/03/25/67e2aa74af444.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2aa7505690.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2aa74e0863.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2aa7484879.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2aa74b0d32.png" alt="安装教程_Lucky dog 1" /><br><b><font color=#d3625d>&#12288;&#12288;注：上一步↑找不到装载的话：右键-打开方式-Windows资源管理器，然后继续进行下一步↓</font></b><br><img src="https://img.picui.cn/free/2025/03/25/67e2aacee8296.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2aaed1fd1c.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2aad6a02dd.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2aace1e319.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2aaec959ea.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab46cb134.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab4696d63.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab46cdd02.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab4607593.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab466835a.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab81afc6d.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab8238db4.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab824f027.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab8158492.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2ab81b28f6.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2abafdbd5d.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2abafc34cb.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2abafdb90c.png" alt="安装教程_Lucky dog 1" /><br><img src="https://img.picui.cn/free/2025/03/25/67e2abaf09a94.png" alt="安装教程_Lucky dog 1" /></p>
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-卸载"><a href="#❖-卸载" class="headerlink" title="❖ 卸载"></a><p style="font-size:25px">❖ 卸载</p></h2><img src="https://img.picui.cn/free/2025/03/25/67e2abafacfcd.png" alt="安装教程_Lucky dog 1" />
-<img src="https://img.picui.cn/free/2025/03/25/67e2abe49af7a.png" alt="安装教程_Lucky dog 1" />
-<img src="https://img.picui.cn/free/2025/03/25/67e2abe413cbb.png" alt="安装教程_Lucky dog 1" />
 ]]></content>
       <categories>
         <category>教程</category>
@@ -3155,6 +3155,182 @@
       </tags>
   </entry>
   <entry>
+    <title>【攻略】Voice &amp; Voice -Be Quite in the Dark-</title>
+    <url>/posts/3.html</url>
+    <content><![CDATA[<style>
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+<div class="note success flat"><p><b>AI汉化补丁已发布。<br>本篇：<a href="https://www.flamecho.top/posts/51">点击前往</a><br>FD：<a href="https://www.flamecho.top/posts/52">点击前往</a></b></p>
+</div>
+
+<h2 id="◈-Voice"><a href="#◈-Voice" class="headerlink" title="◈ Voice"></a><p style="font-size:30px">◈ Voice</p></h2><h3 id="◈-故事梗概"><a href="#◈-故事梗概" class="headerlink" title="◈ 故事梗概"></a><p style="font-size:25px">◈ 故事梗概</p></h3><p><b>２年前の冬。<br><br>主人公『妹尾奏巳（せのおそうし）』は、『月本亜貴（つきもとあき）』と出会った。<br>それまで知りもしなかった相手。<br>会う回数を重ねるうち、いつしか二人は体を重ねる関係にまで成り上がる。<br><br>２年後の冬。<br><br>二人は変わらない関係を続けていた。<br>だが其処にあるのは変わり果てた風景だった。<br><br>自分の感情すら見失い、奏巳はいい加減な状態のまま別れを切り出すこともせず現状維持を続けた。<br><br>アキは変わらず自分へ好意を向けてくれる。<br>だが、自分は今の気持ちが見えない。<br><br><br>そして奏巳は毎日自分の部屋へ通う亜貴へ言う。<br>こなくていい、と。<br><br>別れ話をしたかった訳ではなかった。<br>だが、その言葉は状況を逆撫でする。<br><br><br>翌日、亜貴の兄『健人（たけひと）』から呼び出され、行った先にいたのは記憶を失った亜貴だった。<br>奏巳は、記憶の無い亜貴を一晩健人に任される事になる。<br><br><br>遠くなる声。<br>——————————–拙く紡いだその言葉が再び共鳴する日は、来るだろうか。</b></p>
+<hr class="hr-twill-colorful">
+
+<h3 id="◈-攻略流程"><a href="#◈-攻略流程" class="headerlink" title="◈ 攻略流程"></a><p style="font-size:25px">◈ 攻略流程</p></h3><p><b>“1”表示第1个选项，”2”表示第2个选项。</b></p>
+<div class="tabs" id="攻略1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略1-1"><b>TE</b></button></li><li class="tab"><button type="button" data-href="#攻略1-2"><b>GE1</b></button></li><li class="tab"><button type="button" data-href="#攻略1-3"><b>GE2</b></button></li><li class="tab"><button type="button" data-href="#攻略1-4"><b>BE1</b></button></li><li class="tab"><button type="button" data-href="#攻略1-5"><b>BE2</b></button></li><li class="tab"><button type="button" data-href="#攻略1-6"><b>BE3</b></button></li><li class="tab"><button type="button" data-href="#攻略1-7"><b>BE4</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略1-1"><p><b>TRUE END - 偽 false</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;アキの様子を伺う
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何処か行こうと誘う
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;見せる
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;ごめん<br>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;追いかける
+ </tr>
+</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-2"><p><b>GOOD END 1 惹 - 自主的 first</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;承諾する
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;何か話す
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;見せる&#8194;/&#8194;2.&#8194;面白いもんじゃない
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;話しかけてみる
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;また話したい
+ </tr>
+</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-3"><p><b>GOOD END 2 自省と自制 - 現狀維持 maintenance</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;アキの様子を伺う
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;何か話す
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;面白いもんじゃない
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;話しかけてみる
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;なんでもない
+ </tr>
+</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-4"><p><b>BAD END 1 声 - 真 true</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;承諾する
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何処か行こうと誘う
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;面白いもんじゃない
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;寝る
+ </tr>
+</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-5"><p><b>BAD END 2 忘却の欠片 - 逃避主義 escapism</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;承諾する
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何処か行こうと誘う
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;見せる
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;ごめん<br>◆ 选择"いいよ"通往BAD END 3
+ </tr>
+</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-6"><p><b>BAD END 3 夢 - 帰結 a conclusion</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;承諾する
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何処か行こうと誘う
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;見せる
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;いいよ<br>◆ 选择"ごめん"通往BAD END 2
+ </tr>
+</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-7"><p><b>BAD END 4 独往 - independence</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;承諾する&#8194;/&#8194;2.&#8194;アキの様子を伺う
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何処か行こうと誘う
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;面白いもんじゃない
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;話しかけてみる
+ </tr>
+</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<hr class="hr-twill-colorful">
+
+<h3 id="◈-相关链接"><a href="#◈-相关链接" class="headerlink" title="◈ 相关链接"></a><p style="font-size:25px">◈ 相关链接</p></h3><p><a target="_blank" href="https://vndb.org/v13347"><img src="https://img.picui.cn/free/2025/03/25/67e2a7688b335.jpg" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a></p>
+<h2 id="◈-Voice-Be-Quite-in-the-Dark"><a href="#◈-Voice-Be-Quite-in-the-Dark" class="headerlink" title="◈ Voice -Be Quite in the Dark-"></a><p style="font-size:30px">◈ Voice -Be Quite in the Dark-</p></h2><h3 id="◈-故事梗概-1"><a href="#◈-故事梗概-1" class="headerlink" title="◈ 故事梗概"></a><p style="font-size:25px">◈ 故事梗概</p></h3><p><b>冬の一件から数ヶ月。<br>何事も無いような素振りで時間は流れていた、そんなある休日。<br><br>前作「voice」の後日談に当たるお話です。<br><br>※ 物語引継ぎは前作のグッドエンド１（voice攻略参照）からになります。</b></p>
+<hr class="hr-twill-colorful">
+
+<h3 id="◈-攻略流程-1"><a href="#◈-攻略流程-1" class="headerlink" title="◈ 攻略流程"></a><p style="font-size:25px">◈ 攻略流程</p></h3><div class="tabs" id="攻略2"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略2-1"><b>END1</b></button></li><li class="tab"><button type="button" data-href="#攻略2-2"><b>END2</b></button></li><li class="tab"><button type="button" data-href="#攻略2-3"><b>END3</b></button></li><li class="tab"><button type="button" data-href="#攻略2-4"><b>END4</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略2-1"><p><b>END 1 五里霧中</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;諦める
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;やっぱりいい<br>◆ 选择"いつ頃戻るのかを訊く"通往END 3
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;撮りに出る<br>◆ 选择"瞼を閉じる"通往END 3
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;出来ない<br>◆ 选择"出来る"通往END 2
+ </tr>
+</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略2-2"><p><b>END 2 唯一つ</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;諦める
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;やっぱりいい<br>◆ 选择"いつ頃戻るのかを訊く"通往END 3
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;撮りに出る<br>◆ 选择"瞼を閉じる"通往END 3
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;出来る<br>◆ 选择"出来ない"通往END 1
+ </tr>
+</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略2-3"><p><b>END 3 届かない場所</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何か買いに行く
+ <tr height=19 style='height:14.4pt'>
+  <td>2.&#8194;ノー<br>◆ 选择"イエス"通往END 4
+ </tr>
+</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略2-4"><p><b>END 4 めくる裏側</b></p>
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
+ <col style='width:100%'>
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;何か買いに行く
+ <tr height=19 style='height:14.4pt'>
+  <td>1.&#8194;イエス<br>◆ 选择"ノー"通往END 3
+ </tr>
+</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<hr class="hr-twill-colorful">
+
+<h3 id="◈-相关链接-1"><a href="#◈-相关链接-1" class="headerlink" title="◈ 相关链接"></a><p style="font-size:25px">◈ 相关链接</p></h3><p><a target="_blank" href="https://vndb.org/v13348"><img src="https://img.picui.cn/free/2025/03/25/67e2a7688b335.jpg" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a></p>
+]]></content>
+      <categories>
+        <category>游戏攻略</category>
+        <category>蔷薇向</category>
+        <category>银灯</category>
+      </categories>
+      <tags>
+        <tag>游戏攻略</tag>
+        <tag>蔷薇向</tag>
+        <tag>银灯</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【攻略】428 ~被封锁的涩谷~</title>
     <url>/posts/29.html</url>
     <content><![CDATA[<style>
@@ -3721,182 +3897,6 @@
         <tag>游戏攻略</tag>
         <tag>一般向</tag>
         <tag>Chunsoft</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【攻略】Voice &amp; Voice -Be Quite in the Dark-</title>
-    <url>/posts/3.html</url>
-    <content><![CDATA[<style>
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-</style>
-
-<div class="note success flat"><p><b>AI汉化补丁已发布。<br>本篇：<a href="https://www.flamecho.top/posts/51">点击前往</a><br>FD：<a href="https://www.flamecho.top/posts/52">点击前往</a></b></p>
-</div>
-
-<h2 id="◈-Voice"><a href="#◈-Voice" class="headerlink" title="◈ Voice"></a><p style="font-size:30px">◈ Voice</p></h2><h3 id="◈-故事梗概"><a href="#◈-故事梗概" class="headerlink" title="◈ 故事梗概"></a><p style="font-size:25px">◈ 故事梗概</p></h3><p><b>２年前の冬。<br><br>主人公『妹尾奏巳（せのおそうし）』は、『月本亜貴（つきもとあき）』と出会った。<br>それまで知りもしなかった相手。<br>会う回数を重ねるうち、いつしか二人は体を重ねる関係にまで成り上がる。<br><br>２年後の冬。<br><br>二人は変わらない関係を続けていた。<br>だが其処にあるのは変わり果てた風景だった。<br><br>自分の感情すら見失い、奏巳はいい加減な状態のまま別れを切り出すこともせず現状維持を続けた。<br><br>アキは変わらず自分へ好意を向けてくれる。<br>だが、自分は今の気持ちが見えない。<br><br><br>そして奏巳は毎日自分の部屋へ通う亜貴へ言う。<br>こなくていい、と。<br><br>別れ話をしたかった訳ではなかった。<br>だが、その言葉は状況を逆撫でする。<br><br><br>翌日、亜貴の兄『健人（たけひと）』から呼び出され、行った先にいたのは記憶を失った亜貴だった。<br>奏巳は、記憶の無い亜貴を一晩健人に任される事になる。<br><br><br>遠くなる声。<br>——————————–拙く紡いだその言葉が再び共鳴する日は、来るだろうか。</b></p>
-<hr class="hr-twill-colorful">
-
-<h3 id="◈-攻略流程"><a href="#◈-攻略流程" class="headerlink" title="◈ 攻略流程"></a><p style="font-size:25px">◈ 攻略流程</p></h3><p><b>“1”表示第1个选项，”2”表示第2个选项。</b></p>
-<div class="tabs" id="攻略1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略1-1"><b>TE</b></button></li><li class="tab"><button type="button" data-href="#攻略1-2"><b>GE1</b></button></li><li class="tab"><button type="button" data-href="#攻略1-3"><b>GE2</b></button></li><li class="tab"><button type="button" data-href="#攻略1-4"><b>BE1</b></button></li><li class="tab"><button type="button" data-href="#攻略1-5"><b>BE2</b></button></li><li class="tab"><button type="button" data-href="#攻略1-6"><b>BE3</b></button></li><li class="tab"><button type="button" data-href="#攻略1-7"><b>BE4</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略1-1"><p><b>TRUE END - 偽 false</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;アキの様子を伺う
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何処か行こうと誘う
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;見せる
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;ごめん<br>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;追いかける
- </tr>
-</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-2"><p><b>GOOD END 1 惹 - 自主的 first</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;承諾する
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;何か話す
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;見せる&#8194;/&#8194;2.&#8194;面白いもんじゃない
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;話しかけてみる
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;また話したい
- </tr>
-</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-3"><p><b>GOOD END 2 自省と自制 - 現狀維持 maintenance</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;アキの様子を伺う
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;何か話す
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;面白いもんじゃない
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;話しかけてみる
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;なんでもない
- </tr>
-</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-4"><p><b>BAD END 1 声 - 真 true</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;承諾する
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何処か行こうと誘う
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;面白いもんじゃない
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;寝る
- </tr>
-</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-5"><p><b>BAD END 2 忘却の欠片 - 逃避主義 escapism</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;承諾する
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何処か行こうと誘う
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;見せる
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;ごめん<br>◆ 选择"いいよ"通往BAD END 3
- </tr>
-</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-6"><p><b>BAD END 3 夢 - 帰結 a conclusion</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;承諾する
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何処か行こうと誘う
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;見せる
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;いいよ<br>◆ 选择"ごめん"通往BAD END 2
- </tr>
-</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-7"><p><b>BAD END 4 独往 - independence</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;承諾する&#8194;/&#8194;2.&#8194;アキの様子を伺う
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何処か行こうと誘う
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;面白いもんじゃない
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;話しかけてみる
- </tr>
-</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-<hr class="hr-twill-colorful">
-
-<h3 id="◈-相关链接"><a href="#◈-相关链接" class="headerlink" title="◈ 相关链接"></a><p style="font-size:25px">◈ 相关链接</p></h3><p><a target="_blank" href="https://vndb.org/v13347"><img src="https://img.picui.cn/free/2025/03/25/67e2a7688b335.jpg" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a></p>
-<h2 id="◈-Voice-Be-Quite-in-the-Dark"><a href="#◈-Voice-Be-Quite-in-the-Dark" class="headerlink" title="◈ Voice -Be Quite in the Dark-"></a><p style="font-size:30px">◈ Voice -Be Quite in the Dark-</p></h2><h3 id="◈-故事梗概-1"><a href="#◈-故事梗概-1" class="headerlink" title="◈ 故事梗概"></a><p style="font-size:25px">◈ 故事梗概</p></h3><p><b>冬の一件から数ヶ月。<br>何事も無いような素振りで時間は流れていた、そんなある休日。<br><br>前作「voice」の後日談に当たるお話です。<br><br>※ 物語引継ぎは前作のグッドエンド１（voice攻略参照）からになります。</b></p>
-<hr class="hr-twill-colorful">
-
-<h3 id="◈-攻略流程-1"><a href="#◈-攻略流程-1" class="headerlink" title="◈ 攻略流程"></a><p style="font-size:25px">◈ 攻略流程</p></h3><div class="tabs" id="攻略2"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略2-1"><b>END1</b></button></li><li class="tab"><button type="button" data-href="#攻略2-2"><b>END2</b></button></li><li class="tab"><button type="button" data-href="#攻略2-3"><b>END3</b></button></li><li class="tab"><button type="button" data-href="#攻略2-4"><b>END4</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略2-1"><p><b>END 1 五里霧中</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;諦める
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;やっぱりいい<br>◆ 选择"いつ頃戻るのかを訊く"通往END 3
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;撮りに出る<br>◆ 选择"瞼を閉じる"通往END 3
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;出来ない<br>◆ 选择"出来る"通往END 2
- </tr>
-</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略2-2"><p><b>END 2 唯一つ</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;諦める
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;やっぱりいい<br>◆ 选择"いつ頃戻るのかを訊く"通往END 3
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;撮りに出る<br>◆ 选择"瞼を閉じる"通往END 3
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;出来る<br>◆ 选择"出来ない"通往END 1
- </tr>
-</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略2-3"><p><b>END 3 届かない場所</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何か買いに行く
- <tr height=19 style='height:14.4pt'>
-  <td>2.&#8194;ノー<br>◆ 选择"イエス"通往END 4
- </tr>
-</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略2-4"><p><b>END 4 めくる裏側</b></p>
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style='width:100%'>
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;何か買いに行く
- <tr height=19 style='height:14.4pt'>
-  <td>1.&#8194;イエス<br>◆ 选择"ノー"通往END 3
- </tr>
-</table><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-<hr class="hr-twill-colorful">
-
-<h3 id="◈-相关链接-1"><a href="#◈-相关链接-1" class="headerlink" title="◈ 相关链接"></a><p style="font-size:25px">◈ 相关链接</p></h3><p><a target="_blank" href="https://vndb.org/v13348"><img src="https://img.picui.cn/free/2025/03/25/67e2a7688b335.jpg" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a></p>
-]]></content>
-      <categories>
-        <category>游戏攻略</category>
-        <category>蔷薇向</category>
-        <category>银灯</category>
-      </categories>
-      <tags>
-        <tag>游戏攻略</tag>
-        <tag>蔷薇向</tag>
-        <tag>银灯</tag>
       </tags>
   </entry>
   <entry>
@@ -4962,7 +4962,7 @@
 
 <p><img src="https://pic1.imgdb.cn/item/6802413088c538a9b5dc12ae.png" alt="哈哈" /><b>之前文档资源炸了，博主想跑路被群友抓回来了，现在文档在补档中。</p>
 <p>❖ 仅供个人学习交流用途，文档内资源侵删 ❖<br>❖ 资源搜集自网络及自购，有条件请支持正版 ❖<br>❖ 游戏内容不代表编辑者立场，坚持国家统一和领土完整 ❖<br>❖ 合理合法使用资源，违法使用则编辑者不承担任何责任 ❖</p>
-<p>有想分享的资源、想补档，请提供任意五个bl游戏的入正记录和谷歌账号邮箱，以附件形式发送至<a href="mailto:&#102;&#108;&#97;&#x6d;&#x65;&#99;&#104;&#x6f;&#x40;&#113;&#x71;&#46;&#99;&#111;&#109;">&#102;&#108;&#97;&#x6d;&#x65;&#99;&#104;&#x6f;&#x40;&#113;&#x71;&#46;&#99;&#111;&#109;</a>，这边开放编辑权限。<br>要求高一点是因为怕恶意毁文档，今后也不会再发布离线文档。</b><br><a target="_blank" href="https://docs.google.com/spreadsheets/d/1eLELmP76yLGXwL2bVrcBi9PdpeWDcMer/edit?usp=sharing&ouid=112842887573112865739&rtpof=true&sd=true" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">谷歌文档（记得挂梯）</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://docs.google.com/spreadsheets/d/1eLELmP76yLGXwL2bVrcBi9PdpeWDcMer/edit?usp=sharing&ouid=112842887573112865739&rtpof=true&sd=true</span></span></span></a></p>
+<p>有想分享的资源、想补档，请提供任意五个bl游戏的入正记录和谷歌账号邮箱，以附件形式发送至<a href="mailto:&#102;&#x6c;&#x61;&#109;&#101;&#x63;&#x68;&#111;&#x40;&#113;&#113;&#x2e;&#99;&#111;&#109;">&#102;&#x6c;&#x61;&#109;&#101;&#x63;&#x68;&#111;&#x40;&#113;&#113;&#x2e;&#99;&#111;&#109;</a>，这边开放编辑权限。<br>要求高一点是因为怕恶意毁文档，今后也不会再发布离线文档。</b><br><a target="_blank" href="https://docs.google.com/spreadsheets/d/1eLELmP76yLGXwL2bVrcBi9PdpeWDcMer/edit?usp=sharing&ouid=112842887573112865739&rtpof=true&sd=true" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">谷歌文档（记得挂梯）</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://docs.google.com/spreadsheets/d/1eLELmP76yLGXwL2bVrcBi9PdpeWDcMer/edit?usp=sharing&ouid=112842887573112865739&rtpof=true&sd=true</span></span></span></a></p>
 ]]></content>
       <categories>
         <category>杂谈</category>
@@ -5128,6 +5128,170 @@
       </tags>
   </entry>
   <entry>
+    <title>【攻略】大正莫比乌斯线 中文攻略</title>
+    <url>/posts/48.html</url>
+    <content><![CDATA[<style>
+.center
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold
+}
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+<div class="note danger flat"><p><b>因个人原因，不再公开分享此AI汉化版游戏。<br>如有需要，请提供任意三个bl游戏的正版购买记录（如steam库截图、dlsite购买记录等），以图片附件形式发送至<a href="mailto:&#102;&#x6c;&#97;&#109;&#101;&#99;&#x68;&#x6f;&#x40;&#x71;&#113;&#46;&#x63;&#111;&#109;">&#102;&#x6c;&#97;&#109;&#101;&#99;&#x68;&#x6f;&#x40;&#x71;&#113;&#46;&#x63;&#111;&#109;</a>。</b></p>
+</div>
+
+<h2 id="❖-攻略流程"><a href="#❖-攻略流程" class="headerlink" title="❖ 攻略流程"></a><p style="font-size:25px">❖ 攻略流程</p></h2><p><b>基于HalfAdder日文攻略，原文：<a href="https://half-a.net/games1/mebiusline.html">网页链接</a>。<br>Misaki线二周目解锁，四线全通后从头开始按选项选解锁真结局。<br>HE好结局 &#x2F; BE坏结局 &#x2F; TE真结局</b></p>
+<div class="tabs" id="攻略"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略-1"><b>时雨</b></button></li><li class="tab"><button type="button" data-href="#攻略-2"><b>千家伊织</b></button></li><li class="tab"><button type="button" data-href="#攻略-3"><b>馆林开</b></button></li><li class="tab"><button type="button" data-href="#攻略-4"><b>Misaki</b></button></li><li class="tab"><button type="button" data-href="#攻略-5"><b>真结局</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略-1"><p><b>一周目可攻略。</b></p>
+<div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:14%'>
+ <col style='width:48%'>
+ <col style='width:48%'>
+  <td rowspan=7 style='padding:6px 0px;text-align:center'>共通线<td colspan=2>希望成长的背后不伴随着死亡<tr>
+  <td colspan=2>蓝色<tr>
+  <td colspan=2>有点重<tr>
+  <td colspan=2>三个中的哪一个<tr>
+  <td colspan=2>军人吗<tr>
+  <td colspan=2>虽然无关<tr>
+  <td colspan=2>时雨为什么会被追捕？<tr>
+  <td rowspan=9 style='padding:6px 0px;text-align:center'>个人线<td colspan=2>积极介入<br><font color=#d3625d>犹豫不决&#8194;→&#8194;撒在玄关&#8194;→&#8194;BE 有场景<tr>
+  <td colspan=2>撒在玄关<tr>
+  <td>再见一次雄真先生吧<td>先确定是否存在内奸<tr>
+  <td colspan=2>没什么特别的<br><font color=#d3625d>请教了新娘人偶的事&#8194;→&#8194;BE<tr>
+  <td colspan=2>不舔舐血液<br><font color=#d3625d>舔舐血液&#8194;→&#8194;BE<tr>
+  <td colspan=2>不舔舐血液<tr>
+  <td>花嫁人偶的房间<br><font color=#d3625d>外面的庭院&#8194;→&#8194;BE<td>去找时雨<br><font color=#d3625d>暂时不去找&#8194;→&#8194;BE<tr>
+  <td>待在这里<br><font color=#d3625d>跟着去&#8194;→&#8194;BE<td rowspan=2><font color=#3a62a0>佯动部队&#8194;/&#8194;救援部队<br>&#8194;→&#8194;HE2（剧情不同）<tr>
+  <td><font color=#3a62a0>正面迎击&#8194;→&#8194;HE1<br><font color=#d3625d>绕到背后&#8194;→&#8194;BE
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-2"><p><b>一周目可攻略。</b></p>
+<div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:14%'>
+ <col style='width:48%'>
+ <col style='width:48%'>
+  <td rowspan=8 style='padding:6px 0px;text-align:center'>共通线<td colspan=2>话虽如此<tr>
+  <td colspan=2>黑色<tr>
+  <td colspan=2>有点重<tr>
+  <td colspan=2>就叫Misaki吧<tr>
+  <td colspan=2>军人也是腰上佩剑的人<tr>
+  <td colspan=2>虽然无关<tr>
+  <td colspan=2>军人到底想做什么？<tr>
+  <td colspan=2>回家<tr>
+  <td rowspan=10 style='padding:6px 0px;text-align:center'>个人线<td colspan=2>日本就像一个婴儿<tr>
+  <td colspan=2>不能这么断言<tr>
+  <td colspan=2>千家确实残酷，但是<br><font color=#d3625d>无法认同千家的思想&#8194;→&#8194;BE<tr>
+  <td>留在房间里<td>先回家一趟<tr>
+  <td>向这个人询问<td>那时候请帮我<tr>
+  <td>不同行<br><font color=#d3625d>同行&#8194;→&#8194;BE<td rowspan=5><font color=#3a62a0>呼唤Misaki&#8194;→&#8194;ED3<br>不呼唤Misaki&#8194;→&#8194;ED4<tr>
+  <td>是的<br><font color=#d3625d>不是&#8194;→&#8194;BE<tr>
+  <td>是人为<tr>
+  <td>所有的组织都存在矛盾<tr>
+  <td><font color=#3a62a0>命运更加强大&#8194;→&#8194;ED1<br>也许有时会改变&#8194;→&#8194;ED2
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-3"><p><b>一周目可攻略。</b></p>
+<div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:14%'>
+ <col style='width:86%'>
+  <td rowspan=8 style='padding:6px 0px;text-align:center'>共通线<td>话虽如此<tr>
+  <td>蓝色<tr>
+  <td>有点重<tr>
+  <td>不是这些<tr>
+  <td>军人也是腰上佩剑的人<tr>
+  <td>暂且退下<tr>
+  <td>军人到底想做什么？<tr>
+  <td>去大黑屋<tr>
+  <td rowspan=9 style='padding:6px 0px;text-align:center'>个人线<td>老实讲述<tr>
+  <td>不要感情用事<tr>
+  <td>投掷出刀<br><font color=#d3625d>斩杀&#8194;→&#8194;选下面的四个选项后BE<tr>
+  <td>待着<br><font color=#d3625d>逃跑&#8194;→&#8194;BE 有场景<tr>
+  <td>和薰一起等待<br><font color=#d3625d>和馨一起去买&#8194;→&#8194;任意选项&#8194;→&#8194;BE<tr>
+  <td>先回去看看？<tr>
+  <td>待在这里不动<br><font color=#d3625d>果然还是从撞球室逃走吧&#8194;→&#8194;BE 有CG<tr>
+  <td>不杀了千家吗？<tr>
+  <td><font color=#3a62a0>让馨先生先走吧？&#8194;→&#8194;HE<br><font color=#d3625d>让时任小姐先走吧？&#8194;→&#8194;BE 有场景
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-4"><p><b>二周目解锁。</b></p>
+<div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:14%'>
+ <col style='width:86%'>
+  <td rowspan=7 style='padding:6px 0px;text-align:center'>共通线<td>希望成长的背后不伴随着死亡<tr>
+  <td>蓝色<tr>
+  <td>习惯<tr>
+  <td>不是这些<tr>
+  <td>军人吗<tr>
+  <td>暂且退下看看情况<tr>
+  <td>这把刀究竟是什么？<tr>
+  <td rowspan=10 style='padding:6px 0px;text-align:center'>个人线<td>无言<tr>
+  <td>女人身上的香水味？<tr>
+  <td>把洞口堵上<tr>
+  <td>躲开<br><font color=#d3625d>吃&#8194;→&#8194;BE<tr>
+  <td>有约在先<tr>
+  <td>请教时雨<br><font color=#d3625d>直接询问Misaki&#8194;→&#8194;BE<tr>
+  <td>柊家与此有关？<tr>
+  <td>与柊的姓氏有关吗？<tr>
+  <td>也许没有使用柊树叶<br><font color=#d3625d>用了柊树叶？&#8194;→&#8194;BE<tr>
+  <td><font color=#3a62a0>这个身体可能就是鞘&#8194;→&#8194;HE<br><font color=#d3625d>其它选项&#8194;→&#8194;BE
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-5"><p><b>完成所有角色的攻略后追加选项，选择以下选项进入真结局。</b></p>
+<div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+  <td>希望成长的背后不伴随着死亡<tr>
+  <td>粉色<tr>
+  <td>习惯<tr>
+  <td>不是这些<tr>
+  <td>军人吗<tr>
+  <td>暂且退下看看情况<tr>
+  <td>这把刀究竟是什么？<tr>
+  <td>无言<tr>
+  <td>女人身上的香水味？<tr>
+  <td>在固定根之路之前先纠正扭曲<tr>
+  <td>躲开<tr>
+  <td>有约在先<tr>
+  <td>请教时雨<tr>
+  <td>柊家与此有关？<tr>
+  <td>与柊的姓氏有关吗？<tr>
+  <td>也许没有使用柊树叶<tr>
+  <td><font color=#3a62a0>这个身体可能就是鞘&#8194;→&#8194;TE
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://www.dlsite.com/pro/work/=/product_id/VJ013942.html"><img src="https://pic1.imgdb.cn/item/67e2bd9e0ba3d5a1d7e352d1.webp" alt="dlsite的logo" title="点击跳转至dlsite游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v2088"><img src="https://img.picui.cn/free/2025/03/25/67e2a7688b335.jpg" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+]]></content>
+      <categories>
+        <category>游戏攻略</category>
+        <category>蔷薇向</category>
+        <category>Holicworks</category>
+      </categories>
+      <tags>
+        <tag>游戏攻略</tag>
+        <tag>蔷薇向</tag>
+        <tag>Holicworks</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【杂谈/更新中】ADV解包及机翻汉化教程</title>
     <url>/posts/47.html</url>
     <content><![CDATA[<style>
@@ -5151,7 +5315,7 @@
 
 <h2 id="❖-前言"><a href="#❖-前言" class="headerlink" title="❖ 前言"></a><p style="font-size:25px">❖ 前言</p></h2><p><b>本人<span class='heimu'>是纯文科生，</span>编程基础约等于0，所以汉化出来的游戏都没有太大的难度。<br>写这篇文章是希望为同样没有编程基础的同好们提供我个人的经验，<br>很多游戏的汉化流程都大同小异，<br>希望能为同好们迈出汉化的第一步提供一些方向。</p>
 <p>请注意：<br>不论有多粗略，请务必进行二次校对，至少对术语进行统一，不要折磨你的同好。<br>同时注意标注为AI汉化&#x2F;机翻汉化。</p>
-<p>解包、未授权的汉化都是侵权行为。<br>本文仅供学习交流，如有需要请发邮件至<a href="mailto:&#x66;&#108;&#x61;&#x6d;&#x65;&#99;&#x68;&#111;&#64;&#x71;&#113;&#x2e;&#99;&#x6f;&#109;">&#x66;&#108;&#x61;&#x6d;&#x65;&#99;&#x68;&#111;&#64;&#x71;&#113;&#x2e;&#99;&#x6f;&#109;</a>，在一封邮件内详细描述问题。<br>在文章下方评论也可以。<br>如果有过于简略看不懂的地方也可以发邮件或者B站私信，会抽时间做图文教程。<br><span class='heimu'>这个教程里没什么图纯是因为懒得搞的，都不知道有无人看</span></b></p>
+<p>解包、未授权的汉化都是侵权行为。<br>本文仅供学习交流，如有需要请发邮件至<a href="mailto:&#102;&#108;&#x61;&#109;&#101;&#99;&#x68;&#111;&#64;&#113;&#113;&#x2e;&#99;&#111;&#x6d;">&#102;&#108;&#x61;&#109;&#101;&#99;&#x68;&#111;&#64;&#113;&#113;&#x2e;&#99;&#111;&#x6d;</a>，在一封邮件内详细描述问题。<br>在文章下方评论也可以。<br>如果有过于简略看不懂的地方也可以发邮件或者B站私信，会抽时间做图文教程。<br><span class='heimu'>这个教程里没什么图纯是因为懒得搞的，都不知道有无人看</span></b></p>
 <hr class="hr-twill-colorful">
 
 <h2 id="❖-关于本文"><a href="#❖-关于本文" class="headerlink" title="❖ 关于本文"></a><p style="font-size:25px">❖ 关于本文</p></h2><p><b>本文以游戏引擎为划分，对游戏汉化中所使用的工具及参考的教程进行列出，请自行下载及查阅。<br>汉化过程会写的很简略，如有不能理解的地方，请查阅文中提供的教程链接。<br>如有需要请随意把我做的汉化补丁拆了作参考，点击即可下载。</p>
@@ -5440,170 +5604,6 @@
       </categories>
       <tags>
         <tag>杂谈</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【攻略】大正莫比乌斯线 中文攻略</title>
-    <url>/posts/48.html</url>
-    <content><![CDATA[<style>
-.center
-{
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-  font-weight: bold
-}
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-</style>
-
-<div class="note danger flat"><p><b>因个人原因，不再公开分享此AI汉化版游戏。<br>如有需要，请提供任意三个bl游戏的正版购买记录（如steam库截图、dlsite购买记录等），以图片附件形式发送至<a href="mailto:&#102;&#108;&#97;&#109;&#x65;&#x63;&#104;&#x6f;&#64;&#113;&#x71;&#46;&#x63;&#111;&#109;">&#102;&#108;&#97;&#109;&#x65;&#x63;&#104;&#x6f;&#64;&#113;&#x71;&#46;&#x63;&#111;&#109;</a>。</b></p>
-</div>
-
-<h2 id="❖-攻略流程"><a href="#❖-攻略流程" class="headerlink" title="❖ 攻略流程"></a><p style="font-size:25px">❖ 攻略流程</p></h2><p><b>基于HalfAdder日文攻略，原文：<a href="https://half-a.net/games1/mebiusline.html">网页链接</a>。<br>Misaki线二周目解锁，四线全通后从头开始按选项选解锁真结局。<br>HE好结局 &#x2F; BE坏结局 &#x2F; TE真结局</b></p>
-<div class="tabs" id="攻略"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略-1"><b>时雨</b></button></li><li class="tab"><button type="button" data-href="#攻略-2"><b>千家伊织</b></button></li><li class="tab"><button type="button" data-href="#攻略-3"><b>馆林开</b></button></li><li class="tab"><button type="button" data-href="#攻略-4"><b>Misaki</b></button></li><li class="tab"><button type="button" data-href="#攻略-5"><b>真结局</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略-1"><p><b>一周目可攻略。</b></p>
-<div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:14%'>
- <col style='width:48%'>
- <col style='width:48%'>
-  <td rowspan=7 style='padding:6px 0px;text-align:center'>共通线<td colspan=2>希望成长的背后不伴随着死亡<tr>
-  <td colspan=2>蓝色<tr>
-  <td colspan=2>有点重<tr>
-  <td colspan=2>三个中的哪一个<tr>
-  <td colspan=2>军人吗<tr>
-  <td colspan=2>虽然无关<tr>
-  <td colspan=2>时雨为什么会被追捕？<tr>
-  <td rowspan=9 style='padding:6px 0px;text-align:center'>个人线<td colspan=2>积极介入<br><font color=#d3625d>犹豫不决&#8194;→&#8194;撒在玄关&#8194;→&#8194;BE 有场景<tr>
-  <td colspan=2>撒在玄关<tr>
-  <td>再见一次雄真先生吧<td>先确定是否存在内奸<tr>
-  <td colspan=2>没什么特别的<br><font color=#d3625d>请教了新娘人偶的事&#8194;→&#8194;BE<tr>
-  <td colspan=2>不舔舐血液<br><font color=#d3625d>舔舐血液&#8194;→&#8194;BE<tr>
-  <td colspan=2>不舔舐血液<tr>
-  <td>花嫁人偶的房间<br><font color=#d3625d>外面的庭院&#8194;→&#8194;BE<td>去找时雨<br><font color=#d3625d>暂时不去找&#8194;→&#8194;BE<tr>
-  <td>待在这里<br><font color=#d3625d>跟着去&#8194;→&#8194;BE<td rowspan=2><font color=#3a62a0>佯动部队&#8194;/&#8194;救援部队<br>&#8194;→&#8194;HE2（剧情不同）<tr>
-  <td><font color=#3a62a0>正面迎击&#8194;→&#8194;HE1<br><font color=#d3625d>绕到背后&#8194;→&#8194;BE
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-2"><p><b>一周目可攻略。</b></p>
-<div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:14%'>
- <col style='width:48%'>
- <col style='width:48%'>
-  <td rowspan=8 style='padding:6px 0px;text-align:center'>共通线<td colspan=2>话虽如此<tr>
-  <td colspan=2>黑色<tr>
-  <td colspan=2>有点重<tr>
-  <td colspan=2>就叫Misaki吧<tr>
-  <td colspan=2>军人也是腰上佩剑的人<tr>
-  <td colspan=2>虽然无关<tr>
-  <td colspan=2>军人到底想做什么？<tr>
-  <td colspan=2>回家<tr>
-  <td rowspan=10 style='padding:6px 0px;text-align:center'>个人线<td colspan=2>日本就像一个婴儿<tr>
-  <td colspan=2>不能这么断言<tr>
-  <td colspan=2>千家确实残酷，但是<br><font color=#d3625d>无法认同千家的思想&#8194;→&#8194;BE<tr>
-  <td>留在房间里<td>先回家一趟<tr>
-  <td>向这个人询问<td>那时候请帮我<tr>
-  <td>不同行<br><font color=#d3625d>同行&#8194;→&#8194;BE<td rowspan=5><font color=#3a62a0>呼唤Misaki&#8194;→&#8194;ED3<br>不呼唤Misaki&#8194;→&#8194;ED4<tr>
-  <td>是的<br><font color=#d3625d>不是&#8194;→&#8194;BE<tr>
-  <td>是人为<tr>
-  <td>所有的组织都存在矛盾<tr>
-  <td><font color=#3a62a0>命运更加强大&#8194;→&#8194;ED1<br>也许有时会改变&#8194;→&#8194;ED2
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-3"><p><b>一周目可攻略。</b></p>
-<div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:14%'>
- <col style='width:86%'>
-  <td rowspan=8 style='padding:6px 0px;text-align:center'>共通线<td>话虽如此<tr>
-  <td>蓝色<tr>
-  <td>有点重<tr>
-  <td>不是这些<tr>
-  <td>军人也是腰上佩剑的人<tr>
-  <td>暂且退下<tr>
-  <td>军人到底想做什么？<tr>
-  <td>去大黑屋<tr>
-  <td rowspan=9 style='padding:6px 0px;text-align:center'>个人线<td>老实讲述<tr>
-  <td>不要感情用事<tr>
-  <td>投掷出刀<br><font color=#d3625d>斩杀&#8194;→&#8194;选下面的四个选项后BE<tr>
-  <td>待着<br><font color=#d3625d>逃跑&#8194;→&#8194;BE 有场景<tr>
-  <td>和薰一起等待<br><font color=#d3625d>和馨一起去买&#8194;→&#8194;任意选项&#8194;→&#8194;BE<tr>
-  <td>先回去看看？<tr>
-  <td>待在这里不动<br><font color=#d3625d>果然还是从撞球室逃走吧&#8194;→&#8194;BE 有CG<tr>
-  <td>不杀了千家吗？<tr>
-  <td><font color=#3a62a0>让馨先生先走吧？&#8194;→&#8194;HE<br><font color=#d3625d>让时任小姐先走吧？&#8194;→&#8194;BE 有场景
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-4"><p><b>二周目解锁。</b></p>
-<div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:14%'>
- <col style='width:86%'>
-  <td rowspan=7 style='padding:6px 0px;text-align:center'>共通线<td>希望成长的背后不伴随着死亡<tr>
-  <td>蓝色<tr>
-  <td>习惯<tr>
-  <td>不是这些<tr>
-  <td>军人吗<tr>
-  <td>暂且退下看看情况<tr>
-  <td>这把刀究竟是什么？<tr>
-  <td rowspan=10 style='padding:6px 0px;text-align:center'>个人线<td>无言<tr>
-  <td>女人身上的香水味？<tr>
-  <td>把洞口堵上<tr>
-  <td>躲开<br><font color=#d3625d>吃&#8194;→&#8194;BE<tr>
-  <td>有约在先<tr>
-  <td>请教时雨<br><font color=#d3625d>直接询问Misaki&#8194;→&#8194;BE<tr>
-  <td>柊家与此有关？<tr>
-  <td>与柊的姓氏有关吗？<tr>
-  <td>也许没有使用柊树叶<br><font color=#d3625d>用了柊树叶？&#8194;→&#8194;BE<tr>
-  <td><font color=#3a62a0>这个身体可能就是鞘&#8194;→&#8194;HE<br><font color=#d3625d>其它选项&#8194;→&#8194;BE
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-5"><p><b>完成所有角色的攻略后追加选项，选择以下选项进入真结局。</b></p>
-<div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
-  <td>希望成长的背后不伴随着死亡<tr>
-  <td>粉色<tr>
-  <td>习惯<tr>
-  <td>不是这些<tr>
-  <td>军人吗<tr>
-  <td>暂且退下看看情况<tr>
-  <td>这把刀究竟是什么？<tr>
-  <td>无言<tr>
-  <td>女人身上的香水味？<tr>
-  <td>在固定根之路之前先纠正扭曲<tr>
-  <td>躲开<tr>
-  <td>有约在先<tr>
-  <td>请教时雨<tr>
-  <td>柊家与此有关？<tr>
-  <td>与柊的姓氏有关吗？<tr>
-  <td>也许没有使用柊树叶<tr>
-  <td><font color=#3a62a0>这个身体可能就是鞘&#8194;→&#8194;TE
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://www.dlsite.com/pro/work/=/product_id/VJ013942.html"><img src="https://pic1.imgdb.cn/item/67e2bd9e0ba3d5a1d7e352d1.webp" alt="dlsite的logo" title="点击跳转至dlsite游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v2088"><img src="https://img.picui.cn/free/2025/03/25/67e2a7688b335.jpg" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
-]]></content>
-      <categories>
-        <category>游戏攻略</category>
-        <category>蔷薇向</category>
-        <category>Holicworks</category>
-      </categories>
-      <tags>
-        <tag>游戏攻略</tag>
-        <tag>蔷薇向</tag>
-        <tag>Holicworks</tag>
       </tags>
   </entry>
   <entry>
@@ -7295,7 +7295,7 @@
 
 <h2 id="❖-批量自动压缩"><a href="#❖-批量自动压缩" class="headerlink" title="❖ 批量自动压缩"></a><p style="font-size:25px">❖ 批量自动压缩</p></h2><p><b>需要下载并安装<a href="https://www.7-zip.org/">7-Zip（点击跳转官网）</a>。</p>
 <p>因为我的压缩包后缀都是<code>exe</code>，<br>想要压缩为<code>7z</code>，<br>设置解压密码为<code>zheshimima</code>，<br>开启头部加密（隐藏文件名），<br>7-Zip的安装位置为<code>C:\Program Files\7-Zip\7z.exe</code>，<br>且希望压缩为7z后自动删除原文件，<br>所以批处理文件（*.bat）的代码如下：</p>
-<figure class="highlight plaintext"><figcaption><span>复制到txt中，修改txt后缀为bat</span></figcaption><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line">for /r %%X in (*.zip) do (</span><br><span class="line">    &quot;C:\Program Files\7-Zip\7z.exe&quot; a -sdel -mhe=on -pzheshimima &quot;%%~dpX%%~nX.7z&quot; &quot;%%X&quot;</span><br><span class="line">)</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><figcaption><span>复制到txt中，修改txt后缀为bat</span></figcaption><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line">for /r %%X in (*.exe) do (</span><br><span class="line">    &quot;C:\Program Files\7-Zip\7z.exe&quot; a -sdel -mhe=on -pzheshimima &quot;%%~dpX%%~nX.7z&quot; &quot;%%X&quot;</span><br><span class="line">)</span><br></pre></td></tr></table></figure>
 <p>这个bat文件需要放在你要压缩的所有文件的根目录，它会遍历所有子文件夹中的符合后缀的文件并进行压缩。</p>
 <p>如果原文件后缀不为exe，则修改第二行<code>（*.exe）</code>，将<code>exe</code>修改为你原文件的后缀；<br>如果7-Zip的安装位置不为默认，则修改第三行<code>"C:\Program Files\7-Zip\7z.exe"</code>，将其修改为你的7z.exe的文件路径；<br>如果希望压缩为zip或其他7-Zip支持的格式，则修改第三行<code>"%%<del>dpX%%</del>nX.7z"</code>，将<code>7z</code>修改为想要压缩的格式；<br>如果不希望在压缩后自动删除原文件，则删除第三行<code>-sdel</code>；<br>如果不希望开启隐藏文件名（即在输入密码前就能看到压缩包里面的内容），则删除第三行<code>-mhe=on</code>；<br>如果不希望设置解压密码或想要使用其他的解压密码，则删除或修改第三行<code>-pzheshimima</code>。</p>
 <p>如果想要将每个文件夹都打包为压缩包，则代码如下：</p>
