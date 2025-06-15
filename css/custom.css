@@ -72,6 +72,7 @@
 
 /* 文章页、归档页、普通页面 */
 div#post,
+div#tag,
 div#archive,
 div#categories,
 div#category,
