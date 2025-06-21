@@ -1,9 +1,7 @@
-https://www.flamecho.top/posts/1.html
 https://www.flamecho.top/posts/2.html
 https://www.flamecho.top/posts/3.html
 https://www.flamecho.top/posts/4.html
 https://www.flamecho.top/posts/5.html
-https://www.flamecho.top/posts/6.html
 https://www.flamecho.top/posts/7.html
 https://www.flamecho.top/posts/9.html
 https://www.flamecho.top/posts/10.html
@@ -28,7 +26,6 @@ https://www.flamecho.top/posts/28.html
 https://www.flamecho.top/posts/29.html
 https://www.flamecho.top/posts/30.html
 https://www.flamecho.top/posts/31.html
-https://www.flamecho.top/posts/32.html
 https://www.flamecho.top/posts/34.html
 https://www.flamecho.top/posts/35.html
 https://www.flamecho.top/posts/36.html
