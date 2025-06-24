@@ -521,7 +521,7 @@ border-radius: 8px; /*边框圆角*/
 }
 
 [data-theme="dark"] .card-info-avatar .author-status-box {
-  background-color: #222222f2;
+  background-color: rgba(255,255,255,0.8);
   border: 2px solid #5c6060;
 }
 
