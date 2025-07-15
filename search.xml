@@ -1,6 +1,421 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>【攻略】Collar×Malice -Unlimited-（ns繁中）</title>
+    <url>/posts/10.html</url>
+    <content><![CDATA[<style>
+.center
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+<div class="note success flat"><p><b>此攻略已搬运至bilibili。<a href="https://www.bilibili.com/read/cv26751624/">点击前往</a></b></p>
+</div>
+
+<p><a target="_blank" href="https://www.otomate.jp/collar_malice/fd/"><img src="https://bbs.api.hoilai.com/upload/img/2025/3/25/8849afed-b564-4828-8fcd-917b0889e395.jpg" alt="点击跳转至游戏官网" width="500" title="点击跳转至游戏官网" /></a></p>
+<p style='line-height:1;text-align:center'><b>OFFICIAL WEBSITE</b></p>
+
+<h2 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h2><p><b><p style="font-size:18px">跨越恶意之后，拼凑未来的碎片。</p>解决了连续恶性犯罪事件——通称X-day事件后，<br>主人公逐渐找回原本的日常生活。<br>追查事件期间，她知晓了无数沉重的真相与哀痛，<br>然而她决定背负着一切，<br>与【他】携手克服困难，在本作中展开成为恋人后的生活。</b></p>
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-攻略流程"><a href="#❖-攻略流程" class="headerlink" title="❖ 攻略流程"></a><p style="font-size:25px">❖ 攻略流程</p></h2><div class="tabs" id="攻略"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略-1"><b>共通线</b></button></li><li class="tab"><button type="button" data-href="#攻略-2"><b>柳爱时</b></button></li><li class="tab"><button type="button" data-href="#攻略-3"><b>冈崎契</b></button></li><li class="tab"><button type="button" data-href="#攻略-4"><b>榎本峰雄</b></button></li><li class="tab"><button type="button" data-href="#攻略-5"><b>笹冢尊</b></button></li><li class="tab"><button type="button" data-href="#攻略-6"><b>白石景之</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略-1"><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:25%'>
+ <col style='width:75%'>
+ <tr rowspan=2>
+  <td colspan=2><b>2.&#8194;不能坐视不管<br><div style="color:#d3625d;">1.&#8194;不该做出引人注目的举动&#8194;→&#8194;end</div></b>
+ <tr>
+  <td rowspan=4 style='text-align:center'><b>【存档】</b>
+  <td><b>1.&#8194;调查房间<br>3.&#8194;都不是<br>1.&#8194;很久没人住了<br>【分歧】1.&#8194;抓住橘&#8194;→&#8194;榎本峰雄线<br>【分歧】2.&#8194;逃去玄关&#8194;→&#8194;柳爱时线<br><div style="color:#d3625d ;">【分歧】3.&#8194;待在原地不动&#8194;→&#8194;end</b>
+ <tr>
+  <td><b>2.&#8194;调查房间里的电脑<br>密码：HERO&#8194;→&#8194;笹冢尊线<br><div style="color:#d3625d ;">一直输错密码&#8194;→&#8194;end<br>解密过程：英文字母第8个是H，<br>替换ZERO的Z得到HERO</div></b>
+ <tr>
+  <td><b>3.&#8194;委托鉴定信件<br>2.&#8194;你讨厌吃什么？<br>2.&#8194;小时候无法忘怀的回忆是什么？<br>→&#8194;白石景之线</b>
+ <tr>
+  <td><b>4.&#8194;去周边询问，搜集线索<br>射击模式成功&#8194;→&#8194;冈崎契线<br><div style="color:#d3625d ;">射击模式失败&#8194;→&#8194;end</div></b>
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-2"><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:25%'>
+ <col style='width:75%'>
+  <td rowspan=1 style='text-align:center'><b>cp.1</b>
+  <td><b>2.&#8194;我最喜欢你了！</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.2</b>
+  <td><b>1.&#8194;请多对我撒娇一些</b>
+ <tr>
+  <td><b>1.&#8194;我不这么认为</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.3</b>
+  <td><b>2.&#8194;对，还不够</b>
+ <tr>
+  <td><b>1.&#8194;我想和你吵架</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.4</b>
+  <td><b>2.&#8194;到时请来参加婚礼</b>
+ <tr>
+  <td><b>1.&#8194;去见他&#8194;→&#8194;Best ED<br>通关白石景之线后解锁Adonis篇<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>柳爱时cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-3"><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:25%'>
+ <col style='width:75%'>
+  <td rowspan=2 style='text-align:center'><b>cp.1</b>
+  <td><b>2.&#8194;笑容很温柔</b>
+ <tr>
+  <td><b>2.&#8194;我只会对冈崎先生心跳加速</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.2</b>
+  <td><b>1.&#8194;会生气</b>
+ <tr>
+  <td><b>2.&#8194;我很高兴</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.3</b>
+  <td><b>1.&#8194;就算不理解，我也喜欢你</b>
+ <tr>
+  <td><b>2.&#8194;把你的后半生交给我吧</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.4</b>
+  <td><b>1.&#8194;传贴图&#8194;→&#8194;Best ED<br>解锁Side Story Crossroad(吉成秀明)<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>冈崎契cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-4"><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:25%'>
+ <col style='width:75%'>
+  <td rowspan=2 style='text-align:center'><b>cp.1</b>
+  <td><b>2.&#8194;向峰雄先生发出SOS！</b>
+ <tr>
+  <td><b>1.&#8194;走到峰雄先生身边</b>
+ <tr>
+  <td rowspan=1 style='text-align:center'><b>cp.2</b>
+  <td><b>1.&#8194;原地等待</b>
+ <tr>
+  <td rowspan=1 style='text-align:center'><b>cp.3</b>
+  <td><b>1.&#8194;我不觉得</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.4</b>
+  <td><b>1.&#8194;你想喝味增汤吗？</b>
+ <tr>
+  <td><b>2.&#8194;有趣的地方&#8194;→&#8194;Best ED<br>解锁Side Story ONWARD(星野香月)<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>榎本峰雄cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-5"><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:25%'>
+ <col style='width:75%'>
+  <td rowspan=1 style='text-align:center'><b>cp.1</b>
+  <td><b>2.&#8194;尊先生？</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.2</b>
+  <td><b>1.&#8194;可靠</b>
+ <tr>
+  <td><b>2.&#8194;我等着你</b>
+ <tr>
+  <td rowspan=1 style='text-align:center'><b>cp.3</b>
+  <td><b>1.&#8194;笹冢先生是我的</b>
+ <tr>
+  <td rowspan=2 style='text-align:center'><b>cp.4</b>
+  <td><b>1.&#8194;brother...？&#8194;→&#8194;Best ED<br>解锁Side Story Pride(峰岸诚司)<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>笹冢尊cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-6"><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:25%'>
+ <col style='width:25%'>
+ <col style='width:50%'>
+  <td rowspan=1 style='text-align:center'><b>cp.1</b>
+  <td colspan=2><b>2.&#8194;不敢看他</b>
+ <tr>
+  <td rowspan=4 style='text-align:center'><b>cp.2</b>
+  <td colspan=2><b>1.&#8194;有非他不可的理由</b>
+ <tr>
+  <td colspan=2><b>2.&#8194;因为他认识白石先生</b>
+ <tr>
+  <td colspan=2><b>1.&#8194;因为那里的人和白石先生有交情</b>
+ <tr>
+  <td colspan=2><b>2.&#8194;很寂寞</b>
+ <tr>
+  <td rowspan=6 style='text-align:center'><b>cp.3</b>
+  <td colspan=2><b>3.&#8194;摩天轮</b>
+ <tr>
+  <td rowspan=5 style='text-align:center'><b>【解密】<br>繁体中文<br>注音输入<br><font color=#d3625d>一直输错<br>→&#8194;end</font></b>  
+  <td><b>青梅竹馬<br>ㄑㄧㄥ ㄇㄟˊ ㄓㄨˊ ㄇㄚˇ</b>
+ <tr>
+  <td><b>相濡以沫<br>ㄒㄧㄤ ㄖㄨˊ ㄧˇ ㄇㄛˋ</b>
+ <tr>
+  <td><b>大庭廣眾<br>ㄉㄚˋ ㄊㄧㄥˊ ㄍㄨㄤˇ<br>ㄓㄨㄥˋ</b>
+ <tr>
+  <td><b>宮廷<br>ㄍㄨㄥ ㄊㄧㄥˊ</b>
+ <tr>
+  <td><b>箱庭<br>ㄒㄧㄤ ㄊㄧㄥˊ</b>
+ <tr>
+  <td rowspan=4 style='text-align:center'><b>cp.4</b>
+  <td colspan=2><b>2.&#8194;好幸福</b>
+ <tr>
+  <td colspan=2><b>2.&#8194;白石先生身边的人</b>
+ <tr>
+  <td colspan=2><b>1.&#8194;柳先生</b>
+ <tr>
+  <td colspan=2><b>1.&#8194;不写收件人&#8194;→&#8194;Best ED<br>通关柳爱时线后解锁Adonis篇<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>白石景之cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://store.nintendo.com.hk/70010000053608"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/b1bf5aff-c58e-4718-b996-14ac38b776f2.jpg" alt="switch的logo" title="点击跳转至Nintendo Switch游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v21789"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="点击跳转至The Visual Novel Database" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+]]></content>
+      <categories>
+        <category>游戏攻略</category>
+        <category>乙女向</category>
+        <category>Otomate</category>
+      </categories>
+      <tags>
+        <tag>游戏攻略</tag>
+        <tag>乙女向</tag>
+        <tag>Otomate</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【攻略】レムレスブルーの午前２時</title>
+    <url>/posts/14.html</url>
+    <content><![CDATA[<style>
+.center
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  font-size:1vw;
+  @media screen and (max-width:2000px){font-size:15px}
+  @media screen and (max-width:768px){font-size:12px}
+  @media screen and (max-width:600px){font-size:10px}
+}
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+<div class="note success flat"><p><b>此攻略已搬运至bilibili。<a href="https://www.bilibili.com/read/cv30461087/">点击前往</a></b></p>
+</div>
+
+<p><a target="_blank" href="http://kenkou-land.com/lemures-blue/"><img src="https://bbs.api.hoilai.com/upload/img/2025/3/25/615e6051-5e18-4356-8d96-abd68e320cce.jpg" alt="游戏官网banner" title="点击跳转至游戏官网" /></a></p>
+<p style='line-height:1;text-align:center'><b>OFFICIAL WEBSITE</b></p>
+
+<h2 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h2><p><b>7月の半ば、ある一人の天才が消えた。</p>
+<p>中高一貫男子校に通う中学3年生の少年アオイ。<br>午前2時に桜の木の下で出会った不思議な少年、ヒナタ。<br>二人は密会を通じ惹かれあっていくが、お互いにある思惑があって――。</p>
+<p>「――『アオイのハートを手に入れて』<br>　これがレムレス・ブルーを手に入れる唯一の方法らしい」</p>
+<p>生きてるものは不老不死に、死んでしまったものは蘇るという<br>幻の存在『レムレス・ブルー』とは</p>
+<p>消えてしまった天才、アカネの真実とは――</p>
+<p>「真夜中の午前2時、幽霊に恋をした。」</b></p>
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-攻略流程"><a href="#❖-攻略流程" class="headerlink" title="❖ 攻略流程"></a><p style="font-size:25px">❖ 攻略流程</p></h2><p><b>攻略顺序固定为サクラ、イツキ、ヒナタ＆アオイ。</b></p>
+<div class="tabs" id="攻略1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略1-1"><b>サクラ</b></button></li><li class="tab"><button type="button" data-href="#攻略1-2"><b>イツキ</b></button></li><li class="tab"><button type="button" data-href="#攻略1-3"><b>ヒナタ＆アオイ</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略1-1"><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:13%'>
+ <col style='width:87%'>
+  <td rowspan=6 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter1</b>
+  <td><b>2.&#8194;なんかフツー</b>
+ <tr>
+  <td><b>1.&#8194;ぼく</b>
+ <tr>
+  <td><b>2.&#8194;３人の天才</b>
+ <tr>
+  <td><b>3.&#8194;レムレス・ブルー</b>
+ <tr>
+  <td><b>2.&#8194;いらない</b>
+ <tr>
+  <td><b>2.&#8194;いらない</b>
+ <tr>
+  <td rowspan=3 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter2</b>
+  <td><b>1.&#8194;容姿を褒める&#8194;/&#8194;2.天気の話をする</b>
+ <tr>
+  <td><b>1.&#8194;ポケットをまさぐる&#8194;/&#8194;2.野花を渡す</b>
+ <tr>
+  <td><b>2.&#8194;別に構わねぇけど……</b>  
+ <tr>
+  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter3</b>
+  <td><b>1.&#8194;普段行かないような場所に行く<br><font color=#3a62a0>2.&#8194;ここに残る&#8194;→&#8194;1.頭をなでてあげる&#8194;→&#8194;CG回收<br>2.&#8194;ここに残る&#8194;→&#8194;2.いたずらする&#8194;→&#8194;CG回收<br>3.&#8194;やっぱり桜の木の元へ行く&#8194;→&#8194;CG回收</font></b>
+ <tr>
+  <td><b>1.&#8194;心残りがあるから</b>
+ <tr>
+  <td rowspan=4 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter4</b>
+  <td><b>2.&#8194;アイドル</b>
+ <tr>
+  <td><b>2.&#8194;アオイ</b>
+ <tr>
+  <td><b>1.&#8194;本人から情報を聞き出す</b>
+ <tr>
+  <td><b>2.&#8194;アオイ</b>
+ <tr>
+  <td rowspan=3 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter5</b>
+  <td><b>[调查]右侧书架从上往下第二层</b>
+ <tr>
+  <td><b>[输入]154</b>
+ <tr>
+  <td><b>[调查]右侧窗户</b>
+ <tr>
+  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter7</b>
+  <td><b>2.&#8194;無視する</b>
+ <tr>
+  <td><b>2.&#8194;だめじゃない</b>
+ <tr>
+  <td rowspan=3 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter8</b>
+  <td><b>2.&#8194;音楽室</b>
+ <tr>
+  <td><b>2.&#8194;殴りこみに行く</b>
+ <tr>
+  <td><b>アオイの一線を越える</b>
+ <tr>
+  <td rowspan=4 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter9</b>
+  <td><b>1.&#8194;だから……<br><font color=#3a62a0>2.&#8194;だけど……&#8194;→&#8194;END2.&#8194;underground yggdrasil</font></b>
+ <tr>
+  <td><b>2.&#8194;時間がほしい<br><font color=#3a62a0>1.&#8194;認められない&#8194;→&#8194;END4.&#8194;ミッドナイト・ブルー</font></b>
+ <tr>
+  <td><b>2.&#8194;大切な人<br><font color=#3a62a0>1.&#8194;大事な後輩&#8194;→&#8194;END1.&#8194;成れの果て</font></b>
+ <tr>
+  <td><b>1.&#8194;開ける<br><font color=#3a62a0>2.&#8194;開けられない&#8194;→&#8194;END3.&#8194;美しい風</font></b>
+ <tr>
+  <td colspan=2 bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>TRUE END.&#8194;いとしのあおいひと</font></b>
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-2"><p><b>从start&#8194;-&#8194;Chapter4开始。</b></p>
+<div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:13%'>
+ <col style='width:87%'>
+  <td rowspan=4 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter4</b>
+  <td><b>2.&#8194;アイドル</b>
+ <tr>
+  <td><b>2.&#8194;アオイ</b>
+ <tr>
+  <td><b>1.&#8194;本人から情報を聞き出す</b>
+ <tr>
+  <td><b>2.&#8194;アオイ</b>
+ <tr>
+  <td rowspan=7 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter6</b>
+  <td><b>2.&#8194;公園に行こう！</b>
+ <tr>
+  <td><b>2.（下面的）…………<br><font color=#3a62a0>1.（上面的）…………&#8194;×3&#8194;→&#8194;END1.&#8194;彼者誰の鳥</font></b>
+ <tr>
+  <td><b>1.（上面的）…………</b>  
+ <tr>
+  <td><b>2.（下面的）…………</b>
+ <tr>
+  <td><b>2.&#8194;はやく行こう<br><font color=#3a62a0>1.&#8194;入りたい？&#8194;→&#8194;1.&#8194;アオイ、一人にしてくれる？&#8194;→&#8194;END2.&#8194;Asymmetry Scapegoat<br>1.&#8194;入りたい？&#8194;→&#8194;2.&#8194;ほっといてよアカネ&#8194;→&#8194;END4.&#8194;GHOST BLUE</font></b>
+ <tr>
+  <td><b>1.&#8194;屋上だった<br><font color=#3a62a0>2.&#8194;プールだった&#8194;→&#8194;END3.&#8194;たそがれの天使</font></b>
+ <tr>
+  <td><b>1.&#8194;ベッドに腰掛けた</b>
+ <tr>
+  <td colspan=2 bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>TRUE END.&#8194;スーパースター</font></b>
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-3"><p><b>从start&#8194;-&#8194;Chapter10开始。<br>通关后记得在EXTRA&#8194;-&#8194;Epilogue游玩后日谈。</b></p>
+<div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:13%'>
+ <col style='width:29%'>
+ <col style='width:29%'>
+ <col style='width:29%'>
+  <td rowspan=11 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter10</b>
+  <td colspan=2><b>2.&#8194;好きにしていいんだよ？</b>
+  <td><b><font color=#d3625d>1.&#8194;……そっか</font></b>
+ <tr>
+  <td colspan=2><b>[调查]図書室</b>
+  <td><b><font color=#d3625d>[调查]図書室</font></b>
+ <tr>
+  <td colspan=2><b>2.&#8194;中央</b>
+  <td><b><font color=#d3625d>2.&#8194;中央</font></b>
+ <tr>
+  <td colspan=2><b>[调查]体育館</b>
+  <td><b><font color=#d3625d>[调查]体育館</font></b>
+ <tr>
+  <td colspan=2><b>[调查]サクラの部屋</b>
+  <td><b><font color=#d3625d>[调查]サクラの部屋</font></b>
+ <tr>
+  <td><b>[调查]ぼくの農園</b>
+  <td><b><font color=#008b8b>[调查]家庭科室</font></b>
+  <td><b><font color=#d3625d>[调查]ぼくの農園</font></b>
+ <tr>
+  <td><b>[调查]桜の木</b>
+  <td><b><font color=#008b8b>1.&#8194;準備オッケー！</font></b>
+  <td><b><font color=#d3625d>[调查]桜の木</font></b>
+ <tr>
+  <td><b>[调查]イツキの部屋</b>
+  <td style='text-align:center'><b><font color=#008b8b>---</font></b>
+  <td><b><font color=#d3625d>[调查]イツキの部屋</font></b>
+ <tr>
+  <td><b>2.&#8194;小麦粉</b>
+  <td style='text-align:center'><b><font color=#008b8b>---</font></b>
+  <td><b><font color=#d3625d>2.&#8194;小麦粉</font></b>
+ <tr>
+  <td><b>[调查]イツキの部屋</b>
+  <td style='text-align:center'><b><font color=#008b8b>---</font></b>
+  <td><b><font color=#d3625d>[调查]イツキの部屋</font></b>
+ <tr>
+  <td><b>3.&#8194;鶏肉</b>
+  <td style='text-align:center'><b><font color=#008b8b>---</font></b>
+  <td><b><font color=#d3625d>3.&#8194;鶏肉</font></b>
+ <tr>
+  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter11</b>
+  <td><b>1.&#8194;優しく手を握った</b>
+  <td><b><font color=#008b8b>1.&#8194;優しく手を握った</font></b>
+  <td><b><font color=#d3625d>2.&#8194;声を掛け続けた</font></b>
+ <tr>
+  <td><b>1.立ち上がる<br><font color=#3a62a0>2.&#8194;うずくまる<br>→&#8194;END1.PERFECT DYSTOPIA</font></b>
+  <td><b><font color=#008b8b>1.&#8194;立ち上がる<br>→&#8194;END3.&#8194;MALICIOUS</font></b>
+  <td><b><font color=#d3625d>1.&#8194;立ち上がる<br>→&#8194;END4.&#8194;lost blue</font></b>
+ <tr>
+  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter12</b>
+  <td colspan=3><b>1.&#8194;愛してる</b>
+ <tr>
+  <td colspan=3><b>2.&#8194;入らない<br><font color=#3a62a0>1.&#8194;入る&#8194;→&#8194;END2.&#8194;Freeze drown</font></b>
+ <tr>
+  <td colspan=4 bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>TRUE END.&#8194;レムレスブルーの午前２時</font></b>
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://www.freem.ne.jp/win/game/7849"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/0a672085-59fe-4b5c-a7f7-bc10dc2cb2fc.webp" alt="freem的logo" title="点击跳转至Freem!游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v19818"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+]]></content>
+      <categories>
+        <category>游戏攻略</category>
+        <category>蔷薇向</category>
+        <category>KENKOU LAND</category>
+      </categories>
+      <tags>
+        <tag>游戏攻略</tag>
+        <tag>蔷薇向</tag>
+        <tag>KENKOU LAND</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【攻略】终远的维尔修 -ErroR:salvation-（ns繁中）</title>
     <url>/posts/12.html</url>
     <content><![CDATA[<style>
@@ -434,6 +849,37 @@
         <tag>游戏攻略</tag>
         <tag>乙女向</tag>
         <tag>Otomate</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【教程】Lucky dog 1安装教程</title>
+    <url>/posts/15.html</url>
+    <content><![CDATA[<style>
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+<p><b>&#12288;&#12288;安装遇到问题的话可以查看这个：</b><br><a target="_blank" href="https://www.flamecho.top/posts/27.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/27.html</span></span></span></a></p>
+<h2 id="❖-安装"><a href="#❖-安装" class="headerlink" title="❖ 安装"></a><p style="font-size:25px">❖ 安装</p></h2><p><b><font color=#d3625d>&#12288;&#12288;免安装版安装方式是：双击注册表，按回车，双击LD1.exe。以下是光驱版的安装教程。</font></b><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/5a288a5d-9655-4efa-bf9d-f16f749a1649.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/c4fd936b-a768-4285-9ed3-d6573fad5078.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/3021101a-8f86-43bb-a7e3-52c577f25797.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/e8eb090c-3d2b-401c-9670-73ed40f40f33.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/b9d74f45-365c-45d1-8c3b-fd6746df6242.png" alt="安装教程_Lucky dog 1" /><br><b><font color=#d3625d>&#12288;&#12288;注：上一步↑找不到装载的话：右键-打开方式-Windows资源管理器，然后继续进行下一步↓</font></b><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/df474968-1e98-4cf1-b43c-732e6f49a7e4.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/d2c7841e-6779-4c0c-af1b-4887e48ce306.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/c7dcc851-7ee3-45ef-bebe-9749373825ae.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/b0c0edd6-afe2-4fb4-b91b-8d681ef13c9e.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/653b4dad-c1be-4b3c-8333-a1aba8a7bd10.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/e8c9d422-2177-40f6-ab05-682b0940fb15.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/a874505a-dee7-42aa-b430-1b46f2145781.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/8916f777-1636-4146-8426-eb94f4124cba.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/7a1da599-aa0d-4ad1-8fb3-7d61fa92ec48.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/ad16b453-45c4-4140-b574-6c0ebc1ae587.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/c68431bc-792e-4f08-b75c-533a2c5f01b7.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/a7239347-7a6e-49fd-9989-bad53ef6ded8.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/151761ee-faf6-44ba-b966-3ccec1b3713b.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/36469a13-1a66-4902-8044-c8e78e92fb7e.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/2ce68382-9af8-402c-8d50-4c8cdeaf5c61.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/0366d962-001e-4802-91da-6bc5e06ac76a.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/81951f90-dd08-45b6-9ff3-ff79f3a9a11d.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/5241e65f-ed3d-4c0c-9255-2d59f6eb2f4b.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/1587fe74-df10-419d-9731-c7f8a76cfbfa.png" alt="安装教程_Lucky dog 1" /></p>
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-卸载"><a href="#❖-卸载" class="headerlink" title="❖ 卸载"></a><p style="font-size:25px">❖ 卸载</p></h2><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/ea6afc4a-1e79-4ffb-90b4-591f26b67850.png" alt="安装教程_Lucky dog 1" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/037330ab-1706-4200-a93f-d3383234b263.png" alt="安装教程_Lucky dog 1" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/5ed67a4f-e9ec-48ee-ab2b-4865cba11df5.png" alt="安装教程_Lucky dog 1" />
+]]></content>
+      <categories>
+        <category>教程</category>
+        <category>安装教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>安装教程</tag>
       </tags>
   </entry>
   <entry>
@@ -890,452 +1336,6 @@
         <tag>乙女向</tag>
         <tag>Voltage</tag>
         <tag>黄昏中魔女如是说</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【攻略】Collar×Malice -Unlimited-（ns繁中）</title>
-    <url>/posts/10.html</url>
-    <content><![CDATA[<style>
-.center
-{
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-</style>
-
-<div class="note success flat"><p><b>此攻略已搬运至bilibili。<a href="https://www.bilibili.com/read/cv26751624/">点击前往</a></b></p>
-</div>
-
-<p><a target="_blank" href="https://www.otomate.jp/collar_malice/fd/"><img src="https://bbs.api.hoilai.com/upload/img/2025/3/25/8849afed-b564-4828-8fcd-917b0889e395.jpg" alt="点击跳转至游戏官网" width="500" title="点击跳转至游戏官网" /></a></p>
-<p style='line-height:1;text-align:center'><b>OFFICIAL WEBSITE</b></p>
-
-<h2 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h2><p><b><p style="font-size:18px">跨越恶意之后，拼凑未来的碎片。</p>解决了连续恶性犯罪事件——通称X-day事件后，<br>主人公逐渐找回原本的日常生活。<br>追查事件期间，她知晓了无数沉重的真相与哀痛，<br>然而她决定背负着一切，<br>与【他】携手克服困难，在本作中展开成为恋人后的生活。</b></p>
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-攻略流程"><a href="#❖-攻略流程" class="headerlink" title="❖ 攻略流程"></a><p style="font-size:25px">❖ 攻略流程</p></h2><div class="tabs" id="攻略"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略-1"><b>共通线</b></button></li><li class="tab"><button type="button" data-href="#攻略-2"><b>柳爱时</b></button></li><li class="tab"><button type="button" data-href="#攻略-3"><b>冈崎契</b></button></li><li class="tab"><button type="button" data-href="#攻略-4"><b>榎本峰雄</b></button></li><li class="tab"><button type="button" data-href="#攻略-5"><b>笹冢尊</b></button></li><li class="tab"><button type="button" data-href="#攻略-6"><b>白石景之</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略-1"><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:25%'>
- <col style='width:75%'>
- <tr rowspan=2>
-  <td colspan=2><b>2.&#8194;不能坐视不管<br><div style="color:#d3625d;">1.&#8194;不该做出引人注目的举动&#8194;→&#8194;end</div></b>
- <tr>
-  <td rowspan=4 style='text-align:center'><b>【存档】</b>
-  <td><b>1.&#8194;调查房间<br>3.&#8194;都不是<br>1.&#8194;很久没人住了<br>【分歧】1.&#8194;抓住橘&#8194;→&#8194;榎本峰雄线<br>【分歧】2.&#8194;逃去玄关&#8194;→&#8194;柳爱时线<br><div style="color:#d3625d ;">【分歧】3.&#8194;待在原地不动&#8194;→&#8194;end</b>
- <tr>
-  <td><b>2.&#8194;调查房间里的电脑<br>密码：HERO&#8194;→&#8194;笹冢尊线<br><div style="color:#d3625d ;">一直输错密码&#8194;→&#8194;end<br>解密过程：英文字母第8个是H，<br>替换ZERO的Z得到HERO</div></b>
- <tr>
-  <td><b>3.&#8194;委托鉴定信件<br>2.&#8194;你讨厌吃什么？<br>2.&#8194;小时候无法忘怀的回忆是什么？<br>→&#8194;白石景之线</b>
- <tr>
-  <td><b>4.&#8194;去周边询问，搜集线索<br>射击模式成功&#8194;→&#8194;冈崎契线<br><div style="color:#d3625d ;">射击模式失败&#8194;→&#8194;end</div></b>
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-2"><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:25%'>
- <col style='width:75%'>
-  <td rowspan=1 style='text-align:center'><b>cp.1</b>
-  <td><b>2.&#8194;我最喜欢你了！</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.2</b>
-  <td><b>1.&#8194;请多对我撒娇一些</b>
- <tr>
-  <td><b>1.&#8194;我不这么认为</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.3</b>
-  <td><b>2.&#8194;对，还不够</b>
- <tr>
-  <td><b>1.&#8194;我想和你吵架</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.4</b>
-  <td><b>2.&#8194;到时请来参加婚礼</b>
- <tr>
-  <td><b>1.&#8194;去见他&#8194;→&#8194;Best ED<br>通关白石景之线后解锁Adonis篇<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>柳爱时cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-3"><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:25%'>
- <col style='width:75%'>
-  <td rowspan=2 style='text-align:center'><b>cp.1</b>
-  <td><b>2.&#8194;笑容很温柔</b>
- <tr>
-  <td><b>2.&#8194;我只会对冈崎先生心跳加速</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.2</b>
-  <td><b>1.&#8194;会生气</b>
- <tr>
-  <td><b>2.&#8194;我很高兴</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.3</b>
-  <td><b>1.&#8194;就算不理解，我也喜欢你</b>
- <tr>
-  <td><b>2.&#8194;把你的后半生交给我吧</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.4</b>
-  <td><b>1.&#8194;传贴图&#8194;→&#8194;Best ED<br>解锁Side Story Crossroad(吉成秀明)<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>冈崎契cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-4"><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:25%'>
- <col style='width:75%'>
-  <td rowspan=2 style='text-align:center'><b>cp.1</b>
-  <td><b>2.&#8194;向峰雄先生发出SOS！</b>
- <tr>
-  <td><b>1.&#8194;走到峰雄先生身边</b>
- <tr>
-  <td rowspan=1 style='text-align:center'><b>cp.2</b>
-  <td><b>1.&#8194;原地等待</b>
- <tr>
-  <td rowspan=1 style='text-align:center'><b>cp.3</b>
-  <td><b>1.&#8194;我不觉得</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.4</b>
-  <td><b>1.&#8194;你想喝味增汤吗？</b>
- <tr>
-  <td><b>2.&#8194;有趣的地方&#8194;→&#8194;Best ED<br>解锁Side Story ONWARD(星野香月)<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>榎本峰雄cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-5"><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:25%'>
- <col style='width:75%'>
-  <td rowspan=1 style='text-align:center'><b>cp.1</b>
-  <td><b>2.&#8194;尊先生？</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.2</b>
-  <td><b>1.&#8194;可靠</b>
- <tr>
-  <td><b>2.&#8194;我等着你</b>
- <tr>
-  <td rowspan=1 style='text-align:center'><b>cp.3</b>
-  <td><b>1.&#8194;笹冢先生是我的</b>
- <tr>
-  <td rowspan=2 style='text-align:center'><b>cp.4</b>
-  <td><b>1.&#8194;brother...？&#8194;→&#8194;Best ED<br>解锁Side Story Pride(峰岸诚司)<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>笹冢尊cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-6"><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:25%'>
- <col style='width:25%'>
- <col style='width:50%'>
-  <td rowspan=1 style='text-align:center'><b>cp.1</b>
-  <td colspan=2><b>2.&#8194;不敢看他</b>
- <tr>
-  <td rowspan=4 style='text-align:center'><b>cp.2</b>
-  <td colspan=2><b>1.&#8194;有非他不可的理由</b>
- <tr>
-  <td colspan=2><b>2.&#8194;因为他认识白石先生</b>
- <tr>
-  <td colspan=2><b>1.&#8194;因为那里的人和白石先生有交情</b>
- <tr>
-  <td colspan=2><b>2.&#8194;很寂寞</b>
- <tr>
-  <td rowspan=6 style='text-align:center'><b>cp.3</b>
-  <td colspan=2><b>3.&#8194;摩天轮</b>
- <tr>
-  <td rowspan=5 style='text-align:center'><b>【解密】<br>繁体中文<br>注音输入<br><font color=#d3625d>一直输错<br>→&#8194;end</font></b>  
-  <td><b>青梅竹馬<br>ㄑㄧㄥ ㄇㄟˊ ㄓㄨˊ ㄇㄚˇ</b>
- <tr>
-  <td><b>相濡以沫<br>ㄒㄧㄤ ㄖㄨˊ ㄧˇ ㄇㄛˋ</b>
- <tr>
-  <td><b>大庭廣眾<br>ㄉㄚˋ ㄊㄧㄥˊ ㄍㄨㄤˇ<br>ㄓㄨㄥˋ</b>
- <tr>
-  <td><b>宮廷<br>ㄍㄨㄥ ㄊㄧㄥˊ</b>
- <tr>
-  <td><b>箱庭<br>ㄒㄧㄤ ㄊㄧㄥˊ</b>
- <tr>
-  <td rowspan=4 style='text-align:center'><b>cp.4</b>
-  <td colspan=2><b>2.&#8194;好幸福</b>
- <tr>
-  <td colspan=2><b>2.&#8194;白石先生身边的人</b>
- <tr>
-  <td colspan=2><b>1.&#8194;柳先生</b>
- <tr>
-  <td colspan=2><b>1.&#8194;不写收件人&#8194;→&#8194;Best ED<br>通关柳爱时线后解锁Adonis篇<br><font color=#d3625d>解锁Best ED后<br>Title - New Memory - After Story<br>白石景之cp.4 - Low&#8194;→&#8194;Normal ED</font></b>
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://store.nintendo.com.hk/70010000053608"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/b1bf5aff-c58e-4718-b996-14ac38b776f2.jpg" alt="switch的logo" title="点击跳转至Nintendo Switch游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v21789"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="点击跳转至The Visual Novel Database" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
-]]></content>
-      <categories>
-        <category>游戏攻略</category>
-        <category>乙女向</category>
-        <category>Otomate</category>
-      </categories>
-      <tags>
-        <tag>游戏攻略</tag>
-        <tag>乙女向</tag>
-        <tag>Otomate</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【攻略】レムレスブルーの午前２時</title>
-    <url>/posts/14.html</url>
-    <content><![CDATA[<style>
-.center
-{
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-  font-size:1vw;
-  @media screen and (max-width:2000px){font-size:15px}
-  @media screen and (max-width:768px){font-size:12px}
-  @media screen and (max-width:600px){font-size:10px}
-}
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-</style>
-
-<div class="note success flat"><p><b>此攻略已搬运至bilibili。<a href="https://www.bilibili.com/read/cv30461087/">点击前往</a></b></p>
-</div>
-
-<p><a target="_blank" href="http://kenkou-land.com/lemures-blue/"><img src="https://bbs.api.hoilai.com/upload/img/2025/3/25/615e6051-5e18-4356-8d96-abd68e320cce.jpg" alt="游戏官网banner" title="点击跳转至游戏官网" /></a></p>
-<p style='line-height:1;text-align:center'><b>OFFICIAL WEBSITE</b></p>
-
-<h2 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h2><p><b>7月の半ば、ある一人の天才が消えた。</p>
-<p>中高一貫男子校に通う中学3年生の少年アオイ。<br>午前2時に桜の木の下で出会った不思議な少年、ヒナタ。<br>二人は密会を通じ惹かれあっていくが、お互いにある思惑があって――。</p>
-<p>「――『アオイのハートを手に入れて』<br>　これがレムレス・ブルーを手に入れる唯一の方法らしい」</p>
-<p>生きてるものは不老不死に、死んでしまったものは蘇るという<br>幻の存在『レムレス・ブルー』とは</p>
-<p>消えてしまった天才、アカネの真実とは――</p>
-<p>「真夜中の午前2時、幽霊に恋をした。」</b></p>
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-攻略流程"><a href="#❖-攻略流程" class="headerlink" title="❖ 攻略流程"></a><p style="font-size:25px">❖ 攻略流程</p></h2><p><b>攻略顺序固定为サクラ、イツキ、ヒナタ＆アオイ。</b></p>
-<div class="tabs" id="攻略1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略1-1"><b>サクラ</b></button></li><li class="tab"><button type="button" data-href="#攻略1-2"><b>イツキ</b></button></li><li class="tab"><button type="button" data-href="#攻略1-3"><b>ヒナタ＆アオイ</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略1-1"><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:13%'>
- <col style='width:87%'>
-  <td rowspan=6 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter1</b>
-  <td><b>2.&#8194;なんかフツー</b>
- <tr>
-  <td><b>1.&#8194;ぼく</b>
- <tr>
-  <td><b>2.&#8194;３人の天才</b>
- <tr>
-  <td><b>3.&#8194;レムレス・ブルー</b>
- <tr>
-  <td><b>2.&#8194;いらない</b>
- <tr>
-  <td><b>2.&#8194;いらない</b>
- <tr>
-  <td rowspan=3 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter2</b>
-  <td><b>1.&#8194;容姿を褒める&#8194;/&#8194;2.天気の話をする</b>
- <tr>
-  <td><b>1.&#8194;ポケットをまさぐる&#8194;/&#8194;2.野花を渡す</b>
- <tr>
-  <td><b>2.&#8194;別に構わねぇけど……</b>  
- <tr>
-  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter3</b>
-  <td><b>1.&#8194;普段行かないような場所に行く<br><font color=#3a62a0>2.&#8194;ここに残る&#8194;→&#8194;1.頭をなでてあげる&#8194;→&#8194;CG回收<br>2.&#8194;ここに残る&#8194;→&#8194;2.いたずらする&#8194;→&#8194;CG回收<br>3.&#8194;やっぱり桜の木の元へ行く&#8194;→&#8194;CG回收</font></b>
- <tr>
-  <td><b>1.&#8194;心残りがあるから</b>
- <tr>
-  <td rowspan=4 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter4</b>
-  <td><b>2.&#8194;アイドル</b>
- <tr>
-  <td><b>2.&#8194;アオイ</b>
- <tr>
-  <td><b>1.&#8194;本人から情報を聞き出す</b>
- <tr>
-  <td><b>2.&#8194;アオイ</b>
- <tr>
-  <td rowspan=3 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter5</b>
-  <td><b>[调查]右侧书架从上往下第二层</b>
- <tr>
-  <td><b>[输入]154</b>
- <tr>
-  <td><b>[调查]右侧窗户</b>
- <tr>
-  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter7</b>
-  <td><b>2.&#8194;無視する</b>
- <tr>
-  <td><b>2.&#8194;だめじゃない</b>
- <tr>
-  <td rowspan=3 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter8</b>
-  <td><b>2.&#8194;音楽室</b>
- <tr>
-  <td><b>2.&#8194;殴りこみに行く</b>
- <tr>
-  <td><b>アオイの一線を越える</b>
- <tr>
-  <td rowspan=4 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter9</b>
-  <td><b>1.&#8194;だから……<br><font color=#3a62a0>2.&#8194;だけど……&#8194;→&#8194;END2.&#8194;underground yggdrasil</font></b>
- <tr>
-  <td><b>2.&#8194;時間がほしい<br><font color=#3a62a0>1.&#8194;認められない&#8194;→&#8194;END4.&#8194;ミッドナイト・ブルー</font></b>
- <tr>
-  <td><b>2.&#8194;大切な人<br><font color=#3a62a0>1.&#8194;大事な後輩&#8194;→&#8194;END1.&#8194;成れの果て</font></b>
- <tr>
-  <td><b>1.&#8194;開ける<br><font color=#3a62a0>2.&#8194;開けられない&#8194;→&#8194;END3.&#8194;美しい風</font></b>
- <tr>
-  <td colspan=2 bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>TRUE END.&#8194;いとしのあおいひと</font></b>
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-2"><p><b>从start&#8194;-&#8194;Chapter4开始。</b></p>
-<div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:13%'>
- <col style='width:87%'>
-  <td rowspan=4 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter4</b>
-  <td><b>2.&#8194;アイドル</b>
- <tr>
-  <td><b>2.&#8194;アオイ</b>
- <tr>
-  <td><b>1.&#8194;本人から情報を聞き出す</b>
- <tr>
-  <td><b>2.&#8194;アオイ</b>
- <tr>
-  <td rowspan=7 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter6</b>
-  <td><b>2.&#8194;公園に行こう！</b>
- <tr>
-  <td><b>2.（下面的）…………<br><font color=#3a62a0>1.（上面的）…………&#8194;×3&#8194;→&#8194;END1.&#8194;彼者誰の鳥</font></b>
- <tr>
-  <td><b>1.（上面的）…………</b>  
- <tr>
-  <td><b>2.（下面的）…………</b>
- <tr>
-  <td><b>2.&#8194;はやく行こう<br><font color=#3a62a0>1.&#8194;入りたい？&#8194;→&#8194;1.&#8194;アオイ、一人にしてくれる？&#8194;→&#8194;END2.&#8194;Asymmetry Scapegoat<br>1.&#8194;入りたい？&#8194;→&#8194;2.&#8194;ほっといてよアカネ&#8194;→&#8194;END4.&#8194;GHOST BLUE</font></b>
- <tr>
-  <td><b>1.&#8194;屋上だった<br><font color=#3a62a0>2.&#8194;プールだった&#8194;→&#8194;END3.&#8194;たそがれの天使</font></b>
- <tr>
-  <td><b>1.&#8194;ベッドに腰掛けた</b>
- <tr>
-  <td colspan=2 bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>TRUE END.&#8194;スーパースター</font></b>
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-3"><p><b>从start&#8194;-&#8194;Chapter10开始。<br>通关后记得在EXTRA&#8194;-&#8194;Epilogue游玩后日谈。</b></p>
-<div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:13%'>
- <col style='width:29%'>
- <col style='width:29%'>
- <col style='width:29%'>
-  <td rowspan=11 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter10</b>
-  <td colspan=2><b>2.&#8194;好きにしていいんだよ？</b>
-  <td><b><font color=#d3625d>1.&#8194;……そっか</font></b>
- <tr>
-  <td colspan=2><b>[调查]図書室</b>
-  <td><b><font color=#d3625d>[调查]図書室</font></b>
- <tr>
-  <td colspan=2><b>2.&#8194;中央</b>
-  <td><b><font color=#d3625d>2.&#8194;中央</font></b>
- <tr>
-  <td colspan=2><b>[调查]体育館</b>
-  <td><b><font color=#d3625d>[调查]体育館</font></b>
- <tr>
-  <td colspan=2><b>[调查]サクラの部屋</b>
-  <td><b><font color=#d3625d>[调查]サクラの部屋</font></b>
- <tr>
-  <td><b>[调查]ぼくの農園</b>
-  <td><b><font color=#008b8b>[调查]家庭科室</font></b>
-  <td><b><font color=#d3625d>[调查]ぼくの農園</font></b>
- <tr>
-  <td><b>[调查]桜の木</b>
-  <td><b><font color=#008b8b>1.&#8194;準備オッケー！</font></b>
-  <td><b><font color=#d3625d>[调查]桜の木</font></b>
- <tr>
-  <td><b>[调查]イツキの部屋</b>
-  <td style='text-align:center'><b><font color=#008b8b>---</font></b>
-  <td><b><font color=#d3625d>[调查]イツキの部屋</font></b>
- <tr>
-  <td><b>2.&#8194;小麦粉</b>
-  <td style='text-align:center'><b><font color=#008b8b>---</font></b>
-  <td><b><font color=#d3625d>2.&#8194;小麦粉</font></b>
- <tr>
-  <td><b>[调查]イツキの部屋</b>
-  <td style='text-align:center'><b><font color=#008b8b>---</font></b>
-  <td><b><font color=#d3625d>[调查]イツキの部屋</font></b>
- <tr>
-  <td><b>3.&#8194;鶏肉</b>
-  <td style='text-align:center'><b><font color=#008b8b>---</font></b>
-  <td><b><font color=#d3625d>3.&#8194;鶏肉</font></b>
- <tr>
-  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter11</b>
-  <td><b>1.&#8194;優しく手を握った</b>
-  <td><b><font color=#008b8b>1.&#8194;優しく手を握った</font></b>
-  <td><b><font color=#d3625d>2.&#8194;声を掛け続けた</font></b>
- <tr>
-  <td><b>1.立ち上がる<br><font color=#3a62a0>2.&#8194;うずくまる<br>→&#8194;END1.PERFECT DYSTOPIA</font></b>
-  <td><b><font color=#008b8b>1.&#8194;立ち上がる<br>→&#8194;END3.&#8194;MALICIOUS</font></b>
-  <td><b><font color=#d3625d>1.&#8194;立ち上がる<br>→&#8194;END4.&#8194;lost blue</font></b>
- <tr>
-  <td rowspan=2 nowrap="nowrap" style='padding:6px 0px;text-align:center'><b>Chapter12</b>
-  <td colspan=3><b>1.&#8194;愛してる</b>
- <tr>
-  <td colspan=3><b>2.&#8194;入らない<br><font color=#3a62a0>1.&#8194;入る&#8194;→&#8194;END2.&#8194;Freeze drown</font></b>
- <tr>
-  <td colspan=4 bgcolor='#3a62a0' style='text-align:center'><b><font color=#ffffff>TRUE END.&#8194;レムレスブルーの午前２時</font></b>
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://www.freem.ne.jp/win/game/7849"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/0a672085-59fe-4b5c-a7f7-bc10dc2cb2fc.webp" alt="freem的logo" title="点击跳转至Freem!游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v19818"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
-]]></content>
-      <categories>
-        <category>游戏攻略</category>
-        <category>蔷薇向</category>
-        <category>KENKOU LAND</category>
-      </categories>
-      <tags>
-        <tag>游戏攻略</tag>
-        <tag>蔷薇向</tag>
-        <tag>KENKOU LAND</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【教程】Lucky dog 1安装教程</title>
-    <url>/posts/15.html</url>
-    <content><![CDATA[<style>
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-</style>
-
-<p><b>&#12288;&#12288;安装遇到问题的话可以查看这个：</b><br><a target="_blank" href="https://www.flamecho.top/posts/27.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/posts/27.html</span></span></span></a></p>
-<h2 id="❖-安装"><a href="#❖-安装" class="headerlink" title="❖ 安装"></a><p style="font-size:25px">❖ 安装</p></h2><p><b><font color=#d3625d>&#12288;&#12288;免安装版安装方式是：双击注册表，按回车，双击LD1.exe。以下是光驱版的安装教程。</font></b><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/5a288a5d-9655-4efa-bf9d-f16f749a1649.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/c4fd936b-a768-4285-9ed3-d6573fad5078.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/3021101a-8f86-43bb-a7e3-52c577f25797.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/e8eb090c-3d2b-401c-9670-73ed40f40f33.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/b9d74f45-365c-45d1-8c3b-fd6746df6242.png" alt="安装教程_Lucky dog 1" /><br><b><font color=#d3625d>&#12288;&#12288;注：上一步↑找不到装载的话：右键-打开方式-Windows资源管理器，然后继续进行下一步↓</font></b><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/df474968-1e98-4cf1-b43c-732e6f49a7e4.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/d2c7841e-6779-4c0c-af1b-4887e48ce306.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/c7dcc851-7ee3-45ef-bebe-9749373825ae.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/b0c0edd6-afe2-4fb4-b91b-8d681ef13c9e.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/653b4dad-c1be-4b3c-8333-a1aba8a7bd10.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/e8c9d422-2177-40f6-ab05-682b0940fb15.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/a874505a-dee7-42aa-b430-1b46f2145781.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/8916f777-1636-4146-8426-eb94f4124cba.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/7a1da599-aa0d-4ad1-8fb3-7d61fa92ec48.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/ad16b453-45c4-4140-b574-6c0ebc1ae587.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/c68431bc-792e-4f08-b75c-533a2c5f01b7.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/a7239347-7a6e-49fd-9989-bad53ef6ded8.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/151761ee-faf6-44ba-b966-3ccec1b3713b.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/36469a13-1a66-4902-8044-c8e78e92fb7e.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/2ce68382-9af8-402c-8d50-4c8cdeaf5c61.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/0366d962-001e-4802-91da-6bc5e06ac76a.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/81951f90-dd08-45b6-9ff3-ff79f3a9a11d.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/5241e65f-ed3d-4c0c-9255-2d59f6eb2f4b.png" alt="安装教程_Lucky dog 1" /><br><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/1587fe74-df10-419d-9731-c7f8a76cfbfa.png" alt="安装教程_Lucky dog 1" /></p>
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-卸载"><a href="#❖-卸载" class="headerlink" title="❖ 卸载"></a><p style="font-size:25px">❖ 卸载</p></h2><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/ea6afc4a-1e79-4ffb-90b4-591f26b67850.png" alt="安装教程_Lucky dog 1" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/037330ab-1706-4200-a93f-d3383234b263.png" alt="安装教程_Lucky dog 1" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/5ed67a4f-e9ec-48ee-ab2b-4865cba11df5.png" alt="安装教程_Lucky dog 1" />
-]]></content>
-      <categories>
-        <category>教程</category>
-        <category>安装教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>安装教程</tag>
       </tags>
   </entry>
   <entry>
@@ -1934,120 +1934,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【攻略】Code︰Realize ～祝福的未来～（ns繁中）</title>
-    <url>/posts/21.html</url>
-    <content><![CDATA[<style>
-.center
-{
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-  font-size:1vw;
-  @media screen and (max-width:2000px){font-size:15px}
-  @media screen and (max-width:768px){font-size:14px}
-  @media screen and (max-width:600px){font-size:13px}
-}
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-</style>
-
-<div class="note success flat"><p><b>此攻略已搬运至bilibili。<a href="https://www.bilibili.com/read/cv31415178/">点击前往</a></b></p>
-</div>
-
-<p><a target="_blank" href="https://justdan.com/en/product/published/CodeRealize%E7%A5%9D%E7%A6%8F%E7%9A%84%E6%9C%AA%E4%BE%86"><img src="https://bbs.api.hoilai.com/upload/img/2025/3/25/7ac6eda5-af9f-46d4-9728-66faa7c645fe.jpg" alt="点击跳转至游戏官网" width="500" title="点击跳转至游戏官网" /></a></p>
-<p style='line-height:1;text-align:center'><b>OFFICIAL WEBSITE</b></p>
-
-<h2 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h2><p><b>这是发生在曾被称为「怪物」的少女身上的，充满爱的故事。</p>
-<p>曾被称为怪物的少女，知晓了爱为何物。<br>这里有她与五位绅士后来的故事，有她所追求的幸福生活 ——<br>以及她或许会走上的另一条道路，即是与【他们】的未来。</p>
-<p>本作不仅准备了Fan Disk特有的后日谈，<br>还有各式各样内容丰富的故事。</p>
-<p>新的登场角色、未知的新剧情与结局。<br>将会有怎样的未来，降临在知晓爱为何物的少女身上 ——？</b></p>
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-攻略流程"><a href="#❖-攻略流程" class="headerlink" title="❖ 攻略流程"></a><p style="font-size:25px">❖ 攻略流程</p></h2><p><b>只有夏尔摩斯线和菲尼斯线有选项。<br>每完成一个章节，在「小德的房间」解锁一个小故事。</b></p>
-<div class="tabs" id="攻略1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略1-1"><b>夏尔摩斯</b></button></li><li class="tab"><button type="button" data-href="#攻略1-2"><b>菲尼斯</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略1-1"><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:20%'>
- <col style='width:80%'>
-  <td rowspan=3 style='padding:6px 0px;text-align:center'><b>Ch.1<br>Private detective</b>
-  <td><b>2.&#8194;攻击对方再冲出去<br><font color=#d3625d>1.&#8194;全速逃跑&#8194;→&#8194;end</font></b>
- <tr>
-  <td><b>1.&#8194;海尔洛克·夏尔摩斯</b>
- <tr>
-  <td><b>2.&#8194;回不去<br><font color=#d3625d>1.&#8194;回去&#8194;→&#8194;end</font></b>
- <tr>
-  <td rowspan=2 style='padding:6px 0px;text-align:center'><b>Ch.2<br>Jack the Ripper</b>
-  <td><b>2.&#8194;不用他帮忙</b>
- <tr>
-  <td><b>2.&#8194;可能是的</b>
- <tr>
-  <td rowspan=2 style='padding:6px 0px;text-align:center'><b>Ch.3<br>The city of fear</b>
-  <td><b>1.&#8194;是我自己要留下来</b>
- <tr>
-  <td><b>2.&#8194;不放手<br><font color=#d3625d>1.&#8194;放手&#8194;→&#8194;end</font></b>
- <tr>
-  <td rowspan=5 style='padding:6px 0px;text-align:center'><b>Ch.4<br>Napoleon of crime</b>
-  <td><b>1.&#8194;鲁邦的房间</b>
- <tr>
-  <td><b>1.&#8194;因倍的工房</b>
- <tr>
-  <td><b>1.&#8194;圣的房间</b>
- <tr>
-  <td><b>1.&#8194;餐厅</b>  
- <tr>
-  <td><b>1.&#8194;喜欢<br><font color=#d3625d>2.&#8194;不知道&#8194;→&#8194;BE</font></b>  
- <tr>
-  <td style='padding:6px 0px;text-align:center'><b>Ch.5<br>His last Bow</b>
-  <td><b><font color=#3a62a0>1.&#8194;黄昏兵&#8194;/&#8194;2.&#8194;凡&#8194;/&#8194;3.&#8194;莫里亚蒂&#8194;→&#8194;HE</font></b>
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-2"><div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:20%'>
- <col style='width:80%'>
-  <td rowspan=2 style='padding:6px 0px;text-align:center'><b>Ch.1<br>Into the darkness</b>
-  <td><b>2.&#8194;不怀念</b>
- <tr>
-  <td><b>1.&#8194;握手<br><font color=#d3625d>2.&#8194;不握手&#8194;→&#8194;end</font></b>
- <tr>
-  <td rowspan=2 style='padding:6px 0px;text-align:center'><b>Ch.2<br>Along with the villian</b>
-  <td><b>2.&#8194;出去走走</b>
- <tr>
-  <td><b>2.&#8194;为什么对菲尼斯那么……</b>
- <tr>
-  <td style='padding:6px 0px;text-align:center'><b>Ch.3<br>Desire</b>
-  <td><b>2.&#8194;留下</b>
- <tr>
-  <td style='padding:6px 0px;text-align:center'><b>Ch.5<br>Tell me the love</b>
-  <td><b><font color=#3a62a0>2.&#8194;菲尼斯……&#8194;→&#8194;HE</font><br><font color=#d3625d>1.&#8194;外面的情况……？&#8194;→&#8194;BE</font></b>  
- </tr>
-</table>
-</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://store.nintendo.com.hk/70010000048898"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/b1bf5aff-c58e-4718-b996-14ac38b776f2.jpg" alt="switch的logo" title="点击跳转至Nintendo Switch游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v18314"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
-]]></content>
-      <categories>
-        <category>游戏攻略</category>
-        <category>乙女向</category>
-        <category>Otomate</category>
-      </categories>
-      <tags>
-        <tag>游戏攻略</tag>
-        <tag>乙女向</tag>
-        <tag>Otomate</tag>
-        <tag>Code︰Realize</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【教程】PigeonBlood鸽子血安装教程</title>
     <url>/posts/20.html</url>
     <content><![CDATA[<style>
@@ -2247,6 +2133,120 @@
 <h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://store.nintendo.com.hk/70010000058972"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/b1bf5aff-c58e-4718-b996-14ac38b776f2.jpg" alt="switch的logo" title="点击跳转至Nintendo Switch游戏详情页" width="297" height="86" /></a></p>
 <p style="line-height:1"></p>
 <a target="_blank" href="https://vndb.org/v21521"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+]]></content>
+      <categories>
+        <category>游戏攻略</category>
+        <category>乙女向</category>
+        <category>Otomate</category>
+      </categories>
+      <tags>
+        <tag>游戏攻略</tag>
+        <tag>乙女向</tag>
+        <tag>Otomate</tag>
+        <tag>Code︰Realize</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【攻略】Code︰Realize ～祝福的未来～（ns繁中）</title>
+    <url>/posts/21.html</url>
+    <content><![CDATA[<style>
+.center
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  font-size:1vw;
+  @media screen and (max-width:2000px){font-size:15px}
+  @media screen and (max-width:768px){font-size:14px}
+  @media screen and (max-width:600px){font-size:13px}
+}
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+<div class="note success flat"><p><b>此攻略已搬运至bilibili。<a href="https://www.bilibili.com/read/cv31415178/">点击前往</a></b></p>
+</div>
+
+<p><a target="_blank" href="https://justdan.com/en/product/published/CodeRealize%E7%A5%9D%E7%A6%8F%E7%9A%84%E6%9C%AA%E4%BE%86"><img src="https://bbs.api.hoilai.com/upload/img/2025/3/25/7ac6eda5-af9f-46d4-9728-66faa7c645fe.jpg" alt="点击跳转至游戏官网" width="500" title="点击跳转至游戏官网" /></a></p>
+<p style='line-height:1;text-align:center'><b>OFFICIAL WEBSITE</b></p>
+
+<h2 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h2><p><b>这是发生在曾被称为「怪物」的少女身上的，充满爱的故事。</p>
+<p>曾被称为怪物的少女，知晓了爱为何物。<br>这里有她与五位绅士后来的故事，有她所追求的幸福生活 ——<br>以及她或许会走上的另一条道路，即是与【他们】的未来。</p>
+<p>本作不仅准备了Fan Disk特有的后日谈，<br>还有各式各样内容丰富的故事。</p>
+<p>新的登场角色、未知的新剧情与结局。<br>将会有怎样的未来，降临在知晓爱为何物的少女身上 ——？</b></p>
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-攻略流程"><a href="#❖-攻略流程" class="headerlink" title="❖ 攻略流程"></a><p style="font-size:25px">❖ 攻略流程</p></h2><p><b>只有夏尔摩斯线和菲尼斯线有选项。<br>每完成一个章节，在「小德的房间」解锁一个小故事。</b></p>
+<div class="tabs" id="攻略1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略1-1"><b>夏尔摩斯</b></button></li><li class="tab"><button type="button" data-href="#攻略1-2"><b>菲尼斯</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略1-1"><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:20%'>
+ <col style='width:80%'>
+  <td rowspan=3 style='padding:6px 0px;text-align:center'><b>Ch.1<br>Private detective</b>
+  <td><b>2.&#8194;攻击对方再冲出去<br><font color=#d3625d>1.&#8194;全速逃跑&#8194;→&#8194;end</font></b>
+ <tr>
+  <td><b>1.&#8194;海尔洛克·夏尔摩斯</b>
+ <tr>
+  <td><b>2.&#8194;回不去<br><font color=#d3625d>1.&#8194;回去&#8194;→&#8194;end</font></b>
+ <tr>
+  <td rowspan=2 style='padding:6px 0px;text-align:center'><b>Ch.2<br>Jack the Ripper</b>
+  <td><b>2.&#8194;不用他帮忙</b>
+ <tr>
+  <td><b>2.&#8194;可能是的</b>
+ <tr>
+  <td rowspan=2 style='padding:6px 0px;text-align:center'><b>Ch.3<br>The city of fear</b>
+  <td><b>1.&#8194;是我自己要留下来</b>
+ <tr>
+  <td><b>2.&#8194;不放手<br><font color=#d3625d>1.&#8194;放手&#8194;→&#8194;end</font></b>
+ <tr>
+  <td rowspan=5 style='padding:6px 0px;text-align:center'><b>Ch.4<br>Napoleon of crime</b>
+  <td><b>1.&#8194;鲁邦的房间</b>
+ <tr>
+  <td><b>1.&#8194;因倍的工房</b>
+ <tr>
+  <td><b>1.&#8194;圣的房间</b>
+ <tr>
+  <td><b>1.&#8194;餐厅</b>  
+ <tr>
+  <td><b>1.&#8194;喜欢<br><font color=#d3625d>2.&#8194;不知道&#8194;→&#8194;BE</font></b>  
+ <tr>
+  <td style='padding:6px 0px;text-align:center'><b>Ch.5<br>His last Bow</b>
+  <td><b><font color=#3a62a0>1.&#8194;黄昏兵&#8194;/&#8194;2.&#8194;凡&#8194;/&#8194;3.&#8194;莫里亚蒂&#8194;→&#8194;HE</font></b>
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略1-2"><div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:20%'>
+ <col style='width:80%'>
+  <td rowspan=2 style='padding:6px 0px;text-align:center'><b>Ch.1<br>Into the darkness</b>
+  <td><b>2.&#8194;不怀念</b>
+ <tr>
+  <td><b>1.&#8194;握手<br><font color=#d3625d>2.&#8194;不握手&#8194;→&#8194;end</font></b>
+ <tr>
+  <td rowspan=2 style='padding:6px 0px;text-align:center'><b>Ch.2<br>Along with the villian</b>
+  <td><b>2.&#8194;出去走走</b>
+ <tr>
+  <td><b>2.&#8194;为什么对菲尼斯那么……</b>
+ <tr>
+  <td style='padding:6px 0px;text-align:center'><b>Ch.3<br>Desire</b>
+  <td><b>2.&#8194;留下</b>
+ <tr>
+  <td style='padding:6px 0px;text-align:center'><b>Ch.5<br>Tell me the love</b>
+  <td><b><font color=#3a62a0>2.&#8194;菲尼斯……&#8194;→&#8194;HE</font><br><font color=#d3625d>1.&#8194;外面的情况……？&#8194;→&#8194;BE</font></b>  
+ </tr>
+</table>
+</div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://store.nintendo.com.hk/70010000048898"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/b1bf5aff-c58e-4718-b996-14ac38b776f2.jpg" alt="switch的logo" title="点击跳转至Nintendo Switch游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v18314"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
 ]]></content>
       <categories>
         <category>游戏攻略</category>
@@ -3924,52 +3924,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【AI汉化补丁】未成之缘 なりそこないのよすが</title>
-    <url>/posts/36.html</url>
-    <content><![CDATA[<style>
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-</style>
-
-<h2 id="❖-置顶"><a href="#❖-置顶" class="headerlink" title="❖ 置顶"></a><p style="font-size:25px">❖ 置顶</p></h2><div class="tabs" id="置顶"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#置顶-1"><b>汉化声明</b></button></li><li class="tab"><button type="button" data-href="#置顶-2"><b>关于翻译错误</b></button></li><li class="tab"><button type="button" data-href="#置顶-3"><b>如有漏翻报错等问题</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="置顶-1"><p><b>在使用此补丁前，请您务必仔细阅读并透彻理解本声明。<br>如果您使用此补丁，您的使用行为将视为对本声明的全部内容认可。</p>
-<p>本AI汉化补丁由 <a href="https://space.bilibili.com/59695199">B站@Flamecho</a> 使用 claude-3.5-sonnet-20240620 模型进行汉化，<br>汉化补丁为永久免费使用，发布方式见本文网址。<br>仅供个人学习交流用途，请勿直播、录屏并上传，<br>转载请保留此声明并注明发布地址。<br>包括但不限于任何整合、修改、盈利的行为本人不承担任何责任。<br>以上声明的最终解释权归 Flamecho 所有。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-2"><p><b>进行了基本的术语统一和相当粗略的校对。<br>如果非常在意建议直接看日语原文或者开个翻译器看双语。<br>不是阴阳怪气，这只是个中肯的建议。<br>做补丁只是为了我打游戏快一点：我会修改一部分，保留一部分，这样你才知道你玩的是机翻。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-3"><p><b>请私信B站@Flamecho并附截图。<br>学业繁忙不一定及时回复，提前致歉还请见谅。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><div class="tabs" id="下载"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#下载-1"><b>补丁下载</b></button></li><li class="tab"><button type="button" data-href="#下载-2"><b>游戏获取</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="下载-1"><p><b>使用方式请查看压缩包内的”汉化声明.txt”。</p>
-<p>解压密码<code>youtiaojianqingzhichizhengban</code>←有条件请支持正版的小写全拼<a target="_blank" href="https://download.flamecho.top/files/6844143b3420d/TL006.7z" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">补丁下载</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://download.flamecho.top/files/6844143b3420d/TL006.7z</span></span></span></a></b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-2"><p><a target="_blank" href="https://www.dlsite.com/home/work/=/product_id/RJ260221.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">正版购买链接-dlsite</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.dlsite.com/home/work/=/product_id&#x2F;RJ260221.html</span></span></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-预览"><a href="#❖-预览" class="headerlink" title="❖ 预览"></a><p style="font-size:25px">❖ 预览</p></h2><div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=112993425820169&bvid=BV15SWpeGE1w&cid=500001655762054&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no">
-</iframe>
-</div>
-
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://www.dlsite.com/home/work/=/product_id/RJ260221.html"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/ffe10970-a6dc-4e2a-83b0-2ae060c23aaa.webp" alt="dlsite的logo" title="点击跳转至dlsite游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v27495"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
-]]></content>
-      <categories>
-        <category>汉化补丁</category>
-        <category>蔷薇向</category>
-        <category>noR+</category>
-      </categories>
-      <tags>
-        <tag>蔷薇向</tag>
-        <tag>汉化补丁</tag>
-        <tag>noR+</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【AI汉化补丁】Cocoon-コクーン-</title>
     <url>/posts/37.html</url>
     <content><![CDATA[<style>
@@ -4061,6 +4015,52 @@
       </tags>
   </entry>
   <entry>
+    <title>【AI汉化补丁】未成之缘 なりそこないのよすが</title>
+    <url>/posts/36.html</url>
+    <content><![CDATA[<style>
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+<h2 id="❖-置顶"><a href="#❖-置顶" class="headerlink" title="❖ 置顶"></a><p style="font-size:25px">❖ 置顶</p></h2><div class="tabs" id="置顶"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#置顶-1"><b>汉化声明</b></button></li><li class="tab"><button type="button" data-href="#置顶-2"><b>关于翻译错误</b></button></li><li class="tab"><button type="button" data-href="#置顶-3"><b>如有漏翻报错等问题</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="置顶-1"><p><b>在使用此补丁前，请您务必仔细阅读并透彻理解本声明。<br>如果您使用此补丁，您的使用行为将视为对本声明的全部内容认可。</p>
+<p>本AI汉化补丁由 <a href="https://space.bilibili.com/59695199">B站@Flamecho</a> 使用 claude-3.5-sonnet-20240620 模型进行汉化，<br>汉化补丁为永久免费使用，发布方式见本文网址。<br>仅供个人学习交流用途，请勿直播、录屏并上传，<br>转载请保留此声明并注明发布地址。<br>包括但不限于任何整合、修改、盈利的行为本人不承担任何责任。<br>以上声明的最终解释权归 Flamecho 所有。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-2"><p><b>进行了基本的术语统一和相当粗略的校对。<br>如果非常在意建议直接看日语原文或者开个翻译器看双语。<br>不是阴阳怪气，这只是个中肯的建议。<br>做补丁只是为了我打游戏快一点：我会修改一部分，保留一部分，这样你才知道你玩的是机翻。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-3"><p><b>请私信B站@Flamecho并附截图。<br>学业繁忙不一定及时回复，提前致歉还请见谅。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><div class="tabs" id="下载"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#下载-1"><b>补丁下载</b></button></li><li class="tab"><button type="button" data-href="#下载-2"><b>游戏获取</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="下载-1"><p><b>使用方式请查看压缩包内的”汉化声明.txt”。</p>
+<p>解压密码<code>youtiaojianqingzhichizhengban</code>←有条件请支持正版的小写全拼<a target="_blank" href="https://download.flamecho.top/files/6844143b3420d/TL006.7z" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">补丁下载</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://download.flamecho.top/files/6844143b3420d/TL006.7z</span></span></span></a></b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-2"><p><a target="_blank" href="https://www.dlsite.com/home/work/=/product_id/RJ260221.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">正版购买链接-dlsite</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.dlsite.com/home/work/=/product_id&#x2F;RJ260221.html</span></span></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-预览"><a href="#❖-预览" class="headerlink" title="❖ 预览"></a><p style="font-size:25px">❖ 预览</p></h2><div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=112993425820169&bvid=BV15SWpeGE1w&cid=500001655762054&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no">
+</iframe>
+</div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://www.dlsite.com/home/work/=/product_id/RJ260221.html"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/ffe10970-a6dc-4e2a-83b0-2ae060c23aaa.webp" alt="dlsite的logo" title="点击跳转至dlsite游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v27495"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+]]></content>
+      <categories>
+        <category>汉化补丁</category>
+        <category>蔷薇向</category>
+        <category>noR+</category>
+      </categories>
+      <tags>
+        <tag>蔷薇向</tag>
+        <tag>汉化补丁</tag>
+        <tag>noR+</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【杂谈】自用常用网站</title>
     <url>/posts/38.html</url>
     <content><![CDATA[<style>
@@ -4134,52 +4134,6 @@
         <tag>汉化补丁</tag>
         <tag>选择取向</tag>
         <tag>Miss Xero</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【攻略】かみさまの棺</title>
-    <url>/posts/4.html</url>
-    <content><![CDATA[<style>
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-</style>
-
-<div class="note success flat"><p><b>AI汉化补丁已发布。<a href="https://www.flamecho.top/posts/35">点击前往</a></b></p>
-</div>
-
-<p><a target="_blank" href="https://kamisamanohitsugi.jimdofree.com/"><img src="https://bbs.api.hoilai.com/upload/img/2025/3/25/0df0eac9-ded9-49b1-a0cc-0466b048efb2.webp" alt="点击跳转至游戏官网" width="500" title="点击跳转至游戏官网" /></a></p>
-<p style='line-height:1;text-align:center'><b>OFFICIAL WEBSITE</b></p>
-
-<h3 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h3><p><b>ある日突然の隕石落下により地球は滅び、知花ミチルの日常は消え去ってしまう。<br><br>…見知らぬ呼び声に目を覚ますと、目の前には口をきいたこともないクラスメイトの廻が一人。<br>そして自分は今“謎の部屋”の中にいることを知る。<br><br>これは 忘れていた記憶を<br>少しずつ思い出す物語。<br><br>悲しくて 残酷で<br>美しくて 痛い<br>最悪な恋の物語。</b></p>
-<hr class="hr-twill-colorful">
-
-<h3 id="❖-章节一览"><a href="#❖-章节一览" class="headerlink" title="❖ 章节一览"></a><p style="font-size:25px">❖ 章节一览</p></h3><p><b>◆&#8194;第一章&#8194;擦り切れた生迷線<br>◆&#8194;第二章&#8194;廻りだす天体と紅茶<br>◆&#8194;第三章&#8194;眠り姫とアダム<br>◆&#8194;第四章&#8194;その笑みは陽だまりだ<br>◆&#8194;第五章&#8194;友を切り止める矢<br>◆&#8194;第六章&#8194;手助け<br>◆&#8194;第七章&#8194;桜色の感傷<br>◆&#8194;第八章&#8194;罪<br>◆&#8194;終章&#8194;君の僕のための嘘</b></p>
-<hr class="hr-twill-colorful">
-
-<h3 id="❖-攻略流程"><a href="#❖-攻略流程" class="headerlink" title="❖ 攻略流程"></a><p style="font-size:25px">❖ 攻略流程</p></h3><p>1.&#8194;鏡を見つめる&#8194;&#x2F;&#8194;2.&#8194;見ない<br>1.&#8194;笑太郎に会いたい&#8195;◆ 选择”･・･ 会えるわけない”通往<b>Bad end - 界葬 -</b><br>1.&#8194;箱を開ける&#8195;◆ 选择”箱を開けない”通往<b>Happy end 1 - 友愛 -</b><br>1.&#8194;廻を信じる&#8195;◆ 选择”･・･ ･・･”通往<b>Happy end 2 - 恋人 -</b><br><b>Happy end 3 - 共存 - &amp; True end</b></p>
-<hr class="hr-twill-colorful">
-
-<h3 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h3><p><a target="_blank" href="https://nohana-cream.booth.pm/items/1970328"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/10e45650-f7bb-415f-9cd8-2db81a626517.webp" alt="booth的logo" title="点击跳转至Booth游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://www.dlsite.com/bl/work/=/product_id/RJ259167.html"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/ffe10970-a6dc-4e2a-83b0-2ae060c23aaa.webp" alt="dlsite的logo" title="点击跳转至dlsite游戏详情页" width="297" height="86" /></a>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v27184"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
-]]></content>
-      <categories>
-        <category>游戏攻略</category>
-        <category>蔷薇向</category>
-        <category>cream△</category>
-      </categories>
-      <tags>
-        <tag>游戏攻略</tag>
-        <tag>蔷薇向</tag>
-        <tag>cream△</tag>
       </tags>
   </entry>
   <entry>
@@ -4285,8 +4239,8 @@
       </tags>
   </entry>
   <entry>
-    <title>【AI汉化补丁】大秽-前篇-</title>
-    <url>/posts/41.html</url>
+    <title>【攻略】かみさまの棺</title>
+    <url>/posts/4.html</url>
     <content><![CDATA[<style>
 .hr-twill-colorful {
     border: 0;
@@ -4298,50 +4252,36 @@
 }
 </style>
 
-<div class="note danger flat"><p><b>该补丁为未经校对的版本，存在诸多错误。</b></p>
+<div class="note success flat"><p><b>AI汉化补丁已发布。<a href="https://www.flamecho.top/posts/35">点击前往</a></b></p>
 </div>
 
-<div class="note success flat"><p><b>该补丁已推出校对完成的版本。<a href="https://www.flamecho.top/posts/59">点击前往</a></b></p>
-</div>
+<p><a target="_blank" href="https://kamisamanohitsugi.jimdofree.com/"><img src="https://bbs.api.hoilai.com/upload/img/2025/3/25/0df0eac9-ded9-49b1-a0cc-0466b048efb2.webp" alt="点击跳转至游戏官网" width="500" title="点击跳转至游戏官网" /></a></p>
+<p style='line-height:1;text-align:center'><b>OFFICIAL WEBSITE</b></p>
 
-<h2 id="❖-置顶"><a href="#❖-置顶" class="headerlink" title="❖ 置顶"></a><p style="font-size:25px">❖ 置顶</p></h2><div class="tabs" id="置顶"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#置顶-1"><b>汉化声明</b></button></li><li class="tab"><button type="button" data-href="#置顶-2"><b>致谢</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="置顶-1"><p><b>在使用此补丁前，请您务必仔细阅读并透彻理解本声明。<br>如果您使用此补丁，您的使用行为将视为对本声明的全部内容认可。</p>
-<p>本AI汉化版本由 <a href="https://space.bilibili.com/59695199">B站@Flamecho</a> 使用 claude-3.5-Sonnet 模型进行汉化，<br>汉化补丁为永久免费使用，仅供个人学习交流用途，禁止二次上传及贩卖，<br>禁止包括但不限于录屏并上传、直播等在公开场合分享汉化版游戏内容的行为。<br>本补丁对游戏原文件不进行任何添加、删减、修改，包括但不限于任何转载、整合、修改、盈利的行为本人不承担任何责任。<br>分享请保留此声明并注明发布地址。</p>
-<p>以上声明的最终解释权归 Flamecho 所有。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-2"><p><b>使用Claude 3.5 Sonnet进行汉化，<br>感谢大崎哥的美丽传说群的群友对模型的资金支持。</p>
-<p><font color=#3a62a0>名单【以下排名不分先后】大感谢！</font><br>-二-<br>446<br>暗狱小众酱<br>百里墨儿<br>北原拓哉<br>不系<br>彩虹蒜头<br>沧沐<br>超档后式魚偶<br>诚然如神所说<br>出鳕目<br>大崎哥的厚刘海<br>滴滴叭叭<br>独伶<br>繁繁<br>缚十缠<br>糕<br>苟旦<br>骨科杀手<br>锅盖厨<br>红玄月<br>混沌的先知<br>吉吉<br>久远寺<br>救护车🚑bot<br>君不知<br>烤面包<br>空叶<br>林米<br>铃漓<br>榴莲火乍弓单<br>米茶<br>陌上开彼岸殇<br>木野<br>暮冬之晨<br>裴岛<br>千夜春<br>犰狳<br>热带风味<br>鼠<br>兔兔<br>豌豆<br>未尽<br>我是猫<br>无叶<br>香香触手一号机<br>心拍数<br>新子<br>叶久溪<br>一只快乐的草履虫<br>伊镜柠<br>雨<br>渊黑<br>AAA巴尔神殿卷心菜批发<br>bowl<br>douma<br>Flamecho<br>mameshiba<br>NORHMAS<br>tiring<br></b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
+<h3 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h3><p><b>ある日突然の隕石落下により地球は滅び、知花ミチルの日常は消え去ってしまう。<br><br>…見知らぬ呼び声に目を覚ますと、目の前には口をきいたこともないクラスメイトの廻が一人。<br>そして自分は今“謎の部屋”の中にいることを知る。<br><br>これは 忘れていた記憶を<br>少しずつ思い出す物語。<br><br>悲しくて 残酷で<br>美しくて 痛い<br>最悪な恋の物語。</b></p>
 <hr class="hr-twill-colorful">
 
-<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><div class="tabs" id="下载"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#下载-1"><b>补丁下载</b></button></li><li class="tab"><button type="button" data-href="#下载-2"><b>游戏安装教程</b></button></li><li class="tab"><button type="button" data-href="#下载-3"><b>补丁安装教程</b></button></li><li class="tab"><button type="button" data-href="#下载-4"><b>攻略补充</b></button></li><li class="tab"><button type="button" data-href="#下载-5"><b>如果后篇预告卡死</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="下载-1"><p><b>标题内容都在压缩包内自取。<br>当前版本：压缩包v0.95 | 补丁v0.92</p>
-<p>解压密码<code>youtiaojianqingzhichizhengban</code>←有条件请支持正版的小写全拼<a target="_blank" href="https://download.flamecho.top/files/6844143b35c1f/TL010.7z" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">补丁下载</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://download.flamecho.top/files/6844143b35c1f/TL010.7z</span></span></span></a></b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-2"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/207fd2f3-85ac-422a-bf30-cc56baadf31b.png" alt="安装教程_大秽前篇-1" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/8b619c06-0e07-4834-98ed-e99c614ecc6f.png" alt="安装教程_大秽前篇-2" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/4c0e998e-880f-43e8-b880-baec3930ff1e.png" alt="安装教程_大秽前篇-3" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/b3a0cf5f-6c2c-4c54-b326-bde9e0daffd3.png" alt="安装教程_大秽前篇-4" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/8553de8b-cc41-4026-869f-8c53c6820121.png" alt="安装教程_大秽前篇-5" /><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-3"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/d44fe037-d8e5-4b3b-83ac-5f971b9d3243.png" alt="安装教程_大秽前篇-6" /><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-4"><p><b>攻略中的结局标注是按照游戏脚本中标注来的，与游戏内流程图中的结局标注有所不同，但不会漏结局。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-5"><p><b>从主界面<font color=#3a62a0>[再开]</font>左侧的<font color=#3a62a0>[胶卷]</font>处可以回看后篇预告。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
+<h3 id="❖-章节一览"><a href="#❖-章节一览" class="headerlink" title="❖ 章节一览"></a><p style="font-size:25px">❖ 章节一览</p></h3><p><b>◆&#8194;第一章&#8194;擦り切れた生迷線<br>◆&#8194;第二章&#8194;廻りだす天体と紅茶<br>◆&#8194;第三章&#8194;眠り姫とアダム<br>◆&#8194;第四章&#8194;その笑みは陽だまりだ<br>◆&#8194;第五章&#8194;友を切り止める矢<br>◆&#8194;第六章&#8194;手助け<br>◆&#8194;第七章&#8194;桜色の感傷<br>◆&#8194;第八章&#8194;罪<br>◆&#8194;終章&#8194;君の僕のための嘘</b></p>
 <hr class="hr-twill-colorful">
 
-<h2 id="❖-预览"><a href="#❖-预览" class="headerlink" title="❖ 预览"></a><p style="font-size:25px">❖ 预览</p></h2><div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=112958227091060&bvid=BV1a2ejeLEg6&cid=500001648839484&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no">
-</iframe>
-</div>
-
+<h3 id="❖-攻略流程"><a href="#❖-攻略流程" class="headerlink" title="❖ 攻略流程"></a><p style="font-size:25px">❖ 攻略流程</p></h3><p>1.&#8194;鏡を見つめる&#8194;&#x2F;&#8194;2.&#8194;見ない<br>1.&#8194;笑太郎に会いたい&#8195;◆ 选择”･・･ 会えるわけない”通往<b>Bad end - 界葬 -</b><br>1.&#8194;箱を開ける&#8195;◆ 选择”箱を開けない”通往<b>Happy end 1 - 友愛 -</b><br>1.&#8194;廻を信じる&#8195;◆ 选择”･・･ ･・･”通往<b>Happy end 2 - 恋人 -</b><br><b>Happy end 3 - 共存 - &amp; True end</b></p>
 <hr class="hr-twill-colorful">
 
-<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://www.dlsite.com/bl/work/=/product_id/RJ01235825.html"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/ffe10970-a6dc-4e2a-83b0-2ae060c23aaa.webp" alt="dlsite的logo" title="点击跳转至dlsite游戏详情页" width="297" height="86" /></a></p>
+<h3 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h3><p><a target="_blank" href="https://nohana-cream.booth.pm/items/1970328"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/10e45650-f7bb-415f-9cd8-2db81a626517.webp" alt="booth的logo" title="点击跳转至Booth游戏详情页" width="297" height="86" /></a></p>
 <p style="line-height:1"></p>
-<a target="_blank" href="https://booth.pm/en/items/6187545"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/10e45650-f7bb-415f-9cd8-2db81a626517.webp" alt="Booth的logo" title="点击跳转至Booth游戏详情页" width="297" height="86" /></a>
+<a target="_blank" href="https://www.dlsite.com/bl/work/=/product_id/RJ259167.html"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/ffe10970-a6dc-4e2a-83b0-2ae060c23aaa.webp" alt="dlsite的logo" title="点击跳转至dlsite游戏详情页" width="297" height="86" /></a>
 <p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v30925"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+<a target="_blank" href="https://vndb.org/v27184"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
 ]]></content>
       <categories>
-        <category>汉化补丁</category>
+        <category>游戏攻略</category>
         <category>蔷薇向</category>
-        <category>ADELTA</category>
+        <category>cream△</category>
       </categories>
       <tags>
+        <tag>游戏攻略</tag>
         <tag>蔷薇向</tag>
-        <tag>汉化补丁</tag>
-        <tag>ADELTA</tag>
+        <tag>cream△</tag>
       </tags>
   </entry>
   <entry>
@@ -4415,16 +4355,9 @@
       </tags>
   </entry>
   <entry>
-    <title>【杂谈】bl游戏资源整合文档</title>
-    <url>/posts/44.html</url>
+    <title>【AI汉化补丁】大秽-前篇-</title>
+    <url>/posts/41.html</url>
     <content><![CDATA[<style>
-.center
-{
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-  font-weight: bold;
-}
 .hr-twill-colorful {
     border: 0;
     padding: 3px;
@@ -4435,15 +4368,50 @@
 }
 </style>
 
-<p><img src="https://pic1.imgdb.cn/item/6802413088c538a9b5dc12ae.png" alt="哈哈" /><b>之前文档资源炸了，博主想跑路被群友抓回来了，现在文档 <del>在补档中</del> 补完了。</p>
-<p>❖ 仅供个人学习交流用途，文档内资源侵删 ❖<br>❖ 资源搜集自网络及自购，有条件请支持正版 ❖<br>❖ 游戏内容不代表编辑者立场，坚持国家统一和领土完整 ❖<br>❖ 合理合法使用资源，违法使用则编辑者不承担任何责任 ❖</p>
-<p>有想分享的资源、想补档，请提供任意五个bl游戏的入正记录和谷歌账号邮箱，以附件形式发送至<a href="mailto:&#102;&#x6c;&#97;&#x6d;&#x65;&#x63;&#x68;&#x6f;&#x40;&#x71;&#x71;&#x2e;&#99;&#x6f;&#109;">&#102;&#x6c;&#97;&#x6d;&#x65;&#x63;&#x68;&#x6f;&#x40;&#x71;&#x71;&#x2e;&#99;&#x6f;&#109;</a>，这边开放编辑权限。<br>要求高一点是因为怕恶意毁文档，今后也不会再发布离线文档。</b><br><a target="_blank" href="https://docs.google.com/spreadsheets/d/1eLELmP76yLGXwL2bVrcBi9PdpeWDcMer/edit?usp=sharing&ouid=112842887573112865739&rtpof=true&sd=true" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">谷歌文档（记得挂梯）</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://docs.google.com/spreadsheets/d/1eLELmP76yLGXwL2bVrcBi9PdpeWDcMer/edit?usp=sharing&ouid=112842887573112865739&rtpof=true&sd=true</span></span></span></a></p>
+<div class="note danger flat"><p><b>该补丁为未经校对的版本，存在诸多错误。</b></p>
+</div>
+
+<div class="note success flat"><p><b>该补丁已推出校对完成的版本。<a href="https://www.flamecho.top/posts/59">点击前往</a></b></p>
+</div>
+
+<h2 id="❖-置顶"><a href="#❖-置顶" class="headerlink" title="❖ 置顶"></a><p style="font-size:25px">❖ 置顶</p></h2><div class="tabs" id="置顶"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#置顶-1"><b>汉化声明</b></button></li><li class="tab"><button type="button" data-href="#置顶-2"><b>致谢</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="置顶-1"><p><b>在使用此补丁前，请您务必仔细阅读并透彻理解本声明。<br>如果您使用此补丁，您的使用行为将视为对本声明的全部内容认可。</p>
+<p>本AI汉化版本由 <a href="https://space.bilibili.com/59695199">B站@Flamecho</a> 使用 claude-3.5-Sonnet 模型进行汉化，<br>汉化补丁为永久免费使用，仅供个人学习交流用途，禁止二次上传及贩卖，<br>禁止包括但不限于录屏并上传、直播等在公开场合分享汉化版游戏内容的行为。<br>本补丁对游戏原文件不进行任何添加、删减、修改，包括但不限于任何转载、整合、修改、盈利的行为本人不承担任何责任。<br>分享请保留此声明并注明发布地址。</p>
+<p>以上声明的最终解释权归 Flamecho 所有。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-2"><p><b>使用Claude 3.5 Sonnet进行汉化，<br>感谢大崎哥的美丽传说群的群友对模型的资金支持。</p>
+<p><font color=#3a62a0>名单【以下排名不分先后】大感谢！</font><br>-二-<br>446<br>暗狱小众酱<br>百里墨儿<br>北原拓哉<br>不系<br>彩虹蒜头<br>沧沐<br>超档后式魚偶<br>诚然如神所说<br>出鳕目<br>大崎哥的厚刘海<br>滴滴叭叭<br>独伶<br>繁繁<br>缚十缠<br>糕<br>苟旦<br>骨科杀手<br>锅盖厨<br>红玄月<br>混沌的先知<br>吉吉<br>久远寺<br>救护车🚑bot<br>君不知<br>烤面包<br>空叶<br>林米<br>铃漓<br>榴莲火乍弓单<br>米茶<br>陌上开彼岸殇<br>木野<br>暮冬之晨<br>裴岛<br>千夜春<br>犰狳<br>热带风味<br>鼠<br>兔兔<br>豌豆<br>未尽<br>我是猫<br>无叶<br>香香触手一号机<br>心拍数<br>新子<br>叶久溪<br>一只快乐的草履虫<br>伊镜柠<br>雨<br>渊黑<br>AAA巴尔神殿卷心菜批发<br>bowl<br>douma<br>Flamecho<br>mameshiba<br>NORHMAS<br>tiring<br></b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><div class="tabs" id="下载"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#下载-1"><b>补丁下载</b></button></li><li class="tab"><button type="button" data-href="#下载-2"><b>游戏安装教程</b></button></li><li class="tab"><button type="button" data-href="#下载-3"><b>补丁安装教程</b></button></li><li class="tab"><button type="button" data-href="#下载-4"><b>攻略补充</b></button></li><li class="tab"><button type="button" data-href="#下载-5"><b>如果后篇预告卡死</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="下载-1"><p><b>标题内容都在压缩包内自取。<br>当前版本：压缩包v0.95 | 补丁v0.92</p>
+<p>解压密码<code>youtiaojianqingzhichizhengban</code>←有条件请支持正版的小写全拼<a target="_blank" href="https://download.flamecho.top/files/6844143b35c1f/TL010.7z" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">补丁下载</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://download.flamecho.top/files/6844143b35c1f/TL010.7z</span></span></span></a></b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-2"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/207fd2f3-85ac-422a-bf30-cc56baadf31b.png" alt="安装教程_大秽前篇-1" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/8b619c06-0e07-4834-98ed-e99c614ecc6f.png" alt="安装教程_大秽前篇-2" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/4c0e998e-880f-43e8-b880-baec3930ff1e.png" alt="安装教程_大秽前篇-3" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/b3a0cf5f-6c2c-4c54-b326-bde9e0daffd3.png" alt="安装教程_大秽前篇-4" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/8553de8b-cc41-4026-869f-8c53c6820121.png" alt="安装教程_大秽前篇-5" /><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-3"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/d44fe037-d8e5-4b3b-83ac-5f971b9d3243.png" alt="安装教程_大秽前篇-6" /><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-4"><p><b>攻略中的结局标注是按照游戏脚本中标注来的，与游戏内流程图中的结局标注有所不同，但不会漏结局。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-5"><p><b>从主界面<font color=#3a62a0>[再开]</font>左侧的<font color=#3a62a0>[胶卷]</font>处可以回看后篇预告。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-预览"><a href="#❖-预览" class="headerlink" title="❖ 预览"></a><p style="font-size:25px">❖ 预览</p></h2><div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=112958227091060&bvid=BV1a2ejeLEg6&cid=500001648839484&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no">
+</iframe>
+</div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://www.dlsite.com/bl/work/=/product_id/RJ01235825.html"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/ffe10970-a6dc-4e2a-83b0-2ae060c23aaa.webp" alt="dlsite的logo" title="点击跳转至dlsite游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://booth.pm/en/items/6187545"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/10e45650-f7bb-415f-9cd8-2db81a626517.webp" alt="Booth的logo" title="点击跳转至Booth游戏详情页" width="297" height="86" /></a>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v30925"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
 ]]></content>
       <categories>
-        <category>杂谈</category>
+        <category>汉化补丁</category>
+        <category>蔷薇向</category>
+        <category>ADELTA</category>
       </categories>
       <tags>
-        <tag>杂谈</tag>
+        <tag>蔷薇向</tag>
+        <tag>汉化补丁</tag>
+        <tag>ADELTA</tag>
       </tags>
   </entry>
   <entry>
@@ -4660,6 +4628,38 @@
       </tags>
   </entry>
   <entry>
+    <title>【杂谈】bl游戏资源整合文档</title>
+    <url>/posts/44.html</url>
+    <content><![CDATA[<style>
+.center
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+}
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+<p><img src="https://pic1.imgdb.cn/item/6802413088c538a9b5dc12ae.png" alt="哈哈" /><b>之前文档资源炸了，博主想跑路被群友抓回来了，现在文档 <del>在补档中</del> 补完了。</p>
+<p>❖ 仅供个人学习交流用途，文档内资源侵删 ❖<br>❖ 资源搜集自网络及自购，有条件请支持正版 ❖<br>❖ 游戏内容不代表编辑者立场，坚持国家统一和领土完整 ❖<br>❖ 合理合法使用资源，违法使用则编辑者不承担任何责任 ❖</p>
+<p>有想分享的资源、想补档，请提供任意五个bl游戏的入正记录和谷歌账号邮箱，以附件形式发送至<a href="mailto:&#102;&#108;&#97;&#x6d;&#101;&#99;&#104;&#x6f;&#64;&#113;&#113;&#46;&#x63;&#x6f;&#109;">&#102;&#108;&#97;&#x6d;&#101;&#99;&#104;&#x6f;&#64;&#113;&#113;&#46;&#x63;&#x6f;&#109;</a>，这边开放编辑权限。<br>要求高一点是因为怕恶意毁文档，今后也不会再发布离线文档。</b><br><a target="_blank" href="https://docs.google.com/spreadsheets/d/1eLELmP76yLGXwL2bVrcBi9PdpeWDcMer/edit?usp=sharing&ouid=112842887573112865739&rtpof=true&sd=true" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">谷歌文档（记得挂梯）</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://docs.google.com/spreadsheets/d/1eLELmP76yLGXwL2bVrcBi9PdpeWDcMer/edit?usp=sharing&ouid=112842887573112865739&rtpof=true&sd=true</span></span></span></a></p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【AI汉化补丁】Lost Friends3 -Never returN-</title>
     <url>/posts/46.html</url>
     <content><![CDATA[<style>
@@ -4778,7 +4778,7 @@
 
 <h2 id="❖-前言"><a href="#❖-前言" class="headerlink" title="❖ 前言"></a><p style="font-size:25px">❖ 前言</p></h2><p><b>本人<span class='heimu'>是纯文科生，编程基础约等于0，所以</span>汉化出来的游戏都没有太大的难度。<br>写这篇文章是希望为同样没有编程基础的同好们提供我个人的经验，<br>很多游戏的汉化流程都大同小异，<br>希望能为同好们迈出汉化的第一步提供一些方向。</p>
 <p>请注意：<br>不论有多粗略，请务必进行二次校对，至少对术语进行统一，不要折磨你的同好。<br><span class='heimu'>回旋镖来了，先用KeywordGacha生成术语表再翻译的话，除了程序问题也没啥需要特意改的了，开摆！<br>不过翻译前记得检查一遍术语表。</span><br>同时注意标注为AI汉化&#x2F;机翻汉化。</p>
-<p>解包、未授权的汉化都是侵权行为。<br>本文仅供学习交流，如有需要请发邮件至<a href="mailto:&#x66;&#108;&#97;&#109;&#x65;&#x63;&#104;&#x6f;&#x40;&#x71;&#x71;&#46;&#99;&#111;&#x6d;">&#x66;&#108;&#97;&#109;&#x65;&#x63;&#104;&#x6f;&#x40;&#x71;&#x71;&#46;&#99;&#111;&#x6d;</a>，在一封邮件内详细描述问题。<br>在文章下方评论也可以。<br>如果有过于简略看不懂的地方也可以发邮件或者B站私信，会抽时间做图文教程。<br><span class='heimu'>这个教程里没什么图纯是因为懒得搞的，都不知道有无人看</span></b></p>
+<p>解包、未授权的汉化都是侵权行为。<br>本文仅供学习交流，如有需要请发邮件至<a href="mailto:&#x66;&#x6c;&#97;&#x6d;&#x65;&#99;&#x68;&#x6f;&#64;&#113;&#x71;&#46;&#x63;&#111;&#109;">&#x66;&#x6c;&#97;&#x6d;&#x65;&#99;&#x68;&#x6f;&#64;&#113;&#x71;&#46;&#x63;&#111;&#109;</a>，在一封邮件内详细描述问题。<br>在文章下方评论也可以。<br>如果有过于简略看不懂的地方也可以发邮件或者B站私信，会抽时间做图文教程。<br><span class='heimu'>这个教程里没什么图纯是因为懒得搞的，都不知道有无人看</span></b></p>
 <hr class="hr-twill-colorful">
 
 <h2 id="❖-关于本文"><a href="#❖-关于本文" class="headerlink" title="❖ 关于本文"></a><p style="font-size:25px">❖ 关于本文</p></h2><p><b>本文以游戏引擎为划分，对游戏汉化中所使用的工具及参考的教程进行列出，请自行下载及查阅。<br>汉化过程会写的很简略，如有不能理解的地方，请查阅文中提供的教程链接。<br>如有需要请随意把我做的汉化补丁拆了作参考，点击即可下载。</p>
@@ -5162,6 +5162,66 @@
       </tags>
   </entry>
   <entry>
+    <title>【AI汉化补丁】那个名字 ソレノナ</title>
+    <url>/posts/49.html</url>
+    <content><![CDATA[<style>
+.center
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+  text-align: center
+}
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+<h2 id="❖-置顶"><a href="#❖-置顶" class="headerlink" title="❖ 置顶"></a><p style="font-size:25px">❖ 置顶</p></h2><div class="tabs" id="置顶"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#置顶-1"><b>汉化声明</b></button></li><li class="tab"><button type="button" data-href="#置顶-2"><b>关于翻译错误</b></button></li><li class="tab"><button type="button" data-href="#置顶-3"><b>如有漏翻报错等问题</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="置顶-1"><p><b>在使用此补丁前，请您务必仔细阅读并透彻理解本声明。<br>如果您使用此补丁，您的使用行为将视为对本声明的全部内容认可。</p>
+<p>本AI汉化补丁由 <a href="https://space.bilibili.com/59695199">B站@Flamecho</a> 使用 DeepSeek-V3 模型进行汉化，<br>汉化补丁为永久免费使用，发布方式见本文网址。<br>仅供个人学习交流用途，请勿直播、录屏并上传，<br>转载请保留此声明并注明发布地址。<br>包括但不限于任何整合、修改、盈利的行为本人不承担任何责任。<br>以上声明的最终解释权归 Flamecho 所有。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-2"><p><b>进行了基本的术语统一和相当粗略的校对。<br>如果非常在意建议直接看日语原文或者开个翻译器看双语。<br>不是阴阳怪气，这只是个中肯的建议。<br>做补丁只是为了我打游戏快一点：我会修改一部分，保留一部分，这样你才知道你玩的是机翻。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-3"><p><b>请私信B站@Flamecho并附截图。<br>学业繁忙不一定及时回复，提前致歉还请见谅。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h2><p><b>暑假还有一周就要到了。<br>主人公「藤泽庆介」依旧过着平凡的日常生活。<br>在风和日丽的屋顶上，有他的专属座位。</p>
+<p>某天，他像往常一样来到屋顶，<br>遇见了一名男学生。<br>在那里，主人公收到了一本他完全不记得丢失的学生手册。</p>
+<p>他并不知道，<br>自己所处的现实早已扭曲。<br>他正站在一条既不能称之为梦境，也不能称之为愿望的矛盾而模糊的边界线上。</p>
+<p>他还未察觉到的「那个名字」。</b></p>
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><div class="tabs" id="下载"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#下载-1"><b>补丁下载</b></button></li><li class="tab"><button type="button" data-href="#下载-2"><b>游戏获取</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="下载-1"><p><b>该汉化补丁适用于ソレノナ ver03版本。<br>使用方式请查看压缩包内的”汉化声明.TXT”。<br>游戏攻略也在压缩包内。</p>
+<p>解压密码<code>youtiaojianqingzhichizhengban</code>←有条件请支持正版的小写全拼<a target="_blank" href="https://download.flamecho.top/files/6844143b326f6/TL002.7z" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">补丁下载</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://download.flamecho.top/files/6844143b326f6/TL002.7z</span></span></span></a></b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-2"><p><a target="_blank" href="https://www.freem.ne.jp/win/game/17762" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">游戏下载地址-freem</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.freem.ne.jp/win/game/17762</span></span></span></a> <a target="_blank" href="https://izumicava.wixsite.com/gintou/sorenona" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">游戏官网</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://izumicava.wixsite.com/gintou/sorenona</span></span></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-预览"><a href="#❖-预览" class="headerlink" title="❖ 预览"></a><p style="font-size:25px">❖ 预览</p></h2><div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=113786316916163&bvid=BV1h6rUYNE2p&cid=25742742383&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no">
+</iframe>
+</div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://www.freem.ne.jp/win/game/17762"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/0a672085-59fe-4b5c-a7f7-bc10dc2cb2fc.webp" alt="freem的logo" title="点击跳转至Freem!游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v13351"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+]]></content>
+      <categories>
+        <category>汉化补丁</category>
+        <category>蔷薇向</category>
+        <category>银灯</category>
+      </categories>
+      <tags>
+        <tag>蔷薇向</tag>
+        <tag>银灯</tag>
+        <tag>汉化补丁</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【搬运】新世界狂欢官方四格漫画</title>
     <url>/posts/5.html</url>
     <content><![CDATA[<p>仅作交流欣赏用途，请关注新世界狂欢官方Facebook: <a href="https://www.facebook.com/nucarnival">https://www.facebook.com/nucarnival</a><br>© 2022-2025 infinity α studio &#x2F; S.G.Art Ltd. &#x2F; PINKCORE<br>NU: Carnival™ All rights reserved.</p>
@@ -5270,66 +5330,6 @@
 <h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://www.freem.ne.jp/win/game/17822"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/0a672085-59fe-4b5c-a7f7-bc10dc2cb2fc.webp" alt="freem的logo" title="点击跳转至Freem!游戏详情页" width="297" height="86" /></a></p>
 <p style="line-height:1"></p>
 <a target="_blank" href="https://vndb.org/v13135"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
-]]></content>
-      <categories>
-        <category>汉化补丁</category>
-        <category>蔷薇向</category>
-        <category>银灯</category>
-      </categories>
-      <tags>
-        <tag>蔷薇向</tag>
-        <tag>银灯</tag>
-        <tag>汉化补丁</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【AI汉化补丁】那个名字 ソレノナ</title>
-    <url>/posts/49.html</url>
-    <content><![CDATA[<style>
-.center
-{
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-  font-weight: bold;
-  text-align: center
-}
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-</style>
-
-<h2 id="❖-置顶"><a href="#❖-置顶" class="headerlink" title="❖ 置顶"></a><p style="font-size:25px">❖ 置顶</p></h2><div class="tabs" id="置顶"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#置顶-1"><b>汉化声明</b></button></li><li class="tab"><button type="button" data-href="#置顶-2"><b>关于翻译错误</b></button></li><li class="tab"><button type="button" data-href="#置顶-3"><b>如有漏翻报错等问题</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="置顶-1"><p><b>在使用此补丁前，请您务必仔细阅读并透彻理解本声明。<br>如果您使用此补丁，您的使用行为将视为对本声明的全部内容认可。</p>
-<p>本AI汉化补丁由 <a href="https://space.bilibili.com/59695199">B站@Flamecho</a> 使用 DeepSeek-V3 模型进行汉化，<br>汉化补丁为永久免费使用，发布方式见本文网址。<br>仅供个人学习交流用途，请勿直播、录屏并上传，<br>转载请保留此声明并注明发布地址。<br>包括但不限于任何整合、修改、盈利的行为本人不承担任何责任。<br>以上声明的最终解释权归 Flamecho 所有。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-2"><p><b>进行了基本的术语统一和相当粗略的校对。<br>如果非常在意建议直接看日语原文或者开个翻译器看双语。<br>不是阴阳怪气，这只是个中肯的建议。<br>做补丁只是为了我打游戏快一点：我会修改一部分，保留一部分，这样你才知道你玩的是机翻。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-3"><p><b>请私信B站@Flamecho并附截图。<br>学业繁忙不一定及时回复，提前致歉还请见谅。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h2><p><b>暑假还有一周就要到了。<br>主人公「藤泽庆介」依旧过着平凡的日常生活。<br>在风和日丽的屋顶上，有他的专属座位。</p>
-<p>某天，他像往常一样来到屋顶，<br>遇见了一名男学生。<br>在那里，主人公收到了一本他完全不记得丢失的学生手册。</p>
-<p>他并不知道，<br>自己所处的现实早已扭曲。<br>他正站在一条既不能称之为梦境，也不能称之为愿望的矛盾而模糊的边界线上。</p>
-<p>他还未察觉到的「那个名字」。</b></p>
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><div class="tabs" id="下载"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#下载-1"><b>补丁下载</b></button></li><li class="tab"><button type="button" data-href="#下载-2"><b>游戏获取</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="下载-1"><p><b>该汉化补丁适用于ソレノナ ver03版本。<br>使用方式请查看压缩包内的”汉化声明.TXT”。<br>游戏攻略也在压缩包内。</p>
-<p>解压密码<code>youtiaojianqingzhichizhengban</code>←有条件请支持正版的小写全拼<a target="_blank" href="https://download.flamecho.top/files/6844143b326f6/TL002.7z" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">补丁下载</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://download.flamecho.top/files/6844143b326f6/TL002.7z</span></span></span></a></b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-2"><p><a target="_blank" href="https://www.freem.ne.jp/win/game/17762" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">游戏下载地址-freem</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.freem.ne.jp/win/game/17762</span></span></span></a> <a target="_blank" href="https://izumicava.wixsite.com/gintou/sorenona" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">游戏官网</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://izumicava.wixsite.com/gintou/sorenona</span></span></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-预览"><a href="#❖-预览" class="headerlink" title="❖ 预览"></a><p style="font-size:25px">❖ 预览</p></h2><div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=113786316916163&bvid=BV1h6rUYNE2p&cid=25742742383&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no">
-</iframe>
-</div>
-
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://www.freem.ne.jp/win/game/17762"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/0a672085-59fe-4b5c-a7f7-bc10dc2cb2fc.webp" alt="freem的logo" title="点击跳转至Freem!游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v13351"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
 ]]></content>
       <categories>
         <category>汉化补丁</category>
@@ -5943,6 +5943,67 @@
       </tags>
   </entry>
   <entry>
+    <title>【汉化补丁】六月的毒 六月の毒</title>
+    <url>/posts/61.html</url>
+    <content><![CDATA[<style>
+.center
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+  text-align: center
+}
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+<p><a target="_blank" href="https://izumicava.wixsite.com/gintou/6doku"><img src="https://pic1.imgdb.cn/item/67ee11a70ba3d5a1d7eb90e1.jpg" alt="游戏标题图" width="500" title="点击跳转至游戏官网" /></a></p>
+<p style='line-height:1;text-align:center'><b>OFFICIAL WEBSITE</b></p>
+
+<h2 id="❖-置顶"><a href="#❖-置顶" class="headerlink" title="❖ 置顶"></a><p style="font-size:25px">❖ 置顶</p></h2><div class="tabs" id="置顶"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#置顶-1"><b>汉化声明</b></button></li><li class="tab"><button type="button" data-href="#置顶-2"><b>如有漏翻报错等问题</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="置顶-1"><p><b>在使用此补丁前，请您务必仔细阅读并透彻理解本声明。<br>如果您使用此补丁，您的使用行为将视为对本声明的全部内容认可。</p>
+<p>本汉化补丁由 <a href="https://space.bilibili.com/13389408">B站@水晶烧烤架</a> 汉化，<br>由 <a href="https://space.bilibili.com/59695199">B站@Flamecho</a> 代发。<br>汉化补丁为永久免费使用，发布方式见本文网址。<br>仅供个人学习交流用途，请勿直播、录屏并上传，<br>转载请保留此声明并注明发布地址。<br>包括但不限于任何整合、修改、盈利的行为本人不承担任何责任。<br>以上声明的最终解释权归 Flamecho 所有。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-2"><p><b>请私信B站@Flamecho并附截图。<br>学业繁忙不一定及时回复，提前致歉还请见谅。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h2><p><b>2014年8月发售的「平行梦境（パラレルワールド・インザドリィム）」的番外。<br>承接御影线「处刑」结局的时间线。</p>
+<p>枫叶初染的秋日。<br>放学后的图书室里，御影亨与筱崎一夜正共度闲适的午后时光。<br>此刻，御影开始向一夜讲述自己的过往。</p>
+<p>以御影为第一视角展开的番外。</b></p>
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><div class="tabs" id="下载"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#下载-1"><b>补丁下载</b></button></li><li class="tab"><button type="button" data-href="#下载-2"><b>游戏获取</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="下载-1"><p><b>使用方式请查看压缩包内的”汉化声明.TXT”。<br>全开存档也在压缩包内。</p>
+<p>解压密码<code>youtiaojianqingzhichizhengban</code>←有条件请支持正版的小写全拼</b><a target="_blank" href="https://download.flamecho.top/files/6844143b3e1e3/TL030.7z" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">补丁下载</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://download.flamecho.top/files/6844143b3e1e3/TL030.7z</span></span></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-2"><p><a target="_blank" href="https://izumicava.wixsite.com/gintou/6doku" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">游戏下载地址-官网</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://izumicava.wixsite.com/gintou/6doku</span></span></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-预览"><a href="#❖-预览" class="headerlink" title="❖ 预览"></a><p style="font-size:25px">❖ 预览</p></h2><div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114272604588622&bvid=BV11BZ1YoES8&cid=25779838685&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no">
+</iframe>
+</div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://vndb.org/v34708"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a></p>
+]]></content>
+      <categories>
+        <category>汉化补丁</category>
+        <category>蔷薇向</category>
+        <category>银灯</category>
+      </categories>
+      <tags>
+        <tag>蔷薇向</tag>
+        <tag>银灯</tag>
+        <tag>汉化补丁</tag>
+        <tag>忧郁梦塔系列</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【AI汉化补丁】平行梦境 パラレルワールド・インザドリィム</title>
     <url>/posts/60.html</url>
     <content><![CDATA[<style>
@@ -5997,67 +6058,6 @@
 <h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://senca.booth.pm/items/1022379"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/10e45650-f7bb-415f-9cd8-2db81a626517.webp" alt="Booth的logo" title="点击跳转至Booth游戏详情页" width="297" height="86" /></a></p>
 <p style="line-height:1"></p>
 <a target="_blank" href="https://vndb.org/v15083"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
-]]></content>
-      <categories>
-        <category>汉化补丁</category>
-        <category>蔷薇向</category>
-        <category>银灯</category>
-      </categories>
-      <tags>
-        <tag>蔷薇向</tag>
-        <tag>银灯</tag>
-        <tag>汉化补丁</tag>
-        <tag>忧郁梦塔系列</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【汉化补丁】六月的毒 六月の毒</title>
-    <url>/posts/61.html</url>
-    <content><![CDATA[<style>
-.center
-{
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-  font-weight: bold;
-  text-align: center
-}
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-</style>
-
-<p><a target="_blank" href="https://izumicava.wixsite.com/gintou/6doku"><img src="https://pic1.imgdb.cn/item/67ee11a70ba3d5a1d7eb90e1.jpg" alt="游戏标题图" width="500" title="点击跳转至游戏官网" /></a></p>
-<p style='line-height:1;text-align:center'><b>OFFICIAL WEBSITE</b></p>
-
-<h2 id="❖-置顶"><a href="#❖-置顶" class="headerlink" title="❖ 置顶"></a><p style="font-size:25px">❖ 置顶</p></h2><div class="tabs" id="置顶"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#置顶-1"><b>汉化声明</b></button></li><li class="tab"><button type="button" data-href="#置顶-2"><b>如有漏翻报错等问题</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="置顶-1"><p><b>在使用此补丁前，请您务必仔细阅读并透彻理解本声明。<br>如果您使用此补丁，您的使用行为将视为对本声明的全部内容认可。</p>
-<p>本汉化补丁由 <a href="https://space.bilibili.com/13389408">B站@水晶烧烤架</a> 汉化，<br>由 <a href="https://space.bilibili.com/59695199">B站@Flamecho</a> 代发。<br>汉化补丁为永久免费使用，发布方式见本文网址。<br>仅供个人学习交流用途，请勿直播、录屏并上传，<br>转载请保留此声明并注明发布地址。<br>包括但不限于任何整合、修改、盈利的行为本人不承担任何责任。<br>以上声明的最终解释权归 Flamecho 所有。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-2"><p><b>请私信B站@Flamecho并附截图。<br>学业繁忙不一定及时回复，提前致歉还请见谅。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h2><p><b>2014年8月发售的「平行梦境（パラレルワールド・インザドリィム）」的番外。<br>承接御影线「处刑」结局的时间线。</p>
-<p>枫叶初染的秋日。<br>放学后的图书室里，御影亨与筱崎一夜正共度闲适的午后时光。<br>此刻，御影开始向一夜讲述自己的过往。</p>
-<p>以御影为第一视角展开的番外。</b></p>
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><div class="tabs" id="下载"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#下载-1"><b>补丁下载</b></button></li><li class="tab"><button type="button" data-href="#下载-2"><b>游戏获取</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="下载-1"><p><b>使用方式请查看压缩包内的”汉化声明.TXT”。<br>全开存档也在压缩包内。</p>
-<p>解压密码<code>youtiaojianqingzhichizhengban</code>←有条件请支持正版的小写全拼</b><a target="_blank" href="https://download.flamecho.top/files/6844143b3e1e3/TL030.7z" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">补丁下载</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://download.flamecho.top/files/6844143b3e1e3/TL030.7z</span></span></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-2"><p><a target="_blank" href="https://izumicava.wixsite.com/gintou/6doku" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">游戏下载地址-官网</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://izumicava.wixsite.com/gintou/6doku</span></span></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-预览"><a href="#❖-预览" class="headerlink" title="❖ 预览"></a><p style="font-size:25px">❖ 预览</p></h2><div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114272604588622&bvid=BV11BZ1YoES8&cid=25779838685&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no">
-</iframe>
-</div>
-
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://vndb.org/v34708"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a></p>
 ]]></content>
       <categories>
         <category>汉化补丁</category>
@@ -6191,65 +6191,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【AI汉化补丁】视线所及之处 視線の先に</title>
-    <url>/posts/64.html</url>
-    <content><![CDATA[<style>
-.center
-{
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-  font-weight: bold;
-  text-align: center
-}
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-</style>
-
-<h2 id="❖-置顶"><a href="#❖-置顶" class="headerlink" title="❖ 置顶"></a><p style="font-size:25px">❖ 置顶</p></h2><div class="tabs" id="置顶"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#置顶-1"><b>汉化声明</b></button></li><li class="tab"><button type="button" data-href="#置顶-2"><b>关于翻译错误</b></button></li><li class="tab"><button type="button" data-href="#置顶-3"><b>如有漏翻报错等问题</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="置顶-1"><p><b>在使用此补丁前，请您务必仔细阅读并透彻理解本声明。<br>如果您使用此补丁，您的使用行为将视为对本声明的全部内容认可。</p>
-<p>本AI汉化补丁由 <a href="https://space.bilibili.com/59695199">B站@Flamecho</a> 使用 DeepSeek-V3 模型进行汉化，<br>汉化补丁为永久免费使用，发布方式见本文网址。<br>仅供个人学习交流用途，请勿直播、录屏并上传，<br>转载请保留此声明并注明发布地址。<br>包括但不限于任何整合、修改、盈利的行为本人不承担任何责任。<br>以上声明的最终解释权归 Flamecho 所有。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-2"><p><b>进行了基本的术语统一和相当粗略的校对。<br>如果非常在意建议直接看日语原文或者开个翻译器看双语。<br>不是阴阳怪气，这只是个中肯的建议。<br>做补丁只是为了我打游戏快一点：我会修改一部分，保留一部分，这样你才知道你玩的是机翻。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-3"><p><b>请私信B站@Flamecho并附截图。<br>学业繁忙不一定及时回复，提前致歉还请见谅。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h2><p><b>“――被橘用那样的眼神看着，还是第一次。”</p>
-<p>支援下一作的迷你游戏，<br>忧郁梦塔系列【橘隆弘×筱崎一夜】篇。</b></p>
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><div class="tabs" id="下载"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#下载-1"><b>补丁下载</b></button></li><li class="tab"><button type="button" data-href="#下载-2"><b>游戏获取</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="下载-1"><p><b>使用方式请查看压缩包内的”汉化声明.TXT”。</p>
-<p>解压密码<code>youtiaojianqingzhichizhengban</code>←有条件请支持正版的小写全拼</b><a target="_blank" href="https://download.flamecho.top/files/6844143b32e60/TL003.7z" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">补丁下载</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://download.flamecho.top/files/6844143b32e60/TL003.7z</span></span></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-2"><p><a target="_blank" href="https://booth.pm/zh-cn/items/1912513" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">正版购买链接-Booth</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://booth.pm/zh-cn/items/1912513</span></span></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-预览"><a href="#❖-预览" class="headerlink" title="❖ 预览"></a><p style="font-size:25px">❖ 预览</p></h2><div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114289314628911&bvid=BV1DMRqYeE8p&cid=25781342614&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no">
-</iframe>
-</div>
-
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://booth.pm/zh-cn/items/1912513"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/10e45650-f7bb-415f-9cd8-2db81a626517.webp" alt="Booth的logo" title="点击跳转至Booth游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v34709"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
-]]></content>
-      <categories>
-        <category>汉化补丁</category>
-        <category>蔷薇向</category>
-        <category>银灯</category>
-      </categories>
-      <tags>
-        <tag>蔷薇向</tag>
-        <tag>银灯</tag>
-        <tag>汉化补丁</tag>
-        <tag>忧郁梦塔系列</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【AI汉化补丁】Trip＊Trap トリップ＊トラップ</title>
     <url>/posts/65.html</url>
     <content><![CDATA[<style>
@@ -6359,6 +6300,65 @@
 <hr class="hr-twill-colorful">
 
 <h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://senca.booth.pm/items/2126021"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/10e45650-f7bb-415f-9cd8-2db81a626517.webp" alt="Booth的logo" title="点击跳转至Booth游戏详情页" width="297" height="86" /></a></p>
+]]></content>
+      <categories>
+        <category>汉化补丁</category>
+        <category>蔷薇向</category>
+        <category>银灯</category>
+      </categories>
+      <tags>
+        <tag>蔷薇向</tag>
+        <tag>银灯</tag>
+        <tag>汉化补丁</tag>
+        <tag>忧郁梦塔系列</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【AI汉化补丁】视线所及之处 視線の先に</title>
+    <url>/posts/64.html</url>
+    <content><![CDATA[<style>
+.center
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+  text-align: center
+}
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+<h2 id="❖-置顶"><a href="#❖-置顶" class="headerlink" title="❖ 置顶"></a><p style="font-size:25px">❖ 置顶</p></h2><div class="tabs" id="置顶"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#置顶-1"><b>汉化声明</b></button></li><li class="tab"><button type="button" data-href="#置顶-2"><b>关于翻译错误</b></button></li><li class="tab"><button type="button" data-href="#置顶-3"><b>如有漏翻报错等问题</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="置顶-1"><p><b>在使用此补丁前，请您务必仔细阅读并透彻理解本声明。<br>如果您使用此补丁，您的使用行为将视为对本声明的全部内容认可。</p>
+<p>本AI汉化补丁由 <a href="https://space.bilibili.com/59695199">B站@Flamecho</a> 使用 DeepSeek-V3 模型进行汉化，<br>汉化补丁为永久免费使用，发布方式见本文网址。<br>仅供个人学习交流用途，请勿直播、录屏并上传，<br>转载请保留此声明并注明发布地址。<br>包括但不限于任何整合、修改、盈利的行为本人不承担任何责任。<br>以上声明的最终解释权归 Flamecho 所有。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-2"><p><b>进行了基本的术语统一和相当粗略的校对。<br>如果非常在意建议直接看日语原文或者开个翻译器看双语。<br>不是阴阳怪气，这只是个中肯的建议。<br>做补丁只是为了我打游戏快一点：我会修改一部分，保留一部分，这样你才知道你玩的是机翻。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-3"><p><b>请私信B站@Flamecho并附截图。<br>学业繁忙不一定及时回复，提前致歉还请见谅。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h2><p><b>“――被橘用那样的眼神看着，还是第一次。”</p>
+<p>支援下一作的迷你游戏，<br>忧郁梦塔系列【橘隆弘×筱崎一夜】篇。</b></p>
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><div class="tabs" id="下载"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#下载-1"><b>补丁下载</b></button></li><li class="tab"><button type="button" data-href="#下载-2"><b>游戏获取</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="下载-1"><p><b>使用方式请查看压缩包内的”汉化声明.TXT”。</p>
+<p>解压密码<code>youtiaojianqingzhichizhengban</code>←有条件请支持正版的小写全拼</b><a target="_blank" href="https://download.flamecho.top/files/6844143b32e60/TL003.7z" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">补丁下载</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://download.flamecho.top/files/6844143b32e60/TL003.7z</span></span></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-2"><p><a target="_blank" href="https://booth.pm/zh-cn/items/1912513" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">正版购买链接-Booth</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://booth.pm/zh-cn/items/1912513</span></span></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-预览"><a href="#❖-预览" class="headerlink" title="❖ 预览"></a><p style="font-size:25px">❖ 预览</p></h2><div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114289314628911&bvid=BV1DMRqYeE8p&cid=25781342614&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no">
+</iframe>
+</div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://booth.pm/zh-cn/items/1912513"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/10e45650-f7bb-415f-9cd8-2db81a626517.webp" alt="Booth的logo" title="点击跳转至Booth游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v34709"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
 ]]></content>
       <categories>
         <category>汉化补丁</category>
@@ -7151,72 +7151,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【Luna预翻译】月影之锁-狂烂休止符-</title>
-    <url>/posts/79.html</url>
-    <content><![CDATA[<style>
-.center
-{
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-  font-weight: bold;
-  text-align: center
-}
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-</style>
-
-<p><a target="_blank" href="http://www.takuyo.co.jp/products/getsueifd/getsueifdsw/index.html"><img src="https://bbs.api.hoilai.com/upload/img/2025/7/8/184d78c7-af35-451c-a9b1-c993afef7d51.jpg" alt="游戏标题图" width="500" title="点击跳转至游戏官网" /></a></p>
-<p style='line-height:1;text-align:center'><b>OFFICIAL WEBSITE</b></p>
-
-<h2 id="❖-置顶"><a href="#❖-置顶" class="headerlink" title="❖ 置顶"></a><p style="font-size:25px">❖ 置顶</p></h2><div class="tabs" id="置顶"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#置顶-1"><b>汉化声明</b></button></li><li class="tab"><button type="button" data-href="#置顶-2"><b>关于翻译质量</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="置顶-1"><p><b>在使用此文件前，请您务必仔细阅读并透彻理解本声明。<br>如果您使用此文件，您的使用行为将视为对本声明的全部内容认可。</p>
-<p>由 <a href="https://space.bilibili.com/59695199">B站@Flamecho</a> 使用 Deepseek-V3-250324 模型进行汉化，<br>使用 <a href="https://github.com/neavo/LinguaGacha">LinguaGacha</a> 和 <a href="https://github.com/neavo/KeywordGacha">KeywordGacha</a> 辅助汉化。<br>永久免费使用，发布方式见本文网址。<br>仅供个人学习交流用途，转载请保留此声明并注明发布地址。<br>包括但不限于任何修改、盈利的行为本人不承担任何责任。<br>以上声明的最终解释权归 Flamecho 所有。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-2"><p><b>未经测试和校对，偶尔会有句子漏翻，<br>如有翻译错误，请自行脑内校对。</p>
-<p>压缩包内附带攻略中未选择的选项后续未翻译。<br>如有大段文本未翻译，请在 B站评论区 或 这篇文章的评论区 反馈。</p>
-<p>◆ 使用时不必联网。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h2><p><b><p style="font-size:18px">那个黑暗、虚幻而又美丽的爱情故事，再度上演——</p></p>
-<p>在远海孤岛上经营小居酒屋的主人公。<br>原本与义兄大井川护过着平静的日子，却因岛上发生的某个事件，逐渐打破了这份平凡的日常……</p>
-<p>不仅包含正篇《错乱偏执狂》中各攻略角色的后续故事，更将解锁与未能攻略的义兄大井川护的恋情！<br>更有新角色登场的新篇章，以及与现有攻略角色在隐秘游郭中展开的旖旎恋歌！</b></p>
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><p><b>游戏攻略和使用方式见压缩包内。</p>
-<p>解压密码<code>youtiaojianqingzhichizhengban</code>←有条件请支持正版的小写全拼</b><a target="_blank" href="https://download.flamecho.top/files/686dcc3393890/TL042.7z" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">预翻译文件下载</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://download.flamecho.top/files/686dcc3393890/TL042.7z</span></span></span></a></p>
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-预览"><a href="#❖-预览" class="headerlink" title="❖ 预览"></a><p style="font-size:25px">❖ 预览</p></h2><div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114818484928824&bvid=BV1rSGWznEHc&cid=25823877510&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no">
-</iframe>
-</div>
-
-<hr class="hr-twill-colorful">
-
-<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://store-jp.nintendo.com/item/software/D70010000075451"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/b1bf5aff-c58e-4718-b996-14ac38b776f2.jpg" alt="switch的logo" title="点击跳转至Nintendo Switch游戏详情页" width="297" height="86" /></a></p>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://docs.lunatranslator.org/zh/"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/aeaa7cae-e3ee-468a-97c0-5dfe881b156a.jpg" alt="LunaTranslator的logo" title="点击跳转至LunaTranslator官网" width="297" height="86" /></a>
-<p style="line-height:1"></p>
-<a target="_blank" href="https://vndb.org/v12928"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
-]]></content>
-      <categories>
-        <category>汉化补丁</category>
-        <category>乙女向</category>
-        <category>TAKUYO</category>
-      </categories>
-      <tags>
-        <tag>乙女向</tag>
-        <tag>汉化补丁</tag>
-        <tag>LunaTranslator</tag>
-        <tag>TAKUYO</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【Luna预翻译】月影之锁-错乱偏执狂-</title>
     <url>/posts/78.html</url>
     <content><![CDATA[<style>
@@ -7271,6 +7205,72 @@
 <a target="_blank" href="https://docs.lunatranslator.org/zh/"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/aeaa7cae-e3ee-468a-97c0-5dfe881b156a.jpg" alt="LunaTranslator的logo" title="点击跳转至LunaTranslator官网" width="297" height="86" /></a>
 <p style="line-height:1"></p>
 <a target="_blank" href="https://vndb.org/v11469"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
+]]></content>
+      <categories>
+        <category>汉化补丁</category>
+        <category>乙女向</category>
+        <category>TAKUYO</category>
+      </categories>
+      <tags>
+        <tag>乙女向</tag>
+        <tag>汉化补丁</tag>
+        <tag>LunaTranslator</tag>
+        <tag>TAKUYO</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【Luna预翻译】月影之锁-狂烂休止符-</title>
+    <url>/posts/79.html</url>
+    <content><![CDATA[<style>
+.center
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+  text-align: center
+}
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+<p><a target="_blank" href="http://www.takuyo.co.jp/products/getsueifd/getsueifdsw/index.html"><img src="https://bbs.api.hoilai.com/upload/img/2025/7/8/184d78c7-af35-451c-a9b1-c993afef7d51.jpg" alt="游戏标题图" width="500" title="点击跳转至游戏官网" /></a></p>
+<p style='line-height:1;text-align:center'><b>OFFICIAL WEBSITE</b></p>
+
+<h2 id="❖-置顶"><a href="#❖-置顶" class="headerlink" title="❖ 置顶"></a><p style="font-size:25px">❖ 置顶</p></h2><div class="tabs" id="置顶"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#置顶-1"><b>汉化声明</b></button></li><li class="tab"><button type="button" data-href="#置顶-2"><b>关于翻译质量</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="置顶-1"><p><b>在使用此文件前，请您务必仔细阅读并透彻理解本声明。<br>如果您使用此文件，您的使用行为将视为对本声明的全部内容认可。</p>
+<p>由 <a href="https://space.bilibili.com/59695199">B站@Flamecho</a> 使用 Deepseek-V3-250324 模型进行汉化，<br>使用 <a href="https://github.com/neavo/LinguaGacha">LinguaGacha</a> 和 <a href="https://github.com/neavo/KeywordGacha">KeywordGacha</a> 辅助汉化。<br>永久免费使用，发布方式见本文网址。<br>仅供个人学习交流用途，转载请保留此声明并注明发布地址。<br>包括但不限于任何修改、盈利的行为本人不承担任何责任。<br>以上声明的最终解释权归 Flamecho 所有。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-2"><p><b>未经测试和校对，偶尔会有句子漏翻，<br>如有翻译错误，请自行脑内校对。</p>
+<p>压缩包内附带攻略中未选择的选项后续未翻译。<br>如有大段文本未翻译，请在 B站评论区 或 这篇文章的评论区 反馈。</p>
+<p>◆ 使用时不必联网。</b></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a><p style="font-size:25px">❖ 故事梗概</p></h2><p><b><p style="font-size:18px">那个黑暗、虚幻而又美丽的爱情故事，再度上演——</p></p>
+<p>在远海孤岛上经营小居酒屋的主人公。<br>原本与义兄大井川护过着平静的日子，却因岛上发生的某个事件，逐渐打破了这份平凡的日常……</p>
+<p>不仅包含正篇《错乱偏执狂》中各攻略角色的后续故事，更将解锁与未能攻略的义兄大井川护的恋情！<br>更有新角色登场的新篇章，以及与现有攻略角色在隐秘游郭中展开的旖旎恋歌！</b></p>
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><p><b>游戏攻略和使用方式见压缩包内。</p>
+<p>解压密码<code>youtiaojianqingzhichizhengban</code>←有条件请支持正版的小写全拼</b><a target="_blank" href="https://download.flamecho.top/files/686dcc3393890/TL042.7z" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">预翻译文件下载</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://download.flamecho.top/files/686dcc3393890/TL042.7z</span></span></span></a></p>
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-预览"><a href="#❖-预览" class="headerlink" title="❖ 预览"></a><p style="font-size:25px">❖ 预览</p></h2><div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114818484928824&bvid=BV1rSGWznEHc&cid=25823877510&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no">
+</iframe>
+</div>
+
+<hr class="hr-twill-colorful">
+
+<h2 id="❖-相关链接"><a href="#❖-相关链接" class="headerlink" title="❖ 相关链接"></a><p style="font-size:25px">❖ 相关链接</p></h2><p><a target="_blank" href="https://store-jp.nintendo.com/item/software/D70010000075451"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/b1bf5aff-c58e-4718-b996-14ac38b776f2.jpg" alt="switch的logo" title="点击跳转至Nintendo Switch游戏详情页" width="297" height="86" /></a></p>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://docs.lunatranslator.org/zh/"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/aeaa7cae-e3ee-468a-97c0-5dfe881b156a.jpg" alt="LunaTranslator的logo" title="点击跳转至LunaTranslator官网" width="297" height="86" /></a>
+<p style="line-height:1"></p>
+<a target="_blank" href="https://vndb.org/v12928"><img src="https://bbs.api.hoilai.com/upload/img/2025/6/25/e52cd8eb-fab4-4984-8712-12af28ec71fa.webp" alt="vndb的logo" title="点击跳转至The Visual Novel Database" width="297" height="86" /></a>
 ]]></content>
       <categories>
         <category>汉化补丁</category>
@@ -7580,8 +7580,8 @@
 <p>抱着内心的秘密、追寻着寻找死亡的少年们的身影的<br>奇妙且惊人的七天开始了。</b></p>
 <hr class="hr-twill-colorful">
 
-<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><div class="tabs" id="下载"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#下载-1"><b>补丁下载</b></button></li><li class="tab"><button type="button" data-href="#下载-2"><b>游戏获取</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="下载-1"><p><b>使用方式见压缩包内。</p>
-<p>解压密码<code>youtiaojianqingzhichizhengban</code>←有条件请支持正版的小写全拼</b><a target="_blank" href="https://download.flamecho.top/files/687658024dcaa/TL047.7z" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">预翻译文件下载</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://download.flamecho.top/files/687658024dcaa/TL047.7z</span></span></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-2"><p><a target="_blank" href="https://www.dlsite.com/soft/work/=/product_id/VJ01000716.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">购买-dlsite</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.dlsite.com/soft/work/=/product_id&#x2F;VJ01000716.html</span></span></span></a> <a target="_blank" href="https://store.steampowered.com/app/2179520/" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">购买-steam</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://store.steampowered.com/app/2179520/</span></span></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+<h2 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a><p style="font-size:25px">❖ 下载</p></h2><div class="tabs" id="下载"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#下载-1"><b>补丁下载</b></button></li><li class="tab"><button type="button" data-href="#下载-2"><b>游戏获取</b></button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="下载-1"><p><b>游戏攻略和使用方式见压缩包内。</p>
+<p>解压密码<code>youtiaojianqingzhichizhengban</code>←有条件请支持正版的小写全拼</b><a target="_blank" href="https://download.flamecho.top/files/68765aec1f1fa/TL047.7z" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">预翻译文件下载</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://download.flamecho.top/files/68765aec1f1fa/TL047.7z</span></span></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-2"><p><a target="_blank" href="https://www.dlsite.com/soft/work/=/product_id/VJ01000716.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">购买-dlsite</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.dlsite.com/soft/work/=/product_id&#x2F;VJ01000716.html</span></span></span></a> <a target="_blank" href="https://store.steampowered.com/app/2179520/" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background-color: #3a62a0;"><span class="LinkCard-contents"><span style="display: -webkit-box; font-weight: bold; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">购买-steam</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #bdc3cc; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://store.steampowered.com/app/2179520/</span></span></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
 
 <hr class="hr-twill-colorful">
 
