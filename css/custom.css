@@ -156,7 +156,7 @@ div#page {
 
 /*文章相关推荐卡片美化*/
 .relatedPosts > .relatedPosts-list > div {
-  border-radius: 20px;
+  border-radius: 8px;
 }
 
 /*版权卡片美化*/

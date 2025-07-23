@@ -3949,6 +3949,7 @@ h1.page-title + .tag-cloud-list {
   margin-top: 40px;
   width: 100%;
   background: #000;
+  border-radius: 8px;
 }
 .layout > .recent-posts .pagination > * {
   display: inline-block;
