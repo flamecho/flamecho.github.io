@@ -1426,7 +1426,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url('https://bbs.api.hoilai.com/upload/img/2025/3/25/fbcc0a44-7f3c-4b4b-95bc-96da1ef97d34.png');
+  background: url('/img/0.头像 背景/bg_day.jpg');
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -4596,7 +4596,7 @@ mjx-assistive-mml {
   }
 }
 [data-theme="dark"] #web_bg {
-  background: url('https://bbs.api.hoilai.com/upload/img/2025/6/24/bca62060-63de-4b2c-89a6-e12319877d20.png');
+  background: url('/img/0.头像 背景/bg_night.jpg');
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -4604,14 +4604,14 @@ mjx-assistive-mml {
 }
 @media screen and (max-width: 800px) {
   #web_bg {
-    background: url('https://bbs.api.hoilai.com/upload/img/2025/3/25/fbcc0a44-7f3c-4b4b-95bc-96da1ef97d34.png') !important;
+    background: url('/img/0.头像 背景/bg_day.jpg') !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
   }
   [data-theme="dark"] #web_bg {
-    background: url('https://bbs.api.hoilai.com/upload/img/2025/6/24/bca62060-63de-4b2c-89a6-e12319877d20.png') !important;
+    background: url('/img/0.头像 背景/bg_night.jpg') !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
