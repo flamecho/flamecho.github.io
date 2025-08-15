@@ -1,0 +1,81 @@
+
+body::-webkit-scrollbar {
+    width: 0;
+}
+
+.neko {
+    width: 90px;
+    height: 150px;
+    background-image: url('/img/0.头像 背景/艾因小狼.png');
+    position: absolute;
+    right: 32px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    transform: translateX(50%);
+    cursor: pointer;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "Microsoft JhengHei", "Microsoft YaHei", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    color: #000;
+    display: none;
+}
+
+.neko::after {
+    display: none;
+    width: 150px;
+    height: 150px;
+    background-image: url('/img/0.头像 背景/对话框.png');
+    background-size: contain;
+    z-index: 9999;
+    position: absolute;
+    right: 65%;
+    text-align: center;
+    line-height: 155px;
+    top: -60%;
+
+}
+
+.neko.showMsg::after {
+    content: attr(data-msg);
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.neko:hover::after {
+    content: attr(data-msg);
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.neko.fontColor::after {
+    color: #333;
+}
+
+/**
+ * @description: 在宽度 ≤ 992px 时隐藏所有 neko 相关组件
+ */
+@media screen and (max-width: 992px) {
+    /* 隐藏 neko 悬浮按钮 */
+    .neko {
+        display: none !important;
+    }
+
+    /* 隐藏滚动条（如果之前有自定义滚动条样式） */
+    ::-webkit-scrollbar {
+        display: none !important;
+    }
+
+    /* 确保 neko 相关的伪元素也不显示 */
+    .neko::after,
+    .neko::before {
+        display: none !important;
+    }
+
+    /* 如果 neko 组件有父容器或包裹元素，也可以一并隐藏 */
+    #myscoll,
+    .neko-container { /* 假设有一个容器类 */
+        display: none !important;
+    }
+}
