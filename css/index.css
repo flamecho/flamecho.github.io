@@ -3439,7 +3439,7 @@ h1.page-title + .tag-cloud-list {
 }
 @media screen and (max-width: 768px) {
   #page-header #post-info {
-    bottom: 90px;
+    bottom: 77px;
     padding: 0 22px;
   }
 }
