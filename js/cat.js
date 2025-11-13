@@ -121,7 +121,7 @@ if (document.body.clientWidth > 992) {
         $("#myscoll").nekoScroll({
             bgcolor: 'rgb(0 0 0 / .5)', //背景颜色，没有绳子背景图片时有效
             borderRadius: '2em',
-            zoom: 0.9
+            zoom: 0.49
         }
         );
         //自定义（去掉以下注释，并注释掉其他的查看效果）
