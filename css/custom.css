@@ -488,7 +488,7 @@ border-radius: 8px; /*边框圆角*/
     transform: translate(-50%);
     /* 填充 */
     padding: 14px 18px;
-    background: #444;
+    background: #3a62a0;
     color: #fff;
 }
 
@@ -500,7 +500,7 @@ border-radius: 8px; /*边框圆角*/
     /* 内容大小（宽高）为0且边框大小不为0的情况下，每一条边（4个边）都是一个三角形，组成一个正方形。
     我们先将所有边框透明，再给其中的一条边添加颜色就可以实现小三角图标 */
     border: 12px solid transparent;
-    border-top-color: #444;
+    border-top-color: #3a62a0;
     left: 50%;
     transform: translate(-50%, -48px);
 }
