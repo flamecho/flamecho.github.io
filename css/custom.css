@@ -296,7 +296,7 @@ border-radius: 8px; /*边框圆角*/
 /* 浅色模式颜色 */
 [data-theme=light] {
   --liushen-border-color: #e3e8f7;
-  --liushen-card-bg: #ffffffb3;
+  --liushen-card-bg: #ffffff87;
   --liushen-card-font: #fff;
   --liushen-card-border: #e3e8f7;
   --style-border-always: 1px solid var(--liushen-card-border);
@@ -306,7 +306,7 @@ border-radius: 8px; /*边框圆角*/
 /* 深色模式颜色 */
 [data-theme=dark] {
   --liushen-border-color: #42444a;
-  --liushen-card-bg: #2c2c2c;
+  --liushen-card-bg: #48484842;
   --liushen-card-border: #42444a;
   --style-border-always: 1px solid var(--liushen-card-border);
   --liushen-blue: #0084FF;
