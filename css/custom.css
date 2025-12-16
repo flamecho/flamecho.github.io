@@ -53,9 +53,8 @@
 }
 
 :root {
-  --trans-light: rgba(255, 255, 255, 0.8);
-  --trans-dark: rgba(25, 25, 25, 0.8);
-  --backdrop-filter: blur(20px) saturate(150%);
+  --trans-light: rgba(245, 250, 255, 0.85);
+  --trans-dark: rgba(16, 24, 37, 0.8);
 }
 
 /* 首页文章卡片 */
@@ -83,12 +82,12 @@ div#page {
 
 /* 导航栏 */
 #page-header.nav-fixed #nav {
-  background: rgba(255, 255, 255, 0.75);
+  background: rgba(245, 250, 255, 0.80);
   backdrop-filter: var(--backdrop-filter);
 }
 
 [data-theme="dark"] #page-header.nav-fixed #nav {
-  background: rgba(0, 0, 0, 0.7) !important;
+  background: rgba(16, 24, 37, 0.75) !important;
 }
 
 /* 夜间模式遮罩 */
@@ -649,43 +648,43 @@ a.tk-ruser {
 .parallax > use:nth-child(1) {
   animation-delay: -2s;
   animation-duration: 7s;
-  fill: #f7f9febd;
+  fill: #f5faffbd;
 }
 .parallax > use:nth-child(2) {
   animation-delay: -3s;
   animation-duration: 10s;
-  fill: #f7f9fe82;
+  fill: #f5faff82;
 }
 .parallax > use:nth-child(3) {
   animation-delay: -4s;
   animation-duration: 13s;
-  fill: #f7f9fe36;
+  fill: #f5faff36;
 }
 .parallax > use:nth-child(4) {
   animation-delay: -5s;
   animation-duration: 20s;
-  fill: #f7f9fecc;
+  fill: #f5faffcc;
 }
 /* 黑色模式背景 */
 [data-theme="dark"] .parallax > use:nth-child(1) {
   animation-delay: -2s;
   animation-duration: 7s;
-  fill: #18171dc8;
+  fill: #101825c8;
 }
 [data-theme="dark"] .parallax > use:nth-child(2) {
   animation-delay: -3s;
   animation-duration: 10s;
-  fill: #18171d80;
+  fill: #10182580;
 }
 [data-theme="dark"] .parallax > use:nth-child(3) {
   animation-delay: -4s;
   animation-duration: 13s;
-  fill: #18171d3e;
+  fill: #1018253e;
 }
 [data-theme="dark"] .parallax > use:nth-child(4) {
   animation-delay: -5s;
   animation-duration: 20s;
-  fill: #18171dcc;
+  fill: #101825cc;
 }
 
 @keyframes move-forever {
@@ -700,7 +699,7 @@ a.tk-ruser {
 /* APlayer 日间模式调整 */
 /* 背景色 */
 .aplayer {
-  background: rgba(255, 255, 255, 0.9) !important;
+  background: rgba(245, 250, 255, 0.9) !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.07), 0 1px 5px 0 rgba(0, 0, 0, 0.1);
   position: relative;
 }
@@ -711,7 +710,7 @@ a.tk-ruser {
 }
 
 .aplayer.aplayer.aplayer-fixed .aplayer-body {
-  background: rgba(255, 255, 255, 0.6) !important;
+  background: rgba(245, 250, 255, 0.6) !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.07), 0 1px 5px 0 rgba(0, 0, 0, 0.1);
   position: fixed;
 }
@@ -770,13 +769,13 @@ a.tk-ruser {
 
 /* APlayer 黑暗模式 */
 [data-theme="dark"] .aplayer {
-  background: rgba(22, 22, 22, 0.9) !important;
+  background: rgba(16, 24, 37, 0.9) !important;
   color: rgb(255, 255, 255);
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.07), 0 1px 5px 0 rgba(0, 0, 0, 0.1);
 }
 
 [data-theme="dark"] .aplayer.aplayer-fixed .aplayer-body {
-  background: rgba(22, 22, 22, 0.6) !important;
+  background: rgba(16, 24, 37, 0.6) !important;
   color: rgb(255, 255, 255);
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.07), 0 1px 5px 0 rgba(0, 0, 0, 0.1);
 }
@@ -827,7 +826,7 @@ a.tk-ruser {
 
 /* 个人信息卡片背景图 */
 [data-theme="light"] #aside-content > .card-widget.card-info {
-  background-image: url('/img/0.头像 背景/ava_day.png');
+  background-image: url('/img/0.头像 背景/ava_day1.png');
   background-repeat: no-repeat;
   background-attachment: inherit;
   background-size: 100%;
