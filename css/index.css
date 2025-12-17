@@ -1369,8 +1369,8 @@ canvas:not(#ribbon-canvas),
   --tab-botton-bg: #3a62a0;
   --tab-botton-color: #1f2d3d;
   --tab-button-hover-bg: #dcdcdc;
-  --tab-button-active-bg: rgba(255,255,255,0.8);
-  --card-bg: rgba(255,255,255,0.8);
+  --tab-button-active-bg: rgba(255,249,245,0.8);
+  --card-bg: rgba(255,249,245,0.8);
   --sidebar-bg: #f6f8fa;
   --btn-hover-color: #d3625d;
   --btn-color: #fff;
@@ -3449,7 +3449,7 @@ h1.page-title + .tag-cloud-list {
   background: 0;
 }
 #page-header.not-top-img #nav {
-  background: rgba(245,250,255,0.85);
+  background: rgba(255,249,245,0.85);
   -webkit-box-shadow: 0 5px 6px -5px rgba(133,133,133,0.6);
   box-shadow: 0 5px 6px -5px rgba(133,133,133,0.6);
 }
@@ -5587,7 +5587,7 @@ blockquote.pullquote.right {
   --tab-botton-color: rgba(255,255,255,0.7);
   --tab-button-hover-bg: #383838;
   --tab-button-active-bg: #121212;
-  --card-bg: #121212;
+  --card-bg: rgba(16,24,37,0.8);
   --sidebar-bg: #121212;
   --btn-hover-color: #787878;
   --btn-color: rgba(255,255,255,0.7);
