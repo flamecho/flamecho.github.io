@@ -5582,11 +5582,11 @@ blockquote.pullquote.right {
   --search-a-color: rgba(255,255,255,0.7);
   --preloader-bg: #0d0d0d;
   --preloader-color: rgba(255,255,255,0.7);
-  --tab-border-color: #2c2c2c;
-  --tab-botton-bg: #2c2c2c;
+  --tab-border-color: #f0f0f0;
+  --tab-botton-bg: #3a62a0;
   --tab-botton-color: rgba(255,255,255,0.7);
   --tab-button-hover-bg: #383838;
-  --tab-button-active-bg: #121212;
+  --tab-button-active-bg: rgba(194,199,211,0.769);
   --card-bg: rgba(16,24,37,0.8);
   --sidebar-bg: #121212;
   --btn-hover-color: #787878;
@@ -5636,7 +5636,7 @@ blockquote.pullquote.right {
   color: rgba(255,255,255,0.7);
 }
 [data-theme='dark'] #article-container code {
-  background: #2c2c2c;
+  background: rgba(16,24,37,0.8);
 }
 [data-theme='dark'] #article-container pre > code {
   background: #171717;
@@ -5663,7 +5663,7 @@ blockquote.pullquote.right {
   box-shadow: 0 5px 6px -5px rgba(133,133,133,0);
 }
 [data-theme='dark'] #post-comment #comment-switch {
-  background: #2c2c2c !important;
+  background: rgba(16,24,37,0.8) !important;
 }
 [data-theme='dark'] #post-comment #comment-switch .switch-btn {
   filter: brightness(0.8);
@@ -5707,7 +5707,7 @@ blockquote.pullquote.right {
 }
 [data-theme='dark'] #disqusjs #dsqjs .dsqjs-post-body code,
 [data-theme='dark'] #disqusjs #dsqjs .dsqjs-post-body pre {
-  background: #2c2c2c;
+  background: rgba(16,24,37,0.8);
 }
 [data-theme='dark'] #disqusjs #dsqjs .dsqjs-post-body blockquote {
   color: rgba(255,255,255,0.7);
