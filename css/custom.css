@@ -126,26 +126,27 @@ div#page {
 }
 @keyframes huxi_light {
   0% {
-    box-shadow: 0px 0px 1px 1px #e9f5fa;
+    box-shadow: 0px 0px 3px 3px #fff9f5;
   }
   50% {
-    box-shadow: 0px 0px 5px 5px #e9f5fa;
+    box-shadow: 0px 0px 7px 7px #fff9f5;
   }
   100% {
-    box-shadow: 0px 0px 1px 1px #e9f5fa;
+    box-shadow: 0px 0px 3px 3px #fff9f5;
   }
 }
 @keyframes huxi_dark {
   0% {
-    box-shadow: 0px 0px 1px 1px #e9f5fa;
+    box-shadow: 0px 0px 3px 3px #fff9f5;
   }
   50% {
-    box-shadow: 0px 0px 5px 5px #e9f5fa;
+    box-shadow: 0px 0px 7px 7px #fff9f5;
   }
   100% {
-    box-shadow: 0px 0px 1px 1px #e9f5fa;
+    box-shadow: 0px 0px 3px 3px #fff9f5;
   }
 }
+
 
 /*GitHub开源圆角*/
 #card-info-btn {
@@ -512,17 +513,19 @@ border-radius: 8px; /*边框圆角*/
   /*right: calc(100% - 28px);*/
   width: 28px;
   height: 28px;
-  border: 2px solid #32b8db;
+  border: 2px solid #fff9f5;
   border-radius: 2em;
-  background-color: #f8f8f8f8;
+  background-color: #f8f8f8c4;
   transition: 0.4s;
   overflow: hidden;
 }
 
+/*
 [data-theme="dark"] .card-info-avatar .author-status-box {
   background-color: rgba(255,255,255,0.8);
   border: 2px solid #5c6060;
 }
+*/
 
 .card-info-avatar .author-status-box .author-status {
   display: flex;
@@ -563,9 +566,9 @@ border-radius: 8px; /*边框圆角*/
   /*right: calc(100% - 28px);*/
   width: 28px;
   height: 28px;
-  border: 2px solid #32b8db;
+  border: 2px solid #fff9f5;
   border-radius: 2em;
-  background-color: #f8f8f8f8;
+  background-color: #f8f8f8c4;
   transition: 0.4s;
   overflow: hidden;
 }
@@ -832,7 +835,7 @@ a.tk-ruser {
   background-size: 100%;
 }
 [data-theme="dark"] #aside-content > .card-widget.card-info {
-  background-image: url('/img/0.头像 背景/ava_night2.png');
+  background-image: url('/img/0.头像 背景/ava_night3.png');
   background-repeat: no-repeat;
   background-attachment: inherit;
   background-size: 100%;

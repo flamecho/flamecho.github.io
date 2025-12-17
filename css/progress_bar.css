@@ -65,6 +65,11 @@
 }
 
 .loading-img {
-  background: url('/img/0.头像 背景/avatar.jpg') no-repeat center center;
+  background: url('/img/0.头像 背景/avatar_day.png') no-repeat center center;
+  background-size: cover;
+}
+
+[data-theme=dark] .loading-img {
+  background: url('/img/0.头像 背景/avatar_night.png') no-repeat center center;
   background-size: cover;
 }
