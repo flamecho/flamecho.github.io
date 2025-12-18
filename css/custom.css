@@ -168,6 +168,15 @@ border: 3px solid #3a62a0; /*卡片边框*/
 border-radius: 8px; /*边框圆角*/
 }
 
+/* 新增版权卡片内部样式 */
+.post-copyright__cover,
+.post-copyright__custom {
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+
+
 /*目录颜色圆角调整*/
 #aside-content #card-toc .toc-content .toc-link.active {
   background: #3a62a0;
