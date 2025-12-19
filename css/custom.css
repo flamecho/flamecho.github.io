@@ -886,3 +886,9 @@ a.tk-ruser {
 [data-theme="dark"] .post-reward .reward-all {
     background-color: #101825cc !important;
 }
+
+/* 设置二维码图片圆角 */
+.post-qr-code-img {
+    border-radius: 8px !important;
+    overflow: hidden !important;
+}
