@@ -1382,7 +1382,7 @@ canvas:not(#ribbon-canvas),
   --text-highlight-color: #1f2d3d;
   --blockquote-color: #6a737d;
   --blockquote-bg: rgba(58,98,160,0.1);
-  --reward-pop: #f5f5f5;
+  --reward-pop: rgba(255,249,245,0.851);
   --toc-link-color: #666261;
   --card-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.05);
   --card-hover-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.09);
@@ -5599,7 +5599,7 @@ blockquote.pullquote.right {
   --text-highlight-color: rgba(255,255,255,0.9);
   --blockquote-color: rgba(255,255,255,0.7);
   --blockquote-bg: #2c2c2c;
-  --reward-pop: #2c2c2c;
+  --reward-pop: rgba(16,24,37,0.8);
   --toc-link-color: rgba(255,255,255,0.6);
   --hl-color: rgba(255,255,255,0.7);
   --hl-bg: #171717;
