@@ -860,3 +860,29 @@ a.tk-ruser {
     display: block;
     margin: 0 auto;
 }
+
+/* 修改支持框的圆角为8px */
+.post-reward {
+    border-radius: 8px !important;
+}
+
+/* 如果需要同时修改支持框内部内容的圆角 */
+.post-reward .reward-main,
+.post-reward .reward-all,
+.post-reward .reward-item {
+    border-radius: 8px !important;
+}
+
+/* 修改按钮的圆角 */
+.reward-button {
+    border-radius: 8px !important;
+}
+
+/* 修改支持框的背景颜色为 #fff9f5d9 */
+.post-reward .reward-all {
+    background-color: #fff9f5d9 !important;
+}
+
+[data-theme="dark"] .post-reward .reward-all {
+    background-color: #101825cc !important;
+}
