@@ -1,5 +1,7 @@
 # ============================================
 # 301 重定向
 # ============================================
-/posts/:file    /p/:file   301
-/posts/:file.html   /p/:file   301
+/posts/15.html /p/ld1-install 301
+
+/posts/:file /p/:file 301
+/posts/:file.html /p/:file 301
