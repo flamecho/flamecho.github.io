@@ -3,52 +3,6 @@
 # ============================================
 /posts/:file                 /:file                              301
 
-
-# ============================================
-# 301 重定向：手动将 /p/xxx 重定向到 /xxx
-# ============================================
-/p/nucarnival                  /nucarnival               301
-/p/lostfriends1-guide          /lostfriends1-guide       301
-/p/collar-malice-guide         /collar-malice-guide      301
-/p/collar-malice-fd-guide      /collar-malice-fd-guide   301
-/p/shuuen-no-virche-guide      /shuuen-no-virche-guide   301
-/p/even-if-tempest-guide       /even-if-tempest-guide    301
-/p/lemuresblue-guide           /lemuresblue-guide        301
-/p/15                          /15                       301
-/p/17                          /17                       301
-/p/code-realize-guide          /code-realize-guide       301
-/p/20                          /20                       301
-/p/code-realize-fd1-guide      /code-realize-fd1-guide   301
-/p/code-realize-fd2-guide      /code-realize-fd2-guide   301
-/p/amnesia-guide               /amnesia-guide            301
-/p/24                          /24                       301
-/p/25                          /25                       301
-/p/26                          /26                       301
-/p/27                          /27                       301
-/p/sekimorigami-guide          /sekimorigami-guide       301
-/p/428-guide                   /428-guide                301
-/p/dreambound-guide            /dreambound-guide         301
-/p/websites                    /websites                 301
-/p/lostfriends2-guide          /lostfriends2-guide       301
-/p/47                          /47                       301
-/p/55                          /55                       301
-/p/even-if-tempest-fd-guide    /even-if-tempest-fd-guide 301
-/p/why-boom                    /why-boom                 301
-/p/61                          /61                       301
-/p/67                          /67                       301
-/p/7zip-batch                  /7zip-batch               301
-/p/93                          /93                       301
-/p/117                         /117                      301
-/p/saves                       /saves                    301
-/p/ff14-fishing                /ff14-fishing             301
-/p/time-to-relax               /time-to-relax            301
-/p/crazy-chain-info            /crazy-chain-info         301
-/p/sins-of-kaleido-info        /sins-of-kaleido-info     301
-/p/trans                       /trans                    301
-/p/sullyland-info              /sullyland-info           301
-/p/record-noah-info            /record-noah-info         301
-/p/kimi-ni-madoi-info          /kimi-ni-madoi-info       301
-
 # ============================================
 # 200 重写：将短URL /xxx 指向实际文件 /p/xxx.html
 # ============================================
