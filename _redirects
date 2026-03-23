@@ -1,11 +1,13 @@
 # ============================================
-# 301 重定向：将 /posts/xxx 重定向到 /xxx
+# 301 重定向
 # ============================================
-/posts/:file                 /:file                              301
-/p/:file       /:file   301
+/p/:file.html   /:file   301
+/p/:file        /:file   301
+/posts/:file    /:file   301
+/posts/:file.html   /:file   301
 
 # ============================================
-# 200 重写：将短URL /xxx 指向实际文件 /p/xxx.html
+# 200 重写
 # ============================================
 /nucarnival                  /p/nucarnival.html              200
 /lostfriends1-guide          /p/lostfriends1-guide.html      200
