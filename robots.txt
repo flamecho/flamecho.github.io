@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /$
+Disallow: /posts/*.html$
+Disallow: /archives/
+Disallow: /categories/
+Disallow: /tags/
+Disallow: /page/
+Sitemap: https://www.flamecho.top/sitemap.txt
