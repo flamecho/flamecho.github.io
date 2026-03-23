@@ -1,52 +1,5 @@
 # ============================================
 # 301 重定向
 # ============================================
-/p/:file.html   /:file   301
-/p/:file        /:file   301
 /posts/:file    /:file   301
 /posts/:file.html   /:file   301
-
-# ============================================
-# 200 重写
-# ============================================
-/nucarnival                  /p/nucarnival.html              200
-/lostfriends1-guide          /p/lostfriends1-guide.html      200
-/collar-malice-guide         /p/collar-malice-guide.html     200
-/collar-malice-fd-guide      /p/collar-malice-fd-guide.html  200
-/shuuen-no-virche-guide      /p/shuuen-no-virche-guide.html  200
-/even-if-tempest-guide       /p/even-if-tempest-guide.html   200
-/lemuresblue-guide           /p/lemuresblue-guide.html       200
-/15                          /p/15.html                      200
-/17                          /p/17.html                      200
-/code-realize-guide          /p/code-realize-guide.html      200
-/20                          /p/20.html                      200
-/code-realize-fd1-guide      /p/code-realize-fd1-guide.html  200
-/code-realize-fd2-guide      /p/code-realize-fd2-guide.html  200
-/amnesia-guide               /p/amnesia-guide.html           200
-/24                          /p/24.html                      200
-/25                          /p/25.html                      200
-/26                          /p/26.html                      200
-/27                          /p/27.html                      200
-/sekimorigami-guide          /p/sekimorigami-guide.html      200
-/428-guide                   /p/428-guide.html               200
-/dreambound-guide            /p/dreambound-guide.html        200
-/websites                    /p/websites.html                200
-/lostfriends2-guide          /p/lostfriends2-guide.html      200
-/47                          /p/47.html                      200
-/55                          /p/55.html                      200
-/even-if-tempest-fd-guide    /p/even-if-tempest-fd-guide.html 200
-/why-boom                    /p/why-boom.html                200
-/61                          /p/61.html                      200
-/67                          /p/67.html                      200
-/7zip-batch                  /p/7zip-batch.html              200
-/93                          /p/93.html                      200
-/117                         /p/117.html                     200
-/saves                       /p/saves.html                   200
-/ff14-fishing                /p/ff14-fishing.html            200
-/time-to-relax               /p/time-to-relax.html           200
-/crazy-chain-info            /p/crazy-chain-info.html        200
-/sins-of-kaleido-info        /p/sins-of-kaleido-info.html    200
-/trans                       /p/trans.html                   200
-/sullyland-info              /p/sullyland-info.html          200
-/record-noah-info            /p/record-noah-info.html        200
-/kimi-ni-madoi-info          /p/kimi-ni-madoi-info.html      200
