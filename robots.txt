@@ -4,5 +4,4 @@ Disallow: /archives/
 Disallow: /categories/
 Disallow: /tags/
 Disallow: /page/
-Disallow: /posts/
 Sitemap: https://www.flamecho.top/sitemap.txt
