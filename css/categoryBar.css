@@ -1,1 +1,77 @@
-#category-bar{padding:.4rem 1rem .4rem .5rem;background:#fff9f5d9;backdrop-filter:var(--backdrop-filter);border-radius:8px;display:flex;align-items:center;white-space:nowrap;overflow:auto;margin-bottom:20px}#category-bar.home-page{margin-top:20px}@media screen and (max-width:768px){#category-bar{border-radius:8px}}#category #category-bar{padding:0;border:3px solid #3a62a0}#category a.category-bar-item.select a{display:none}.category-in-bar{display:flex;white-space:nowrap}.category-in-bar-tips{margin-right:1rem;font-weight:700;color:var(--heo-main)}.category-bar-items{white-space:nowrap;display:flex}.category-bar-items::-webkit-scrollbar{display:none}.category-bar-item a{padding:.1rem .5rem;margin:0 .25rem;font-weight:700;border-radius:8px}.category-bar-item:hover a{background:var(--heo-main);color:var(--heo-white)}.category-bar-item.select a{background:var(--heo-main);color:var(--heo-white);border-radius:8px}.category-bar-more{margin-left:1rem;margin-right:1rem;font-weight:700;border-radius:8px}
+/* 首页分类条展示 */
+#category-bar {
+    padding: 0.4rem 1rem 0.4rem 0.5rem;
+    background: #fff9f5d9;
+    backdrop-filter: var(--backdrop-filter);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    overflow: auto;
+    margin-bottom: 20px;
+}
+
+/* 只在首页添加顶部边距 */
+#category-bar.home-page {
+    margin-top: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    #category-bar {
+        border-radius: 8px;
+    }
+}
+
+#category #category-bar {
+    padding: 0;
+    border: 3px solid #3a62a0;
+}
+
+#category a.category-bar-item.select a {
+    display: none;
+}
+
+.category-in-bar {
+    display: flex;
+    white-space: nowrap;
+}
+
+.category-in-bar-tips {
+    margin-right: 1rem;
+    font-weight: bold;
+    color: var(--heo-main);
+}
+
+.category-bar-items {
+    white-space: nowrap;
+    display: flex;
+}
+
+.category-bar-items::-webkit-scrollbar {
+    display: none;
+}
+
+.category-bar-item a {
+    padding: 0.1rem 0.5rem;
+    margin: 0 0.25rem;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.category-bar-item:hover a {
+    background: var(--heo-main);
+    color: var(--heo-white);
+}
+
+.category-bar-item.select a {
+    background: var(--heo-main);
+    color: var(--heo-white);
+    border-radius: 8px;
+}
+
+.category-bar-more {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    font-weight: bold;
+    border-radius: 8px;
+}

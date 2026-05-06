@@ -1,1 +1,486 @@
-.calendar-page{max-width:1200px;margin:0 auto;padding:20px}.calendar-layout{display:grid;grid-template-columns:1fr 1.2fr;gap:30px}@media (max-width:768px){.calendar-layout{grid-template-columns:1fr;gap:20px}}.calendar-container{background:var(--card-bg,#fff);border-radius:16px;padding:20px;box-shadow:0 4px 20px rgba(0,0,0,.08)}.calendar-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:20px;padding:0 10px}.calendar-header h2{margin:0;font-size:1.5rem;color:var(--font-color,#333)}.calendar-nav{display:flex;gap:12px}.calendar-nav button{background:var(--btn-bg,#f0f0f0);border:none;padding:8px 16px;border-radius:8px;cursor:pointer;font-size:1rem;color:#fff}.calendar-nav button:hover{background:var(--btn-hover-bg,#809ac1)}.calendar-weekdays{display:grid;grid-template-columns:repeat(7,1fr);text-align:center;font-weight:700;padding:10px 0;border-bottom:1px solid var(--border-color,#eee);margin-bottom:10px}.calendar-weekdays div{padding:8px;color:var(--font-color,#666)}.calendar-days{display:grid;grid-template-columns:repeat(7,1fr);gap:4px}.calendar-day{aspect-ratio:1;padding:8px;text-align:center;cursor:pointer;border-radius:12px;position:relative;background:var(--day-bg,transparent);display:flex;align-items:center;justify-content:center}.calendar-day:hover{background:var(--day-hover-bg,#f5f5f5)}.calendar-day.other-month{color:var(--other-month-color,#ccc)}.calendar-day.today{background:var(--today-bg,#3a62a0);color:#fff}.calendar-day.has-event{font-weight:700;position:relative}.calendar-day.has-event::after{content:'';position:absolute;bottom:6px;left:50%;transform:translateX(-50%);width:6px;height:6px;background:var(--event-dot,#ff6b6b);border-radius:50%}.calendar-day.today.has-event::after{background:#fff}.calendar-day.selected{outline:2px solid var(--selected-border,#3a62a0);outline-offset:-1px;background:var(--selected-bg,#e3f2fd)}.events-container{background:var(--card-bg,#fff);border-radius:16px;padding:20px;box-shadow:0 4px 20px rgba(0,0,0,.08)}.events-header{margin-bottom:20px;padding-bottom:10px;border-bottom:2px solid var(--border-color,#eee)}.events-header h3{margin:0 0 8px 0;font-size:1.3rem;color:var(--font-color,#333)}.events-header .selected-date{color:var(--accent-color,#3a62a0);font-size:.9rem}.events-list{min-height:auto;max-height:none;overflow-y:visible}.event-item{border-radius:12px;padding:15px;margin-bottom:12px;border-left:4px solid;transition:none}.event-item.game-card{background:#f8fcf8;border-left-color:#2e7d32}.event-item.update-card{background:#fff6ee;border-left-color:#ed6c02}.event-item.activity-card{background:#f6fbff;border-left-color:#0288d1}.event-item.deadline-card{background:#fff5f5;border-left-color:#d3625d}.event-item.sale-card{background:#faf5ff;border-left-color:#7b1fa2}.event-type{display:inline-block;padding:2px 10px;border-radius:20px;font-size:.75rem;margin-bottom:8px;font-weight:500;box-shadow:0 1px 2px rgba(0,0,0,.05)}.event-type.game{background:#e0f0e0;color:#2e7d32}.event-type.update{background:#ffe8d6;color:#ed6c02}.event-type.activity{background:#e3f2fd;color:#0288d1}.event-type.deadline{background:#ffe5e5;color:#c62828}.event-type.sale{background:#f0e5ff;color:#7b1fa2}.event-title{font-size:1rem;font-weight:600;margin-bottom:8px;color:var(--font-color,#333)}.event-desc{font-size:.85rem;color:var(--font-light,#666);margin-bottom:8px;line-height:1.4}.event-time{font-size:.75rem;color:var(--font-light,#999);display:flex;align-items:center;gap:5px}.empty-events{text-align:center;padding:60px 20px;color:var(--font-light,#999)}.add-event-section,.events-actions{display:none}[data-theme=dark] .calendar-container,[data-theme=dark] .events-container{background:var(--card-bg,#1e1e1e)}[data-theme=dark] .calendar-day:hover{background:var(--day-hover-bg,#2a2a2a)}[data-theme=dark] .event-item.game-card{background:rgba(46,125,50,.15);border-left-color:#81c784}[data-theme=dark] .event-item.update-card{background:rgba(237,108,2,.15);border-left-color:#ffb74d}[data-theme=dark] .event-item.activity-card{background:rgba(2,136,209,.15);border-left-color:#64b5f6}[data-theme=dark] .event-item.deadline-card{background:rgba(198,40,40,.15);border-left-color:#ef9a9a}[data-theme=dark] .event-item.sale-card{background:rgba(123,31,162,.15);border-left-color:#ce93d8}[data-theme=dark] .event-type.game{background:rgba(46,125,50,.3);color:#81c784}[data-theme=dark] .event-type.update{background:rgba(237,108,2,.3);color:#ffb74d}[data-theme=dark] .event-type.activity{background:rgba(2,136,209,.3);color:#64b5f6}[data-theme=dark] .event-type.deadline{background:rgba(198,40,40,.3);color:#ef9a9a}[data-theme=dark] .event-type.sale{background:rgba(123,31,162,.3);color:#ce93d8}[data-theme=dark] .calendar-day.selected{color:#000!important;background:#e3f2fd!important;outline:2px solid #3a62a0;outline-offset:-1px}[data-theme=dark] .calendar-day.today.selected{color:#000!important;background:#e3f2fd!important}[data-theme=dark] .calendar-day.today.selected:hover{color:#fff!important;background:#3a62a0!important}.event-dots{position:absolute;bottom:4px;left:50%;transform:translateX(-50%);display:flex;gap:3px;justify-content:center}.event-dot{width:6px;height:6px;border-radius:50%;display:inline-block}.calendar-day.has-event::after{display:none}@media (max-width:768px){.calendar-page{padding:10px}.calendar-header{margin-bottom:12px;padding:0 5px}.calendar-header h2{font-size:1.2rem}.calendar-nav button{padding:5px 10px;font-size:.85rem}.calendar-container{padding:12px;overflow-x:auto}.calendar-day,.calendar-weekdays div{font-size:.8rem;padding:6px 4px}.calendar-days{gap:2px;min-width:300px}.event-dots{bottom:2px;gap:2px}.event-dot{width:4px;height:4px}.events-container{padding:12px}.events-header h3{font-size:1.1rem}.event-item{padding:10px}.event-title{font-size:.9rem}.event-desc,.event-time{font-size:.75rem}}@media (max-width:480px){.calendar-header h2{font-size:1rem}.calendar-nav button{padding:4px 8px;font-size:.75rem}.calendar-day,.calendar-weekdays div{font-size:.7rem;padding:4px 2px}.calendar-day .day-number{font-size:.7rem}.events-header h3{font-size:1rem}}.calendar-day.today.selected{background:#e3f2fd!important;color:#000!important;outline:2px solid #3a62a0;outline-offset:-1px}[data-theme=dark] .calendar-day.other-month{color:#6b6b6b!important;opacity:.7}
+.calendar-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.calendar-layout {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: 30px;
+}
+
+@media (max-width: 768px) {
+  .calendar-layout {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}
+
+/* ========== 日历部分 ========== */
+.calendar-container {
+  background: var(--card-bg, #fff);
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+.calendar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 0 10px;
+}
+
+.calendar-header h2 {
+  margin: 0;
+  font-size: 1.5rem;
+  color: var(--font-color, #333);
+}
+
+.calendar-nav {
+  display: flex;
+  gap: 12px;
+}
+
+.calendar-nav button {
+  background: var(--btn-bg, #f0f0f0);
+  border: none;
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  color: #fff;
+}
+
+.calendar-nav button:hover {
+  background: var(--btn-hover-bg, #809ac1);
+}
+
+.calendar-weekdays {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  text-align: center;
+  font-weight: bold;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--border-color, #eee);
+  margin-bottom: 10px;
+}
+
+.calendar-weekdays div {
+  padding: 8px;
+  color: var(--font-color, #666);
+}
+
+.calendar-days {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 4px;
+}
+
+.calendar-day {
+  aspect-ratio: 1;
+  padding: 8px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 12px;
+  position: relative;
+  background: var(--day-bg, transparent);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.calendar-day:hover {
+  background: var(--day-hover-bg, #f5f5f5);
+}
+
+.calendar-day.other-month {
+  color: var(--other-month-color, #ccc);
+}
+
+.calendar-day.today {
+  background: var(--today-bg, #3a62a0);
+  color: white;
+}
+
+.calendar-day.has-event {
+  font-weight: bold;
+  position: relative;
+}
+
+.calendar-day.has-event::after {
+  content: '';
+  position: absolute;
+  bottom: 6px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 6px;
+  height: 6px;
+  background: var(--event-dot, #ff6b6b);
+  border-radius: 50%;
+}
+
+.calendar-day.today.has-event::after {
+  background: white;
+}
+
+.calendar-day.selected {
+  outline: 2px solid var(--selected-border, #3a62a0);
+  outline-offset: -1px;
+  background: var(--selected-bg, #e3f2fd);
+}
+
+/* ========== 事件列表部分 ========== */
+.events-container {
+  background: var(--card-bg, #fff);
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+.events-header {
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--border-color, #eee);
+}
+
+.events-header h3 {
+  margin: 0 0 8px 0;
+  font-size: 1.3rem;
+  color: var(--font-color, #333);
+}
+
+.events-header .selected-date {
+  color: var(--accent-color, #3a62a0);
+  font-size: 0.9rem;
+}
+
+.events-list {
+  min-height: auto;
+  max-height: none;
+  overflow-y: visible;
+}
+
+/* 事件卡片 - 每种类型不同背景色 */
+.event-item {
+  border-radius: 12px;
+  padding: 15px;
+  margin-bottom: 12px;
+  border-left: 4px solid;
+  transition: none;
+}
+
+/* 游戏发售卡片 - 极浅绿色背景 */
+.event-item.game-card {
+  background: #f8fcf8;
+  border-left-color: #2e7d32;
+}
+
+/* 游戏更新卡片 - 极浅橙色背景 */
+.event-item.update-card {
+  background: #fff6ee;
+  border-left-color: #ed6c02;
+}
+
+/* 游戏活动卡片 - 极浅蓝色背景 */
+.event-item.activity-card {
+  background: #f6fbff;
+  border-left-color: #0288d1;
+}
+
+/* 活动截止卡片 - 极浅粉色背景 */
+.event-item.deadline-card {
+  background: #fff5f5;
+  border-left-color: #d3625d;
+}
+
+/* 促销卡片 - 极浅紫色背景 */
+.event-item.sale-card {
+  background: #faf5ff;
+  border-left-color: #7b1fa2;
+}
+
+/* 事件类型标签 - 每种类型不同背景色 */
+.event-type {
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  margin-bottom: 8px;
+  font-weight: 500;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+/* 游戏发售标签 - 浅绿色 */
+.event-type.game {
+  background: #e0f0e0;
+  color: #2e7d32;
+}
+
+/* 游戏更新标签 - 浅橙色 */
+.event-type.update {
+  background: #ffe8d6;
+  color: #ed6c02;
+}
+
+/* 游戏活动标签 - 浅蓝色 */
+.event-type.activity {
+  background: #e3f2fd;
+  color: #0288d1;
+}
+
+/* 活动截止标签 - 浅粉色 */
+.event-type.deadline {
+  background: #ffe5e5;
+  color: #c62828;
+}
+
+/* 促销标签 - 浅紫色 */
+.event-type.sale {
+  background: #f0e5ff;
+  color: #7b1fa2;
+}
+
+.event-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: var(--font-color, #333);
+}
+
+.event-desc {
+  font-size: 0.85rem;
+  color: var(--font-light, #666);
+  margin-bottom: 8px;
+  line-height: 1.4;
+}
+
+.event-time {
+  font-size: 0.75rem;
+  color: var(--font-light, #999);
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.empty-events {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--font-light, #999);
+}
+
+/* 隐藏不需要的元素 */
+.add-event-section,
+.events-actions {
+  display: none;
+}
+
+/* ========== 暗色模式 ========== */
+[data-theme="dark"] .calendar-container,
+[data-theme="dark"] .events-container {
+  background: var(--card-bg, #1e1e1e);
+}
+
+[data-theme="dark"] .calendar-day:hover {
+  background: var(--day-hover-bg, #2a2a2a);
+}
+
+/* 暗色模式 - 事件卡片 */
+[data-theme="dark"] .event-item.game-card {
+  background: rgba(46, 125, 50, 0.15);
+  border-left-color: #81c784;
+}
+[data-theme="dark"] .event-item.update-card {
+  background: rgba(237, 108, 2, 0.15);
+  border-left-color: #ffb74d;
+}
+[data-theme="dark"] .event-item.activity-card {
+  background: rgba(2, 136, 209, 0.15);
+  border-left-color: #64b5f6;
+}
+[data-theme="dark"] .event-item.deadline-card {
+  background: rgba(198, 40, 40, 0.15);
+  border-left-color: #ef9a9a;
+}
+[data-theme="dark"] .event-item.sale-card {
+  background: rgba(123, 31, 162, 0.15);
+  border-left-color: #ce93d8;
+}
+
+/* 暗色模式 - 事件类型标签 */
+[data-theme="dark"] .event-type.game {
+  background: rgba(46, 125, 50, 0.3);
+  color: #81c784;
+}
+[data-theme="dark"] .event-type.update {
+  background: rgba(237, 108, 2, 0.3);
+  color: #ffb74d;
+}
+[data-theme="dark"] .event-type.activity {
+  background: rgba(2, 136, 209, 0.3);
+  color: #64b5f6;
+}
+[data-theme="dark"] .event-type.deadline {
+  background: rgba(198, 40, 40, 0.3);
+  color: #ef9a9a;
+}
+[data-theme="dark"] .event-type.sale {
+  background: rgba(123, 31, 162, 0.3);
+  color: #ce93d8;
+}
+
+/* 暗色模式 - 选中日期 */
+[data-theme="dark"] .calendar-day.selected {
+  color: #000000 !important;
+  background: #e3f2fd !important;
+  outline: 2px solid #3a62a0;
+  outline-offset: -1px;
+}
+
+[data-theme="dark"] .calendar-day.today.selected {
+  color: #000000 !important;
+  background: #e3f2fd !important;
+}
+
+[data-theme="dark"] .calendar-day.today.selected:hover {
+  color: #ffffff !important;
+  background: #3a62a0 !important;
+}
+
+/* 事件圆点容器 */
+.event-dots {
+  position: absolute;
+  bottom: 4px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 3px;
+  justify-content: center;
+}
+
+/* 单个圆点 */
+.event-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* 移除原来的单圆点样式 */
+.calendar-day.has-event::after {
+  display: none;
+}
+
+/* ========== 手机端适配 ========== */
+@media (max-width: 768px) {
+  .calendar-page {
+    padding: 10px;
+  }
+
+  /* 日历头部缩放 */
+  .calendar-header {
+    margin-bottom: 12px;
+    padding: 0 5px;
+  }
+
+  .calendar-header h2 {
+    font-size: 1.2rem;
+  }
+
+  .calendar-nav button {
+    padding: 5px 10px;
+    font-size: 0.85rem;
+  }
+
+  /* 日历容器 */
+  .calendar-container {
+    padding: 12px;
+    overflow-x: auto;
+  }
+
+  .calendar-weekdays div,
+  .calendar-day {
+    font-size: 0.8rem;
+    padding: 6px 4px;
+  }
+
+  .calendar-days {
+    gap: 2px;
+    min-width: 300px;
+  }
+
+  /* 圆点 */
+  .event-dots {
+    bottom: 2px;
+    gap: 2px;
+  }
+
+  .event-dot {
+    width: 4px;
+    height: 4px;
+  }
+
+  /* 事件列表 */
+  .events-container {
+    padding: 12px;
+  }
+
+  .events-header h3 {
+    font-size: 1.1rem;
+  }
+
+  .event-item {
+    padding: 10px;
+  }
+
+  .event-title {
+    font-size: 0.9rem;
+  }
+
+  .event-desc,
+  .event-time {
+    font-size: 0.75rem;
+  }
+}
+
+/* 极小屏幕（小于480px） */
+@media (max-width: 480px) {
+  .calendar-header h2 {
+    font-size: 1rem;
+  }
+
+  .calendar-nav button {
+    padding: 4px 8px;
+    font-size: 0.75rem;
+  }
+
+  .calendar-weekdays div,
+  .calendar-day {
+    font-size: 0.7rem;
+    padding: 4px 2px;
+  }
+
+  .calendar-day .day-number {
+    font-size: 0.7rem;
+  }
+
+  .events-header h3 {
+    font-size: 1rem;
+  }
+}
+
+/* 浅色模式 - 选中当天：蓝底黑字 */
+.calendar-day.today.selected {
+  background: #e3f2fd !important;
+  color: #000000 !important;
+  outline: 2px solid #3a62a0;
+  outline-offset: -1px;
+}
+
+/* 暗色模式 - 非当月日期颜色变淡 */
+[data-theme="dark"] .calendar-day.other-month {
+  color: #6b6b6b !important;
+  opacity: 0.7;
+}
