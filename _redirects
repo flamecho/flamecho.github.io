@@ -123,10 +123,16 @@
 /posts/sins-of-kaleido-info.html /p/sins-of-kaleido-info 301
 /posts/trans /p/trans 301
 /posts/trans.html /p/trans 301
-/posts/sullyland-info /p/sullyland-info 301
-/posts/sullyland-info.html /p/sullyland-info 301
-/posts/record-noah-info /p/record-noah-info 301
-/posts/record-noah-info.html /p/record-noah-info 301
+/posts/sullyland-info / 301
+/posts/sullyland-info.html / 301
+/posts/record-noah-info / 301
+/posts/record-noah-info.html / 301
+/posts/matsurika-fd-info / 301
+/posts/matsurika-fd-info.html / 301
+/posts/blog-260323 / 301
+/posts/blog-260323.html / 301
+/posts/hexo-calendar-guide / 301
+/posts/hexo-calendar-guide.html / 301
 /posts/kimi-ni-madoi-info /p/kimi-ni-madoi-info 301
 /posts/kimi-ni-madoi-info.html /p/kimi-ni-madoi-info 301
 /posts/31 /p/trans 301
@@ -450,3 +456,4 @@
 /posts/212 /p/trans 301
 /posts/212.html /p/trans 301
 /posts/todo/ /p/trans 301
+/posts/calendar/ 301
