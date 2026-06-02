@@ -129,8 +129,8 @@
 /posts/record-noah-info.html / 301
 /posts/matsurika-fd-info / 301
 /posts/matsurika-fd-info.html / 301
-/posts/blog-260323 / 301
-/posts/blog-260323.html / 301
+/p/blog-260323 / 301
+/p/blog-260323.html / 301
 /posts/hexo-calendar-guide / 301
 /posts/hexo-calendar-guide.html / 301
 /posts/kimi-ni-madoi-info /p/kimi-ni-madoi-info 301
@@ -455,5 +455,9 @@
 /posts/210.html /p/trans 301
 /posts/212 /p/trans 301
 /posts/212.html /p/trans 301
-/posts/todo/ /p/trans 301
-/posts/calendar/ 301
+/todo/ /p/trans 301
+/calendar/ 301
+/p/lppt 301
+/p/lppt.html 301
+/p/chronostacia-repo 301
+/p/chronostacia-repo.html 301
