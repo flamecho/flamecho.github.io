@@ -4,4 +4,6 @@ Disallow: /archives/
 Disallow: /categories/
 Disallow: /tags/
 Disallow: /page/
+Disallow: /p/trans.html
+Disallow: /p/blgame.html
 Sitemap: https://www.flamecho.top/sitemap.txt
