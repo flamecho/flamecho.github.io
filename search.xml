@@ -5179,7 +5179,7 @@ ini后缀的文件用notepad++手动修改编码为UTF-16LE。
   <td>Piacere<td>PC<td>预翻译<td>Re.dive Wonderland（韩文）<tr> <!--  -->
   <td>Pico2☆ミ<td>PC<td>预翻译<td>廻ノ夏レコード<tr> <!--  -->  
   <td>Poni-Pachet:RE<td>PC<td>补丁<td>孤島の魔女と放蕩王子<tr> <!--  -->
-  <td rowspan=14>QuinRose<td>PSP<td>预翻译<td>逢魔時～怪談ロマンス～<tr> <!--  -->
+  <td rowspan=15>QuinRose<td>PSP<td>预翻译<td>逢魔時～怪談ロマンス～<tr> <!--  -->
   <td>PSP<td>预翻译<td>黄昏時～怪談ロマンス～<tr> <!--  -->
   <td>PSP<td>预翻译<td>百鬼夜行～怪談ロマンス～<tr> <!--  -->
   <td>PSP<td>预翻译<td>百物語～怪談ロマンス～<tr> <!--  -->
@@ -5192,6 +5192,7 @@ ini后缀的文件用notepad++手动修改编码为UTF-16LE。
   <td>PSP<td>预翻译<td>里見八犬伝 村雨丸之記<tr> <!--  -->
   <td>PSP<td>预翻译<td>黒雪姫～スノウ・ブラック～<tr> <!--  -->
   <td>PSP<td>预翻译<td>黒雪姫～スノウ・マジック～<tr> <!--  -->
+  <td>PSV<td>预翻译<td>新装版クリムゾン・エンパイア<tr> <!--  -->
   <td>PSV<td>预翻译<td>源氏恋絵巻<tr> <!--  -->
   <td rowspan=2>RED<td>PSV<td>预翻译<td>蝶々事件ラブソディック<tr> <!--  -->
   <td>NS<td>预翻译<td>DesperaDrops<tr> <!--  -->
@@ -5311,6 +5312,7 @@ ini后缀的文件用notepad++手动修改编码为UTF-16LE。
  <col style='width:20%'>
  <col style='width:64%'>
   <td>日期<td>游戏品牌<td>游戏名称<tr>
+  <td>2026-7-9<td>QuinRose<td>新装版クリムゾン・エンパイア<tr>
   <td>2026-7-8<td>Lateral<td>グラン・オダリスク レヴェイユ:アスラン編<tr>
   <td>2026-7-7<td>Avida<td>黒き森の春<tr>
   <td>2026-7-7<td>batensan<td>Moon Observatory Iris<tr>
@@ -5371,7 +5373,6 @@ ini后缀的文件用notepad++手动修改编码为UTF-16LE。
  </tr>
 </table>
 </div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="汉化补丁-5"><ul>
-<li>【PSV】新装版クリムゾン・エンパイア</li>
 <li>【PSV】DIABOLIK LOVERS VANDEAD CARNIVAL <!-- https://choro-game.com/blog-entry-730.html --></li>
 </ul>
 <!--  -->
