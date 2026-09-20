@@ -71,51 +71,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【教程】Luckydog1+badegg安装教程</title>
-    <url>/p/badegg-install.html</url>
-    <content><![CDATA[<style>
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-</style>
-
-<p>&#12288;&#12288;安装遇到问题的话可以查看这个：<br><a target="_blank" href="https://www.flamecho.top/p/install-guide" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/p/install-guide</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a></p>
-<h1 id="❖-安装"><a href="#❖-安装" class="headerlink" title="❖ 安装"></a>❖ 安装</p></h1><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/dd29cd08-beb6-4855-aed9-3f3535d46971.png" alt="安装教程_Luckydog1bad egg" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/cda7f090-d3f2-4723-b990-dbba78f3efc6.png" alt="安装教程_Luckydog1bad egg" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/0e438937-2a30-4b40-a351-dec7086ca4d0.png" alt="安装教程_Luckydog1bad egg" />
-<font color=#d3625d>&#12288;&#12288;注：上一步↑找不到装载的话：右键-打开方式-Windows资源管理器，然后继续进行下一步↓</font>
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/26fd0458-af97-423f-bfcf-ee5d7e085238.png" alt="安装教程_Luckydog1bad egg" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/1a63e70c-89b3-4109-a7ed-b47bd1c0cfc6.png" alt="安装教程_Luckydog1bad egg" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/eeebf69b-499e-4252-b28f-9846e7858a36.png" alt="安装教程_Luckydog1bad egg" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/bd4c4a3b-e713-46bb-9fb0-32de2fc32c64.png" alt="安装教程_Luckydog1bad egg" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/3ef7efda-d329-403f-b35a-da84899c234d.png" alt="安装教程_Luckydog1bad egg" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/01bf3141-11c8-4cbf-90cc-175fcbabcdc1.png" alt="安装教程_Luckydog1bad egg" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/15e5ac8b-b446-4701-ad0f-455394dc178a.png" alt="安装教程_Luckydog1bad egg" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/cb7402b1-0969-4620-8cb2-b17b9ee74850.png" alt="安装教程_Luckydog1bad egg" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/d386f816-b132-4b8e-b306-9189ad80a699.png" alt="安装教程_Luckydog1bad egg" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/f6492d66-22ae-4b55-989d-8f7a98251ec9.png" alt="安装教程_Luckydog1bad egg" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/cbdf028b-bd04-452f-8e24-32882ca79003.png" alt="安装教程_Luckydog1bad egg" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/2b8470a1-4cdf-4dd2-aa9a-def32141a1e7.png" alt="安装教程_Luckydog1bad egg" />
-
-
-
-<h1 id="❖-卸载"><a href="#❖-卸载" class="headerlink" title="❖ 卸载"></a>❖ 卸载</p></h1><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/06836a17-1598-48d6-88cd-a68f0e5bfee1.png" alt="安装教程_Luckydog1bad egg" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/f693bf88-86b2-45dc-9a93-e8cfd873b5b6.png" alt="安装教程_Luckydog1bad egg" />
-]]></content>
-      <categories>
-        <category>教程</category>
-        <category>游戏运行</category>
-      </categories>
-      <tags>
-        <tag>游戏运行</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【攻略】Code︰Realize ～创世的公主～（ns繁中）</title>
     <url>/p/code-realize-guide.html</url>
     <content><![CDATA[<style>
@@ -568,6 +523,51 @@
       </tags>
   </entry>
   <entry>
+    <title>【教程】Luckydog1+badegg安装教程</title>
+    <url>/p/badegg-install.html</url>
+    <content><![CDATA[<style>
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+<p>&#12288;&#12288;安装遇到问题的话可以查看这个：<br><a target="_blank" href="https://www.flamecho.top/p/install-guide" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/p/install-guide</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a></p>
+<h1 id="❖-安装"><a href="#❖-安装" class="headerlink" title="❖ 安装"></a>❖ 安装</p></h1><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/dd29cd08-beb6-4855-aed9-3f3535d46971.png" alt="安装教程_Luckydog1bad egg" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/cda7f090-d3f2-4723-b990-dbba78f3efc6.png" alt="安装教程_Luckydog1bad egg" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/0e438937-2a30-4b40-a351-dec7086ca4d0.png" alt="安装教程_Luckydog1bad egg" />
+<font color=#d3625d>&#12288;&#12288;注：上一步↑找不到装载的话：右键-打开方式-Windows资源管理器，然后继续进行下一步↓</font>
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/26fd0458-af97-423f-bfcf-ee5d7e085238.png" alt="安装教程_Luckydog1bad egg" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/1a63e70c-89b3-4109-a7ed-b47bd1c0cfc6.png" alt="安装教程_Luckydog1bad egg" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/eeebf69b-499e-4252-b28f-9846e7858a36.png" alt="安装教程_Luckydog1bad egg" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/bd4c4a3b-e713-46bb-9fb0-32de2fc32c64.png" alt="安装教程_Luckydog1bad egg" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/3ef7efda-d329-403f-b35a-da84899c234d.png" alt="安装教程_Luckydog1bad egg" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/01bf3141-11c8-4cbf-90cc-175fcbabcdc1.png" alt="安装教程_Luckydog1bad egg" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/15e5ac8b-b446-4701-ad0f-455394dc178a.png" alt="安装教程_Luckydog1bad egg" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/cb7402b1-0969-4620-8cb2-b17b9ee74850.png" alt="安装教程_Luckydog1bad egg" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/d386f816-b132-4b8e-b306-9189ad80a699.png" alt="安装教程_Luckydog1bad egg" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/f6492d66-22ae-4b55-989d-8f7a98251ec9.png" alt="安装教程_Luckydog1bad egg" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/cbdf028b-bd04-452f-8e24-32882ca79003.png" alt="安装教程_Luckydog1bad egg" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/2b8470a1-4cdf-4dd2-aa9a-def32141a1e7.png" alt="安装教程_Luckydog1bad egg" />
+
+
+
+<h1 id="❖-卸载"><a href="#❖-卸载" class="headerlink" title="❖ 卸载"></a>❖ 卸载</p></h1><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/06836a17-1598-48d6-88cd-a68f0e5bfee1.png" alt="安装教程_Luckydog1bad egg" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/f693bf88-86b2-45dc-9a93-e8cfd873b5b6.png" alt="安装教程_Luckydog1bad egg" />
+]]></content>
+      <categories>
+        <category>教程</category>
+        <category>游戏运行</category>
+      </categories>
+      <tags>
+        <tag>游戏运行</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【教程】PigeonBlood鸽子血安装教程</title>
     <url>/p/pigeonblood-install.html</url>
     <content><![CDATA[<style>
@@ -896,6 +896,79 @@
       </tags>
   </entry>
   <entry>
+    <title>【教程】沉默的法则安装教程</title>
+    <url>/p/omerta-install.html</url>
+    <content><![CDATA[<style>
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+<p>&#12288;&#12288;安装遇到问题的话可以查看这个：<br><a target="_blank" href="https://www.flamecho.top/p/install-guide" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/p/install-guide</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>&#12288;&#12288;游戏正版购买链接 <a href="https://www.dlsite.com/pro/work/=/product_id/VJ010834.html">点击跳转至DLsite</a><br>&#12288;&#12288;游戏相关信息 <a href="https://vndb.org/v5243">点击跳转至VNDB</a></p>
+<h1 id="❖-安装"><a href="#❖-安装" class="headerlink" title="❖ 安装"></a>❖ 安装</p></h1><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/8dc9f787-da81-4af1-b697-067085d582aa.png" alt="安装教程_沉默的法则" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/ebef91d0-8c19-4882-ac0e-e8694991c114.png" alt="安装教程_沉默的法则" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/9b4aa42f-ee1f-4b25-8715-3e40c8540283.png" alt="安装教程_沉默的法则" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/61b6ac7b-fefa-4786-ab0f-2d3bbacfc920.png" alt="安装教程_沉默的法则" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/b4db2d74-24b7-46aa-9e86-85d7494556ef.png" alt="安装教程_沉默的法则" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/2b1f78cc-093d-415b-b0da-a76007980c34.png" alt="安装教程_沉默的法则" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/c9596814-87e1-419b-9e06-d1c72e541d43.png" alt="安装教程_沉默的法则" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/34d2962f-6af2-4d65-9dc6-376585c9538b.png" alt="安装教程_沉默的法则" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/15a0b088-def4-44e6-a5c9-c8b77a73a8f1.png" alt="安装教程_沉默的法则" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/b1d2e76e-3c0e-4474-99f0-8017d1d43a50.png" alt="安装教程_沉默的法则" />
+
+
+
+<h1 id="❖-卸载"><a href="#❖-卸载" class="headerlink" title="❖ 卸载"></a>❖ 卸载</p></h1><p>&#12288;&#12288;把文件夹删掉即可。</p>
+]]></content>
+      <categories>
+        <category>教程</category>
+        <category>游戏运行</category>
+      </categories>
+      <tags>
+        <tag>游戏运行</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【教程】沉默的法则 CODE:TYCOON安装教程</title>
+    <url>/p/omertafd-install.html</url>
+    <content><![CDATA[<style>
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+<p>&#12288;&#12288;安装遇到问题的话可以查看这个：<br><a target="_blank" href="https://www.flamecho.top/p/install-guide" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/p/install-guide</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>&#12288;&#12288;游戏正版购买链接 <a href="https://www.dlsite.com/pro/work/=/product_id/VJ010835.html">点击跳转至DLsite</a><br>&#12288;&#12288;游戏相关信息 <a href="https://vndb.org/v10279">点击跳转至VNDB</a></p>
+<h1 id="❖-安装"><a href="#❖-安装" class="headerlink" title="❖ 安装"></a>❖ 安装</p></h1><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/9b5cfc09-38d0-4aab-a514-8fb2d34c3b41.png" alt="安装教程_沉默的法则FD" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/683c2ab2-681f-4a73-ab30-a831040ed6f4.png" alt="安装教程_沉默的法则FD" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/30caa162-de3c-48e8-8b01-3e4fd8699a2e.png" alt="安装教程_沉默的法则FD" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/0801c57c-55fb-4635-9512-f281867832a8.png" alt="安装教程_沉默的法则FD" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/2405a578-b9ad-45e9-98f2-e4b55a0fdbe1.png" alt="安装教程_沉默的法则FD" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/bf309eaa-21e1-403d-b57c-8af1ae5fd605.png" alt="安装教程_沉默的法则FD" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/1993dfc1-57c4-48b1-8216-1a20f60cae52.png" alt="安装教程_沉默的法则FD" />
+
+
+
+<h1 id="❖-卸载"><a href="#❖-卸载" class="headerlink" title="❖ 卸载"></a>❖ 卸载</p></h1><p>&#12288;&#12288;把文件夹删掉即可。</p>
+]]></content>
+      <categories>
+        <category>教程</category>
+        <category>游戏运行</category>
+      </categories>
+      <tags>
+        <tag>游戏运行</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【攻略】失忆症 -Amnesia-（ns繁中）</title>
     <url>/p/amnesia-guide.html</url>
     <content><![CDATA[<style>
@@ -1209,114 +1282,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【教程】沉默的法则安装教程</title>
-    <url>/p/omerta-install.html</url>
-    <content><![CDATA[<style>
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-</style>
-
-<p>&#12288;&#12288;安装遇到问题的话可以查看这个：<br><a target="_blank" href="https://www.flamecho.top/p/install-guide" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/p/install-guide</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>&#12288;&#12288;游戏正版购买链接 <a href="https://www.dlsite.com/pro/work/=/product_id/VJ010834.html">点击跳转至DLsite</a><br>&#12288;&#12288;游戏相关信息 <a href="https://vndb.org/v5243">点击跳转至VNDB</a></p>
-<h1 id="❖-安装"><a href="#❖-安装" class="headerlink" title="❖ 安装"></a>❖ 安装</p></h1><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/8dc9f787-da81-4af1-b697-067085d582aa.png" alt="安装教程_沉默的法则" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/ebef91d0-8c19-4882-ac0e-e8694991c114.png" alt="安装教程_沉默的法则" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/9b4aa42f-ee1f-4b25-8715-3e40c8540283.png" alt="安装教程_沉默的法则" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/61b6ac7b-fefa-4786-ab0f-2d3bbacfc920.png" alt="安装教程_沉默的法则" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/b4db2d74-24b7-46aa-9e86-85d7494556ef.png" alt="安装教程_沉默的法则" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/2b1f78cc-093d-415b-b0da-a76007980c34.png" alt="安装教程_沉默的法则" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/c9596814-87e1-419b-9e06-d1c72e541d43.png" alt="安装教程_沉默的法则" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/34d2962f-6af2-4d65-9dc6-376585c9538b.png" alt="安装教程_沉默的法则" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/15a0b088-def4-44e6-a5c9-c8b77a73a8f1.png" alt="安装教程_沉默的法则" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/b1d2e76e-3c0e-4474-99f0-8017d1d43a50.png" alt="安装教程_沉默的法则" />
-
-
-
-<h1 id="❖-卸载"><a href="#❖-卸载" class="headerlink" title="❖ 卸载"></a>❖ 卸载</p></h1><p>&#12288;&#12288;把文件夹删掉即可。</p>
-]]></content>
-      <categories>
-        <category>教程</category>
-        <category>游戏运行</category>
-      </categories>
-      <tags>
-        <tag>游戏运行</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【教程】Omega Vampire安装教程</title>
-    <url>/p/ov-install.html</url>
-    <content><![CDATA[<style>
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-</style>
-
-<p>&#12288;&#12288;安装遇到问题的话可以查看这个：<br><a target="_blank" href="https://www.flamecho.top/p/install-guide" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/p/install-guide</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>&#12288;&#12288;游戏正版购买链接 <a href="https://www.dlsite.com/pro/work/=/product_id/VJ012247.html">点击跳转至DLsite</a><br>&#12288;&#12288;游戏相关信息 <a href="https://vndb.org/v19455">点击跳转至VNDB</a></p>
-<h1 id="❖-安装"><a href="#❖-安装" class="headerlink" title="❖ 安装"></a>❖ 安装</p></h1><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/3feee06b-6b80-4c1c-ab99-e06dc1dbb6d6.png" alt="安装教程_omegavampire" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/8c0381aa-bce8-4378-924b-2c835f664871.png" alt="安装教程_omegavampire" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/2b818f62-70ff-4cd3-bd5b-69be0d151264.png" alt="安装教程_omegavampire" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/6814981a-ac7c-4e02-9312-d14a90804b9e.png" alt="安装教程_omegavampire" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/5b578387-92cd-401e-a464-3de362c33a74.png" alt="安装教程_omegavampire" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/e486e63e-7fc7-478e-8aee-01aa142c744e.png" alt="安装教程_omegavampire" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/eda3b5ff-f97e-464e-bc08-63d8c41c7358.png" alt="安装教程_omegavampire" />
-
-
-
-<h1 id="❖-卸载"><a href="#❖-卸载" class="headerlink" title="❖ 卸载"></a>❖ 卸载</p></h1><p>&#12288;&#12288;把文件夹删掉即可。</p>
-]]></content>
-      <categories>
-        <category>教程</category>
-        <category>游戏运行</category>
-      </categories>
-      <tags>
-        <tag>游戏运行</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【教程】沉默的法则 CODE:TYCOON安装教程</title>
-    <url>/p/omertafd-install.html</url>
-    <content><![CDATA[<style>
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-</style>
-
-<p>&#12288;&#12288;安装遇到问题的话可以查看这个：<br><a target="_blank" href="https://www.flamecho.top/p/install-guide" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/p/install-guide</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>&#12288;&#12288;游戏正版购买链接 <a href="https://www.dlsite.com/pro/work/=/product_id/VJ010835.html">点击跳转至DLsite</a><br>&#12288;&#12288;游戏相关信息 <a href="https://vndb.org/v10279">点击跳转至VNDB</a></p>
-<h1 id="❖-安装"><a href="#❖-安装" class="headerlink" title="❖ 安装"></a>❖ 安装</p></h1><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/9b5cfc09-38d0-4aab-a514-8fb2d34c3b41.png" alt="安装教程_沉默的法则FD" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/683c2ab2-681f-4a73-ab30-a831040ed6f4.png" alt="安装教程_沉默的法则FD" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/30caa162-de3c-48e8-8b01-3e4fd8699a2e.png" alt="安装教程_沉默的法则FD" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/0801c57c-55fb-4635-9512-f281867832a8.png" alt="安装教程_沉默的法则FD" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/2405a578-b9ad-45e9-98f2-e4b55a0fdbe1.png" alt="安装教程_沉默的法则FD" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/bf309eaa-21e1-403d-b57c-8af1ae5fd605.png" alt="安装教程_沉默的法则FD" />
-<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/1993dfc1-57c4-48b1-8216-1a20f60cae52.png" alt="安装教程_沉默的法则FD" />
-
-
-
-<h1 id="❖-卸载"><a href="#❖-卸载" class="headerlink" title="❖ 卸载"></a>❖ 卸载</p></h1><p>&#12288;&#12288;把文件夹删掉即可。</p>
-]]></content>
-      <categories>
-        <category>教程</category>
-        <category>游戏运行</category>
-      </categories>
-      <tags>
-        <tag>游戏运行</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【教程】游戏常见问题解决方案</title>
     <url>/p/install-guide.html</url>
     <content><![CDATA[<style>
@@ -1431,6 +1396,41 @@
       <tags>
         <tag>游戏攻略</tag>
         <tag>乙女向</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【教程】Omega Vampire安装教程</title>
+    <url>/p/ov-install.html</url>
+    <content><![CDATA[<style>
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+<p>&#12288;&#12288;安装遇到问题的话可以查看这个：<br><a target="_blank" href="https://www.flamecho.top/p/install-guide" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/p/install-guide</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>&#12288;&#12288;游戏正版购买链接 <a href="https://www.dlsite.com/pro/work/=/product_id/VJ012247.html">点击跳转至DLsite</a><br>&#12288;&#12288;游戏相关信息 <a href="https://vndb.org/v19455">点击跳转至VNDB</a></p>
+<h1 id="❖-安装"><a href="#❖-安装" class="headerlink" title="❖ 安装"></a>❖ 安装</p></h1><img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/3feee06b-6b80-4c1c-ab99-e06dc1dbb6d6.png" alt="安装教程_omegavampire" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/8c0381aa-bce8-4378-924b-2c835f664871.png" alt="安装教程_omegavampire" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/2b818f62-70ff-4cd3-bd5b-69be0d151264.png" alt="安装教程_omegavampire" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/6814981a-ac7c-4e02-9312-d14a90804b9e.png" alt="安装教程_omegavampire" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/5b578387-92cd-401e-a464-3de362c33a74.png" alt="安装教程_omegavampire" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/e486e63e-7fc7-478e-8aee-01aa142c744e.png" alt="安装教程_omegavampire" />
+<img src="https://bbs.api.hoilai.com/upload/img/2025/7/13/eda3b5ff-f97e-464e-bc08-63d8c41c7358.png" alt="安装教程_omegavampire" />
+
+
+
+<h1 id="❖-卸载"><a href="#❖-卸载" class="headerlink" title="❖ 卸载"></a>❖ 卸载</p></h1><p>&#12288;&#12288;把文件夹删掉即可。</p>
+]]></content>
+      <categories>
+        <category>教程</category>
+        <category>游戏运行</category>
+      </categories>
+      <tags>
+        <tag>游戏运行</tag>
       </tags>
   </entry>
   <entry>
@@ -2324,7 +2324,7 @@
 
 <h1 id="❖-前言"><a href="#❖-前言" class="headerlink" title="❖ 前言"></a>❖ 前言</h1><p>本人<span class='heimu'>是纯文科生，编程基础约等于0，所以</span>汉化出来的游戏都没有太大的难度。<br>写这篇文章是希望为同样没有编程基础的同好们提供我个人的经验，<br>很多游戏的汉化流程都大同小异，<br>希望能为同好们迈出汉化的第一步提供一些方向。</p>
 <p>请注意：<br>不论有多粗略，请务必进行二次校对，至少对术语进行统一，不要折磨你的同好。<br><span class='heimu'>回旋镖来了，先用KeywordGacha生成术语表再翻译的话，除了程序问题也没啥需要特意改的了，开摆！<br>不过翻译前记得检查一遍术语表。</span><br>同时注意标注为AI汉化&#x2F;机翻汉化。</p>
-<p>解包、未授权的汉化都是侵权行为。<br>本文仅供学习交流，如有需要请发邮件至<a href="mailto:&#102;&#108;&#x61;&#x6d;&#x65;&#x63;&#x68;&#x6f;&#64;&#113;&#113;&#x2e;&#x63;&#x6f;&#109;">&#102;&#108;&#x61;&#x6d;&#x65;&#x63;&#x68;&#x6f;&#64;&#113;&#113;&#x2e;&#x63;&#x6f;&#109;</a> ，在一封邮件内详细描述问题。<br>在文章下方评论也可以。<br>如果有过于简略看不懂的地方也可以发邮件或者B站私信，会抽时间做图文教程。<br><span class='heimu'>这个教程里没什么图纯是因为懒得搞的，都不知道有无人看</span></p>
+<p>解包、未授权的汉化都是侵权行为。<br>本文仅供学习交流，如有需要请发邮件至<a href="mailto:&#102;&#108;&#x61;&#109;&#101;&#99;&#x68;&#x6f;&#x40;&#113;&#x71;&#x2e;&#99;&#111;&#109;">&#102;&#108;&#x61;&#109;&#101;&#99;&#x68;&#x6f;&#x40;&#113;&#x71;&#x2e;&#99;&#111;&#109;</a> ，在一封邮件内详细描述问题。<br>在文章下方评论也可以。<br>如果有过于简略看不懂的地方也可以发邮件或者B站私信，会抽时间做图文教程。<br><span class='heimu'>这个教程里没什么图纯是因为懒得搞的，都不知道有无人看</span></p>
 <hr class="custom-hr">
 
 
@@ -3207,6 +3207,76 @@
       </tags>
   </entry>
   <entry>
+    <title>【汉化补丁】六月的毒（pc日文）</title>
+    <url>/p/6doku-trans.html</url>
+    <content><![CDATA[<style>
+.center
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+
+  text-align: center
+}
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+.swiper-button-next, .swiper-button-prev {
+  color: #3a62a0;
+}
+</style>
+
+<p><a target="_blank" href="https://izumicava.wixsite.com/gintou/6doku-top"><img src="/img/30.六月的毒汉化/官网.jpg" alt="游戏标题图" width="450" style="border-radius: 8px" title="点击跳转至游戏官网" /></a></p>
+<p style='line-height:1;text-align:center'>- OFFICIAL WEBSITE -</p>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; justify-items: center; max-width: 610px; margin: 0 auto;">
+  <div>
+    <a target="_blank" href="https://vndb.org/v34708">
+      <img src="/img/0.相关链接图/vndb.jpg" alt="vndb的logo" title="点击跳转至VNDB" style="border-radius: 8px" width="297" height="86">
+    </a>
+    <p style='line-height:1;text-align:center;margin-top:14px;font-size:15px;'>- VNDB -</p>
+  </div>
+  <div>
+    <a target="_blank" href="https://bangumi.tv/subject/202187">
+      <img src="/img/0.相关链接图/bangumi2.jpg" alt="bangumi的logo" title="点击跳转至Bangumi" style="border-radius: 8px" width="297" height="86">
+    </a>
+    <p style='line-height:1;text-align:center;margin-top:14px;font-size:15px;'>- BANGUMI -</p>
+  </div>
+</div>
+
+<div class="tabs" id="置顶"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#置顶-1">汉化声明</button></li><li class="tab"><button type="button" data-href="#置顶-2">如有漏翻报错等问题</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="置顶-1"><p>在使用此补丁前，请您务必仔细阅读并透彻理解本声明。<br>如果您使用此补丁，您的使用行为将视为对本声明的全部内容认可。</p>
+<p>本汉化补丁由 <a href="https://space.bilibili.com/13389408">B站@水晶烧烤架</a> 汉化，<br>由 <a href="https://space.bilibili.com/59695199">B站@Flamecho</a> 代发。<br>汉化补丁为永久免费使用，发布方式见本文网址。<br>仅供个人学习交流用途，请勿直播、录屏并上传，<br>转载请保留此声明并注明发布地址。<br>包括但不限于任何整合、修改、盈利的行为本人不承担任何责任。<br>以上声明的最终解释权归 Flamecho 所有。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-2"><p>请私信B站@Flamecho并附截图。<br>学业繁忙不一定及时回复，提前致歉还请见谅。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+
+
+<h1 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a>❖ 故事梗概</p></h1><p>2014年8月发售的「平行梦境（パラレルワールド・インザドリィム）」的番外。<br>承接御影线「处刑」结局的时间线。</p>
+<p>枫叶初染的秋日。<br>放学后的图书室里，御影亨与筱崎一夜正共度闲适的午后时光。<br>此刻，御影开始向一夜讲述自己的过往。</p>
+<p>以御影为第一视角展开的番外。</p>
+<h1 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a>❖ 下载</p></h1><div class="tabs" id="下载"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#下载-1">汉化下载</button></li><li class="tab"><button type="button" data-href="#下载-2">游戏获取</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="下载-1"><p>使用方式请查看压缩包内的”汉化声明.TXT”。<br>全开存档也在压缩包内。<a target="_blank" href="https://www.ilanzou.com/s/zv8l75De" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">蓝奏云（需要登录）</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.ilanzou.com/s/zv8l75De</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a> <a target="_blank" href="https://pan.huang1111.cn/s/VLbkoUd" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">huang1111网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.huang1111.cn/s/VLbkoUd</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-2"><p><a target="_blank" href="https://izumicava.wixsite.com/gintou/6doku" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">游戏下载地址-官网</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://izumicava.wixsite.com/gintou/6doku</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+
+
+<h1 id="❖-预览"><a href="#❖-预览" class="headerlink" title="❖ 预览"></a>❖ 预览</p></h1><div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114272604588622&bvid=BV11BZ1YoES8&cid=25779838685&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no">
+</iframe>
+</div>
+]]></content>
+      <categories>
+        <category>游戏汉化</category>
+        <category>銀灯</category>
+      </categories>
+      <tags>
+        <tag>蔷薇向</tag>
+        <tag>游戏汉化</tag>
+        <tag>PC</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【攻略】Collar×Malice（ns繁中）</title>
     <url>/p/collar-malice-guide.html</url>
     <content><![CDATA[<style>
@@ -4078,7 +4148,7 @@
   <li>工具栏-选取OCR范围-框选游戏文本范围（不要圈上人名）</li>
   <li>工具栏-显示/隐藏范围框，将范围框隐藏</li>
   <li>工具栏-将 <code>自动翻译</code>（图标为⏩）点为粉色</li>
-  <li>游戏内设置：文本显示速度调到最快</li>
+  <li>游戏内设置：文本显示速度调到最快；文本背景透明度调到最不透明</li>
 </ol>
 
 <hr class="custom-hr">
@@ -4158,76 +4228,6 @@
       </categories>
       <tags>
         <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【汉化补丁】六月的毒（pc日文）</title>
-    <url>/p/6doku-trans.html</url>
-    <content><![CDATA[<style>
-.center
-{
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-
-  text-align: center
-}
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-.swiper-button-next, .swiper-button-prev {
-  color: #3a62a0;
-}
-</style>
-
-<p><a target="_blank" href="https://izumicava.wixsite.com/gintou/6doku-top"><img src="/img/30.六月的毒汉化/官网.jpg" alt="游戏标题图" width="450" style="border-radius: 8px" title="点击跳转至游戏官网" /></a></p>
-<p style='line-height:1;text-align:center'>- OFFICIAL WEBSITE -</p>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; justify-items: center; max-width: 610px; margin: 0 auto;">
-  <div>
-    <a target="_blank" href="https://vndb.org/v34708">
-      <img src="/img/0.相关链接图/vndb.jpg" alt="vndb的logo" title="点击跳转至VNDB" style="border-radius: 8px" width="297" height="86">
-    </a>
-    <p style='line-height:1;text-align:center;margin-top:14px;font-size:15px;'>- VNDB -</p>
-  </div>
-  <div>
-    <a target="_blank" href="https://bangumi.tv/subject/202187">
-      <img src="/img/0.相关链接图/bangumi2.jpg" alt="bangumi的logo" title="点击跳转至Bangumi" style="border-radius: 8px" width="297" height="86">
-    </a>
-    <p style='line-height:1;text-align:center;margin-top:14px;font-size:15px;'>- BANGUMI -</p>
-  </div>
-</div>
-
-<div class="tabs" id="置顶"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#置顶-1">汉化声明</button></li><li class="tab"><button type="button" data-href="#置顶-2">如有漏翻报错等问题</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="置顶-1"><p>在使用此补丁前，请您务必仔细阅读并透彻理解本声明。<br>如果您使用此补丁，您的使用行为将视为对本声明的全部内容认可。</p>
-<p>本汉化补丁由 <a href="https://space.bilibili.com/13389408">B站@水晶烧烤架</a> 汉化，<br>由 <a href="https://space.bilibili.com/59695199">B站@Flamecho</a> 代发。<br>汉化补丁为永久免费使用，发布方式见本文网址。<br>仅供个人学习交流用途，请勿直播、录屏并上传，<br>转载请保留此声明并注明发布地址。<br>包括但不限于任何整合、修改、盈利的行为本人不承担任何责任。<br>以上声明的最终解释权归 Flamecho 所有。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="置顶-2"><p>请私信B站@Flamecho并附截图。<br>学业繁忙不一定及时回复，提前致歉还请见谅。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-
-
-<h1 id="❖-故事梗概"><a href="#❖-故事梗概" class="headerlink" title="❖ 故事梗概"></a>❖ 故事梗概</p></h1><p>2014年8月发售的「平行梦境（パラレルワールド・インザドリィム）」的番外。<br>承接御影线「处刑」结局的时间线。</p>
-<p>枫叶初染的秋日。<br>放学后的图书室里，御影亨与筱崎一夜正共度闲适的午后时光。<br>此刻，御影开始向一夜讲述自己的过往。</p>
-<p>以御影为第一视角展开的番外。</p>
-<h1 id="❖-下载"><a href="#❖-下载" class="headerlink" title="❖ 下载"></a>❖ 下载</p></h1><div class="tabs" id="下载"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#下载-1">汉化下载</button></li><li class="tab"><button type="button" data-href="#下载-2">游戏获取</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="下载-1"><p>使用方式请查看压缩包内的”汉化声明.TXT”。<br>全开存档也在压缩包内。<a target="_blank" href="https://www.ilanzou.com/s/zv8l75De" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">蓝奏云（需要登录）</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.ilanzou.com/s/zv8l75De</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a> <a target="_blank" href="https://pan.huang1111.cn/s/VLbkoUd" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">huang1111网盘</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://pan.huang1111.cn/s/VLbkoUd</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="下载-2"><p><a target="_blank" href="https://izumicava.wixsite.com/gintou/6doku" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">游戏下载地址-官网</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://izumicava.wixsite.com/gintou/6doku</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-
-
-<h1 id="❖-预览"><a href="#❖-预览" class="headerlink" title="❖ 预览"></a>❖ 预览</p></h1><div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114272604588622&bvid=BV11BZ1YoES8&cid=25779838685&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no">
-</iframe>
-</div>
-]]></content>
-      <categories>
-        <category>游戏汉化</category>
-        <category>銀灯</category>
-      </categories>
-      <tags>
-        <tag>蔷薇向</tag>
-        <tag>游戏汉化</tag>
-        <tag>PC</tag>
       </tags>
   </entry>
   <entry>
@@ -4466,7 +4466,7 @@
   <td>日文<td>0100DAA021616000<td>マツリカの炯-kEi- 天命華燭伝<tr>
   <td>日文<td>010052900B8EE000<td>学園CLUB～放課後のヒミツ～<tr>
   <td>日文<td>0100D640254B0000<td>陰キャラブコメ インシツマシマシ<tr>
-  <td>日文<td>0100EFE0159C6000<td>カエル畑ＤＥつかまえて・夏 千木良参戦！<tr>
+  <td>日文<td>0100EFE0159C6000<td>カエル畑DEつかまえて・夏 千木良参戦！<tr>
   <td>日文<td>0100A250191E8000<td>Money Parasite〜嘘つきな女〜<tr>
   <td>日文<td>0100020023EB6000<td>CRAZY CHA!N -エルピスの鎖-<tr>
   <td>日文<td>010090802801A000<td>sins of KALEIDO 塔巡りし因果の魔女<tr>
@@ -8653,6 +8653,53 @@ Vamwolf Cross†
       </tags>
   </entry>
   <entry>
+    <title>【攻略】ソレノナ -And to End-（pc日文）</title>
+    <url>/p/sorenona-fd-guide.html</url>
+    <content><![CDATA[<p><a target="_blank" href="https://izumicava.wixsite.com/gintou/sorenona-ate"><img src="/img/52.ソレノナfd攻略/官网.jpg" alt="游戏标题图" width="350" style="border-radius: 8px" title="点击跳转至游戏官网" /></a></p>
+<p style='line-height:1;text-align:center'>- OFFICIAL WEBSITE -</p>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; justify-items: center; max-width: 610px; margin: 0 auto;">
+  <div>
+    <a target="_blank" href="https://www.freem.ne.jp/win/game/17822">
+      <img src="/img/0.相关链接图/freem.jpg" alt="freem的logo" title="点击跳转至Freem!游戏详情页" style="border-radius: 8px" width="297" height="86">
+    </a>
+    <p style='line-height:1;text-align:center;margin-top:14px;font-size:15px;'>- FREEM -</p>
+  </div>
+  <div>
+    <a target="_blank" href="https://vndb.org/v13135">
+      <img src="/img/0.相关链接图/vndb.jpg" alt="vndb的logo" title="点击跳转至VNDB" style="border-radius: 8px" width="297" height="86">
+    </a>
+    <p style='line-height:1;text-align:center;margin-top:14px;font-size:15px;'>- VNDB -</p>
+  </div>
+</div>
+
+<div class="tabs" id="攻略"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略-1">故事梗概</button></li><li class="tab"><button type="button" data-href="#攻略-2">攻略流程</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略-1"><p>空无一人的校舍。<br>窗外被雨滴覆盖。</p>
+<p>三月。<br>屋顶禁止进入已经有一段时间了，这是社会上春假中的某一天。<br>藤泽庆介和小野寺真人，<br>在只有两人的校舍中度过了延续的时光。</p>
+<p>这是前作《那个名字》的后续故事。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-2"><p><span class="save">SAVE1</span><br>去找<span class="oritext">探す</span><br><span class="save">SAVE2</span><br>去屋顶<span class="oritext">屋上へ</span><br><span class="he">GOODEND</span></p>
+<br>
+
+<p><span class="load">LOAD1</span><br>今天算了<span class="oritext">今日はやめる</span><br><span class="be">BADEND</span></p>
+<br>
+
+<p><span class="load">LOAD2</span><br>去C班<span class="oritext">Ｃ組へ</span><br><span class="ne">NormalEnd</span></p>
+<br>
+
+<p><span class="load">LOAD2</span><br>去F班<span class="oritext">Ｆ組へ</span><br><span class="ne">NormalEnd</span></p>
+<br>
+
+<p>本篇通关后在Extra有坂下荘矢和花村園香的后日谈，全通后获得通关CG。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+]]></content>
+      <categories>
+        <category>游戏攻略</category>
+        <category>蔷薇向</category>
+        <category>銀灯</category>
+      </categories>
+      <tags>
+        <tag>游戏攻略</tag>
+        <tag>蔷薇向</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【杂谈】游戏攻略整合</title>
     <url>/p/guides.html</url>
     <content><![CDATA[<style>
@@ -8881,53 +8928,6 @@ Vamwolf Cross†
       </tags>
   </entry>
   <entry>
-    <title>【攻略】ソレノナ -And to End-（pc日文）</title>
-    <url>/p/sorenona-fd-guide.html</url>
-    <content><![CDATA[<p><a target="_blank" href="https://izumicava.wixsite.com/gintou/sorenona-ate"><img src="/img/52.ソレノナfd攻略/官网.jpg" alt="游戏标题图" width="350" style="border-radius: 8px" title="点击跳转至游戏官网" /></a></p>
-<p style='line-height:1;text-align:center'>- OFFICIAL WEBSITE -</p>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; justify-items: center; max-width: 610px; margin: 0 auto;">
-  <div>
-    <a target="_blank" href="https://www.freem.ne.jp/win/game/17822">
-      <img src="/img/0.相关链接图/freem.jpg" alt="freem的logo" title="点击跳转至Freem!游戏详情页" style="border-radius: 8px" width="297" height="86">
-    </a>
-    <p style='line-height:1;text-align:center;margin-top:14px;font-size:15px;'>- FREEM -</p>
-  </div>
-  <div>
-    <a target="_blank" href="https://vndb.org/v13135">
-      <img src="/img/0.相关链接图/vndb.jpg" alt="vndb的logo" title="点击跳转至VNDB" style="border-radius: 8px" width="297" height="86">
-    </a>
-    <p style='line-height:1;text-align:center;margin-top:14px;font-size:15px;'>- VNDB -</p>
-  </div>
-</div>
-
-<div class="tabs" id="攻略"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略-1">故事梗概</button></li><li class="tab"><button type="button" data-href="#攻略-2">攻略流程</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略-1"><p>空无一人的校舍。<br>窗外被雨滴覆盖。</p>
-<p>三月。<br>屋顶禁止进入已经有一段时间了，这是社会上春假中的某一天。<br>藤泽庆介和小野寺真人，<br>在只有两人的校舍中度过了延续的时光。</p>
-<p>这是前作《那个名字》的后续故事。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-2"><p><span class="save">SAVE1</span><br>去找<span class="oritext">探す</span><br><span class="save">SAVE2</span><br>去屋顶<span class="oritext">屋上へ</span><br><span class="he">GOODEND</span></p>
-<br>
-
-<p><span class="load">LOAD1</span><br>今天算了<span class="oritext">今日はやめる</span><br><span class="be">BADEND</span></p>
-<br>
-
-<p><span class="load">LOAD2</span><br>去C班<span class="oritext">Ｃ組へ</span><br><span class="ne">NormalEnd</span></p>
-<br>
-
-<p><span class="load">LOAD2</span><br>去F班<span class="oritext">Ｆ組へ</span><br><span class="ne">NormalEnd</span></p>
-<br>
-
-<p>本篇通关后在Extra有坂下荘矢和花村園香的后日谈，全通后获得通关CG。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-]]></content>
-      <categories>
-        <category>游戏攻略</category>
-        <category>蔷薇向</category>
-        <category>銀灯</category>
-      </categories>
-      <tags>
-        <tag>游戏攻略</tag>
-        <tag>蔷薇向</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【攻略】Beyond Eden（pc中文）</title>
     <url>/p/beyond-eden-guide.html</url>
     <content><![CDATA[<div class="tabs" id="攻略"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略-1">说明</button></li><li class="tab"><button type="button" data-href="#攻略-2">共通</button></li><li class="tab"><button type="button" data-href="#攻略-3">奥斯卡</button></li><li class="tab"><button type="button" data-href="#攻略-4">约书亚</button></li><li class="tab"><button type="button" data-href="#攻略-5">杰里米</button></li><li class="tab"><button type="button" data-href="#攻略-6">劳伦斯</button></li><li class="tab"><button type="button" data-href="#攻略-7">莫里斯</button></li><li class="tab"><button type="button" data-href="#攻略-8">特奥多尔</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略-1"><p><span class="info">攻略顺序</span></p>
@@ -8987,103 +8987,6 @@ Vamwolf Cross†
       <tags>
         <tag>游戏攻略</tag>
         <tag>蔷薇向</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【攻略】ハルカナコイ（pc日文）</title>
-    <url>/p/haruka-na-koi-guide.html</url>
-    <content><![CDATA[<div class="tabs" id="攻略"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略-1">说明</button></li><li class="tab"><button type="button" data-href="#攻略-2">犀川拓臣</button></li><li class="tab"><button type="button" data-href="#攻略-3">久世悠人</button></li><li class="tab"><button type="button" data-href="#攻略-4">武内陽太</button></li><li class="tab"><button type="button" data-href="#攻略-5">BAD END</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略-1"><p><span class="info">攻略顺序</span></p>
-<p><span class="he">犀川拓臣 → 久世悠人 → 武内陽太 → BAD END</span></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-2"><p>嫌じゃありません<br>どうしてわかるんですか？<br><span class="save">SAVE1</span><br>分からない<br>きっと本当に忙しくて帰る暇がないんだ<br><span class="save">SAVE2</span><br>なにもきかない<br>話してくれるまで待つ<br><span class="he">HAPPY END</span></p>
-<br>
-
-<p><span class="load">LOAD1</span><br>下心があるのかも<br><span class="be">BAD END</span></p>
-<br>
-
-<p><span class="load">LOAD2</span><br>どうしたのか尋ねる<br>強い口調で問い詰める<br><span class="be">BAD END</span></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-3"><p>冗談ですよね？<br>OKする<br>とりあえずお礼くらいは言っておこう<br>このまま残業する<br><span class="save">SAVE1</span><br>悠人に断りを入れる<br>そうだね、私も焦りすぎてたよ<br><span class="save">SAVE2</span><br>悠人を支えられるような女性になりたい<br><span class="he">HAPPY END</span></p>
-<br>
-
-<p><span class="load">LOAD1</span><br>悠人の所に行く<br>でも、だったらそう言ってくれたらいいのに<br><span class="be">BAD END</span></p>
-<br>
-
-<p><span class="load">LOAD2</span><br>仕事を頑張りたい<br><span class="ne">NORMAL END</span></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-4"><p>嫌じゃありません<br>どうしてわかるんですか？<br>本気ってどういうこと？<br>どんなメニューなのか楽しみ！<br><span class="save">SAVE1</span><br>本当にそうなのかな？<br>人柄も大事だよ<br><span class="he">HAPPY END</span></p>
-<br>
-
-<p><span class="load">LOAD1</span><br>結婚するならそうかもね<br>うん、そうだね！<br><span class="be">BAD END</span></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-5"><p>冗談ですよね？<br>OKする<br>とりあえずお礼くらいは言っておこう<br>同僚に仕事を頼んで帰る<br>悠人の所に行く<br>でも、だったらそう言ってくれたらいいのに<br><span class="save">SAVE1</span><br>一緒に行く<br><span class="be">BAD END</span></p>
-<br>
-
-<p><span class="load">LOAD1</span><br>一緒には行けない<br><span class="be">BAD END</span></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-]]></content>
-      <categories>
-        <category>游戏攻略</category>
-        <category>乙女向</category>
-        <category>SOIR</category>
-      </categories>
-      <tags>
-        <tag>游戏攻略</tag>
-        <tag>乙女向</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【教程】用Kindle和KOReader看网络小说</title>
-    <url>/p/kindle-web.html</url>
-    <content><![CDATA[<style>
-.center
-{
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-
-  text-align: center
-}
-</style>
-
-<p>本文不涉及Kindle如何越狱和如何安装KOReader。<br>在网上下载TXT导入Kindle显然是个快捷的方式，但无法满足排版和净化广告等需求。<br>国产安卓阅读器由于可以安装APP，在看网文上有独特优势，但本文不讨论是否要把Kindle卖了换个国产阅读器。<br>各方案间没有优劣之分，请选择最符合你使用场景的方案。<br>本文撰写时KOReader版本为<a href="https://github.com/koreader/koreader/releases/tag/v2026.07.1" class="link-icon">v2026.07.1</a>。</p>
-<h1 id="❖-开源阅读-坚果云"><a href="#❖-开源阅读-坚果云" class="headerlink" title="❖ 开源阅读+坚果云"></a>❖ 开源阅读+坚果云</p></h1><p>利用开源阅读的书源和净化功能实现找书和重排版，<br>并联动开源阅读的WebDav支持和KOReader的云存储功能实现无数据线传书。<br>效果：在开源阅读导出的书籍可以在KOReader中下载。</p>
-<h2 id="⬗-配置开源阅读"><a href="#⬗-配置开源阅读" class="headerlink" title="⬗ 配置开源阅读"></a>⬗ 配置开源阅读</h2><div class="tabs" id="配置开源阅读"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#配置开源阅读-1">安装</button></li><li class="tab"><button type="button" data-href="#配置开源阅读-2">推荐书源</button></li><li class="tab"><button type="button" data-href="#配置开源阅读-3">晋江书源</button></li><li class="tab"><button type="button" data-href="#配置开源阅读-4">番茄书源</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="配置开源阅读-1"><p><a target="_blank" href="https://www.yckceo.com/yuedu/" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">源仓库</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.yckceo.com/yuedu/</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>在这里获取开源阅读。使用教程B站很多，请自行查阅。<a target="_blank" href="http://yuedu.miaogongzi.net/gx.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">喵公子书源管理</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>http://yuedu.miaogongzi.net/gx.html</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>书源和净化都用喵公子的一键导入就可以，如果有需求再去源仓库找书源。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="配置开源阅读-2"><p><a target="_blank" href="https://dns.jingluo.love/2025/680cabddec92b.json" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">芒果书坊（须搜索书籍全名，否则无法添加到书架）</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://dns.jingluo.love/2025/680cabddec92b.json</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a> <a target="_blank" href="https://dns.jingluo.love/2025/680cabb25bbee.json" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">镇魂小说网（须搜索作者名）</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://dns.jingluo.love/2025/680cabb25bbee.json</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>个人认为看原耽比较好用的书源，缺字和缺章节的情况少，热门小说基本都搜得到。<br>芒果书坊需要输验证码，建议使用手机流量或挂梯子。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="配置开源阅读-3"><p><a target="_blank" href="https://www.yckceo.com/yuedu/shuyuan/index.html?keys=晋江" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">源仓库-晋江书源筛选</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.yckceo.com/yuedu/shuyuan/index.html?keys=晋江</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>在源仓库获取最新的晋江正版书源，使用方式见书源注释。<br>打开开源阅读，我的-书源管理，找到刚导入的晋江书源，点击右侧三个点，登录。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="配置开源阅读-4"><p><a target="_blank" href="https://www.yckceo.com/yuedu/shuyuan/index.html?keys=番茄" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">源仓库-番茄书源筛选</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.yckceo.com/yuedu/shuyuan/index.html?keys=番茄</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>在源仓库获取最新的番茄书源，使用方式见书源注释。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-<h2 id="⬗-配置坚果云"><a href="#⬗-配置坚果云" class="headerlink" title="⬗ 配置坚果云"></a>⬗ 配置坚果云</h2><p><a target="_blank" href="https://www.jianguoyun.com/" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">坚果云</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.jianguoyun.com/</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>下载坚果云，手机端和电脑端都可以，网页端不行。<br>在坚果云新建个人同步文件夹，自取名称（比如legado）。<br>设置-特色功能-第三方应用管理-添加应用密码，自取名称（比如kindle）并复制应用密码待用。</p>
-<h2 id="⬗-配置WebDav"><a href="#⬗-配置WebDav" class="headerlink" title="⬗ 配置WebDav"></a>⬗ 配置WebDav</h2><p>打开开源阅读，我的-设置-备份与恢复-WebDav设置。<br>将坚果云的第三方应用管理中的对应内容填写至开源阅读。</p>
-<div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:50%'>
- <col style='width:50%'>
-  <td><b>开源阅读</b><td><b>坚果云</b><tr>
-  <td>WebDav服务器地址<td>服务器地址<tr>
-  <td>WebDav账号<td>账号<tr>
-  <td>WebDav密码<td>应用密码<tr>
-  <td>子文件夹<td>新建的个人同步文件夹名称（比如legado）
- </tr>
-</table>
-</div>
-
-<h2 id="⬗-配置KOReader"><a href="#⬗-配置KOReader" class="headerlink" title="⬗ 配置KOReader"></a>⬗ 配置KOReader</h2><p>打开KOReader，设置-云存储+，右上角加号-添加新服务器-WebDAV。<br>将坚果云的第三方应用管理中的对应内容填写至KOReader。</p>
-<div class="center">
-<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
- <col style='width:30%'>
- <col style='width:80%'>
-  <td><b>KOReader</b><td><b>坚果云</b><tr>
-  <td>名称<td>自取，不必参考坚果云<tr>
-  <td>WevDAV地址<td>服务器地址<tr>
-  <td>用户名<td>账号<tr>
-  <td>密码<td>应用密码<tr>
-  <td>起始目录<td>新建的个人同步文件夹名称（比如legado），最左边需要加个 <code>/</code> 。<br>如果为多层文件夹，写法为 <code>/第一层/第二层/第三层</code> 。
- </tr>
-</table>
-</div>
-
-<h2 id="⬗-导出书籍"><a href="#⬗-导出书籍" class="headerlink" title="⬗ 导出书籍"></a>⬗ 导出书籍</h2><p>打开开源阅读，书架-右上角三个点-缓存&#x2F;导出-右上角三个点，启用 <code>导出到WebDav</code> 。<br>建议启用 <code>替换净化</code> ，并将导出格式设置为 <code>epub</code> 。KOReader自带的目录切分不够智能，epub自带目录。<br>经过以上设置，可以实现在开源阅读导出的书籍会自动上传到坚果云，并可以在KOReader的云存储+中下载。<br>由于在坚果云文件夹中上传的文件都可以在KOReader中下载，因此也可以将此作为多端传书的方案。</p>
-<h1 id="❖-KOReader插件"><a href="#❖-KOReader插件" class="headerlink" title="❖ KOReader插件"></a>❖ KOReader插件</h1><div class="tabs" id="koreader插件"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#koreader插件-1">开源阅读</button></li><li class="tab"><button type="button" data-href="#koreader插件-2">番茄小说</button></li><li class="tab"><button type="button" data-href="#koreader插件-3">微信读书</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="koreader插件-1"><p><a target="_blank" href="https://github.com/pengcw/legado.koplugin" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">legado.koplugin</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://github.com/pengcw/legado.koplugin</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>该插件支持在KOReader上同步开源阅读的书架和阅读进度。<br>可以缓存章节，实现离线阅读；也可以与手机保持连接，实现在线阅读。</p>
-<p>打开开源阅读，我的-启用Web服务。<br>Kindle需要联网，建议连接手机热点，不然KOReader可能刷新不出书架。<br>打开KOReader，搜索-Legado-书架-左上角菜单-切换书架-新增配置-手机APP。<br>配置名称自取，WEB服务地址（第二行）填写开源阅读Web服务下方的网址，点击创建。<br>长按刚刚创建的配置，切换到该配置。向下滑动刷新书架，其他用法自行探索。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="koreader插件-2"><p><a target="_blank" href="https://github.com/hesan1232/fanqie.koplugin" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">fanqie.koplugin</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://github.com/hesan1232/fanqie.koplugin</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>该插件支持在KOReader上同步番茄小说的书架和阅读进度。<br>使用方法在Github上很详细，请自行查阅。<br>大灰狼有广告还限制全本下载，建议用晴天。<br>删除 <code>koreader\settings\fanqie.lua</code> 可以恢复默认设置。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="koreader插件-3"><p><a target="_blank" href="https://github.com/miumiupy98-art/miuread-koreader" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">觅阅 MiuRead</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://github.com/miumiupy98-art/miuread-koreader</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>该插件支持在KOReader上同步微信读书的书架和阅读进度。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-
-
-<h1 id="❖-下载番茄小说"><a href="#❖-下载番茄小说" class="headerlink" title="❖ 下载番茄小说"></a>❖ 下载番茄小说</p></h1><p>支持Windows&#x2F;macOS&#x2F;Linux&#x2F;android的跨平台工具。<br>可以配合本文【开源阅读+坚果云】章节，将小说上传到坚果云再使用KOReader的云存储+下载。<a target="_blank" href="https://github.com/POf-L/Fanqie-novel-Downloader" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">番茄小说下载器</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://github.com/POf-L/Fanqie-novel-Downloader</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>由于番茄的书测机制，一本小说在手机端和网页端的名字可能不同，因此建议搜索书籍编号。<br>比如下面这本小说，小说详情页网址中，page后有一串数字 <code>7659970228410960958</code> ，这就是书籍编号。<a target="_blank" href="https://fanqienovel.com/page/7659970228410960958" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">Re：从零开始的异世界生活</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://fanqienovel.com/page/7659970228410960958</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a></p>
-]]></content>
-      <categories>
-        <category>教程</category>
-        <category>其他</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
@@ -10052,6 +9955,103 @@ document.addEventListener('DOMContentLoaded', function() {
         <tag>乙女向</tag>
         <tag>游戏情报</tag>
         <tag>NS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【教程】用Kindle和KOReader看网络小说</title>
+    <url>/p/kindle-web.html</url>
+    <content><![CDATA[<style>
+.center
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+
+  text-align: center
+}
+</style>
+
+<p>本文不涉及Kindle如何越狱和如何安装KOReader。<br>在网上下载TXT导入Kindle显然是个快捷的方式，但无法满足排版和净化广告等需求。<br>国产安卓阅读器由于可以安装APP，在看网文上有独特优势，但本文不讨论是否要把Kindle卖了换个国产阅读器。<br>各方案间没有优劣之分，请选择最符合你使用场景的方案。<br>本文撰写时KOReader版本为<a href="https://github.com/koreader/koreader/releases/tag/v2026.07.1" class="link-icon">v2026.07.1</a>。</p>
+<h1 id="❖-开源阅读-坚果云"><a href="#❖-开源阅读-坚果云" class="headerlink" title="❖ 开源阅读+坚果云"></a>❖ 开源阅读+坚果云</p></h1><p>利用开源阅读的书源和净化功能实现找书和重排版，<br>并联动开源阅读的WebDav支持和KOReader的云存储功能实现无数据线传书。<br>效果：在开源阅读导出的书籍可以在KOReader中下载。</p>
+<h2 id="⬗-配置开源阅读"><a href="#⬗-配置开源阅读" class="headerlink" title="⬗ 配置开源阅读"></a>⬗ 配置开源阅读</h2><div class="tabs" id="配置开源阅读"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#配置开源阅读-1">安装</button></li><li class="tab"><button type="button" data-href="#配置开源阅读-2">推荐书源</button></li><li class="tab"><button type="button" data-href="#配置开源阅读-3">晋江书源</button></li><li class="tab"><button type="button" data-href="#配置开源阅读-4">番茄书源</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="配置开源阅读-1"><p><a target="_blank" href="https://www.yckceo.com/yuedu/" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">源仓库</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.yckceo.com/yuedu/</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>在这里获取开源阅读。使用教程B站很多，请自行查阅。<a target="_blank" href="http://yuedu.miaogongzi.net/gx.html" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">喵公子书源管理</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>http://yuedu.miaogongzi.net/gx.html</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>书源和净化都用喵公子的一键导入就可以，如果有需求再去源仓库找书源。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="配置开源阅读-2"><p><a target="_blank" href="https://dns.jingluo.love/2025/680cabddec92b.json" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">芒果书坊（须搜索书籍全名，否则无法添加到书架）</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://dns.jingluo.love/2025/680cabddec92b.json</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a> <a target="_blank" href="https://dns.jingluo.love/2025/680cabb25bbee.json" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">镇魂小说网（须搜索作者名）</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://dns.jingluo.love/2025/680cabb25bbee.json</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>个人认为看原耽比较好用的书源，缺字和缺章节的情况少，热门小说基本都搜得到。<br>芒果书坊需要输验证码，建议使用手机流量或挂梯子。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="配置开源阅读-3"><p><a target="_blank" href="https://www.yckceo.com/yuedu/shuyuan/index.html?keys=晋江" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">源仓库-晋江书源筛选</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.yckceo.com/yuedu/shuyuan/index.html?keys=晋江</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>在源仓库获取最新的晋江正版书源，使用方式见书源注释。<br>打开开源阅读，我的-书源管理，找到刚导入的晋江书源，点击右侧三个点，登录。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="配置开源阅读-4"><p><a target="_blank" href="https://www.yckceo.com/yuedu/shuyuan/index.html?keys=番茄" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">源仓库-番茄书源筛选</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.yckceo.com/yuedu/shuyuan/index.html?keys=番茄</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>在源仓库获取最新的番茄书源，使用方式见书源注释。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+<h2 id="⬗-配置坚果云"><a href="#⬗-配置坚果云" class="headerlink" title="⬗ 配置坚果云"></a>⬗ 配置坚果云</h2><p><a target="_blank" href="https://www.jianguoyun.com/" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">坚果云</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.jianguoyun.com/</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>下载坚果云，手机端和电脑端都可以，网页端不行。<br>在坚果云新建个人同步文件夹，自取名称（比如legado）。<br>设置-特色功能-第三方应用管理-添加应用密码，自取名称（比如kindle）并复制应用密码待用。</p>
+<h2 id="⬗-配置WebDav"><a href="#⬗-配置WebDav" class="headerlink" title="⬗ 配置WebDav"></a>⬗ 配置WebDav</h2><p>打开开源阅读，我的-设置-备份与恢复-WebDav设置。<br>将坚果云的第三方应用管理中的对应内容填写至开源阅读。</p>
+<div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:50%'>
+ <col style='width:50%'>
+  <td><b>开源阅读</b><td><b>坚果云</b><tr>
+  <td>WebDav服务器地址<td>服务器地址<tr>
+  <td>WebDav账号<td>账号<tr>
+  <td>WebDav密码<td>应用密码<tr>
+  <td>子文件夹<td>新建的个人同步文件夹名称（比如legado）
+ </tr>
+</table>
+</div>
+
+<h2 id="⬗-配置KOReader"><a href="#⬗-配置KOReader" class="headerlink" title="⬗ 配置KOReader"></a>⬗ 配置KOReader</h2><p>打开KOReader，设置-云存储+，右上角加号-添加新服务器-WebDAV。<br>将坚果云的第三方应用管理中的对应内容填写至KOReader。</p>
+<div class="center">
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:collapse;table-layout:fixed;width:100%;height:100%'>
+ <col style='width:30%'>
+ <col style='width:80%'>
+  <td><b>KOReader</b><td><b>坚果云</b><tr>
+  <td>名称<td>自取，不必参考坚果云<tr>
+  <td>WevDAV地址<td>服务器地址<tr>
+  <td>用户名<td>账号<tr>
+  <td>密码<td>应用密码<tr>
+  <td>起始目录<td>新建的个人同步文件夹名称（比如legado），最左边需要加个 <code>/</code> 。<br>如果为多层文件夹，写法为 <code>/第一层/第二层/第三层</code> 。
+ </tr>
+</table>
+</div>
+
+<h2 id="⬗-导出书籍"><a href="#⬗-导出书籍" class="headerlink" title="⬗ 导出书籍"></a>⬗ 导出书籍</h2><p>打开开源阅读，书架-右上角三个点-缓存&#x2F;导出-右上角三个点，启用 <code>导出到WebDav</code> 。<br>建议启用 <code>替换净化</code> ，并将导出格式设置为 <code>epub</code> 。KOReader自带的目录切分不够智能，epub自带目录。<br>经过以上设置，可以实现在开源阅读导出的书籍会自动上传到坚果云，并可以在KOReader的云存储+中下载。<br>由于在坚果云文件夹中上传的文件都可以在KOReader中下载，因此也可以将此作为多端传书的方案。</p>
+<h1 id="❖-KOReader插件"><a href="#❖-KOReader插件" class="headerlink" title="❖ KOReader插件"></a>❖ KOReader插件</h1><div class="tabs" id="koreader插件"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#koreader插件-1">开源阅读</button></li><li class="tab"><button type="button" data-href="#koreader插件-2">番茄小说</button></li><li class="tab"><button type="button" data-href="#koreader插件-3">微信读书</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="koreader插件-1"><p><a target="_blank" href="https://github.com/pengcw/legado.koplugin" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">legado.koplugin</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://github.com/pengcw/legado.koplugin</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>该插件支持在KOReader上同步开源阅读的书架和阅读进度。<br>可以缓存章节，实现离线阅读；也可以与手机保持连接，实现在线阅读。</p>
+<p>打开开源阅读，我的-启用Web服务。<br>Kindle需要联网，建议连接手机热点，不然KOReader可能刷新不出书架。<br>打开KOReader，搜索-Legado-书架-左上角菜单-切换书架-新增配置-手机APP。<br>配置名称自取，WEB服务地址（第二行）填写开源阅读Web服务下方的网址，点击创建。<br>长按刚刚创建的配置，切换到该配置。向下滑动刷新书架，其他用法自行探索。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="koreader插件-2"><p><a target="_blank" href="https://github.com/hesan1232/fanqie.koplugin" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">fanqie.koplugin</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://github.com/hesan1232/fanqie.koplugin</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>该插件支持在KOReader上同步番茄小说的书架和阅读进度。<br>使用方法在Github上很详细，请自行查阅。<br>大灰狼有广告还限制全本下载，建议用晴天。<br>删除 <code>koreader\settings\fanqie.lua</code> 可以恢复默认设置。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="koreader插件-3"><p><a target="_blank" href="https://github.com/miumiupy98-art/miuread-koreader" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">觅阅 MiuRead</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://github.com/miumiupy98-art/miuread-koreader</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>该插件支持在KOReader上同步微信读书的书架和阅读进度。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+
+
+<h1 id="❖-下载番茄小说"><a href="#❖-下载番茄小说" class="headerlink" title="❖ 下载番茄小说"></a>❖ 下载番茄小说</p></h1><p>支持Windows&#x2F;macOS&#x2F;Linux&#x2F;android的跨平台工具。<br>可以配合本文【开源阅读+坚果云】章节，将小说上传到坚果云再使用KOReader的云存储+下载。<a target="_blank" href="https://github.com/POf-L/Fanqie-novel-Downloader" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">番茄小说下载器</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://github.com/POf-L/Fanqie-novel-Downloader</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a>由于番茄的书测机制，一本小说在手机端和网页端的名字可能不同，因此建议搜索书籍编号。<br>比如下面这本小说，小说详情页网址中，page后有一串数字 <code>7659970228410960958</code> ，这就是书籍编号。<a target="_blank" href="https://fanqienovel.com/page/7659970228410960958" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">Re：从零开始的异世界生活</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://fanqienovel.com/page/7659970228410960958</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+        <category>其他</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【攻略】ハルカナコイ（pc日文）</title>
+    <url>/p/haruka-na-koi-guide.html</url>
+    <content><![CDATA[<div class="tabs" id="攻略"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#攻略-1">说明</button></li><li class="tab"><button type="button" data-href="#攻略-2">犀川拓臣</button></li><li class="tab"><button type="button" data-href="#攻略-3">久世悠人</button></li><li class="tab"><button type="button" data-href="#攻略-4">武内陽太</button></li><li class="tab"><button type="button" data-href="#攻略-5">BAD END</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="攻略-1"><p><span class="info">攻略顺序</span></p>
+<p><span class="he">犀川拓臣 → 久世悠人 → 武内陽太 → BAD END</span></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-2"><p>嫌じゃありません<br>どうしてわかるんですか？<br><span class="save">SAVE1</span><br>分からない<br>きっと本当に忙しくて帰る暇がないんだ<br><span class="save">SAVE2</span><br>なにもきかない<br>話してくれるまで待つ<br><span class="he">HAPPY END</span></p>
+<br>
+
+<p><span class="load">LOAD1</span><br>下心があるのかも<br><span class="be">BAD END</span></p>
+<br>
+
+<p><span class="load">LOAD2</span><br>どうしたのか尋ねる<br>強い口調で問い詰める<br><span class="be">BAD END</span></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-3"><p>冗談ですよね？<br>OKする<br>とりあえずお礼くらいは言っておこう<br>このまま残業する<br><span class="save">SAVE1</span><br>悠人に断りを入れる<br>そうだね、私も焦りすぎてたよ<br><span class="save">SAVE2</span><br>悠人を支えられるような女性になりたい<br><span class="he">HAPPY END</span></p>
+<br>
+
+<p><span class="load">LOAD1</span><br>悠人の所に行く<br>でも、だったらそう言ってくれたらいいのに<br><span class="be">BAD END</span></p>
+<br>
+
+<p><span class="load">LOAD2</span><br>仕事を頑張りたい<br><span class="ne">NORMAL END</span></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-4"><p>嫌じゃありません<br>どうしてわかるんですか？<br>本気ってどういうこと？<br>どんなメニューなのか楽しみ！<br><span class="save">SAVE1</span><br>本当にそうなのかな？<br>人柄も大事だよ<br><span class="he">HAPPY END</span></p>
+<br>
+
+<p><span class="load">LOAD1</span><br>結婚するならそうかもね<br>うん、そうだね！<br><span class="be">BAD END</span></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="攻略-5"><p>冗談ですよね？<br>OKする<br>とりあえずお礼くらいは言っておこう<br>同僚に仕事を頼んで帰る<br>悠人の所に行く<br>でも、だったらそう言ってくれたらいいのに<br><span class="save">SAVE1</span><br>一緒に行く<br><span class="be">BAD END</span></p>
+<br>
+
+<p><span class="load">LOAD1</span><br>一緒には行けない<br><span class="be">BAD END</span></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+]]></content>
+      <categories>
+        <category>游戏攻略</category>
+        <category>乙女向</category>
+        <category>SOIR</category>
+      </categories>
+      <tags>
+        <tag>游戏攻略</tag>
+        <tag>乙女向</tag>
       </tags>
   </entry>
   <entry>
@@ -11085,34 +11085,6 @@ document.addEventListener('DOMContentLoaded', function() {
       </tags>
   </entry>
   <entry>
-    <title>【教程】Lucky dog 1安装教程</title>
-    <url>/p/ld1-install.html</url>
-    <content><![CDATA[<style>
-.hr-twill-colorful {
-    border: 0;
-    padding: 3px;
-    background: linear-gradient(135deg, red, orange,green, blue, purple);
-    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
-}
-</style>
-
-<p>&#12288;&#12288;安装遇到问题的话可以查看这个：<br><a target="_blank" href="https://www.flamecho.top/p/install-guide" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/p/install-guide</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a></p>
-<h1 id="❖-安装"><a href="#❖-安装" class="headerlink" title="❖ 安装"></a>❖ 安装</p></h1><p><font color=#d3625d>&#12288;&#12288;免安装版安装方式是：双击注册表，按回车，双击LD1.exe。以下是光驱版的安装教程。</font><br><img src="/img/8.ld1/1.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/2.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/3.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/4.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/5.jpg" alt="安装教程_Lucky dog 1" /><br><font color=#d3625d>&#12288;&#12288;注：上一步↑找不到装载的话：右键-打开方式-Windows资源管理器，然后继续进行下一步↓</font><br><img src="/img/8.ld1/6.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/7.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/8.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/9.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/10.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/11.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/12.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/13.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/14.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/15.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/16.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/17.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/18.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/19.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/20.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/21.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/22.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/23.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/24.jpg" alt="安装教程_Lucky dog 1" /></p>
-<h1 id="❖-卸载"><a href="#❖-卸载" class="headerlink" title="❖ 卸载"></a>❖ 卸载</p></h1><img src="/img/8.ld1/25.jpg" alt="安装教程_Lucky dog 1" />
-<img src="/img/8.ld1/26.jpg" alt="安装教程_Lucky dog 1" />
-<img src="/img/8.ld1/27.jpg" alt="安装教程_Lucky dog 1" />
-]]></content>
-      <categories>
-        <category>教程</category>
-        <category>游戏运行</category>
-      </categories>
-      <tags>
-        <tag>游戏运行</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【攻略】午前二时的亡灵之蓝（pc日文）</title>
     <url>/p/lemuresblue-guide.html</url>
     <content><![CDATA[<style>
@@ -11379,6 +11351,34 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 <h1 id="❖-卸载"><a href="#❖-卸载" class="headerlink" title="❖ 卸载"></a>❖ 卸载</p></h1><p>&#12288;&#12288;把文件夹删掉即可。</p>
+]]></content>
+      <categories>
+        <category>教程</category>
+        <category>游戏运行</category>
+      </categories>
+      <tags>
+        <tag>游戏运行</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【教程】Lucky dog 1安装教程</title>
+    <url>/p/ld1-install.html</url>
+    <content><![CDATA[<style>
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+}
+</style>
+
+<p>&#12288;&#12288;安装遇到问题的话可以查看这个：<br><a target="_blank" href="https://www.flamecho.top/p/install-guide" style="position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; box-sizing: border-box; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 390px; min-height: 84px; border-radius: 8px; max-width: 100%; overflow: hidden; margin: 16px auto; padding: 12px 20px 9px 20px; background: var(--link-card-bg, linear-gradient(to right, #6d84c0, #3a62a0)); text-decoration: none;"><span class="LinkCard-contents"><span style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; max-height: 40px; line-height: 1.25; color: #ffffff;">&#8194;【教程】游戏常见问题解决方案</span><span style="display: -webkit-box; font-size: 13px; height: 18px; line-height: 18px; color: #cbd4e0; word-break: break-all; text-overflow: ellipsis; overflow: hidden; -webkit-line-clamp: 1; -webkit-box-orient: vertical;"><span style="display: inline-flex; align-items: center;"><svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="14" height="14"><path d="M13.414 4.222a4.5 4.5 0 1 1 6.364 6.364l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005a2.5 2.5 0 1 0-3.536-3.536l-3.005 3.005a.5.5 0 0 1-.707 0l-.707-.707a.5.5 0 0 1 0-.707l3.005-3.005zm-6.187 6.187a.5.5 0 0 1 .638-.058l.07.058.706.707a.5.5 0 0 1 .058.638l-.058.07-3.005 3.004a2.5 2.5 0 0 0 3.405 3.658l.13-.122 3.006-3.005a.5.5 0 0 1 .638-.058l.069.058.707.707a.5.5 0 0 1 .058.638l-.058.069-3.005 3.005a4.5 4.5 0 0 1-6.524-6.196l.16-.168 3.005-3.005zm8.132-3.182a.25.25 0 0 1 .353 0l1.061 1.06a.25.25 0 0 1 0 .354l-8.132 8.132a.25.25 0 0 1-.353 0l-1.061-1.06a.25.25 0 0 1 0-.354l8.132-8.132z"></path></svg></span><span>https://www.flamecho.top/p/install-guide</span></span></span><span style="position: absolute; top: 10px; right: 14px; color: rgba(255,255,255,0.5); font-size: 14px; transition: all 0.3s ease;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span></a></p>
+<h1 id="❖-安装"><a href="#❖-安装" class="headerlink" title="❖ 安装"></a>❖ 安装</p></h1><p><font color=#d3625d>&#12288;&#12288;免安装版安装方式是：双击注册表，按回车，双击LD1.exe。以下是光驱版的安装教程。</font><br><img src="/img/8.ld1/1.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/2.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/3.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/4.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/5.jpg" alt="安装教程_Lucky dog 1" /><br><font color=#d3625d>&#12288;&#12288;注：上一步↑找不到装载的话：右键-打开方式-Windows资源管理器，然后继续进行下一步↓</font><br><img src="/img/8.ld1/6.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/7.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/8.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/9.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/10.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/11.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/12.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/13.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/14.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/15.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/16.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/17.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/18.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/19.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/20.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/21.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/22.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/23.jpg" alt="安装教程_Lucky dog 1" /><br><img src="/img/8.ld1/24.jpg" alt="安装教程_Lucky dog 1" /></p>
+<h1 id="❖-卸载"><a href="#❖-卸载" class="headerlink" title="❖ 卸载"></a>❖ 卸载</p></h1><img src="/img/8.ld1/25.jpg" alt="安装教程_Lucky dog 1" />
+<img src="/img/8.ld1/26.jpg" alt="安装教程_Lucky dog 1" />
+<img src="/img/8.ld1/27.jpg" alt="安装教程_Lucky dog 1" />
 ]]></content>
       <categories>
         <category>教程</category>
