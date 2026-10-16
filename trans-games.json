@@ -5197,7 +5197,7 @@
   ]
  },
  {
-  "name": "逢魔時 〜怪談ロマンス〜",
+  "name": "逢魔時 ～怪談ロマンス～",
   "nameTbl": "逢魔時～怪談ロマンス～（PSP）",
   "brand": "QuinRose",
   "publisher": "QuinRose",
@@ -5211,7 +5211,7 @@
   "type": [
    "预翻译"
   ],
-  "cover": "/img/trans-covers/QuinRose_逢魔時 〜怪談ロマンス〜（PSP）.jpg",
+  "cover": "/img/trans-covers/QuinRose_逢魔時 ～怪談ロマンス～（PSP）.jpg",
   "brands": [
    "QuinRose"
   ],
@@ -5922,7 +5922,7 @@
   ]
  },
  {
-  "name": "スクールウォーズ 〜全巻パック 本編＆卒業戦線〜",
+  "name": "スクールウォーズ ～全巻パック 本編＆卒業戦線～",
   "nameTbl": "スクール・ウォーズ（School Wars 二合一）（PSV）",
   "brand": "QuinRose",
   "publisher": "QuinRose",
@@ -5936,7 +5936,7 @@
   "type": [
    "预翻译"
   ],
-  "cover": "/img/trans-covers/QuinRose_スクールウォーズ 〜全巻パック 本編＆卒業戦線〜（PSV）.jpg",
+  "cover": "/img/trans-covers/QuinRose_スクールウォーズ ～全巻パック 本編＆卒業戦線～（PSV）.jpg",
   "brands": [
    "QuinRose"
   ],
@@ -6738,8 +6738,8 @@
   ]
  },
  {
-  "name": "Money Parasite 〜嘘つきな女〜",
-  "nameTbl": "Money Parasite〜嘘つきな女〜（NS）",
+  "name": "Money Parasite ～嘘つきな女～",
+  "nameTbl": "Money Parasite～嘘つきな女～（NS）",
   "brand": "Takuyo Co., Ltd.",
   "publisher": "Takuyo Co., Ltd.",
   "plat": "NS",
@@ -6752,7 +6752,7 @@
   "type": [
    "预翻译"
   ],
-  "cover": "/img/trans-covers/Takuyo Co., Ltd._Money Parasite 〜嘘つきな女〜（NS）.jpg",
+  "cover": "/img/trans-covers/Takuyo Co., Ltd._Money Parasite ～嘘つきな女～（NS）.jpg",
   "brands": [
    "Takuyo Co., Ltd."
   ],
@@ -6762,7 +6762,7 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DMoney%20Parasite%E3%80%9C%E5%98%98%E3%81%A4%E3%81%8D%E3%81%AA%E5%A5%B3%E3%80%9C%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DMoney%20Parasite%EF%BD%9E%E5%98%98%E3%81%A4%E3%81%8D%E3%81%AA%E5%A5%B3%EF%BD%9E%5B20260915%5D.zip"
    }
   ]
  },
@@ -11017,6 +11017,270 @@
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5DVamwolf%20Cross%E2%80%A0%5B20261016%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ときめきメモリアル Girl's Side 1st Love for Nintendo Switch",
+  "nameTbl": "ときめきメモリアル Girl's Side 1st Love for Nintendo Switch（NS）",
+  "brand": "KONAMI",
+  "publisher": "KONAMI",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2024-02-14",
+  "transDate": "2026-10-17",
+  "vndb": "https://vndb.org/v857",
+  "vndbRelease": "r117332",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/KONAMI_ときめきメモリアル Girl's Side 1st Love for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "KONAMI"
+  ],
+  "publishers": [
+   "KONAMI"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%81%A8%E3%81%8D%E3%82%81%E3%81%8D%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB%20Girl%27s%20Side%201st%20Love%20for%20Nintendo%20Switch%5B20261017%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ときめきメモリアル Girl's Side 3rd Story for Nintendo Switch",
+  "nameTbl": "ときめきメモリアル Girl's Side 3rd Story for Nintendo Switch（NS）",
+  "brand": "KONAMI",
+  "publisher": "KONAMI",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2024-02-14",
+  "transDate": "2026-10-17",
+  "vndb": "https://vndb.org/v2956",
+  "vndbRelease": "r117335",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/KONAMI_ときめきメモリアル Girl's Side 3rd Story for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "KONAMI"
+  ],
+  "publishers": [
+   "KONAMI"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%81%A8%E3%81%8D%E3%82%81%E3%81%8D%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB%20Girl%27s%20Side%203rd%20Story%20for%20Nintendo%20Switch%5B20261017%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ときめきメモリアル Girl's Side 4th Heart",
+  "nameTbl": "ときめきメモリアル Girl's Side 4th Heart（NS）",
+  "brand": "KONAMI",
+  "publisher": "KONAMI",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2021-10-28",
+  "transDate": "2026-10-17",
+  "vndb": "https://vndb.org/v26002",
+  "vndbRelease": "r80375",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/KONAMI_ときめきメモリアル Girl's Side 4th Heart（NS）.jpg",
+  "brands": [
+   "KONAMI"
+  ],
+  "publishers": [
+   "KONAMI"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%81%A8%E3%81%8D%E3%82%81%E3%81%8D%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB%20Girl%27s%20Side%204th%20Heart%5B20261017%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ときめきメモリアル Girl's Side 2nd Season for Nintendo Switch",
+  "nameTbl": "ときめきメモリアル Girl's Side 2nd Season for Nintendo Switch（NS）",
+  "brand": "KONAMI",
+  "publisher": "KONAMI",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2024-02-14",
+  "transDate": "2026-10-17",
+  "vndb": "https://vndb.org/v858",
+  "vndbRelease": "r117334",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/KONAMI_ときめきメモリアル Girl's Side 2nd Season for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "KONAMI"
+  ],
+  "publishers": [
+   "KONAMI"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%81%A8%E3%81%8D%E3%82%81%E3%81%8D%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB%20Girl%27s%20Side%202nd%20Season%20for%20Nintendo%20Switch%5B20261017%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ソラユメ",
+  "nameTbl": "ソラユメ（NS）",
+  "brand": "Takuyo Co., Ltd.",
+  "publisher": "Takuyo Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2026-07-23",
+  "transDate": "2026-10-17",
+  "vndb": "https://vndb.org/v1341",
+  "vndbRelease": "r163779",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Takuyo Co., Ltd._ソラユメ（NS）.jpg",
+  "brands": [
+   "Takuyo Co., Ltd."
+  ],
+  "publishers": [
+   "Takuyo Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%82%BD%E3%83%A9%E3%83%A6%E3%83%A1%5B20261017%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "e'tude prologue ～揺れ動く心のかたち～ Portable",
+  "nameTbl": "e'tude prologue ～揺れ動く心のかたち～ Portable（PSP）",
+  "brand": "Takuyo Co., Ltd.",
+  "publisher": "Takuyo Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2007-06-28",
+  "transDate": "2026-10-17",
+  "vndb": "https://vndb.org/v1893",
+  "vndbRelease": "r3673",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Takuyo Co., Ltd._e'tude prologue ～揺れ動く心のかたち～ Portable（PSP）.jpg",
+  "brands": [
+   "Takuyo Co., Ltd."
+  ],
+  "publishers": [
+   "Takuyo Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%C3%A9tude%20prologue%20%EF%BD%9E%E6%8F%BA%E3%82%8C%E5%8B%95%E3%81%8F%E5%BF%83%E3%81%AE%E3%81%8B%E3%81%9F%E3%81%A1%EF%BD%9E%5B20261017%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "裏語 薄桜鬼 ～暁の調べ～",
+  "nameTbl": "裏語 薄桜鬼 ～暁の調べ～（PSP）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2014-08-07",
+  "transDate": "2026-10-17",
+  "vndb": "https://vndb.org/v15110",
+  "vndbRelease": "r33590",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._裏語 薄桜鬼 ～暁の調べ～（PSP）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E8%A3%8F%E8%AA%9E%20%E8%96%84%E6%A1%9C%E9%AC%BC%20%EF%BD%9E%E6%9A%81%E3%81%AE%E8%AA%BF%E3%81%B9%EF%BD%9E%5B20261017%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "裏語 薄桜鬼",
+  "nameTbl": "裏語 薄桜鬼（PSP）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2013-06-27",
+  "transDate": "2026-10-17",
+  "vndb": "https://vndb.org/v11984",
+  "vndbRelease": "r25144",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._裏語 薄桜鬼（PSP）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E8%A3%8F%E8%AA%9E%20%E8%96%84%E6%A1%9C%E9%AC%BC%5B20261017%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "薄桜鬼 随想録 面影げ花",
+  "nameTbl": "薄桜鬼 随想録 面影げ花（PSV）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSV",
+  "orient": "乙女向",
+  "release": "2015-02-19",
+  "transDate": "2026-10-17",
+  "vndb": "https://vndb.org/v1803",
+  "vndbRelease": "r36568",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._薄桜鬼 随想録 面影げ花（PSV）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5D%E8%96%84%E6%A1%9C%E9%AC%BC%20%E9%9A%8F%E6%83%B3%E9%8C%B2%20%E9%9D%A2%E5%BD%B1%E3%81%92%E8%8A%B1%5B20261017%5D.zip"
    }
   ]
  }
