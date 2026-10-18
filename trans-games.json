@@ -2430,7 +2430,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2024-02-22",
-  "transDate": "2026-09-14",
+  "transDate": "2026-10-18",
   "vndb": "https://vndb.org/v22311",
   "vndbRelease": "r119420",
   "lang": "JP",
@@ -2444,10 +2444,11 @@
   "publishers": [
    "Matatabi"
   ],
+  "note": "2026-10-18 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E7%A5%9E%E5%87%AA%E3%83%8E%E6%9D%9C%20%E4%BA%94%E6%9C%88%E9%9B%A8%E7%B6%B4%E3%82%8A%5B20260914%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E7%A5%9E%E5%87%AA%E3%83%8E%E6%9D%9C%20%E4%BA%94%E6%9C%88%E9%9B%A8%E7%B6%B4%E3%82%8A%5B20261018%5D.zip"
    }
   ]
  },
@@ -9235,7 +9236,7 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E5%85%B6%E4%BB%96/%5BNS-JP%5D%E6%BB%84%E6%B5%B7%E5%A4%A9%E8%A8%98%5B20261008%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E5%85%B6%E4%BB%96/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%BB%84%E6%B5%B7%E5%A4%A9%E8%A8%98%5B20261008%5D.zip"
    }
   ]
  },
@@ -9263,7 +9264,7 @@
   "dls": [
    {
     "t": "补丁",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E5%85%B6%E4%BB%96/%5BPC-JP%5DBewitching%20Sinners%5B20240929%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E5%85%B6%E4%BB%96/%E8%A1%A5%E4%B8%81/PC/%5BPC-JP%5DBewitching%20Sinners%5B20240929%5D.zip"
    }
   ]
  },
@@ -9292,7 +9293,7 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E5%85%B6%E4%BB%96/%5BPC-JP%5D%E9%85%B7%E7%BD%AA%E3%82%92%E5%8F%97%E3%81%91%E3%82%8B%E3%81%B9%E3%81%8D%E8%80%85%5B20260909%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E5%85%B6%E4%BB%96/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E9%85%B7%E7%BD%AA%E3%82%92%E5%8F%97%E3%81%91%E3%82%8B%E3%81%B9%E3%81%8D%E8%80%85%5B20260909%5D.zip"
    }
   ]
  },
@@ -9321,7 +9322,7 @@
   "dls": [
    {
     "t": "补丁",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E5%85%B6%E4%BB%96/%5BPC-JP%5DLostFriends3%5B20241207%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E5%85%B6%E4%BB%96/%E8%A1%A5%E4%B8%81/PC/%5BPC-JP%5DLostFriends3%5B20241207%5D.zip"
    }
   ]
  },
@@ -11281,6 +11282,740 @@
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5D%E8%96%84%E6%A1%9C%E9%AC%BC%20%E9%9A%8F%E6%83%B3%E9%8C%B2%20%E9%9D%A2%E5%BD%B1%E3%81%92%E8%8A%B1%5B20261017%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ニル・アドミラリの天秤 色ドリ撫子",
+  "nameTbl": "ニル・アドミラリの天秤 色ドリ撫子（NS）",
+  "brand": "Otomate",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2018-09-20",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v18163",
+  "vndbRelease": "r56827",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Otomate_ニル・アドミラリの天秤 色ドリ撫子（NS）.jpg",
+  "brands": [
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%8B%E3%83%AB%20%E3%82%A2%E3%83%89%E3%83%9F%E3%83%A9%E3%83%AA%E3%81%AE%E5%A4%A9%E7%A7%A4%20%E8%89%B2%E3%83%89%E3%83%AA%E6%92%AB%E5%AD%90%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "千銃士:Rhodoknight for Nintendo Switch",
+  "nameTbl": "千銃士:Rhodoknight for Nintendo Switch（NS）",
+  "brand": "G-MODE",
+  "publisher": "G-MODE",
+  "plat": "NS",
+  "orient": "其他",
+  "release": "2026-06-25",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v59416",
+  "vndbRelease": "r159312",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/G-MODE_千銃士_Rhodoknight for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "G-MODE",
+   "Marvelous Inc."
+  ],
+  "publishers": [
+   "G-MODE"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E5%85%B6%E4%BB%96/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E5%8D%83%E9%8A%83%E5%A3%ABRhodoknight%20for%20Nintendo%20Switch%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "新宿羅生門 ―Rashomon of Shinjuku―",
+  "nameTbl": "新宿羅生門 ―Rashomon of Shinjuku―（NS）",
+  "brand": "Karin Entertainment",
+  "publisher": "ALTERGEAR",
+  "plat": "NS",
+  "orient": "其他",
+  "release": "2024-08-08",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v34021",
+  "vndbRelease": "r124895",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Karin Entertainment_新宿羅生門 ―Rashomon of Shinjuku―（NS）.jpg",
+  "brands": [
+   "Karin Entertainment"
+  ],
+  "publishers": [
+   "ALTERGEAR"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E5%85%B6%E4%BB%96/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%96%B0%E5%AE%BF%E7%BE%85%E7%94%9F%E9%96%80%20%E2%80%95Rashomon%20of%20Shinjuku%E2%80%95%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "L2 Love×Loop",
+  "nameTbl": "L2 Love×Loop（PS2）",
+  "brand": "Otomate",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2009-07-23",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v1754",
+  "vndbRelease": "r3439",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Otomate_L2 Love×Loop（PS2）.jpg",
+  "brands": [
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5DL2%20Love%C3%97Loop%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ARMEN NOIR portable",
+  "nameTbl": "ARMEN NOIR portable（PSP）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2012-04-12",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v4633",
+  "vndbRelease": "r23704",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._ARMEN NOIR portable（PSP）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DARMEN%20NOIR%20portable%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "D.C. Girl's Symphony Pocket",
+  "nameTbl": "D.C. Girl's Symphony Pocket（PSP）",
+  "brand": "Red Flagship Co.,Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2010-06-24",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v969",
+  "vndbRelease": "r6145",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Red Flagship Co.,Ltd._D.C. Girl's Symphony Pocket（PSP）.jpg",
+  "brands": [
+   "Red Flagship Co.,Ltd.",
+   "Sanctuary"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DD.C.%20Girl%27s%20Symphony%20Pocket%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Jewelic Nightmare",
+  "nameTbl": "Jewelic Nightmare（PSP）",
+  "brand": "Otomate",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2013-12-26",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v12436",
+  "vndbRelease": "r26455",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Otomate_Jewelic Nightmare（PSP）.jpg",
+  "brands": [
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DJewelic%20Nightmare%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Little Aid ポータブル",
+  "nameTbl": "Little Aid ポータブル（PSP）",
+  "brand": "Takuyo Co., Ltd.",
+  "publisher": "Takuyo Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2007-05-17",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v1890",
+  "vndbRelease": "r3660",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Takuyo Co., Ltd._Little Aid ポータブル（PSP）.jpg",
+  "brands": [
+   "Takuyo Co., Ltd."
+  ],
+  "publishers": [
+   "Takuyo Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DLittle%20Aid%20%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Solomon's Ring ～地の章～",
+  "nameTbl": "Solomon's Ring ～地の章～（PSP）",
+  "brand": "Plan Peace",
+  "publisher": "Plan Peace",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2013-06-27",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v11502",
+  "vndbRelease": "r23772",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Plan Peace_Solomon's Ring ～地の章～（PSP）.jpg",
+  "brands": [
+   "Plan Peace"
+  ],
+  "publishers": [
+   "Plan Peace"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DSolomon%27s%20Ring%20%EF%BD%9E%E5%9C%B0%E3%81%AE%E7%AB%A0%EF%BD%9E%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Solomon's Ring ～水の章～",
+  "nameTbl": "Solomon's Ring ～水の章～（PSP）",
+  "brand": "Plan Peace",
+  "publisher": "Plan Peace",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2013-04-27",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v11502",
+  "vndbRelease": "r23770",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Plan Peace_Solomon's Ring ～水の章～（PSP）.jpg",
+  "brands": [
+   "Plan Peace"
+  ],
+  "publishers": [
+   "Plan Peace"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DSolomon%27s%20Ring%20%EF%BD%9E%E6%B0%B4%E3%81%AE%E7%AB%A0%EF%BD%9E%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Solomon's Ring ～火の章～",
+  "nameTbl": "Solomon's Ring ～火の章～（PSP）",
+  "brand": "Plan Peace",
+  "publisher": "Plan Peace",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2012-12-20",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v11502",
+  "vndbRelease": "r23769",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Plan Peace_Solomon's Ring ～火の章～（PSP）.jpg",
+  "brands": [
+   "Plan Peace"
+  ],
+  "publishers": [
+   "Plan Peace"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DSolomon%27s%20Ring%20%EF%BD%9E%E7%81%AB%E3%81%AE%E7%AB%A0%EF%BD%9E%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Solomon's Ring ～風の章～",
+  "nameTbl": "Solomon's Ring ～風の章～（PSP）",
+  "brand": "Plan Peace",
+  "publisher": "Plan Peace",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2013-02-28",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v11502",
+  "vndbRelease": "r23771",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Plan Peace_Solomon's Ring ～風の章～（PSP）.jpg",
+  "brands": [
+   "Plan Peace"
+  ],
+  "publishers": [
+   "Plan Peace"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DSolomon%27s%20Ring%20%EF%BD%9E%E9%A2%A8%E3%81%AE%E7%AB%A0%EF%BD%9E%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "あさき、ゆめみし",
+  "nameTbl": "あさき、ゆめみし（PSP）",
+  "brand": "澪",
+  "publisher": "QuinRose",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2011-04-28",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v1009",
+  "vndbRelease": "r13255",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/澪_あさき、ゆめみし（PSP）.jpg",
+  "brands": [
+   "澪"
+  ],
+  "publishers": [
+   "QuinRose"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%81%82%E3%81%95%E3%81%8D%E3%80%81%E3%82%86%E3%82%81%E3%81%BF%E3%81%97%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "アルカナ・ファミリア 2",
+  "nameTbl": "アルカナ・ファミリア 2（PSP）",
+  "brand": "HuneX",
+  "publisher": "COMFORT",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2013-11-14",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v12125",
+  "vndbRelease": "r29360",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_アルカナ・ファミリア 2（PSP）.jpg",
+  "brands": [
+   "HuneX"
+  ],
+  "publishers": [
+   "COMFORT"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%8A%E3%83%BB%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%82%A2%202%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "アルカナ・ファミリア フェスタ・レガーロ",
+  "nameTbl": "アルカナ・ファミリア フェスタ・レガーロ（PSP）",
+  "brand": "HuneX",
+  "publisher": "COMFORT",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2012-12-13",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v18891",
+  "vndbRelease": "r44753",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_アルカナ・ファミリア フェスタ・レガーロ（PSP）.jpg",
+  "brands": [
+   "HuneX"
+  ],
+  "publishers": [
+   "COMFORT"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%8A%E3%83%BB%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%82%A2%20%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%BB%E3%83%AC%E3%82%AC%E3%83%BC%E3%83%AD%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "アルカナ・ファミリア －幽霊船の魔術師－",
+  "nameTbl": "アルカナ・ファミリア －幽霊船の魔術師－（PSP）",
+  "brand": "HuneX",
+  "publisher": "COMFORT",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2012-06-21",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v10272",
+  "vndbRelease": "r21466",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_アルカナ・ファミリア －幽霊船の魔術師－（PSP）.jpg",
+  "brands": [
+   "HuneX"
+  ],
+  "publishers": [
+   "COMFORT"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%8A%E3%83%BB%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%82%A2%20%EF%BC%8D%E5%B9%BD%E9%9C%8A%E8%88%B9%E3%81%AE%E9%AD%94%E8%A1%93%E5%B8%AB%EF%BC%8D%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "アルコバレーノ! ポータブル",
+  "nameTbl": "アルコバレーノ! ポータブル（PSP）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2010-01-28",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v1415",
+  "vndbRelease": "r6465",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._アルコバレーノ! ポータブル（PSP）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%90%E3%83%AC%E3%83%BC%E3%83%8E%21%20%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ウィル・オ・ウィスプ ポータブル",
+  "nameTbl": "ウィル・オ・ウィスプ ポータブル（PSP）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2009-03-26",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v1919",
+  "vndbRelease": "r3741",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._ウィル・オ・ウィスプ ポータブル（PSP）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%BB%E3%82%AA%E3%83%BB%E3%82%A6%E3%82%A3%E3%82%B9%E3%83%97%20%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ユア・メモリーズオフ ～Girl's Style～",
+  "nameTbl": "ユア・メモリーズオフ ～Girl's Style～（PSP）",
+  "brand": "MAGES.",
+  "publisher": "CYBERFRONT",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2009-02-26",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v1964",
+  "vndbRelease": "r3854",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/MAGES._ユア・メモリーズオフ ～Girl's Style～（PSP）.jpg",
+  "brands": [
+   "MAGES."
+  ],
+  "publishers": [
+   "CYBERFRONT",
+   "MAGES."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%83%A6%E3%82%A2%E3%83%BB%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20%EF%BD%9EGirl%27s%20Style%EF%BD%9E%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "リアルロデ ポータブル",
+  "nameTbl": "リアルロデ ポータブル（PSP）",
+  "brand": "HuneX",
+  "publisher": "Kadokawa Shoten",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2010-04-22",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v1006",
+  "vndbRelease": "r6415",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_リアルロデ ポータブル（PSP）.jpg",
+  "brands": [
+   "HuneX"
+  ],
+  "publishers": [
+   "Kadokawa Shoten"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%AD%E3%83%87%20%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "乙女的恋革命★ラブレボ!! Portable",
+  "nameTbl": "乙女的恋革命★ラブレボ!! Portable（PSP）",
+  "brand": "HuneX",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2010-05-20",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v3549",
+  "vndbRelease": "r6333",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_乙女的恋革命★ラブレボ!! Portable（PSP）.jpg",
+  "brands": [
+   "HuneX"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E4%B9%99%E5%A5%B3%E7%9A%84%E6%81%8B%E9%9D%A9%E5%91%BD%E2%98%85%E3%83%A9%E3%83%96%E3%83%AC%E3%83%9C%21%21%20Portable%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "恋戦隊LOVE＆PEACE THE Ｐ.Ｓ.Ｐ.",
+  "nameTbl": "恋戦隊LOVE＆PEACE THE Ｐ.Ｓ.Ｐ.（PSP）",
+  "brand": "EMIQ Inc.",
+  "publisher": "BROCCOLI Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2012-08-30",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v8092",
+  "vndbRelease": "r16327",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/EMIQ Inc._恋戦隊LOVE＆PEACE THE Ｐ.Ｓ.Ｐ.（PSP）.jpg",
+  "brands": [
+   "EMIQ Inc.",
+   "Sanctuary"
+  ],
+  "publishers": [
+   "BROCCOLI Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E6%81%8B%E6%88%A6%E9%9A%8ALOVE%EF%BC%86PEACE%20THE%20%EF%BC%B0.%EF%BC%B3.%EF%BC%B0.%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "星色のおくりもの",
+  "nameTbl": "星色のおくりもの（PSP）",
+  "brand": "Takuyo Co., Ltd.",
+  "publisher": "Takuyo Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2008-11-27",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v1565",
+  "vndbRelease": "r3079",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Takuyo Co., Ltd._星色のおくりもの（PSP）.jpg",
+  "brands": [
+   "Takuyo Co., Ltd."
+  ],
+  "publishers": [
+   "Takuyo Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E6%98%9F%E8%89%B2%E3%81%AE%E3%81%8A%E3%81%8F%E3%82%8A%E3%82%82%E3%81%AE%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "5人の恋プリンス ～ヒミツの契約結婚～",
+  "nameTbl": "5人の恋プリンス ～ヒミツの契約結婚～（PSV）",
+  "brand": "Kadokawa Shoten",
+  "publisher": "Asgard Inc.",
+  "plat": "PSV",
+  "orient": "乙女向",
+  "release": "2015-06-25",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v16607",
+  "vndbRelease": "r38042",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Kadokawa Shoten_5人の恋プリンス ～ヒミツの契約結婚～（PSV）.jpg",
+  "brands": [
+   "Kadokawa Shoten"
+  ],
+  "publishers": [
+   "Asgard Inc.",
+   "Kadokawa Shoten"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5D5%E4%BA%BA%E3%81%AE%E6%81%8B%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%20%EF%BD%9E%E3%83%92%E3%83%9F%E3%83%84%E3%81%AE%E5%A5%91%E7%B4%84%E7%B5%90%E5%A9%9A%EF%BD%9E%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "罪喰い ～千の呪い、千の祈り～ for V",
+  "nameTbl": "罪喰い ～千の呪い、千の祈り～ for V（PSV）",
+  "brand": "Operetta",
+  "publisher": "Dramatic Create",
+  "plat": "PSV",
+  "orient": "乙女向",
+  "release": "2017-06-29",
+  "transDate": "2026-10-18",
+  "vndb": "https://vndb.org/v18295",
+  "vndbRelease": "r49903",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Operetta_罪喰い ～千の呪い、千の祈り～ for V（PSV）.jpg",
+  "brands": [
+   "Operetta"
+  ],
+  "publishers": [
+   "Dramatic Create"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5D%E7%BD%AA%E5%96%B0%E3%81%84%20%EF%BD%9E%E5%8D%83%E3%81%AE%E5%91%AA%E3%81%84%E3%80%81%E5%8D%83%E3%81%AE%E7%A5%88%E3%82%8A%EF%BD%9E%20for%20V%5B20261018%5D.zip"
    }
   ]
  }
