@@ -8722,13 +8722,13 @@
   "name": "lesson -レッスン-",
   "nameTbl": "lesson -レッスン-（PC）",
   "brand": "parade",
-  "publisher": "",
+  "publisher": "parade",
   "plat": "PC",
   "orient": "蔷薇向",
   "release": "2025-09-26",
   "transDate": "2026-09-15",
   "vndb": "https://vndb.org/v54472",
-  "vndbRelease": "",
+  "vndbRelease": "r131314",
   "lang": "JP",
   "type": [
    "预翻译"
@@ -8737,7 +8737,9 @@
   "brands": [
    "parade"
   ],
-  "publishers": [],
+  "publishers": [
+   "parade"
+  ],
   "dls": [
    {
     "t": "预翻译",
@@ -8865,13 +8867,13 @@
   "name": "Voice",
   "nameTbl": "Voice（PC）",
   "brand": "銀灯",
-  "publisher": "",
+  "publisher": "銀灯",
   "plat": "PC",
   "orient": "蔷薇向",
   "release": "2007-03-17",
   "transDate": "2026-09-14",
   "vndb": "https://vndb.org/v13347",
-  "vndbRelease": "",
+  "vndbRelease": "r28826",
   "lang": "JP",
   "type": [
    "补丁"
@@ -8880,7 +8882,9 @@
   "brands": [
    "銀灯"
   ],
-  "publishers": [],
+  "publishers": [
+   "銀灯"
+  ],
   "dls": [
    {
     "t": "补丁",
@@ -9244,13 +9248,13 @@
   "name": "Bewitching Sinners",
   "nameTbl": "Bewitching Sinners（英文）（PC）",
   "brand": "Ceylon Entertainment",
-  "publisher": "",
+  "publisher": "Miss Xero",
   "plat": "PC",
   "orient": "其他",
   "release": "2024-04-19",
   "transDate": "2024-09-29",
   "vndb": "https://vndb.org/v41700",
-  "vndbRelease": "",
+  "vndbRelease": "r113237",
   "lang": "JP",
   "type": [
    "补丁"
@@ -9260,7 +9264,9 @@
    "Ceylon Entertainment",
    "Miss Xero"
   ],
-  "publishers": [],
+  "publishers": [
+   "Miss Xero"
+  ],
   "dls": [
    {
     "t": "补丁",
@@ -12016,6 +12022,678 @@
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5D%E7%BD%AA%E5%96%B0%E3%81%84%20%EF%BD%9E%E5%8D%83%E3%81%AE%E5%91%AA%E3%81%84%E3%80%81%E5%8D%83%E3%81%AE%E7%A5%88%E3%82%8A%EF%BD%9E%20for%20V%5B20261018%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "アンジェリーク エトワール",
+  "nameTbl": "アンジェリーク エトワール（PS2）",
+  "brand": "TENKY Co. Ltd.",
+  "publisher": "KOEI Co., Ltd.",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2004-09-16",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v2169",
+  "vndbRelease": "r4251",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/TENKY Co. Ltd._アンジェリーク エトワール（PS2）.jpg",
+  "brands": [
+   "TENKY Co. Ltd."
+  ],
+  "publishers": [
+   "KOEI Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5D%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%AF%20%E3%82%A8%E3%83%88%E3%83%AF%E3%83%BC%E3%83%AB%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "アンジェリーク トロワ",
+  "nameTbl": "アンジェリーク トロワ（PS2）",
+  "brand": "KOEI Co., Ltd.",
+  "publisher": "KOEI Co., Ltd.",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2000-11-22",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v2168",
+  "vndbRelease": "r4250",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/KOEI Co., Ltd._アンジェリーク トロワ（PS2）.jpg",
+  "brands": [
+   "KOEI Co., Ltd."
+  ],
+  "publishers": [
+   "KOEI Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5D%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%AF%20%E3%83%88%E3%83%AD%E3%83%AF%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ラスト・エスコート ～深夜の黒蝶物語～",
+  "nameTbl": "ラスト・エスコート ～深夜の黒蝶物語～（PS2）",
+  "brand": "Vingt-et-un. Systems Corporation",
+  "publisher": "D3PUBLISHER INC.",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2006-01-26",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v1978",
+  "vndbRelease": "r3884",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Vingt-et-un. Systems Corporation_ラスト・エスコート ～深夜の黒蝶物語～（PS2）.jpg",
+  "brands": [
+   "Vingt-et-un. Systems Corporation"
+  ],
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5D%E3%83%A9%E3%82%B9%E3%83%88%E3%83%BB%E3%82%A8%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20%EF%BD%9E%E6%B7%B1%E5%A4%9C%E3%81%AE%E9%BB%92%E8%9D%B6%E7%89%A9%E8%AA%9E%EF%BD%9E%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ラスト・エスコート ～黒蝶スペシャルナイト～",
+  "nameTbl": "ラスト・エスコート ～黒蝶スペシャルナイト～（PS2）",
+  "brand": "Vingt-et-un. Systems Corporation",
+  "publisher": "D3PUBLISHER INC.",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2006-07-27",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v1979",
+  "vndbRelease": "r3885",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Vingt-et-un. Systems Corporation_ラスト・エスコート ～黒蝶スペシャルナイト～（PS2）.jpg",
+  "brands": [
+   "Vingt-et-un. Systems Corporation"
+  ],
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5D%E3%83%A9%E3%82%B9%E3%83%88%E3%83%BB%E3%82%A8%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20%EF%BD%9E%E9%BB%92%E8%9D%B6%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88%EF%BD%9E%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ラスト・エスコート2 ～深夜の甘い棘～",
+  "nameTbl": "ラスト・エスコート2 ～深夜の甘い棘～（PS2）",
+  "brand": "Vingt-et-un. Systems Corporation",
+  "publisher": "D3PUBLISHER INC.",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2008-02-21",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v1980",
+  "vndbRelease": "r3886",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Vingt-et-un. Systems Corporation_ラスト・エスコート2 ～深夜の甘い棘～（PS2）.jpg",
+  "brands": [
+   "Vingt-et-un. Systems Corporation"
+  ],
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5D%E3%83%A9%E3%82%B9%E3%83%88%E3%83%BB%E3%82%A8%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%882%20%EF%BD%9E%E6%B7%B1%E5%A4%9C%E3%81%AE%E7%94%98%E3%81%84%E6%A3%98%EF%BD%9E%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Beyond The Future -Fix The Time Arrows-",
+  "nameTbl": "Beyond The Future -Fix The Time Arrows-（PSP）",
+  "brand": "Rejet Co., Ltd.",
+  "publisher": "MAGES.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2011-12-08",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v7770",
+  "vndbRelease": "r16193",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Rejet Co., Ltd._Beyond The Future -Fix The Time Arrows-（PSP）.jpg",
+  "brands": [
+   "Rejet Co., Ltd."
+  ],
+  "publishers": [
+   "MAGES."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DBeyond%20The%20Future%20-Fix%20The%20Time%20Arrows-%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Confidential Money ～300日で3000万ドル稼ぐ方法～",
+  "nameTbl": "Confidential Money ～300日で3000万ドル稼ぐ方法～（PSP）",
+  "brand": "Otomate",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2012-10-04",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v10631",
+  "vndbRelease": "r21561",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Otomate_Confidential Money ～300日で3000万ドル稼ぐ方法～（PSP）.jpg",
+  "brands": [
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DConfidential%20Money%20%EF%BD%9E300%E6%97%A5%E3%81%A73000%E4%B8%87%E3%83%89%E3%83%AB%E7%A8%BC%E3%81%90%E6%96%B9%E6%B3%95%EF%BD%9E%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "For Symphony ～With All One's Heart～ Portable",
+  "nameTbl": "For Symphony ～With All One's Heart～ Portable（PSP）",
+  "brand": "Takuyo Co., Ltd.",
+  "publisher": "Takuyo Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2007-07-26",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v2628",
+  "vndbRelease": "r5164",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Takuyo Co., Ltd._For Symphony ～With All One's Heart～ Portable（PSP）.jpg",
+  "brands": [
+   "Takuyo Co., Ltd."
+  ],
+  "publishers": [
+   "Takuyo Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DFor%20Symphony%20%EF%BD%9EWith%20All%20One%27s%20Heart%EF%BD%9E%20Portable%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Lucian Bee's EVIL VIOLET",
+  "nameTbl": "Lucian Bee's EVIL VIOLET（PSP）",
+  "brand": "HuneX",
+  "publisher": "MAGES.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2010-10-28",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v9918",
+  "vndbRelease": "r19965",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_Lucian Bee's EVIL VIOLET（PSP）.jpg",
+  "brands": [
+   "HuneX",
+   "Rejet Co., Ltd."
+  ],
+  "publishers": [
+   "MAGES."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DLucian%20Bee%27s%20EVIL%20VIOLET%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Lucian Bee's JUSTICE YELLOW",
+  "nameTbl": "Lucian Bee's JUSTICE YELLOW（PSP）",
+  "brand": "HuneX",
+  "publisher": "MAGES.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2010-10-28",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v9917",
+  "vndbRelease": "r19963",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_Lucian Bee's JUSTICE YELLOW（PSP）.jpg",
+  "brands": [
+   "HuneX",
+   "Rejet Co., Ltd."
+  ],
+  "publishers": [
+   "MAGES."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DLucian%20Bee%27s%20JUSTICE%20YELLOW%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Lucian Bee's RESURRECTION SUPERNOVA",
+  "nameTbl": "Lucian Bee's RESURRECTION SUPERNOVA（PSP）",
+  "brand": "HuneX",
+  "publisher": "MAGES.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2010-10-28",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v1971",
+  "vndbRelease": "r11539",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_Lucian Bee's RESURRECTION SUPERNOVA（PSP）.jpg",
+  "brands": [
+   "HuneX",
+   "Rejet Co., Ltd."
+  ],
+  "publishers": [
+   "MAGES."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DLucian%20Bee%27s%20RESURRECTION%20SUPERNOVA%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "O＊G＊A 鬼ごっこロワイアル ハンターは孤島で恋をする",
+  "nameTbl": "O＊G＊A 鬼ごっこロワイアル ハンターは孤島で恋をする（PSP）",
+  "brand": "Otomate",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2013-07-18",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v11960",
+  "vndbRelease": "r25081",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Otomate_O＊G＊A 鬼ごっこロワイアル ハンターは孤島で恋をする（PSP）.jpg",
+  "brands": [
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DO%EF%BC%8AG%EF%BC%8AA%20%E9%AC%BC%E3%81%94%E3%81%A3%E3%81%93%E3%83%AD%E3%83%AF%E3%82%A4%E3%82%A2%E3%83%AB%20%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AF%E5%AD%A4%E5%B3%B6%E3%81%A7%E6%81%8B%E3%82%92%E3%81%99%E3%82%8B%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Vitamin X to Z",
+  "nameTbl": "Vitamin X to Z（PSP）",
+  "brand": "HuneX",
+  "publisher": "D3PUBLISHER INC.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2011-02-24",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v12935",
+  "vndbRelease": "r13395",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_Vitamin X to Z（PSP）.jpg",
+  "brands": [
+   "HuneX"
+  ],
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DVitamin%20X%20to%20Z%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "VitaminR",
+  "nameTbl": "VitaminR（PSP）",
+  "brand": "Rejet Co., Ltd.",
+  "publisher": "D3PUBLISHER INC.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2013-08-08",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v11985",
+  "vndbRelease": "r25145",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Rejet Co., Ltd._VitaminR（PSP）.jpg",
+  "brands": [
+   "Rejet Co., Ltd."
+  ],
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DVitaminR%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "VitaminX DetectiveB6",
+  "nameTbl": "VitaminX DetectiveB6（PSP）",
+  "brand": "HuneX",
+  "publisher": "D3PUBLISHER INC.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2012-02-09",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v12934",
+  "vndbRelease": "r27750",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_VitaminX DetectiveB6（PSP）.jpg",
+  "brands": [
+   "HuneX"
+  ],
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DVitaminX%20DetectiveB6%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "VitaminX Evolution Plus",
+  "nameTbl": "VitaminX Evolution Plus（PSP）",
+  "brand": "HuneX",
+  "publisher": "D3PUBLISHER INC.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2010-09-09",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v1751",
+  "vndbRelease": "r11140",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_VitaminX Evolution Plus（PSP）.jpg",
+  "brands": [
+   "HuneX"
+  ],
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DVitaminX%20Evolution%20Plus%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "VitaminZ Graduation",
+  "nameTbl": "VitaminZ Graduation（PSP）",
+  "brand": "HuneX",
+  "publisher": "D3PUBLISHER INC.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2013-01-31",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v11943",
+  "vndbRelease": "r25031",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_VitaminZ Graduation（PSP）.jpg",
+  "brands": [
+   "HuneX"
+  ],
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DVitaminZ%20Graduation%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "VitaminZ Revolution",
+  "nameTbl": "VitaminZ Revolution（PSP）",
+  "brand": "HuneX",
+  "publisher": "D3PUBLISHER INC.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2010-03-25",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v1678",
+  "vndbRelease": "r6802",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_VitaminZ Revolution（PSP）.jpg",
+  "brands": [
+   "HuneX"
+  ],
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DVitaminZ%20Revolution%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "アンジェリーク 魔恋の六騎士",
+  "nameTbl": "アンジェリーク 魔恋の六騎士（PSP）",
+  "brand": "Otomate",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2011-11-17",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v8799",
+  "vndbRelease": "r17873",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Otomate_アンジェリーク 魔恋の六騎士（PSP）.jpg",
+  "brands": [
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%AF%20%E9%AD%94%E6%81%8B%E3%81%AE%E5%85%AD%E9%A8%8E%E5%A3%AB%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "カヌチ 二つの翼",
+  "nameTbl": "カヌチ 二つの翼（PSP）",
+  "brand": "Vingt-et-un. Systems Corporation",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2010-12-16",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v1762",
+  "vndbRelease": "r12379",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Vingt-et-un. Systems Corporation_カヌチ 二つの翼（PSP）.jpg",
+  "brands": [
+   "Vingt-et-un. Systems Corporation"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%82%AB%E3%83%8C%E3%83%81%20%E4%BA%8C%E3%81%A4%E3%81%AE%E7%BF%BC%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "マイナスエイト",
+  "nameTbl": "マイナスエイト（PSP）",
+  "brand": "Otomate",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2014-01-23",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v12155",
+  "vndbRelease": "r25701",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Otomate_マイナスエイト（PSP）.jpg",
+  "brands": [
+   "Otomate",
+   "Rejet Co., Ltd."
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9%E3%82%A8%E3%82%A4%E3%83%88%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ラスト・エスコート ～Club Katze～",
+  "nameTbl": "ラスト・エスコート ～Club Katze～（PSP）",
+  "brand": "GameStudio",
+  "publisher": "D3PUBLISHER INC.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2010-02-18",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v3556",
+  "vndbRelease": "r6889",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/GameStudio_ラスト・エスコート ～Club Katze～（PSP）.jpg",
+  "brands": [
+   "GameStudio"
+  ],
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%83%A9%E3%82%B9%E3%83%88%E3%83%BB%E3%82%A8%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20%EF%BD%9EClub%20Katze%EF%BD%9E%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "VitaminX Destination",
+  "nameTbl": "VitaminX Destination（PSV）",
+  "brand": "HuneX",
+  "publisher": "D3PUBLISHER INC.",
+  "plat": "PSV",
+  "orient": "乙女向",
+  "release": "2018-02-22",
+  "transDate": "2026-10-20",
+  "vndb": "https://vndb.org/v22022",
+  "vndbRelease": "r54102",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_VitaminX Destination（PSV）.jpg",
+  "brands": [
+   "HuneX"
+  ],
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5DVitaminX%20Destination%5B20261020%5D.zip"
    }
   ]
  }
