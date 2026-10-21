@@ -1009,6 +1009,7 @@
   "publishers": [
    "honeybee"
   ],
+  "note": "建议用NS版。",
   "dls": [
    {
     "t": "预翻译",
@@ -1024,7 +1025,7 @@
   "plat": "PSV",
   "orient": "乙女向",
   "release": "2017-05-11",
-  "transDate": "2026-09-13",
+  "transDate": "2026-10-22",
   "vndb": "https://vndb.org/v2022",
   "vndbRelease": "r50328",
   "lang": "JP",
@@ -1041,9 +1042,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5DStarry%E2%98%86Sky%20%EF%BD%9ESummer%20Stories%EF%BD%9E%5B20260913%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5DStarry%E2%98%86Sky%20%EF%BD%9ESummer%20Stories%EF%BD%9E%5B20261022%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-22 重新翻译。"
  },
  {
   "name": "Starry☆Sky ～Autumn Stories～",
@@ -1053,7 +1055,7 @@
   "plat": "PSV",
   "orient": "乙女向",
   "release": "2017-08-24",
-  "transDate": "2026-09-13",
+  "transDate": "2026-10-22",
   "vndb": "https://vndb.org/v2023",
   "vndbRelease": "r51768",
   "lang": "JP",
@@ -1070,9 +1072,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5DStarry%E2%98%86Sky%20%EF%BD%9EAutumn%20Stories%EF%BD%9E%5B20260913%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5DStarry%E2%98%86Sky%20%EF%BD%9EAutumn%20Stories%EF%BD%9E%5B20261022%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-22 重新翻译。"
  },
  {
   "name": "Starry☆Sky ～Winter Stories～",
@@ -1082,7 +1085,7 @@
   "plat": "PSV",
   "orient": "乙女向",
   "release": "2017-11-30",
-  "transDate": "2026-09-13",
+  "transDate": "2026-10-22",
   "vndb": "https://vndb.org/v2024",
   "vndbRelease": "r53107",
   "lang": "JP",
@@ -1099,9 +1102,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5DStarry%E2%98%86Sky%20%EF%BD%9EWinter%20Stories%EF%BD%9E%5B20260913%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5DStarry%E2%98%86Sky%20%EF%BD%9EWinter%20Stories%EF%BD%9E%5B20261022%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-22 重新翻译。"
  },
  {
   "name": "青春はじめました!",
@@ -6280,7 +6284,7 @@
   "plat": "PSV",
   "orient": "乙女向",
   "release": "2017-08-31",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-22",
   "vndb": "https://vndb.org/v11312",
   "vndbRelease": "r53279",
   "lang": "JP",
@@ -6297,9 +6301,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5DTOKYO%E3%83%A4%E3%83%9E%E3%83%8E%E3%83%86BOYS%20for%20V%20FAN%20DISC%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5DTOKYO%E3%83%A4%E3%83%9E%E3%83%8E%E3%83%86BOYS%20for%20V%20FAN%20DISC%5B20261022%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-22 重新翻译。"
  },
  {
   "name": "DIABOLIK LOVERS VANDEAD CARNIVAL",
@@ -6456,7 +6461,7 @@
   "plat": "PC",
   "orient": "乙女向",
   "release": "2009-05-01",
-  "transDate": "2026-09-14",
+  "transDate": "2026-10-22",
   "vndb": "https://vndb.org/v1739",
   "vndbRelease": "r3399",
   "lang": "JP",
@@ -6473,9 +6478,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DGARNET%20CRADLE%5B20260914%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DGARNET%20CRADLE%5B20261022%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-22 重新翻译。"
  },
  {
   "name": "GARNET CRADLE Sugary Sparkle",
@@ -6485,7 +6491,7 @@
   "plat": "PC",
   "orient": "乙女向",
   "release": "2010-02-05",
-  "transDate": "2026-09-14",
+  "transDate": "2026-10-22",
   "vndb": "https://vndb.org/v2975",
   "vndbRelease": "r5862",
   "lang": "JP",
@@ -6502,9 +6508,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DGARNET%20CRADLE%20Sugary%20Sparkle%5B20260914%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DGARNET%20CRADLE%20Sugary%20Sparkle%5B20261022%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-22 重新翻译。"
  },
  {
   "name": "ソラユメ portable",
@@ -14468,6 +14475,442 @@
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5D%E3%81%A8%E3%81%8D%E3%82%81%E3%81%8D%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E2%98%86%E2%98%86%E2%98%86%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Starry☆Sky ～Spring Memories～",
+  "nameTbl": "Starry☆Sky ～Spring Memories～（NS）",
+  "brand": "honeybee",
+  "publisher": "Dramatic Create",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2026-05-28",
+  "transDate": "2026-10-22",
+  "vndb": "https://vndb.org/v2021",
+  "vndbRelease": "r144672",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/honeybee_Starry☆Sky ～Spring Memories～（NS）.jpg",
+  "brands": [
+   "honeybee"
+  ],
+  "publishers": [
+   "Dramatic Create"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DStarry%E2%98%86Sky%20%EF%BD%9ESpring%20Memories%EF%BD%9E%5B20261022%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "うたの☆プリンスさまっ♪ All Star After Secret for Nintendo Switch",
+  "nameTbl": "うたの☆プリンスさまっ♪ All Star After Secret for Nintendo Switch（NS）",
+  "brand": "BROCCOLI Co., Ltd.",
+  "publisher": "BROCCOLI Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2022-12-22",
+  "transDate": "2026-10-22",
+  "vndb": "https://vndb.org/v13419",
+  "vndbRelease": "r85588",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/BROCCOLI Co., Ltd._うたの☆プリンスさまっ♪ All Star After Secret for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "BROCCOLI Co., Ltd."
+  ],
+  "publishers": [
+   "BROCCOLI Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%81%86%E3%81%9F%E3%81%AE%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA%20All%20Star%20After%20Secret%20for%20Nintendo%20Switch%5B20261022%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "うたの☆プリンスさまっ♪ All Star for Nintendo Switch",
+  "nameTbl": "うたの☆プリンスさまっ♪ All Star for Nintendo Switch（NS）",
+  "brand": "Nippon Ichi Software, Inc.",
+  "publisher": "BROCCOLI Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2021-12-23",
+  "transDate": "2026-10-22",
+  "vndb": "https://vndb.org/v11342",
+  "vndbRelease": "r85587",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Nippon Ichi Software, Inc._うたの☆プリンスさまっ♪ All Star for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "Nippon Ichi Software, Inc."
+  ],
+  "publishers": [
+   "BROCCOLI Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%81%86%E3%81%9F%E3%81%AE%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA%20All%20Star%20for%20Nintendo%20Switch%5B20261022%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "うたの☆プリンスさまっ♪ Amazing Aria & Sweet Serenade LOVE for Nintendo Switch",
+  "nameTbl": "うたの☆プリンスさまっ♪ Amazing Aria & Sweet Serenade LOVE for Nintendo Switch（NS）",
+  "brand": "BROCCOLI Co., Ltd.",
+  "publisher": "BROCCOLI Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2020-05-28",
+  "transDate": "2026-10-22",
+  "vndb": "https://vndb.org/v5471",
+  "vndbRelease": "r64441",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/BROCCOLI Co., Ltd._うたの☆プリンスさまっ♪ Amazing Aria & Sweet Serenade LOVE for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "BROCCOLI Co., Ltd."
+  ],
+  "publishers": [
+   "BROCCOLI Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%81%86%E3%81%9F%E3%81%AE%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA%20Amazing%20Aria%20%26%20Sweet%20Serenade%20LOVE%20for%20Nintendo%20Switch%5B20261022%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "うたの☆プリンスさまっ♪ Debut for Nintendo Switch",
+  "nameTbl": "うたの☆プリンスさまっ♪ Debut for Nintendo Switch（NS）",
+  "brand": "BROCCOLI Co., Ltd.",
+  "publisher": "BROCCOLI Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2021-02-25",
+  "transDate": "2026-10-22",
+  "vndb": "https://vndb.org/v10035",
+  "vndbRelease": "r64442",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/BROCCOLI Co., Ltd._うたの☆プリンスさまっ♪ Debut for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "BROCCOLI Co., Ltd."
+  ],
+  "publishers": [
+   "BROCCOLI Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%81%86%E3%81%9F%E3%81%AE%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA%20Debut%20for%20Nintendo%20Switch%5B20261022%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "水の旋律 ～協奏曲～",
+  "nameTbl": "水の旋律 ～協奏曲～（PC）",
+  "brand": "KID",
+  "publisher": "KID",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2006-03-30",
+  "transDate": "2026-10-22",
+  "vndb": "https://vndb.org/v17566",
+  "vndbRelease": "r40286",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/KID_水の旋律 ～協奏曲～（PC）.jpg",
+  "brands": [
+   "KID"
+  ],
+  "publishers": [
+   "KID"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E6%B0%B4%E3%81%AE%E6%97%8B%E5%BE%8B%20%EF%BD%9E%E5%8D%94%E5%A5%8F%E6%9B%B2%EF%BD%9E%5B20261022%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "銀の冠碧の涙",
+  "nameTbl": "銀の冠碧の涙（PC）",
+  "brand": "Aromarie",
+  "publisher": "Aromarie",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2009-05-29",
+  "transDate": "2026-10-22",
+  "vndb": "https://vndb.org/v1781",
+  "vndbRelease": "r3477",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Aromarie_銀の冠碧の涙（PC）.jpg",
+  "brands": [
+   "Aromarie"
+  ],
+  "publishers": [
+   "Aromarie"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E9%8A%80%E3%81%AE%E5%86%A0%E7%A2%A7%E3%81%AE%E6%B6%99%5B20261022%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "いざ、出陣！恋戦 第二幕 甲斐編",
+  "nameTbl": "いざ、出陣！恋戦 第二幕 甲斐編（PSP）",
+  "brand": "GignoSystem Japan Inc.",
+  "publisher": "Asgard Inc.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2014-02-27",
+  "transDate": "2026-10-22",
+  "vndb": "https://vndb.org/v13127",
+  "vndbRelease": "r28358",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/GignoSystem Japan Inc._いざ、出陣！恋戦 第二幕 甲斐編（PSP）.jpg",
+  "brands": [
+   "GignoSystem Japan Inc."
+  ],
+  "publishers": [
+   "Asgard Inc."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%81%84%E3%81%96%E3%80%81%E5%87%BA%E9%99%A3%EF%BC%81%E6%81%8B%E6%88%A6%20%E7%AC%AC%E4%BA%8C%E5%B9%95%20%E7%94%B2%E6%96%90%E7%B7%A8%5B20261022%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "いざ、出陣！恋戦 第二幕 越後編",
+  "nameTbl": "いざ、出陣！恋戦 第二幕 越後編（PSP）",
+  "brand": "GignoSystem Japan Inc.",
+  "publisher": "Asgard Inc.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2014-02-27",
+  "transDate": "2026-10-22",
+  "vndb": "https://vndb.org/v13127",
+  "vndbRelease": "r34783",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/GignoSystem Japan Inc._いざ、出陣！恋戦 第二幕 越後編（PSP）.jpg",
+  "brands": [
+   "GignoSystem Japan Inc."
+  ],
+  "publishers": [
+   "Asgard Inc."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%81%84%E3%81%96%E3%80%81%E5%87%BA%E9%99%A3%EF%BC%81%E6%81%8B%E6%88%A6%20%E7%AC%AC%E4%BA%8C%E5%B9%95%20%E8%B6%8A%E5%BE%8C%E7%B7%A8%5B20261022%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "いざ、出陣！恋戦",
+  "nameTbl": "いざ、出陣！恋戦（PSP）",
+  "brand": "GignoSystem Japan Inc.",
+  "publisher": "QuinRose",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2011-05-26",
+  "transDate": "2026-10-22",
+  "vndb": "https://vndb.org/v7713",
+  "vndbRelease": "r15480",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/GignoSystem Japan Inc._いざ、出陣！恋戦（PSP）.jpg",
+  "brands": [
+   "GignoSystem Japan Inc."
+  ],
+  "publishers": [
+   "QuinRose"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%81%84%E3%81%96%E3%80%81%E5%87%BA%E9%99%A3%EF%BC%81%E6%81%8B%E6%88%A6%5B20261022%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ガーネット・クレイドル ポータブル ～鍵の姫巫女～",
+  "nameTbl": "ガーネット・クレイドル ポータブル ～鍵の姫巫女～（PSP）",
+  "brand": "SPICA",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2011-04-07",
+  "transDate": "2026-10-22",
+  "vndb": "https://vndb.org/v1739",
+  "vndbRelease": "r13524",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/SPICA_ガーネット・クレイドル ポータブル ～鍵の姫巫女～（PSP）.jpg",
+  "brands": [
+   "SPICA"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%82%AC%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%83%BB%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%89%E3%83%AB%20%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%20%EF%BD%9E%E9%8D%B5%E3%81%AE%E5%A7%AB%E5%B7%AB%E5%A5%B3%EF%BD%9E%5B20261022%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "水の旋律",
+  "nameTbl": "水の旋律（PSP）",
+  "brand": "KID",
+  "publisher": "CYBERFRONT",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2009-12-24",
+  "transDate": "2026-10-22",
+  "vndb": "https://vndb.org/v855",
+  "vndbRelease": "r6541",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/KID_水の旋律（PSP）.jpg",
+  "brands": [
+   "KID"
+  ],
+  "publishers": [
+   "CYBERFRONT"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E6%B0%B4%E3%81%AE%E6%97%8B%E5%BE%8B%5B20261022%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "水の旋律2 ～緋の記憶～",
+  "nameTbl": "水の旋律2 ～緋の記憶～（PSP）",
+  "brand": "KID",
+  "publisher": "CYBERFRONT",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2010-02-25",
+  "transDate": "2026-10-22",
+  "vndb": "https://vndb.org/v854",
+  "vndbRelease": "r10660",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/KID_水の旋律2 ～緋の記憶～（PSP）.jpg",
+  "brands": [
+   "KID"
+  ],
+  "publishers": [
+   "CYBERFRONT"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E6%B0%B4%E3%81%AE%E6%97%8B%E5%BE%8B2%20%EF%BD%9E%E7%B7%8B%E3%81%AE%E8%A8%98%E6%86%B6%EF%BD%9E%5B20261022%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "TOKYOヤマノテBOYS for V MAIN DISC",
+  "nameTbl": "TOKYOヤマノテBOYS for V MAIN DISC（PSV）",
+  "brand": "Rejet Co., Ltd.",
+  "publisher": "Rejet Co., Ltd.",
+  "plat": "PSV",
+  "orient": "乙女向",
+  "release": "2017-06-22",
+  "transDate": "2026-10-22",
+  "vndb": "https://vndb.org/v7203",
+  "vndbRelease": "r50028",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Rejet Co., Ltd._TOKYOヤマノテBOYS for V MAIN DISC（PSV）.jpg",
+  "brands": [
+   "Rejet Co., Ltd."
+  ],
+  "publishers": [
+   "Rejet Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5DTOKYO%E3%83%A4%E3%83%9E%E3%83%8E%E3%83%86BOYS%20for%20V%20MAIN%20DISC%5B20261022%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "うたの☆プリンスさまっ♪ Repeat LOVE",
+  "nameTbl": "うたの☆プリンスさまっ♪ Repeat LOVE（PSV）",
+  "brand": "BROCCOLI Co., Ltd.",
+  "publisher": "BROCCOLI Co., Ltd.",
+  "plat": "PSV",
+  "orient": "乙女向",
+  "release": "2017-01-26",
+  "transDate": "2026-10-22",
+  "vndb": "https://vndb.org/v4602",
+  "vndbRelease": "r44548",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/BROCCOLI Co., Ltd._うたの☆プリンスさまっ♪ Repeat LOVE（PSV）.jpg",
+  "brands": [
+   "BROCCOLI Co., Ltd."
+  ],
+  "publishers": [
+   "BROCCOLI Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5D%E3%81%86%E3%81%9F%E3%81%AE%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA%20Repeat%20LOVE%5B20261022%5D.zip"
    }
   ]
  }
