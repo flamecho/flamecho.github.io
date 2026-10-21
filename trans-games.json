@@ -9280,9 +9280,9 @@
   "brand": "agony/禁飼育",
   "publisher": "agony/禁飼育",
   "plat": "PC",
-  "orient": "其他",
+  "orient": "乙女向",
   "release": "2008-01-22",
-  "transDate": "2026-09-09",
+  "transDate": "2026-10-21",
   "vndb": "https://vndb.org/v12471",
   "vndbRelease": "r39232",
   "lang": "JP",
@@ -9299,9 +9299,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E5%85%B6%E4%BB%96/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E9%85%B7%E7%BD%AA%E3%82%92%E5%8F%97%E3%81%91%E3%82%8B%E3%81%B9%E3%81%8D%E8%80%85%5B20260909%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E9%85%B7%E7%BD%AA%E3%82%92%E5%8F%97%E3%81%91%E3%82%8B%E3%81%B9%E3%81%8D%E8%80%85%5B20261021%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-21 重新翻译。"
  },
  {
   "name": "Lost Friends3 -Never returN-",
@@ -12694,6 +12695,1166 @@
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5DVitaminX%20Destination%5B20261020%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Chiristmas Coffee",
+  "nameTbl": "Chiristmas Coffee（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2010-12-13",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v17870",
+  "vndbRelease": "r41126",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_Chiristmas Coffee（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DChiristmas%20Coffee%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Nと言う名の男、Bと言う名の女",
+  "nameTbl": "Nと言う名の男、Bと言う名の女（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2008-05-10",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v14836",
+  "vndbRelease": "r32792",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_Nと言う名の男、Bと言う名の女（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DN%E3%81%A8%E8%A8%80%E3%81%86%E5%90%8D%E3%81%AE%E7%94%B7%E3%80%81B%E3%81%A8%E8%A8%80%E3%81%86%E5%90%8D%E3%81%AE%E5%A5%B3%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "SAGO",
+  "nameTbl": "SAGO（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2017-02-14",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v34081",
+  "vndbRelease": "r87698",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_SAGO（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DSAGO%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "うさむしり ～別に版～",
+  "nameTbl": "うさむしり ～別に版～（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2015-11-01",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v18912",
+  "vndbRelease": "r44818",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_うさむしり ～別に版～（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%81%86%E3%81%95%E3%82%80%E3%81%97%E3%82%8A%20%EF%BD%9E%E5%88%A5%E3%81%AB%E7%89%88%EF%BD%9E%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "おじさん18禁ver",
+  "nameTbl": "おじさん18禁ver（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2006-09-16",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v16482",
+  "vndbRelease": "r38817",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_おじさん18禁ver（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%81%8A%E3%81%98%E3%81%95%E3%82%9318%E7%A6%81ver%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "おでかけねむり",
+  "nameTbl": "おでかけねむり（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2019-04-01",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v34080",
+  "vndbRelease": "r87697",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_おでかけねむり（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%81%8A%E3%81%A7%E3%81%8B%E3%81%91%E3%81%AD%E3%82%80%E3%82%8A%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "この世で最も残酷なキス",
+  "nameTbl": "この世で最も残酷なキス（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2010-02-14",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v15883",
+  "vndbRelease": "r36042",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_この世で最も残酷なキス（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%81%93%E3%81%AE%E4%B8%96%E3%81%A7%E6%9C%80%E3%82%82%E6%AE%8B%E9%85%B7%E3%81%AA%E3%82%AD%E3%82%B9%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "この世で最も淫靡なキス",
+  "nameTbl": "この世で最も淫靡なキス（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2010-04-01",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v18913",
+  "vndbRelease": "r44819",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_この世で最も淫靡なキス（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%81%93%E3%81%AE%E4%B8%96%E3%81%A7%E6%9C%80%E3%82%82%E6%B7%AB%E9%9D%A1%E3%81%AA%E3%82%AD%E3%82%B9%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "こみうさ",
+  "nameTbl": "こみうさ（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2020-12-30",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v29948",
+  "vndbRelease": "r76726",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_こみうさ（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%81%93%E3%81%BF%E3%81%86%E3%81%95%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "さくっとパンダ ～妄想交響曲～",
+  "nameTbl": "さくっとパンダ ～妄想交響曲～（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2006-04-24",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v14783",
+  "vndbRelease": "r32619",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_さくっとパンダ ～妄想交響曲～（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%81%95%E3%81%8F%E3%81%A3%E3%81%A8%E3%83%91%E3%83%B3%E3%83%80%20%EF%BD%9E%E5%A6%84%E6%83%B3%E4%BA%A4%E9%9F%BF%E6%9B%B2%EF%BD%9E%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "さくっとパンダ ～妄想断末魔～",
+  "nameTbl": "さくっとパンダ ～妄想断末魔～（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2006-05-30",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v14782",
+  "vndbRelease": "r32618",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_さくっとパンダ ～妄想断末魔～（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%81%95%E3%81%8F%E3%81%A3%E3%81%A8%E3%83%91%E3%83%B3%E3%83%80%20%EF%BD%9E%E5%A6%84%E6%83%B3%E6%96%AD%E6%9C%AB%E9%AD%94%EF%BD%9E%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "さくっとパンダ ～苦痛～",
+  "nameTbl": "さくっとパンダ ～苦痛～（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2005-06-24",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v14781",
+  "vndbRelease": "r32617",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_さくっとパンダ ～苦痛～（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%81%95%E3%81%8F%E3%81%A3%E3%81%A8%E3%83%91%E3%83%B3%E3%83%80%20%EF%BD%9E%E8%8B%A6%E7%97%9B%EF%BD%9E%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "さくっとパンダ ～鬼蛇～",
+  "nameTbl": "さくっとパンダ ～鬼蛇～（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2007-03-09",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v14784",
+  "vndbRelease": "r32620",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_さくっとパンダ ～鬼蛇～（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%81%95%E3%81%8F%E3%81%A3%E3%81%A8%E3%83%91%E3%83%B3%E3%83%80%20%EF%BD%9E%E9%AC%BC%E8%9B%87%EF%BD%9E%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ちぎみちゃん",
+  "nameTbl": "ちぎみちゃん（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2014-04-02",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v15090",
+  "vndbRelease": "r33553",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_ちぎみちゃん（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%81%A1%E3%81%8E%E3%81%BF%E3%81%A1%E3%82%83%E3%82%93%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "めぎちゃんの絵日記",
+  "nameTbl": "めぎちゃんの絵日記（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2009-10",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v58406",
+  "vndbRelease": "r139806",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_めぎちゃんの絵日記（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%82%81%E3%81%8E%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E7%B5%B5%E6%97%A5%E8%A8%98%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "キナナキノ森",
+  "nameTbl": "キナナキノ森（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2009-02-14",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v12485",
+  "vndbRelease": "r26589",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_キナナキノ森（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%82%AD%E3%83%8A%E3%83%8A%E3%82%AD%E3%83%8E%E6%A3%AE%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "スレガル おにロリver",
+  "nameTbl": "スレガル おにロリver（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2017-04-13",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v19859",
+  "vndbRelease": "r47550",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_スレガル おにロリver（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%82%B9%E3%83%AC%E3%82%AC%E3%83%AB%20%E3%81%8A%E3%81%AB%E3%83%AD%E3%83%AAver%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "下劣な雄豚",
+  "nameTbl": "下劣な雄豚（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2015-02-14",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v16480",
+  "vndbRelease": "r37776",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_下劣な雄豚（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E4%B8%8B%E5%8A%A3%E3%81%AA%E9%9B%84%E8%B1%9A%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "乙女の悲劇は残酷なキス",
+  "nameTbl": "乙女の悲劇は残酷なキス（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2010-08-22",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v15893",
+  "vndbRelease": "r36076",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_乙女の悲劇は残酷なキス（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E4%B9%99%E5%A5%B3%E3%81%AE%E6%82%B2%E5%8A%87%E3%81%AF%E6%AE%8B%E9%85%B7%E3%81%AA%E3%82%AD%E3%82%B9%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "処女失格 ～初めては貴方に捧げたかった～",
+  "nameTbl": "処女失格 ～初めては貴方に捧げたかった～（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2014-06-15",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v15885",
+  "vndbRelease": "r36044",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_処女失格 ～初めては貴方に捧げたかった～（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E5%87%A6%E5%A5%B3%E5%A4%B1%E6%A0%BC%20%EF%BD%9E%E5%88%9D%E3%82%81%E3%81%A6%E3%81%AF%E8%B2%B4%E6%96%B9%E3%81%AB%E6%8D%A7%E3%81%92%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%EF%BD%9E%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "動画シンデレラ",
+  "nameTbl": "動画シンデレラ（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2019-10-31",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v34085",
+  "vndbRelease": "r87703",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_動画シンデレラ（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E5%8B%95%E7%94%BB%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "家畜おじさん ～おじさんを飼うことにした～",
+  "nameTbl": "家畜おじさん ～おじさんを飼うことにした～（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2012-01-15",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v15884",
+  "vndbRelease": "r36043",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_家畜おじさん ～おじさんを飼うことにした～（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E5%AE%B6%E7%95%9C%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%20%EF%BD%9E%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%82%92%E9%A3%BC%E3%81%86%E3%81%93%E3%81%A8%E3%81%AB%E3%81%97%E3%81%9F%EF%BD%9E%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "居留守ねむり",
+  "nameTbl": "居留守ねむり（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2018-08-04",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v34079",
+  "vndbRelease": "r87696",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_居留守ねむり（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E5%B1%85%E7%95%99%E5%AE%88%E3%81%AD%E3%82%80%E3%82%8A%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "昭和シンデレラ",
+  "nameTbl": "昭和シンデレラ（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2018-04-02",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v34084",
+  "vndbRelease": "r87702",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_昭和シンデレラ（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E6%98%AD%E5%92%8C%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "枯れぬ黒薔薇",
+  "nameTbl": "枯れぬ黒薔薇（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2015-09-19",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v18472",
+  "vndbRelease": "r43432",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_枯れぬ黒薔薇（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E6%9E%AF%E3%82%8C%E3%81%AC%E9%BB%92%E8%96%94%E8%96%87%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "残業シンデレラ",
+  "nameTbl": "残業シンデレラ（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2017-12-15",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v34083",
+  "vndbRelease": "r87700",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_残業シンデレラ（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E6%AE%8B%E6%A5%AD%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "消えうさ",
+  "nameTbl": "消えうさ（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2015-07-05",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v18471",
+  "vndbRelease": "r43431",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_消えうさ（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E6%B6%88%E3%81%88%E3%81%86%E3%81%95%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "淫靡で残酷な豚",
+  "nameTbl": "淫靡で残酷な豚（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2011-08-12",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v16477",
+  "vndbRelease": "r39233",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_淫靡で残酷な豚（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E6%B7%AB%E9%9D%A1%E3%81%A7%E6%AE%8B%E9%85%B7%E3%81%AA%E8%B1%9A%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "煮物シンデレラ",
+  "nameTbl": "煮物シンデレラ（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2017-10-29",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v34082",
+  "vndbRelease": "r87699",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_煮物シンデレラ（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E7%85%AE%E7%89%A9%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "異端審問官の愛寂",
+  "nameTbl": "異端審問官の愛寂（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2014-08-15",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v16214",
+  "vndbRelease": "r37048",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_異端審問官の愛寂（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E7%95%B0%E7%AB%AF%E5%AF%A9%E5%95%8F%E5%AE%98%E3%81%AE%E6%84%9B%E5%AF%82%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "硝子のこんぺいとう",
+  "nameTbl": "硝子のこんぺいとう（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2020-03-26",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v28085",
+  "vndbRelease": "r70058",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_硝子のこんぺいとう（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E7%A1%9D%E5%AD%90%E3%81%AE%E3%81%93%E3%82%93%E3%81%BA%E3%81%84%E3%81%A8%E3%81%86%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "縛り神父",
+  "nameTbl": "縛り神父（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2017-05-10",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v30222",
+  "vndbRelease": "r77331",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_縛り神父（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E7%B8%9B%E3%82%8A%E7%A5%9E%E7%88%B6%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "聖母狩り",
+  "nameTbl": "聖母狩り（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2021-11-26",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v32891",
+  "vndbRelease": "r84947",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_聖母狩り（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E8%81%96%E6%AF%8D%E7%8B%A9%E3%82%8A%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "蛇のシンデレラ",
+  "nameTbl": "蛇のシンデレラ（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2018-03-12",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v21742",
+  "vndbRelease": "r53287",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_蛇のシンデレラ（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E8%9B%87%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "雨想い、君抱く",
+  "nameTbl": "雨想い、君抱く（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2011-08-12",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v14259",
+  "vndbRelease": "r31322",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_雨想い、君抱く（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E9%9B%A8%E6%83%B3%E3%81%84%E3%80%81%E5%90%9B%E6%8A%B1%E3%81%8F%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "鬼ノ仮面",
+  "nameTbl": "鬼ノ仮面（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2013-08-18",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v16478",
+  "vndbRelease": "r37772",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_鬼ノ仮面（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E9%AC%BC%E3%83%8E%E4%BB%AE%E9%9D%A2%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "魔女の処刑日 ～上弦の月は私を見下し～ 前編",
+  "nameTbl": "魔女の処刑日 ～上弦の月は私を見下し～ 前編（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2013-01-06",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v14110",
+  "vndbRelease": "r37778",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_魔女の処刑日 ～上弦の月は私を見下し～ 前編（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E9%AD%94%E5%A5%B3%E3%81%AE%E5%87%A6%E5%88%91%E6%97%A5%20%EF%BD%9E%E4%B8%8A%E5%BC%A6%E3%81%AE%E6%9C%88%E3%81%AF%E7%A7%81%E3%82%92%E8%A6%8B%E4%B8%8B%E3%81%97%EF%BD%9E%20%E5%89%8D%E7%B7%A8%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "魔女の処刑日 ～最愛なる夜明けへ～ 後編",
+  "nameTbl": "魔女の処刑日 ～最愛なる夜明けへ～ 後編（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2023-04-26",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v16481",
+  "vndbRelease": "r47543",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_魔女の処刑日 ～最愛なる夜明けへ～ 後編（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E9%AD%94%E5%A5%B3%E3%81%AE%E5%87%A6%E5%88%91%E6%97%A5%20%EF%BD%9E%E6%9C%80%E6%84%9B%E3%81%AA%E3%82%8B%E5%A4%9C%E6%98%8E%E3%81%91%E3%81%B8%EF%BD%9E%20%E5%BE%8C%E7%B7%A8%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "魔女の処刑日 ～水遊び編～",
+  "nameTbl": "魔女の処刑日 ～水遊び編～（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2014-07-04",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v14110",
+  "vndbRelease": "r37778",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_魔女の処刑日 ～水遊び編～（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E9%AD%94%E5%A5%B3%E3%81%AE%E5%87%A6%E5%88%91%E6%97%A5%20%EF%BD%9E%E6%B0%B4%E9%81%8A%E3%81%B3%E7%B7%A8%EF%BD%9E%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "魔女イジメ",
+  "nameTbl": "魔女イジメ（PC）",
+  "brand": "agony/禁飼育",
+  "publisher": "agony/禁飼育",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2015-09-19",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v58544",
+  "vndbRelease": "r140069",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/agony_禁飼育_魔女イジメ（PC）.jpg",
+  "brands": [
+   "agony/禁飼育"
+  ],
+  "publishers": [
+   "agony/禁飼育"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E9%AD%94%E5%A5%B3%E3%82%A4%E3%82%B8%E3%83%A1%5B20261021%5D.zip"
    }
   ]
  }
