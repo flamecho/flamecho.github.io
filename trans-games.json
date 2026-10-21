@@ -9296,13 +9296,13 @@
   "publishers": [
    "agony/禁飼育"
   ],
+  "note": "2026-10-21 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E9%85%B7%E7%BD%AA%E3%82%92%E5%8F%97%E3%81%91%E3%82%8B%E3%81%B9%E3%81%8D%E8%80%85%5B20261021%5D.zip"
    }
-  ],
-  "note": "2026-10-21 重新翻译。"
+  ]
  },
  {
   "name": "Lost Friends3 -Never returN-",
@@ -13855,6 +13855,385 @@
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E9%AD%94%E5%A5%B3%E3%82%A4%E3%82%B8%E3%83%A1%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "オメガヴァンパイア",
+  "nameTbl": "オメガヴァンパイア（NS）",
+  "brand": "Karin Chatnoir Ω",
+  "publisher": "PROTOTYPE",
+  "plat": "NS",
+  "orient": "蔷薇向",
+  "release": "2019-08-29",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v19455",
+  "vndbRelease": "r60038",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Karin Chatnoir Ω_オメガヴァンパイア（NS）.jpg",
+  "brands": [
+   "Karin Chatnoir Ω"
+  ],
+  "publishers": [
+   "PROTOTYPE"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%82%AA%E3%83%A1%E3%82%AC%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%91%E3%82%A4%E3%82%A2%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Area-X",
+  "nameTbl": "Area-X（PC）",
+  "brand": "Zeiva Inc",
+  "publisher": "Zeiva Inc",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2014-12-25",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v9435",
+  "vndbRelease": "r38118",
+  "lang": "EN",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Zeiva Inc_Area-X（PC）.jpg",
+  "brands": [
+   "Zeiva Inc"
+  ],
+  "publishers": [
+   "Zeiva Inc"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-EN%5DArea-X%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Cliché - Critical Change",
+  "nameTbl": "Cliché - Critical Change（PC）",
+  "brand": "Zeiva Inc",
+  "publisher": "Zeiva Inc",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2019-03-29",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v25552",
+  "vndbRelease": "r62926",
+  "lang": "EN",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Zeiva Inc_Cliché - Critical Change（PC）.jpg",
+  "brands": [
+   "Zeiva Inc"
+  ],
+  "publishers": [
+   "Zeiva Inc"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-EN%5DClich%C3%A9%20-%20Critical%20Change%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "X-Note v2.0",
+  "nameTbl": "X-Note v2.0（PC）",
+  "brand": "Zeiva Inc",
+  "publisher": "Zeiva Inc",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2014-12-25",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v6915",
+  "vndbRelease": "r38084",
+  "lang": "EN",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Zeiva Inc_X-Note v2.0（PC）.jpg",
+  "brands": [
+   "Zeiva Inc"
+  ],
+  "publishers": [
+   "Zeiva Inc"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-EN%5DX-Note%20v2.0%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "クローバー図書館の住人たち",
+  "nameTbl": "クローバー図書館の住人たち（PC）",
+  "brand": "澪",
+  "publisher": "澪",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2014-09-26",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v14810",
+  "vndbRelease": "r32710",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/澪_クローバー図書館の住人たち（PC）.jpg",
+  "brands": [
+   "澪"
+  ],
+  "publishers": [
+   "澪"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AE%E4%BD%8F%E4%BA%BA%E3%81%9F%E3%81%A1%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "クローバー図書館の住人たちII",
+  "nameTbl": "クローバー図書館の住人たちII（PC）",
+  "brand": "澪",
+  "publisher": "澪",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2015-04-24",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v16464",
+  "vndbRelease": "r37746",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/澪_クローバー図書館の住人たちII（PC）.jpg",
+  "brands": [
+   "澪"
+  ],
+  "publishers": [
+   "澪"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AE%E4%BD%8F%E4%BA%BA%E3%81%9F%E3%81%A1II%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "好きなものは好きだからしょうがない！！ +White Flower+",
+  "nameTbl": "好きなものは好きだからしょうがない！！ +White Flower+（PC）",
+  "brand": "Platinum Label",
+  "publisher": "Platinum Label",
+  "plat": "PC",
+  "orient": "蔷薇向",
+  "release": "2008-11-21",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v7544",
+  "vndbRelease": "r162578",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Platinum Label_好きなものは好きだからしょうがない！！ +White Flower+（PC）.jpg",
+  "brands": [
+   "Platinum Label"
+  ],
+  "publishers": [
+   "Platinum Label"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%82%E3%81%AE%E3%81%AF%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%8B%E3%82%89%E3%81%97%E3%82%87%E3%81%86%E3%81%8C%E3%81%AA%E3%81%84%EF%BC%81%EF%BC%81%20%2BWhite%20Flower%2B%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "好きなものは好きだからしょうがない！！ -FAN DISK-",
+  "nameTbl": "好きなものは好きだからしょうがない！！ -FAN DISK-（PC）",
+  "brand": "Platinum Label",
+  "publisher": "Platinum Label",
+  "plat": "PC",
+  "orient": "蔷薇向",
+  "release": "2003-04-25",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v7542",
+  "vndbRelease": "r15124",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Platinum Label_好きなものは好きだからしょうがない！！ -FAN DISK-（PC）.jpg",
+  "brands": [
+   "Platinum Label"
+  ],
+  "publishers": [
+   "Platinum Label"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%82%E3%81%AE%E3%81%AF%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%8B%E3%82%89%E3%81%97%E3%82%87%E3%81%86%E3%81%8C%E3%81%AA%E3%81%84%EF%BC%81%EF%BC%81%20-FAN%20DISK-%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "好きなものは好きだからしょうがない！！ 2 -TARGET + NIGHTS-",
+  "nameTbl": "好きなものは好きだからしょうがない！！ 2 -TARGET + NIGHTS-（PC）",
+  "brand": "Platinum Label",
+  "publisher": "Platinum Label",
+  "plat": "PC",
+  "orient": "蔷薇向",
+  "release": "2008-11-21",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v7541",
+  "vndbRelease": "r162580",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Platinum Label_好きなものは好きだからしょうがない！！ 2 -TARGET + NIGHTS-（PC）.jpg",
+  "brands": [
+   "Platinum Label"
+  ],
+  "publishers": [
+   "Platinum Label"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%82%E3%81%AE%E3%81%AF%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%8B%E3%82%89%E3%81%97%E3%82%87%E3%81%86%E3%81%8C%E3%81%AA%E3%81%84%EF%BC%81%EF%BC%81%202%20-TARGET%20%2B%20NIGHTS-%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "好きなものは好きだからしょうがない！！ 3 -RAIN-",
+  "nameTbl": "好きなものは好きだからしょうがない！！ 3 -RAIN-（PC）",
+  "brand": "Platinum Label",
+  "publisher": "Platinum Label",
+  "plat": "PC",
+  "orient": "蔷薇向",
+  "release": "2008-11-21",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v7543",
+  "vndbRelease": "r162579",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Platinum Label_好きなものは好きだからしょうがない！！ 3 -RAIN-（PC）.jpg",
+  "brands": [
+   "Platinum Label"
+  ],
+  "publishers": [
+   "Platinum Label"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%82%E3%81%AE%E3%81%AF%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%8B%E3%82%89%E3%81%97%E3%82%87%E3%81%86%E3%81%8C%E3%81%AA%E3%81%84%EF%BC%81%EF%BC%81%203%20-RAIN-%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "好きなものは好きだからしょうがない！！ FIRST LIMIT",
+  "nameTbl": "好きなものは好きだからしょうがない！！ FIRST LIMIT（PC）",
+  "brand": "Platinum Label",
+  "publisher": "Platinum Label",
+  "plat": "PC",
+  "orient": "蔷薇向",
+  "release": "2008-11-21",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v6018",
+  "vndbRelease": "r162581",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Platinum Label_好きなものは好きだからしょうがない！！ FIRST LIMIT（PC）.jpg",
+  "brands": [
+   "Platinum Label"
+  ],
+  "publishers": [
+   "Platinum Label"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%82%E3%81%AE%E3%81%AF%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%8B%E3%82%89%E3%81%97%E3%82%87%E3%81%86%E3%81%8C%E3%81%AA%E3%81%84%EF%BC%81%EF%BC%81%20FIRST%20LIMIT%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "恋愛番長 命短し、恋せよ乙女！ Love is Power",
+  "nameTbl": "恋愛番長 命短し、恋せよ乙女！ Love is Power（PSP）",
+  "brand": "Rejet Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2010-11-11",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v7912",
+  "vndbRelease": "r15884",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Rejet Co., Ltd._恋愛番長 命短し、恋せよ乙女！ Love is Power（PSP）.jpg",
+  "brands": [
+   "Rejet Co., Ltd."
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E6%81%8B%E6%84%9B%E7%95%AA%E9%95%B7%20%E5%91%BD%E7%9F%AD%E3%81%97%E3%80%81%E6%81%8B%E3%81%9B%E3%82%88%E4%B9%99%E5%A5%B3%EF%BC%81%20Love%20is%20Power%5B20261021%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "恋愛番長2 MidnightLesson!!!",
+  "nameTbl": "恋愛番長2 MidnightLesson!!!（PSP）",
+  "brand": "Rejet Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2012-01-26",
+  "transDate": "2026-10-21",
+  "vndb": "https://vndb.org/v11309",
+  "vndbRelease": "r23307",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Rejet Co., Ltd._恋愛番長2 MidnightLesson!!!（PSP）.jpg",
+  "brands": [
+   "Rejet Co., Ltd."
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E6%81%8B%E6%84%9B%E7%95%AA%E9%95%B72%20MidnightLesson%21%21%21%5B20261021%5D.zip"
    }
   ]
  }
