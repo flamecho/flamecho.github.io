@@ -1039,13 +1039,13 @@
   "publishers": [
    "honeybee"
   ],
+  "note": "2026-10-22 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5DStarry%E2%98%86Sky%20%EF%BD%9ESummer%20Stories%EF%BD%9E%5B20261022%5D.zip"
    }
-  ],
-  "note": "2026-10-22 重新翻译。"
+  ]
  },
  {
   "name": "Starry☆Sky ～Autumn Stories～",
@@ -1069,13 +1069,13 @@
   "publishers": [
    "honeybee"
   ],
+  "note": "2026-10-22 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5DStarry%E2%98%86Sky%20%EF%BD%9EAutumn%20Stories%EF%BD%9E%5B20261022%5D.zip"
    }
-  ],
-  "note": "2026-10-22 重新翻译。"
+  ]
  },
  {
   "name": "Starry☆Sky ～Winter Stories～",
@@ -1099,13 +1099,13 @@
   "publishers": [
    "honeybee"
   ],
+  "note": "2026-10-22 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5DStarry%E2%98%86Sky%20%EF%BD%9EWinter%20Stories%EF%BD%9E%5B20261022%5D.zip"
    }
-  ],
-  "note": "2026-10-22 重新翻译。"
+  ]
  },
  {
   "name": "青春はじめました!",
@@ -2042,13 +2042,13 @@
   "publishers": [
    "Koei Tecmo Holdings Co., Ltd."
   ],
+  "note": "2026-10-04 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E9%81%99%E3%81%8B%E3%81%AA%E3%82%8B%E6%99%82%E7%A9%BA%E3%81%AE%E4%B8%AD%E3%81%A76%20DX%5B20261004%5D.zip"
    }
-  ],
-  "note": "2026-10-04 重新翻译。"
+  ]
  },
  {
   "name": "金色のコルダ",
@@ -6299,13 +6299,13 @@
   "publishers": [
    "Rejet Co., Ltd."
   ],
+  "note": "2026-10-22 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5DTOKYO%E3%83%A4%E3%83%9E%E3%83%8E%E3%83%86BOYS%20for%20V%20FAN%20DISC%5B20261022%5D.zip"
    }
-  ],
-  "note": "2026-10-22 重新翻译。"
+  ]
  },
  {
   "name": "DIABOLIK LOVERS VANDEAD CARNIVAL",
@@ -6476,13 +6476,13 @@
   "publishers": [
    "SPICA"
   ],
+  "note": "2026-10-22 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DGARNET%20CRADLE%5B20261022%5D.zip"
    }
-  ],
-  "note": "2026-10-22 重新翻译。"
+  ]
  },
  {
   "name": "GARNET CRADLE Sugary Sparkle",
@@ -6506,13 +6506,13 @@
   "publishers": [
    "SPICA"
   ],
+  "note": "2026-10-22 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DGARNET%20CRADLE%20Sugary%20Sparkle%5B20261022%5D.zip"
    }
-  ],
-  "note": "2026-10-22 重新翻译。"
+  ]
  },
  {
   "name": "ソラユメ portable",
@@ -8065,7 +8065,7 @@
   "plat": "PC",
   "orient": "蔷薇向",
   "release": "2011-08-12",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-23",
   "vndb": "https://vndb.org/v10694",
   "vndbRelease": "r21696",
   "lang": "JP",
@@ -8082,9 +8082,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DCAGE-OPEN-%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DCAGE-OPEN-%5B20261023%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-23 重新翻译。"
  },
  {
   "name": "CAGE -ZERO-",
@@ -8094,7 +8095,7 @@
   "plat": "PC",
   "orient": "蔷薇向",
   "release": "2012-01-23",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-23",
   "vndb": "https://vndb.org/v13453",
   "vndbRelease": "r29027",
   "lang": "JP",
@@ -8111,9 +8112,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DCAGE-ZERO-%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DCAGE-ZERO-%5B20261023%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-23 重新翻译。"
  },
  {
   "name": "CAGE -FOOL-",
@@ -8123,7 +8125,7 @@
   "plat": "PC",
   "orient": "蔷薇向",
   "release": "2012-04-01",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-23",
   "vndb": "https://vndb.org/v13447",
   "vndbRelease": "r29015",
   "lang": "JP",
@@ -8140,9 +8142,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DCAGE-FOOL-%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DCAGE-FOOL-%5B20261023%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-23 重新翻译。"
  },
  {
   "name": "CAGE -CLOSE-",
@@ -8152,7 +8155,7 @@
   "plat": "PC",
   "orient": "蔷薇向",
   "release": "2012-08-10",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-23",
   "vndb": "https://vndb.org/v10730",
   "vndbRelease": "r21795",
   "lang": "JP",
@@ -8169,26 +8172,27 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DCAGE-CLOSE-%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DCAGE-CLOSE-%5B20261023%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-23 重新翻译。"
  },
  {
-  "name": "CAGE -SCHOOL-",
-  "nameTbl": "CAGE-SCHOOL-（PC）",
+  "name": "CAGE-SCHOOL- ver 2.00",
+  "nameTbl": "CAGE-SCHOOL- ver 2.00（PC）",
   "brand": "LOVE&DESTROY",
   "publisher": "Cool-B",
   "plat": "PC",
   "orient": "蔷薇向",
   "release": "2014-02-04",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-23",
   "vndb": "https://vndb.org/v14690",
   "vndbRelease": "r32411",
   "lang": "JP",
   "type": [
    "预翻译"
   ],
-  "cover": "/img/trans-covers/LOVE&DESTROY_CAGE -SCHOOL-（PC）.jpg",
+  "cover": "/img/trans-covers/LOVE&DESTROY_CAGE-SCHOOL- ver 2.00（PC）.jpg",
   "brands": [
    "LOVE&DESTROY"
   ],
@@ -8198,9 +8202,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DCAGE-SCHOOL-%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DCAGE-SCHOOL-%20ver%202.00%5B20261023%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-23 重新翻译。"
  },
  {
   "name": "CAGE -ANOTHER-",
@@ -8210,7 +8215,7 @@
   "plat": "PC",
   "orient": "蔷薇向",
   "release": "2020-01-26",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-23",
   "vndb": "https://vndb.org/v13430",
   "vndbRelease": "r28975",
   "lang": "JP",
@@ -8227,9 +8232,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DCAGE-ANOTHER-%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DCAGE-ANOTHER-%5B20261023%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-23 重新翻译。"
  },
  {
   "name": "スロウ・ダメージ",
@@ -8763,7 +8769,7 @@
   "plat": "PC",
   "orient": "蔷薇向",
   "release": "2013-12-27",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-23",
   "vndb": "https://vndb.org/v10279",
   "vndbRelease": "r34965",
   "lang": "JP",
@@ -8780,9 +8786,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%82%AA%E3%83%A1%E3%83%AB%E3%82%BF%20CODE%20TYCOON%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%82%AA%E3%83%A1%E3%83%AB%E3%82%BF%20CODE%20TYCOON%5B20261023%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-23 重新翻译。"
  },
  {
   "name": "星と鴉の屑籠影絵旅",
@@ -14912,6 +14919,535 @@
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5D%E3%81%86%E3%81%9F%E3%81%AE%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA%20Repeat%20LOVE%5B20261022%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ひめひび -Princess Days-",
+  "nameTbl": "ひめひび -Princess Days-（NS）",
+  "brand": "Takuyo Co., Ltd.",
+  "publisher": "Takuyo Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2020-09-10",
+  "transDate": "2026-10-23",
+  "vndb": "https://vndb.org/v1640",
+  "vndbRelease": "r73620",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Takuyo Co., Ltd._ひめひび -Princess Days-（NS）.jpg",
+  "brands": [
+   "Takuyo Co., Ltd."
+  ],
+  "publishers": [
+   "Takuyo Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%81%B2%E3%82%81%E3%81%B2%E3%81%B3%20-Princess%20Days-%5B20261023%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "オメルタ ～沈黙の掟～",
+  "nameTbl": "オメルタ ～沈黙の掟～（PC）",
+  "brand": "Karin Chatnoir Ω",
+  "publisher": "Karin Chatnoir Ω",
+  "plat": "PC",
+  "orient": "蔷薇向",
+  "release": "2011-10-14",
+  "transDate": "2026-10-23",
+  "vndb": "https://vndb.org/v5243",
+  "vndbRelease": "r16018",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Karin Chatnoir Ω_オメルタ ～沈黙の掟～（PC）.jpg",
+  "brands": [
+   "Karin Chatnoir Ω"
+  ],
+  "publishers": [
+   "Karin Chatnoir Ω"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%82%AA%E3%83%A1%E3%83%AB%E3%82%BF%EF%BD%9E%E6%B2%88%E9%BB%99%E3%81%AE%E6%8E%9F%EF%BD%9E%5B20261023%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "怪盗アプリコット 外伝 満編",
+  "nameTbl": "怪盗アプリコット 外伝 満編（PC）",
+  "brand": "Takuyo Co., Ltd.",
+  "publisher": "Takuyo Co., Ltd.",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2002-11-23",
+  "transDate": "2026-10-23",
+  "vndb": "https://vndb.org/v1877",
+  "vndbRelease": "r24016",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Takuyo Co., Ltd._怪盗アプリコット 外伝 満編（PC）.jpg",
+  "brands": [
+   "Takuyo Co., Ltd."
+  ],
+  "publishers": [
+   "Takuyo Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E6%80%AA%E7%9B%97%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B3%E3%83%83%E3%83%88%20%E5%A4%96%E4%BC%9D%20%E6%BA%80%E7%B7%A8%5B20261023%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ふしぎ遊戯 朱雀異聞",
+  "nameTbl": "ふしぎ遊戯 朱雀異聞（PS2）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2008-05-29",
+  "transDate": "2026-10-23",
+  "vndb": "https://vndb.org/v4708",
+  "vndbRelease": "r9005",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._ふしぎ遊戯 朱雀異聞（PS2）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5D%E3%81%B5%E3%81%97%E3%81%8E%E9%81%8A%E6%88%AF%20%E6%9C%B1%E9%9B%80%E7%95%B0%E8%81%9E%5B20261023%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "幕末恋華 花柳剣士伝",
+  "nameTbl": "幕末恋華 花柳剣士伝（PS2）",
+  "brand": "Vridge Inc.",
+  "publisher": "D3PUBLISHER INC.",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2007-10-04",
+  "transDate": "2026-10-23",
+  "vndb": "https://vndb.org/v7734",
+  "vndbRelease": "r15514",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Vridge Inc._幕末恋華 花柳剣士伝（PS2）.jpg",
+  "brands": [
+   "Vridge Inc."
+  ],
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5D%E5%B9%95%E6%9C%AB%E6%81%8B%E8%8F%AF%20%E8%8A%B1%E6%9F%B3%E5%89%A3%E5%A3%AB%E4%BC%9D%5B20261023%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "いっしょにごはん。",
+  "nameTbl": "いっしょにごはん。（PSP）",
+  "brand": "Otomate",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2013-01-24",
+  "transDate": "2026-10-23",
+  "vndb": "https://vndb.org/v10162",
+  "vndbRelease": "r20507",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Otomate_いっしょにごはん。（PSP）.jpg",
+  "brands": [
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%81%84%E3%81%A3%E3%81%97%E3%82%87%E3%81%AB%E3%81%94%E3%81%AF%E3%82%93%E3%80%82%5B20261023%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "はつカレっ☆恋愛デビュー宣言!",
+  "nameTbl": "はつカレっ☆恋愛デビュー宣言!（PSP）",
+  "brand": "Vridge Inc.",
+  "publisher": "FuRyu Corporation",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2013-04-04",
+  "transDate": "2026-10-23",
+  "vndb": "https://vndb.org/v11641",
+  "vndbRelease": "r24650",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Vridge Inc._はつカレっ☆恋愛デビュー宣言!（PSP）.jpg",
+  "brands": [
+   "Vridge Inc."
+  ],
+  "publishers": [
+   "FuRyu Corporation"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%81%AF%E3%81%A4%E3%82%AB%E3%83%AC%E3%81%A3%E2%98%86%E6%81%8B%E6%84%9B%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC%E5%AE%A3%E8%A8%80%21%5B20261023%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ふしぎ遊戯 玄武開伝 外伝 鏡の巫女",
+  "nameTbl": "ふしぎ遊戯 玄武開伝 外伝 鏡の巫女（PSP）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2006-09-21",
+  "transDate": "2026-10-23",
+  "vndb": "https://vndb.org/v12509",
+  "vndbRelease": "r26662",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._ふしぎ遊戯 玄武開伝 外伝 鏡の巫女（PSP）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%81%B5%E3%81%97%E3%81%8E%E9%81%8A%E6%88%AF%20%E7%8E%84%E6%AD%A6%E9%96%8B%E4%BC%9D%20%E5%A4%96%E4%BC%9D%20%E9%8F%A1%E3%81%AE%E5%B7%AB%E5%A5%B3%5B20261023%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "エルクローネのアトリエ ～Dear for Otomate～",
+  "nameTbl": "エルクローネのアトリエ ～Dear for Otomate～（PSP）",
+  "brand": "Otomate",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2012-04-12",
+  "transDate": "2026-10-23",
+  "vndb": "https://vndb.org/v10091",
+  "vndbRelease": "r20311",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Otomate_エルクローネのアトリエ ～Dear for Otomate～（PSP）.jpg",
+  "brands": [
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%82%A8%E3%83%AB%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%8D%E3%81%AE%E3%82%A2%E3%83%88%E3%83%AA%E3%82%A8%20%EF%BD%9EDear%20for%20Otomate%EF%BD%9E%5B20261023%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "エンケルトビレット",
+  "nameTbl": "エンケルトビレット（PSP）",
+  "brand": "ichicolumn inc.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2014-07-31",
+  "transDate": "2026-10-23",
+  "vndb": "https://vndb.org/v13850",
+  "vndbRelease": "r30120",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/ichicolumn inc._エンケルトビレット（PSP）.jpg",
+  "brands": [
+   "ichicolumn inc."
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%82%A8%E3%83%B3%E3%82%B1%E3%83%AB%E3%83%88%E3%83%93%E3%83%AC%E3%83%83%E3%83%88%5B20261023%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "キミカレ",
+  "nameTbl": "キミカレ（PSP）",
+  "brand": "WINLIGHT Co.,Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2012-07-19",
+  "transDate": "2026-10-23",
+  "vndb": "https://vndb.org/v11095",
+  "vndbRelease": "r22565",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/WINLIGHT Co.,Ltd._キミカレ（PSP）.jpg",
+  "brands": [
+   "WINLIGHT Co.,Ltd."
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%82%AD%E3%83%9F%E3%82%AB%E3%83%AC%5B20261023%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "スト☆マニ ～Strobe☆Mania～",
+  "nameTbl": "スト☆マニ ～Strobe☆Mania～（PSP）",
+  "brand": "Arcadia Project Co,. Ltd.",
+  "publisher": "D3PUBLISHER INC.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2011-11-23",
+  "transDate": "2026-10-23",
+  "vndb": "https://vndb.org/v8576",
+  "vndbRelease": "r17454",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Arcadia Project Co,. Ltd._スト☆マニ ～Strobe☆Mania～（PSP）.jpg",
+  "brands": [
+   "Arcadia Project Co,. Ltd."
+  ],
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%82%B9%E3%83%88%E2%98%86%E3%83%9E%E3%83%8B%20%EF%BD%9EStrobe%E2%98%86Mania%EF%BD%9E%5B20261023%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "バクダン★ハンダン",
+  "nameTbl": "バクダン★ハンダン（PSP）",
+  "brand": "Otomate",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2012-06-14",
+  "transDate": "2026-10-23",
+  "vndb": "https://vndb.org/v10115",
+  "vndbRelease": "r20369",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Otomate_バクダン★ハンダン（PSP）.jpg",
+  "brands": [
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%83%90%E3%82%AF%E3%83%80%E3%83%B3%E2%98%85%E3%83%8F%E3%83%B3%E3%83%80%E3%83%B3%5B20261023%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "プリPia ～プリンスPia♥キャロット～",
+  "nameTbl": "プリPia ～プリンスPia♥キャロット～（PSP）",
+  "brand": "Dramatic Create",
+  "publisher": "Dramatic Create",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2014-10-23",
+  "transDate": "2026-10-23",
+  "vndb": "https://vndb.org/v12570",
+  "vndbRelease": "r33580",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Dramatic Create_プリPia ～プリンスPia♥キャロット～（PSP）.jpg",
+  "brands": [
+   "Dramatic Create",
+   "F&C Co., Ltd.",
+   "HuneX"
+  ],
+  "publishers": [
+   "Dramatic Create",
+   "HuneX"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%83%97%E3%83%AAPia%EF%BD%9E%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9Pia%E2%99%A5%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%83%E3%83%88%EF%BD%9E%5B20261023%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "マザーグースの秘密の館",
+  "nameTbl": "マザーグースの秘密の館（PSP）",
+  "brand": "QuinRose",
+  "publisher": "QuinRose",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2011-06-23",
+  "transDate": "2026-10-23",
+  "vndb": "https://vndb.org/v7714",
+  "vndbRelease": "r15481",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/QuinRose_マザーグースの秘密の館（PSP）.jpg",
+  "brands": [
+   "QuinRose"
+  ],
+  "publishers": [
+   "QuinRose"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E3%83%9E%E3%82%B6%E3%83%BC%E3%82%B0%E3%83%BC%E3%82%B9%E3%81%AE%E7%A7%98%E5%AF%86%E3%81%AE%E9%A4%A8%5B20261023%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "学園ヘタリア Portable",
+  "nameTbl": "学園ヘタリア Portable（PSP）",
+  "brand": "Otomate",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2011-03-24",
+  "transDate": "2026-10-23",
+  "vndb": "https://vndb.org/v7019",
+  "vndbRelease": "r13900",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Otomate_学園ヘタリア Portable（PSP）.jpg",
+  "brands": [
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E5%AD%A6%E5%9C%92%E3%83%98%E3%82%BF%E3%83%AA%E3%82%A2%20Portable%5B20261023%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "恋花デイズ",
+  "nameTbl": "恋花デイズ（PSP）",
+  "brand": "Otomate",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2013-06-20",
+  "transDate": "2026-10-23",
+  "vndb": "https://vndb.org/v11454",
+  "vndbRelease": "r23638",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Otomate_恋花デイズ（PSP）.jpg",
+  "brands": [
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E6%81%8B%E8%8A%B1%E3%83%87%E3%82%A4%E3%82%BA%5B20261023%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "維新恋華 龍馬外伝",
+  "nameTbl": "維新恋華 龍馬外伝（PSP）",
+  "brand": "Vridge Inc.",
+  "publisher": "D3PUBLISHER INC.",
+  "plat": "PSP",
+  "orient": "乙女向",
+  "release": "2010-11-25",
+  "transDate": "2026-10-23",
+  "vndb": "https://vndb.org/v15270",
+  "vndbRelease": "r34114",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Vridge Inc._維新恋華 龍馬外伝（PSP）.jpg",
+  "brands": [
+   "Vridge Inc."
+  ],
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E7%B6%AD%E6%96%B0%E6%81%8B%E8%8F%AF%20%E9%BE%8D%E9%A6%AC%E5%A4%96%E4%BC%9D%5B20261023%5D.zip"
    }
   ]
  }
