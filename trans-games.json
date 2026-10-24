@@ -239,7 +239,7 @@
   "plat": "PC",
   "orient": "乙女向",
   "release": "2013-02-22",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-24",
   "vndb": "https://vndb.org/v10632",
   "vndbRelease": "r21562",
   "lang": "JP",
@@ -256,9 +256,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DDouble%20Score%EF%BD%9ECosmos%C3%97Camellia%EF%BD%9E%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DDouble%20Score%20%EF%BD%9ECosmos%C3%97Camellia%EF%BD%9E%5B20261024%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-24 重新翻译。"
  },
  {
   "name": "Double Score ～Cattleya×Narcissus～",
@@ -268,7 +269,7 @@
   "plat": "PC",
   "orient": "乙女向",
   "release": "2013-08-30",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-24",
   "vndb": "https://vndb.org/v10632",
   "vndbRelease": "r21563",
   "lang": "JP",
@@ -285,9 +286,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DDouble%20Score%EF%BD%9ECattleya%C3%97Narcissus%EF%BD%9E%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DDouble%20Score%20%EF%BD%9ECattleya%C3%97Narcissus%EF%BD%9E%5B20261024%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-24 重新翻译。"
  },
  {
   "name": "Double Score ～Marguerite×Tulip～",
@@ -297,7 +299,7 @@
   "plat": "PC",
   "orient": "乙女向",
   "release": "2014-08-29",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-24",
   "vndb": "https://vndb.org/v10632",
   "vndbRelease": "r21564",
   "lang": "JP",
@@ -314,9 +316,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DDouble%20Score%EF%BD%9EMarguerite%C3%97Tulip%EF%BD%9E%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DDouble%20Score%20%EF%BD%9EMarguerite%C3%97Tulip%EF%BD%9E%5B20261024%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-24 重新翻译。"
  },
  {
   "name": "明治東亰恋伽 トワヰライト・キス",
@@ -1129,13 +1132,13 @@
   "publishers": [
    "honeybee"
   ],
+  "note": "2026-10-24 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E6%94%BE%E8%AA%B2%E5%BE%8Ccolorful%EF%BC%8Astep%EF%BD%9E%E3%81%86%E3%82%93%E3%81%A9%E3%81%86%E3%81%B6%EF%BC%81%EF%BD%9E%5B20261024%5D.zip"
    }
-  ],
-  "note": "2026-10-24 重新翻译。"
+  ]
  },
  {
   "name": "放課後colorful＊step ～ぶんかぶ！～",
@@ -1159,13 +1162,13 @@
   "publishers": [
    "honeybee"
   ],
+  "note": "2026-10-24 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E6%94%BE%E8%AA%B2%E5%BE%8Ccolorful%EF%BC%8Astep%EF%BD%9E%E3%81%B6%E3%82%93%E3%81%8B%E3%81%B6%EF%BC%81%EF%BD%9E%5B20261024%5D.zip"
    }
-  ],
-  "note": "2026-10-24 重新翻译。"
+  ]
  },
  {
   "name": "あやかしごはん ～おおもりっ！～ for S",
@@ -1536,7 +1539,7 @@
   "plat": "PC",
   "orient": "乙女向",
   "release": "2016-01-29",
-  "transDate": "2026-09-14",
+  "transDate": "2026-10-24",
   "vndb": "https://vndb.org/v15495",
   "vndbRelease": "r44111",
   "lang": "JP",
@@ -1553,9 +1556,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DDYNAMIC%20CHORD%20feat.%5Br%C4%93ve%20parfait%5D%20Append%20Disc%5B20260914%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DDYNAMIC%20CHORD%20feat.%5Br%C4%93ve%20parfait%5D%20Append%20Disc%5B20261024%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-24 重新翻译。"
  },
  {
   "name": "DYNAMIC CHORD feat.Liar-S Append Disc",
@@ -1565,7 +1569,7 @@
   "plat": "PC",
   "orient": "乙女向",
   "release": "2016-04-29",
-  "transDate": "2026-09-14",
+  "transDate": "2026-10-24",
   "vndb": "https://vndb.org/v20070",
   "vndbRelease": "r45380",
   "lang": "JP",
@@ -1582,9 +1586,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DDYNAMIC%20CHORD%20feat.Liar-S%20Append%20Disc%5B20260914%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DDYNAMIC%20CHORD%20feat.Liar-S%20Append%20Disc%5B20261024%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-24 重新翻译。"
  },
  {
   "name": "DYNAMIC CHORD feat.KYOHSO Append Disc",
@@ -1594,7 +1599,7 @@
   "plat": "PC",
   "orient": "乙女向",
   "release": "2016-07-29",
-  "transDate": "2026-09-14",
+  "transDate": "2026-10-24",
   "vndb": "https://vndb.org/v20071",
   "vndbRelease": "r46316",
   "lang": "JP",
@@ -1611,9 +1616,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DDYNAMIC%20CHORD%20feat.KYOHSO%20Append%20Disc%5B20260914%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DDYNAMIC%20CHORD%20feat.KYOHSO%20Append%20Disc%5B20261024%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-24 重新翻译。"
  },
  {
   "name": "DYNAMIC CHORD feat.apple-polisher",
@@ -1623,7 +1629,7 @@
   "plat": "PC",
   "orient": "乙女向",
   "release": "2016-11-04",
-  "transDate": "2026-09-14",
+  "transDate": "2026-10-24",
   "vndb": "https://vndb.org/v20072",
   "vndbRelease": "r46315",
   "lang": "JP",
@@ -1640,9 +1646,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DDYNAMIC%20CHORD%20feat.apple-polisher%5B20260914%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DDYNAMIC%20CHORD%20feat.apple-polisher%5B20261024%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-24 重新翻译。"
  },
  {
   "name": "Blackish House sideA→",
@@ -1652,7 +1659,7 @@
   "plat": "PC",
   "orient": "乙女向",
   "release": "2016-08-26",
-  "transDate": "2026-09-14",
+  "transDate": "2026-10-24",
   "vndb": "https://vndb.org/v17853",
   "vndbRelease": "r41091",
   "lang": "JP",
@@ -1669,9 +1676,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DBlackish%20House%20sideA%E2%86%92%5B20260914%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DBlackish%20House%20sideA%E2%86%92%5B20261024%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-24 重新翻译。"
  },
  {
   "name": "Blackish House ←sideZ",
@@ -1681,7 +1689,7 @@
   "plat": "PC",
   "orient": "乙女向",
   "release": "2017-04-28",
-  "transDate": "2026-09-14",
+  "transDate": "2026-10-24",
   "vndb": "https://vndb.org/v17853",
   "vndbRelease": "r44254",
   "lang": "JP",
@@ -1698,9 +1706,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DBlackish%20House%20%E2%86%90sideZ%5B20260914%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DBlackish%20House%20%E2%86%90sideZ%5B20261024%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-24 重新翻译。"
  },
  {
   "name": "文明開華 葵座異聞録 再演",
@@ -4496,13 +4505,13 @@
   "publishers": [
    "Idea Factory Co., Ltd."
   ],
+  "note": "2026-10-24 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%95%B0%E4%B9%B1digit%20For%20Nintendo%20Switch%5B20261024%5D.zip"
    }
-  ],
-  "note": "2026-10-24 重新翻译。"
+  ]
  },
  {
   "name": "十鬼の絆 For Nintendo Switch",
@@ -4673,13 +4682,13 @@
   "publishers": [
    "Idea Factory Co., Ltd."
   ],
+  "note": "2026-10-24 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%9E%E3%83%84%E3%83%AA%E3%82%AB%E3%81%AE%E7%82%AF-kEi-%20%E5%A4%A9%E5%91%BD%E8%8F%AF%E7%87%AD%E4%BC%9D%5B20261024%5D.zip"
    }
-  ],
-  "note": "2026-10-24 重新翻译。"
+  ]
  },
  {
   "name": "君に惑い、君に溺れる。",
@@ -6069,13 +6078,13 @@
   "publishers": [
    "Rejet Co., Ltd."
   ],
+  "note": "2026-10-24 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5D%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%AC%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%82%BC%E3%82%AF%E3%82%B9%20Rev%5B20261024%5D.zip"
    }
-  ],
-  "note": "2026-10-24 重新翻译。"
+  ]
  },
  {
   "name": "スカーレッドライダーゼクス STARDUST LOVERS",
@@ -6159,13 +6168,13 @@
   "publishers": [
    "D3PUBLISHER INC."
   ],
+  "note": "2026-10-24 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DDesperaDrops%5B20261024%5D.zip"
    }
-  ],
-  "note": "2026-10-24 重新翻译。"
+  ]
  },
  {
   "name": "TOKYOヤマノテBOYS Portable HONEY MILK DISC",
@@ -6366,13 +6375,13 @@
   "publishers": [
    "Tiaramode"
   ],
+  "note": "2026-10-24 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%82%AF%E3%83%AC%E3%83%97%E3%82%B7%E3%83%89%E3%83%A9%EF%BD%9E%E5%85%89%E3%81%A8%E5%BD%B1%E3%81%AE%E5%8D%81%E5%AD%97%E6%9E%B6%EF%BD%9E%5B20261024%5D.zip"
    }
-  ],
-  "note": "2026-10-24 重新翻译。"
+  ]
  },
  {
   "name": "はかれなはーと ～君がために輝きを～",
@@ -6572,13 +6581,13 @@
   "publishers": [
    "Takuyo Co., Ltd."
   ],
+  "note": "2026-10-24 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%81%8B%E3%81%AE%E8%8A%B1%E5%92%B2%E3%81%8F%E7%99%BE%E8%8A%B1%E5%9C%92%5B20261024%5D.zip"
    }
-  ],
-  "note": "2026-10-24 重新翻译。"
+  ]
  },
  {
   "name": "ひめひび Another Princess Days – White or Black –",
@@ -6631,13 +6640,13 @@
   "publishers": [
    "Takuyo Co., Ltd."
   ],
+  "note": "2026-10-24 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DSWEET%20CLOWN%20%EF%BD%9E%E5%8D%88%E5%89%8D%E4%B8%89%E6%99%82%E3%81%AE%E3%82%AA%E3%82%AB%E3%82%B7%E3%81%AA%E9%81%93%E5%8C%96%E5%B8%AB%EF%BD%9E%5B20261024%5D.zip"
    }
-  ],
-  "note": "2026-10-24 重新翻译。"
+  ]
  },
  {
   "name": "カエル畑DEつかまえて☆彡 ぽーたぶる",
@@ -6748,13 +6757,13 @@
   "publishers": [
    "Takuyo Co., Ltd."
   ],
+  "note": "2026-10-24 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DMoney%20Parasite%20%EF%BD%9E%E5%98%98%E3%81%A4%E3%81%8D%E3%81%AA%E5%A5%B3%EF%BD%9E%5B20261024%5D.zip"
    }
-  ],
-  "note": "2026-10-24 重新翻译。"
+  ]
  },
  {
   "name": "月影の鎖 -錯乱パラノイア-",
@@ -6764,7 +6773,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2023-11-23",
-  "transDate": "2026-09-14",
+  "transDate": "2026-10-24",
   "vndb": "https://vndb.org/v11469",
   "vndbRelease": "r106195",
   "lang": "JP",
@@ -6781,9 +6790,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%9C%88%E5%BD%B1%E3%81%AE%E9%8E%96%20-%E9%8C%AF%E4%B9%B1%E3%83%91%E3%83%A9%E3%83%8E%E3%82%A4%E3%82%A2-%5B20260914%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%9C%88%E5%BD%B1%E3%81%AE%E9%8E%96%20-%E9%8C%AF%E4%B9%B1%E3%83%91%E3%83%A9%E3%83%8E%E3%82%A4%E3%82%A2-%5B20261024%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-24 重新翻译。"
  },
  {
   "name": "月影の鎖 -狂爛モラトリアム-",
@@ -6793,7 +6803,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2024-07-11",
-  "transDate": "2026-09-14",
+  "transDate": "2026-10-24",
   "vndb": "https://vndb.org/v12928",
   "vndbRelease": "r114760",
   "lang": "JP",
@@ -6810,9 +6820,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%9C%88%E5%BD%B1%E3%81%AE%E9%8E%96%20-%E7%8B%82%E7%88%9B%E3%83%A2%E3%83%A9%E3%83%88%E3%83%AA%E3%82%A2%E3%83%A0-%5B20260914%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%9C%88%E5%BD%B1%E3%81%AE%E9%8E%96%20-%E7%8B%82%E7%88%9B%E3%83%A2%E3%83%A9%E3%83%88%E3%83%AA%E3%82%A2%E3%83%A0-%5B20261024%5D.zip"
    }
-  ]
+  ],
+  "note": "2026-10-24 重新翻译。"
  },
  {
   "name": "Panic Palette ～パニック パレット～",
@@ -6836,13 +6847,13 @@
   "publishers": [
    "Takuyo Co., Ltd."
   ],
+  "note": "2026-10-24 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DPanic%20Palette%20%EF%BD%9E%E3%83%91%E3%83%8B%E3%83%83%E3%82%AF%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%EF%BD%9E%5B20261024%5D.zip"
    }
-  ],
-  "note": "2026-10-24 重新翻译。"
+  ]
  },
  {
   "name": "DistortedCode ―生者の残り香―",
@@ -7041,13 +7052,13 @@
   "publishers": [
    "澪"
   ],
+  "note": "2026-10-24 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E8%92%BC%E5%A4%A9%E3%81%AE%E5%BD%BC%E6%96%B9%5B20261024%5D.zip"
    }
-  ],
-  "note": "2026-10-24 重新翻译。"
+  ]
  },
  {
   "name": "倭人異聞録 ～あさき、ゆめみし～",
@@ -7303,13 +7314,13 @@
   "publishers": [
    "Joseff"
   ],
+  "note": "2026-10-24 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E9%99%B0%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%96%E3%82%B3%E3%83%A1%20%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%84%E3%83%9E%E3%82%B7%E3%83%9E%E3%82%B7%5B20261024%5D.zip"
    }
-  ],
-  "note": "2026-10-24 重新翻译。"
+  ]
  },
  {
   "name": "ミルキージャーニー・レイルウェイ",
@@ -15706,6 +15717,592 @@
    {
     "t": "补丁",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E8%A1%A5%E4%B8%81/%5BPC-JP%5D%E9%BB%92%E3%81%8D%E6%A3%AE%E3%81%AE%E6%98%A5%5B20260707%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Blackish House sideA→ -Retour-",
+  "nameTbl": "Blackish House sideA→ -Retour-（NS）",
+  "brand": "honeybee black",
+  "publisher": "Arithmetic Inc.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2025-10-09",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v17853",
+  "vndbRelease": "r133886",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/honeybee black_Blackish House sideA→ -Retour-（NS）.jpg",
+  "brands": [
+   "honeybee black"
+  ],
+  "publishers": [
+   "Arithmetic Inc.",
+   "Edia Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DBlackish%20House%20sideA%E2%86%92%20-Retour-%5B20261024%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Blackish House ←sideZ -Retour-",
+  "nameTbl": "Blackish House ←sideZ -Retour-（NS）",
+  "brand": "honeybee black",
+  "publisher": "Arithmetic Inc.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2026-06-25",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v17853",
+  "vndbRelease": "r146473",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/honeybee black_Blackish House ←sideZ -Retour-（NS）.jpg",
+  "brands": [
+   "honeybee black"
+  ],
+  "publishers": [
+   "Arithmetic Inc.",
+   "Edia Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DBlackish%20House%20%E2%86%90sideZ%20-Retour-%5B20261024%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "DYNAMIC CHORD feat.KYOHSO Remaster Edition",
+  "nameTbl": "DYNAMIC CHORD feat.KYOHSO Remaster Edition（NS）",
+  "brand": "honeybee black",
+  "publisher": "Dramatic Create",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2025-11-27",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v20071",
+  "vndbRelease": "r138821",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/honeybee black_DYNAMIC CHORD feat.KYOHSO Remaster Edition（NS）.jpg",
+  "brands": [
+   "honeybee black"
+  ],
+  "publishers": [
+   "Dramatic Create"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DDYNAMIC%20CHORD%20feat.KYOHSO%20Remaster%20Edition%5B20261024%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "DYNAMIC CHORD feat.Liar-S Remaster edition",
+  "nameTbl": "DYNAMIC CHORD feat.Liar-S Remaster edition（NS）",
+  "brand": "honeybee black",
+  "publisher": "Dramatic Create",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2025-09-25",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v20070",
+  "vndbRelease": "r129229",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/honeybee black_DYNAMIC CHORD feat.Liar-S Remaster edition（NS）.jpg",
+  "brands": [
+   "honeybee black"
+  ],
+  "publishers": [
+   "Dramatic Create"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DDYNAMIC%20CHORD%20feat.Liar-S%20Remaster%20edition%5B20261024%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "DYNAMIC CHORD feat.[rēve parfait] Remaster edition",
+  "nameTbl": "DYNAMIC CHORD feat.[reve parfait] Remaster edition（NS）",
+  "brand": "honeybee black",
+  "publisher": "Arithmetic Inc.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2025-03-27",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v15495",
+  "vndbRelease": "r124368",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/honeybee black_DYNAMIC CHORD feat.[rēve parfait] Remaster edition（NS）.jpg",
+  "brands": [
+   "honeybee black"
+  ],
+  "publishers": [
+   "Arithmetic Inc.",
+   "Dramatic Create"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DDYNAMIC%20CHORD%20feat.%5Breve%20parfait%5D%20Remaster%20edition%5B20261024%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "DYNAMIC CHORD feat.apple-polisher Remaster Edition",
+  "nameTbl": "DYNAMIC CHORD feat.apple-polisher Remaster Edition（NS）",
+  "brand": "honeybee black",
+  "publisher": "Dramatic Create",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2026-01-29",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v20072",
+  "vndbRelease": "r138822",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/honeybee black_DYNAMIC CHORD feat.apple-polisher Remaster Edition（NS）.jpg",
+  "brands": [
+   "honeybee black"
+  ],
+  "publishers": [
+   "Dramatic Create"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DDYNAMIC%20CHORD%20feat.apple-polisher%20Remaster%20Edition%5B20261024%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "落下点",
+  "nameTbl": "落下点（PC）",
+  "brand": "LOVE&DESTROY",
+  "publisher": "LOVE&DESTROY",
+  "plat": "PC",
+  "orient": "蔷薇向",
+  "release": "2010-04-01",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v13294",
+  "vndbRelease": "r28718",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/LOVE&DESTROY_落下点（PC）.jpg",
+  "brands": [
+   "LOVE&DESTROY"
+  ],
+  "publishers": [
+   "LOVE&DESTROY"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E8%90%BD%E4%B8%8B%E7%82%B9%5B20261024%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "落下点2",
+  "nameTbl": "落下点2（PC）",
+  "brand": "LOVE&DESTROY",
+  "publisher": "LOVE&DESTROY",
+  "plat": "PC",
+  "orient": "蔷薇向",
+  "release": "2011-01-20",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v37806",
+  "vndbRelease": "r94885",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/LOVE&DESTROY_落下点2（PC）.jpg",
+  "brands": [
+   "LOVE&DESTROY"
+  ],
+  "publishers": [
+   "LOVE&DESTROY"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E8%90%BD%E4%B8%8B%E7%82%B92%5B20261024%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "テニスの王子様 RUSH & DREAM !",
+  "nameTbl": "テニスの王子様 RUSH & DREAM !（PS2）",
+  "brand": "KONAMI",
+  "publisher": "KONAMI",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2004-12-13",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v52431",
+  "vndbRelease": "r126752",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/KONAMI_テニスの王子様 RUSH & DREAM !（PS2）.jpg",
+  "brands": [
+   "KONAMI"
+  ],
+  "publishers": [
+   "KONAMI"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5D%E3%83%86%E3%83%8B%E3%82%B9%E3%81%AE%E7%8E%8B%E5%AD%90%E6%A7%98%20RUSH%20%26%20DREAM%20%21%5B20261024%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "テニスの王子様 SWEAT & TEARS 2",
+  "nameTbl": "テニスの王子様 SWEAT & TEARS 2（PS2）",
+  "brand": "KONAMI",
+  "publisher": "KONAMI",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2003-09-25",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v52429",
+  "vndbRelease": "r126748",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/KONAMI_テニスの王子様 SWEAT & TEARS 2（PS2）.jpg",
+  "brands": [
+   "KONAMI"
+  ],
+  "publishers": [
+   "KONAMI"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5D%E3%83%86%E3%83%8B%E3%82%B9%E3%81%AE%E7%8E%8B%E5%AD%90%E6%A7%98%20SWEAT%20%26%20TEARS%202%5B20261024%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "リトルアンカー",
+  "nameTbl": "リトルアンカー（PS2）",
+  "brand": "Vridge Inc.",
+  "publisher": "D3PUBLISHER INC.",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2009-04-23",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v1418",
+  "vndbRelease": "r2759",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Vridge Inc._リトルアンカー（PS2）.jpg",
+  "brands": [
+   "Vridge Inc."
+  ],
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5D%E3%83%AA%E3%83%88%E3%83%AB%E3%82%A2%E3%83%B3%E3%82%AB%E3%83%BC%5B20261024%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "リプルのたまご ～Apprentice magician～",
+  "nameTbl": "リプルのたまご ～Apprentice magician～（PS2）",
+  "brand": "HuneX",
+  "publisher": "D3PUBLISHER INC.",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2003-06-12",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v12031",
+  "vndbRelease": "r25307",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_リプルのたまご ～Apprentice magician～（PS2）.jpg",
+  "brands": [
+   "HuneX"
+  ],
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5D%E3%83%AA%E3%83%97%E3%83%AB%E3%81%AE%E3%81%9F%E3%81%BE%E3%81%94%20%EF%BD%9EApprentice%20magician%EF%BD%9E%5B20261024%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "令嬢探偵 ～オフィスラブ事件慕～",
+  "nameTbl": "令嬢探偵 ～オフィスラブ事件慕～（PS2）",
+  "brand": "Tomcat System",
+  "publisher": "D3PUBLISHER INC.",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2007-02-22",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v12258",
+  "vndbRelease": "r25969",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Tomcat System_令嬢探偵 ～オフィスラブ事件慕～（PS2）.jpg",
+  "brands": [
+   "Tomcat System"
+  ],
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5D%E4%BB%A4%E5%AC%A2%E6%8E%A2%E5%81%B5%20%EF%BD%9E%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E3%83%A9%E3%83%96%E4%BA%8B%E4%BB%B6%E6%85%95%EF%BD%9E%5B20261024%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "伯爵と妖精 ～夢と絆に想いを馳せて～",
+  "nameTbl": "伯爵と妖精 ～夢と絆に想いを馳せて～（PS2）",
+  "brand": "MAGES.",
+  "publisher": "MAGES.",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2009-04-30",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v4150",
+  "vndbRelease": "r8051",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/MAGES._伯爵と妖精 ～夢と絆に想いを馳せて～（PS2）.jpg",
+  "brands": [
+   "MAGES."
+  ],
+  "publishers": [
+   "MAGES."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5D%E4%BC%AF%E7%88%B5%E3%81%A8%E5%A6%96%E7%B2%BE%20%EF%BD%9E%E5%A4%A2%E3%81%A8%E7%B5%86%E3%81%AB%E6%83%B3%E3%81%84%E3%82%92%E9%A6%B3%E3%81%9B%E3%81%A6%EF%BD%9E%5B20261024%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "悠久ノ桜",
+  "nameTbl": "悠久ノ桜（PS2）",
+  "brand": "Vingt-et-un. Systems Corporation",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2007-09-27",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v9912",
+  "vndbRelease": "r19968",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Vingt-et-un. Systems Corporation_悠久ノ桜（PS2）.jpg",
+  "brands": [
+   "Vingt-et-un. Systems Corporation"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5D%E6%82%A0%E4%B9%85%E3%83%8E%E6%A1%9C%5B20261024%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "放課後のLove Beat",
+  "nameTbl": "放課後のLove Beat（PS2）",
+  "brand": "HuneX",
+  "publisher": "D3PUBLISHER INC.",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2004-06-10",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v4595",
+  "vndbRelease": "r8807",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_放課後のLove Beat（PS2）.jpg",
+  "brands": [
+   "HuneX"
+  ],
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5D%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%81%AELove%20Beat%5B20261024%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "星の降る刻",
+  "nameTbl": "星の降る刻（PS2）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2005-09-22",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v9911",
+  "vndbRelease": "r19948",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._星の降る刻（PS2）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5D%E6%98%9F%E3%81%AE%E9%99%8D%E3%82%8B%E5%88%BB%5B20261024%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "桜蘭高校ホスト部",
+  "nameTbl": "桜蘭高校ホスト部（PS2）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2007-04-19",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v2252",
+  "vndbRelease": "r4419",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._桜蘭高校ホスト部（PS2）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5D%E6%A1%9C%E8%98%AD%E9%AB%98%E6%A0%A1%E3%83%9B%E3%82%B9%E3%83%88%E9%83%A8%5B20261024%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "硝子の森",
+  "nameTbl": "硝子の森（PS2）",
+  "brand": "HuneX",
+  "publisher": "D3PUBLISHER INC.",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2002-10-24",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v16410",
+  "vndbRelease": "r37577",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_硝子の森（PS2）.jpg",
+  "brands": [
+   "HuneX"
+  ],
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5D%E7%A1%9D%E5%AD%90%E3%81%AE%E6%A3%AE%5B20261024%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "風色サーフ",
+  "nameTbl": "風色サーフ（PS2）",
+  "brand": "Russell.pure",
+  "publisher": "Russell.pure",
+  "plat": "PS2",
+  "orient": "乙女向",
+  "release": "2009-05-28",
+  "transDate": "2026-10-24",
+  "vndb": "https://vndb.org/v4047",
+  "vndbRelease": "r7859",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Russell.pure_風色サーフ（PS2）.jpg",
+  "brands": [
+   "Russell.pure"
+  ],
+  "publishers": [
+   "Russell.pure"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PS2/%5BPS2-JP%5D%E9%A2%A8%E8%89%B2%E3%82%B5%E3%83%BC%E3%83%95%5B20261024%5D.zip"
    }
   ]
  }
