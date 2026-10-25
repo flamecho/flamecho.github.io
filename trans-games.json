@@ -2640,13 +2640,13 @@
   "publishers": [
    "Operetta"
   ],
+  "note": "2026-10-24 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DDiary%5B20261024%5D.zip"
    }
-  ],
-  "note": "2026-10-24 重新翻译。"
+  ]
  },
  {
   "name": "Noise -Voice of Snow-",
@@ -4183,13 +4183,13 @@
   "publishers": [
    "Idea Factory Co., Ltd."
   ],
+  "note": "2026-10-24 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%88%A6%E5%A0%B4%E3%81%AE%E5%86%86%E8%88%9E%E6%9B%B2%20for%20Nintendo%20Switch%5B20261024%5D.zip"
    }
-  ],
-  "note": "2026-10-24 重新翻译。"
+  ]
  },
  {
   "name": "Princess Arthur for Nintendo Switch",
@@ -6701,13 +6701,13 @@
   "publishers": [
    "Takuyo Co., Ltd."
   ],
+  "note": "2026-10-24 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%AD%BB%E7%A5%9E%E3%81%A8%E5%B0%91%E5%A5%B3%5B20261024%5D.zip"
    }
-  ],
-  "note": "2026-10-24 重新翻译。"
+  ]
  },
  {
   "name": "Money Parasite ～嘘つきな女～",
@@ -6997,13 +6997,13 @@
   "publishers": [
    "Yamanaka"
   ],
+  "note": "2026-10-24 重新翻译。",
   "dls": [
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DPentagon%20Syndrome%5B20261024%5D.zip"
    }
-  ],
-  "note": "2026-10-24 重新翻译。"
+  ]
  },
  {
   "name": "蒼天の彼方",
@@ -14831,35 +14831,6 @@
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5DTOKYO%E3%83%A4%E3%83%9E%E3%83%8E%E3%83%86BOYS%20for%20V%20MAIN%20DISC%5B20261022%5D.zip"
-   }
-  ]
- },
- {
-  "name": "うたの☆プリンスさまっ♪ Repeat LOVE",
-  "nameTbl": "うたの☆プリンスさまっ♪ Repeat LOVE（PSV）",
-  "brand": "BROCCOLI Co., Ltd.",
-  "publisher": "BROCCOLI Co., Ltd.",
-  "plat": "PSV",
-  "orient": "乙女向",
-  "release": "2017-01-26",
-  "transDate": "2026-10-22",
-  "vndb": "https://vndb.org/v4602",
-  "vndbRelease": "r44548",
-  "lang": "JP",
-  "type": [
-   "预翻译"
-  ],
-  "cover": "/img/trans-covers/BROCCOLI Co., Ltd._うたの☆プリンスさまっ♪ Repeat LOVE（PSV）.jpg",
-  "brands": [
-   "BROCCOLI Co., Ltd."
-  ],
-  "publishers": [
-   "BROCCOLI Co., Ltd."
-  ],
-  "dls": [
-   {
-    "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5D%E3%81%86%E3%81%9F%E3%81%AE%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA%20Repeat%20LOVE%5B20261022%5D.zip"
    }
   ]
  },
