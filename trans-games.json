@@ -388,7 +388,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2022-02-23",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-28",
   "vndb": "https://vndb.org/v21922",
   "vndbRelease": "r82224",
   "lang": "JP",
@@ -402,10 +402,11 @@
   "publishers": [
    "BROCCOLI Co., Ltd."
   ],
+  "retrans": true,
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%AE%BA%E3%81%97%E5%B1%8B%E3%81%A8%E3%82%B9%E3%83%88%E3%83%AD%E3%83%99%E3%83%AA%E3%83%BC%20Plus%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%AE%BA%E3%81%97%E5%B1%8B%E3%81%A8%E3%82%B9%E3%83%88%E3%83%AD%E3%83%99%E3%83%AA%E3%83%BC%20Plus%5B20261028%5D.zip"
    }
   ]
  },
@@ -417,7 +418,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2025-07-24",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-28",
   "vndb": "https://vndb.org/v53877",
   "vndbRelease": "r129991",
   "lang": "JP",
@@ -431,10 +432,11 @@
   "publishers": [
    "BROCCOLI Co., Ltd."
   ],
+  "retrans": true,
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%B3%A1%E6%B2%AB%E3%81%AE%E3%83%A6%E3%83%BC%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%A2%20-trail-%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%B3%A1%E6%B2%AB%E3%81%AE%E3%83%A6%E3%83%BC%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%A2%20-trail-%5B20261028%5D.zip"
    }
   ]
  },
@@ -621,7 +623,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2025-11-20",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-28",
   "vndb": "https://vndb.org/v28405",
   "vndbRelease": "r137966",
   "lang": "JP",
@@ -635,10 +637,11 @@
   "publishers": [
    "PROTOTYPE"
   ],
+  "retrans": true,
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E9%97%87%E8%89%B2%E3%81%AE%E9%AD%94%E7%8F%A0%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E9%97%87%E8%89%B2%E3%81%AE%E9%AD%94%E7%8F%A0%5B20261028%5D.zip"
    }
   ]
  },
@@ -2483,7 +2486,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2026-03-26",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-28",
   "vndb": "https://vndb.org/v52771",
   "vndbRelease": "r127419",
   "lang": "JP",
@@ -2497,10 +2500,12 @@
   "publishers": [
    "Edia Co., Ltd."
   ],
+  "note": "含DLC：After Story case.BIRDS、After Story case.CATS。",
+  "retrans": true,
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%8F%E3%83%B3%E3%82%B5%E3%83%A0%E3%83%AD%E3%83%B3%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%20-the%20mystic%20lover-%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%8F%E3%83%B3%E3%82%B5%E3%83%A0%E3%83%AD%E3%83%B3%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%20-the%20mystic%20lover-%5B20261028%5D.zip"
    }
   ]
  },
@@ -4303,7 +4308,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2024-08-29",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-28",
   "vndb": "https://vndb.org/v38124",
   "vndbRelease": "r95513",
   "lang": "JP",
@@ -4317,10 +4322,11 @@
   "publishers": [
    "Otomate"
   ],
+  "retrans": true,
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DMy9Swallows%20TOPSTARS%20LEAGUE%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DMy9Swallows%20TOPSTARS%20LEAGUE%5B20261028%5D.zip"
    }
   ]
  },
@@ -4392,7 +4398,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2024-10-03",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-28",
   "vndb": "https://vndb.org/v49600",
   "vndbRelease": "r119754",
   "lang": "JP",
@@ -4406,10 +4412,11 @@
   "publishers": [
    "Idea Factory Co., Ltd."
   ],
+  "retrans": true,
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DHoney%20Vibes%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DHoney%20Vibes%5B20261028%5D.zip"
    }
   ]
  },
@@ -6923,7 +6930,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2025-06-05",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-28",
   "vndb": "https://vndb.org/v47771",
   "vndbRelease": "r114763",
   "lang": "JP",
@@ -6937,10 +6944,11 @@
   "publishers": [
    "Voltage Inc."
   ],
+  "retrans": true,
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%AC%E3%83%83%E3%83%89%E3%83%99%E3%83%AB%E3%81%AE%E6%85%9F%E5%93%AD%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%AC%E3%83%83%E3%83%89%E3%83%99%E3%83%AB%E3%81%AE%E6%85%9F%E5%93%AD%5B20261028%5D.zip"
    }
   ]
  },
@@ -6952,7 +6960,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2025-12-11",
-  "transDate": "2026-09-13",
+  "transDate": "2026-10-28",
   "vndb": "https://vndb.org/v47769",
   "vndbRelease": "r114761",
   "lang": "JP",
@@ -6966,10 +6974,11 @@
   "publishers": [
    "Voltage Inc."
   ],
+  "retrans": true,
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%8D%E3%82%AA%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20-Echoes%20of%20the%20Lost-%5B20260913%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%8D%E3%82%AA%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20-Echoes%20of%20the%20Lost-%5B20261028%5D.zip"
    }
   ]
  },
@@ -17286,6 +17295,480 @@
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E6%A5%BD%E5%9C%92%E7%94%B7%E5%AD%90%20%EF%BD%9E%E8%AA%B0%E3%82%82%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%20%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AE%E6%A5%BD%E5%9C%92%EF%BD%9E%5B20261027%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "KLAP!! for Nintendo Switch",
+  "nameTbl": "KLAP!! for Nintendo Switch（NS）",
+  "brand": "Idea Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2022-06-09",
+  "transDate": "2026-10-28",
+  "vndb": "https://vndb.org/v16128",
+  "vndbRelease": "r87554",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Idea Factory Co., Ltd._KLAP!! for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "Idea Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DKLAP%21%21%20for%20Nintendo%20Switch%5B20261028%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "SympathyKiss",
+  "nameTbl": "SympathyKiss（NS）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2022-11-17",
+  "transDate": "2026-10-28",
+  "vndb": "https://vndb.org/v34018",
+  "vndbRelease": "r87553",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._SympathyKiss（NS）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DSympathyKiss%5B20261028%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "even if TEMPEST 宵闇にかく語りき魔女",
+  "nameTbl": "even if TEMPEST 宵闇にかく語りき魔女（NS）",
+  "brand": "Voltage Inc.",
+  "publisher": "Voltage Inc.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2022-06-09",
+  "transDate": "2026-10-28",
+  "vndb": "https://vndb.org/v32555",
+  "vndbRelease": "r83959",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Voltage Inc._even if TEMPEST 宵闇にかく語りき魔女（NS）.jpg",
+  "brands": [
+   "Voltage Inc."
+  ],
+  "publishers": [
+   "Voltage Inc."
+  ],
+  "note": "含DLC：Roses for My Love、Bouquet for My Girl、宵闇の記憶。",
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5Deven%20if%20TEMPEST%20%E5%AE%B5%E9%97%87%E3%81%AB%E3%81%8B%E3%81%8F%E8%AA%9E%E3%82%8A%E3%81%8D%E9%AD%94%E5%A5%B3%5B20261028%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "even if TEMPEST 連なるときの暁",
+  "nameTbl": "even if TEMPEST 連なるときの暁（NS）",
+  "brand": "Voltage Inc.",
+  "publisher": "Voltage Inc.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2023-10-26",
+  "transDate": "2026-10-28",
+  "vndb": "https://vndb.org/v44096",
+  "vndbRelease": "r106355",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Voltage Inc._even if TEMPEST 連なるときの暁（NS）.jpg",
+  "brands": [
+   "Voltage Inc."
+  ],
+  "publishers": [
+   "Voltage Inc."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5Deven%20if%20TEMPEST%20%E9%80%A3%E3%81%AA%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AE%E6%9A%81%5B20261028%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "もし、この世界に神様がいるとするならば。",
+  "nameTbl": "もし、この世界に神様がいるとするならば。（NS）",
+  "brand": "Rejet Co., Ltd.",
+  "publisher": "Rejet Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2025-08-28",
+  "transDate": "2026-10-28",
+  "vndb": "https://vndb.org/v16770",
+  "vndbRelease": "r134697",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Rejet Co., Ltd._もし、この世界に神様がいるとするならば。（NS）.jpg",
+  "brands": [
+   "Rejet Co., Ltd."
+  ],
+  "publishers": [
+   "Rejet Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%82%82%E3%81%97%E3%80%81%E3%81%93%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AB%E7%A5%9E%E6%A7%98%E3%81%8C%E3%81%84%E3%82%8B%E3%81%A8%E3%81%99%E3%82%8B%E3%81%AA%E3%82%89%E3%81%B0%E3%80%82%5B20261028%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "スチームプリズン -Beyond the Steam-",
+  "nameTbl": "スチームプリズン -Beyond the Steam-（NS）",
+  "brand": "HuneX",
+  "publisher": "Dramatic Create",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2024-11-28",
+  "transDate": "2026-10-28",
+  "vndb": "https://vndb.org/v49599",
+  "vndbRelease": "r119753",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_スチームプリズン -Beyond the Steam-（NS）.jpg",
+  "brands": [
+   "HuneX"
+  ],
+  "publishers": [
+   "Dramatic Create"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AA%E3%82%BA%E3%83%B3%20-Beyond%20the%20Steam-%5B20261028%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "スチームプリズン",
+  "nameTbl": "スチームプリズン（NS）",
+  "brand": "HuneX",
+  "publisher": "Dramatic Create",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2021-02-25",
+  "transDate": "2026-10-28",
+  "vndb": "https://vndb.org/v19397",
+  "vndbRelease": "r91117",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_スチームプリズン（NS）.jpg",
+  "brands": [
+   "HuneX"
+  ],
+  "publishers": [
+   "Dramatic Create",
+   "HuneX"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AA%E3%82%BA%E3%83%B3%5B20261028%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "テミラーナ国の強運姫と悲運騎士団",
+  "nameTbl": "テミラーナ国の強運姫と悲運騎士団（NS）",
+  "brand": "ichicolumn inc.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2023-04-27",
+  "transDate": "2026-10-28",
+  "vndb": "https://vndb.org/v34020",
+  "vndbRelease": "r87556",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/ichicolumn inc._テミラーナ国の強運姫と悲運騎士団（NS）.jpg",
+  "brands": [
+   "ichicolumn inc."
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%86%E3%83%9F%E3%83%A9%E3%83%BC%E3%83%8A%E5%9B%BD%E3%81%AE%E5%BC%B7%E9%81%8B%E5%A7%AB%E3%81%A8%E6%82%B2%E9%81%8B%E9%A8%8E%E5%A3%AB%E5%9B%A3%5B20261028%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ミストニアの翅望 -The Lost Delight-",
+  "nameTbl": "ミストニアの翅望 -The Lost Delight-（NS）",
+  "brand": "Otomate",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2024-07-18",
+  "transDate": "2026-10-28",
+  "vndb": "https://vndb.org/v47010",
+  "vndbRelease": "r112881",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Otomate_ミストニアの翅望 -The Lost Delight-（NS）.jpg",
+  "brands": [
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%9F%E3%82%B9%E3%83%88%E3%83%8B%E3%82%A2%E3%81%AE%E7%BF%85%E6%9C%9B%20-The%20Lost%20Delight-%5B20261028%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ラディアンテイル ～ファンファーレ！～",
+  "nameTbl": "ラディアンテイル ～ファンファーレ！～（NS）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2023-08-31",
+  "transDate": "2026-10-28",
+  "vndb": "https://vndb.org/v42433",
+  "vndbRelease": "r103280",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._ラディアンテイル ～ファンファーレ！～（NS）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%86%E3%82%A4%E3%83%AB%20%EF%BD%9E%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC%EF%BC%81%EF%BD%9E%5B20261028%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ラディアンテイル",
+  "nameTbl": "ラディアンテイル（NS）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2022-05-26",
+  "transDate": "2026-10-28",
+  "vndb": "https://vndb.org/v30920",
+  "vndbRelease": "r79206",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._ラディアンテイル（NS）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%86%E3%82%A4%E3%83%AB%5B20261028%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "泡沫のユークロニア",
+  "nameTbl": "泡沫のユークロニア（NS）",
+  "brand": "LicoBiTs",
+  "publisher": "BROCCOLI Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2024-04-11",
+  "transDate": "2026-10-28",
+  "vndb": "https://vndb.org/v40519",
+  "vndbRelease": "r99831",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/LicoBiTs_泡沫のユークロニア（NS）.jpg",
+  "brands": [
+   "LicoBiTs"
+  ],
+  "publishers": [
+   "BROCCOLI Co., Ltd."
+  ],
+  "note": "含DLC：後日談セット1、後日談セット2。",
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%B3%A1%E6%B2%AB%E3%81%AE%E3%83%A6%E3%83%BC%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%A2%5B20261028%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "白と黒のアリス for Nintendo Switch",
+  "nameTbl": "白と黒のアリス for Nintendo Switch（NS）",
+  "brand": "Kogado Girls Project",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2021-06-24",
+  "transDate": "2026-10-28",
+  "vndb": "https://vndb.org/v19716",
+  "vndbRelease": "r78718",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Kogado Girls Project_白と黒のアリス for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "Kogado Girls Project"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E7%99%BD%E3%81%A8%E9%BB%92%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9%20for%20Nintendo%20Switch%5B20261028%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "終遠のヴィルシュ -EpiC:lycoris-",
+  "nameTbl": "終遠のヴィルシュ -EpiClycoris-（NS）",
+  "brand": "Otomate",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2023-09-07",
+  "transDate": "2026-10-28",
+  "vndb": "https://vndb.org/v38067",
+  "vndbRelease": "r112776",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Otomate_終遠のヴィルシュ -EpiC_lycoris-（NS）.jpg",
+  "brands": [
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E7%B5%82%E9%81%A0%E3%81%AE%E3%83%B4%E3%82%A3%E3%83%AB%E3%82%B7%E3%83%A5%20-EpiClycoris-%5B20261028%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "終遠のヴィルシュ -ErroR:salvation-",
+  "nameTbl": "終遠のヴィルシュ -ErroRsalvation-（NS）",
+  "brand": "HYDE, Inc.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2021-10-07",
+  "transDate": "2026-10-28",
+  "vndb": "https://vndb.org/v29661",
+  "vndbRelease": "r75912",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HYDE, Inc._終遠のヴィルシュ -ErroR_salvation-（NS）.jpg",
+  "brands": [
+   "HYDE, Inc.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E7%B5%82%E9%81%A0%E3%81%AE%E3%83%B4%E3%82%A3%E3%83%AB%E3%82%B7%E3%83%A5%20-ErroRsalvation-%5B20261028%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "絶対階級学園 ～Eden with roses and phantasm～",
+  "nameTbl": "絶対階級学園 ～Eden with roses and phantasm～（NS）",
+  "brand": "Daisy2",
+  "publisher": "PROTOTYPE",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2019-12-19",
+  "transDate": "2026-10-28",
+  "vndb": "https://vndb.org/v13905",
+  "vndbRelease": "r66229",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Daisy2_絶対階級学園 ～Eden with roses and phantasm～（NS）.jpg",
+  "brands": [
+   "Daisy2"
+  ],
+  "publishers": [
+   "PROTOTYPE"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E7%B5%B6%E5%AF%BE%E9%9A%8E%E7%B4%9A%E5%AD%A6%E5%9C%92%20%EF%BD%9EEden%20with%20roses%20and%20phantasm%EF%BD%9E%5B20261028%5D.zip"
    }
   ]
  }
