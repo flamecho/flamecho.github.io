@@ -358,7 +358,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2022-01-27",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-29",
   "vndb": "https://vndb.org/v10273",
   "vndbRelease": "r86739",
   "lang": "JP",
@@ -373,10 +373,11 @@
   "publishers": [
    "BROCCOLI Co., Ltd."
   ],
+  "retrans": true,
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E7%A5%9E%E3%80%85%E3%81%AE%E6%82%AA%E6%88%AF%20Unite%20Edition%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E7%A5%9E%E3%80%85%E3%81%AE%E6%82%AA%E6%88%AF%20Unite%20Edition%5B20261029%5D.zip"
    }
   ]
  },
@@ -4098,7 +4099,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2021-03-25",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-29",
   "vndb": "https://vndb.org/v22986",
   "vndbRelease": "r56839",
   "lang": "JP",
@@ -4113,10 +4114,11 @@
   "publishers": [
    "Idea Factory Co., Ltd."
   ],
+  "retrans": true,
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DLoverPretend%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DLoverPretend%5B20261029%5D.zip"
    }
   ]
  },
@@ -4428,7 +4430,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2025-04-17",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-29",
   "vndb": "https://vndb.org/v47013",
   "vndbRelease": "r112884",
   "lang": "JP",
@@ -4443,10 +4445,11 @@
   "publishers": [
    "Idea Factory Co., Ltd."
   ],
+  "retrans": true,
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DOVER%20REQUIEMZ%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DOVER%20REQUIEMZ%5B20261029%5D.zip"
    }
   ]
  },
@@ -4518,7 +4521,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2025-06-19",
-  "transDate": "2026-09-14",
+  "transDate": "2026-10-29",
   "vndb": "https://vndb.org/v9885",
   "vndbRelease": "r132300",
   "lang": "JP",
@@ -4533,10 +4536,11 @@
    "Design Factory Co., Ltd.",
    "Idea Factory Co., Ltd."
   ],
+  "retrans": true,
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E5%8D%81%E9%AC%BC%E3%81%AE%E7%B5%86%5B20260914%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E5%8D%81%E9%AC%BC%E3%81%AE%E7%B5%86%20for%20Nintendo%20Switch%5B20261029%5D.zip"
    }
   ]
  },
@@ -4609,7 +4613,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2025-09-25",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-29",
   "vndb": "https://vndb.org/v52276",
   "vndbRelease": "r135645",
   "lang": "JP",
@@ -4623,10 +4627,11 @@
   "publishers": [
    "Idea Factory Co., Ltd."
   ],
+  "retrans": true,
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D9%20R.I.P.%20sequel%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D9%20R.I.P.%20sequel%5B20261029%5D.zip"
    }
   ]
  },
@@ -4667,7 +4672,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2026-04-23",
-  "transDate": "2026-10-24",
+  "transDate": "2026-10-29",
   "vndb": "https://vndb.org/v52279",
   "vndbRelease": "r126349",
   "lang": "JP",
@@ -4685,7 +4690,7 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%9E%E3%83%84%E3%83%AA%E3%82%AB%E3%81%AE%E7%82%AF-kEi-%20%E5%A4%A9%E5%91%BD%E8%8F%AF%E7%87%AD%E4%BC%9D%5B20261024%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%9E%E3%83%84%E3%83%AA%E3%82%AB%E3%81%AE%E7%82%AF%20-kEi-%20%E5%A4%A9%E5%91%BD%E8%8F%AF%E7%87%AD%E4%BC%9D%5B20261029%5D.zip"
    }
   ]
  },
@@ -17685,7 +17690,7 @@
   ]
  },
  {
-  "name": "終遠のヴィルシュ -EpiC:lycoris-",
+  "name": "終遠のヴィルシュ -EpiClycoris-",
   "nameTbl": "終遠のヴィルシュ -EpiClycoris-（NS）",
   "brand": "Otomate",
   "publisher": "Idea Factory Co., Ltd.",
@@ -17699,7 +17704,7 @@
   "type": [
    "预翻译"
   ],
-  "cover": "/img/trans-covers/Otomate_終遠のヴィルシュ -EpiC_lycoris-（NS）.jpg",
+  "cover": "/img/trans-covers/Otomate_終遠のヴィルシュ -EpiClycoris-（NS）.jpg",
   "brands": [
    "Otomate"
   ],
@@ -17714,7 +17719,7 @@
   ]
  },
  {
-  "name": "終遠のヴィルシュ -ErroR:salvation-",
+  "name": "終遠のヴィルシュ -ErroRsalvation-",
   "nameTbl": "終遠のヴィルシュ -ErroRsalvation-（NS）",
   "brand": "HYDE, Inc.",
   "publisher": "Idea Factory Co., Ltd.",
@@ -17728,7 +17733,7 @@
   "type": [
    "预翻译"
   ],
-  "cover": "/img/trans-covers/HYDE, Inc._終遠のヴィルシュ -ErroR_salvation-（NS）.jpg",
+  "cover": "/img/trans-covers/HYDE, Inc._終遠のヴィルシュ -ErroRsalvation-（NS）.jpg",
   "brands": [
    "HYDE, Inc.",
    "Otomate"
@@ -17769,6 +17774,362 @@
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E7%B5%B6%E5%AF%BE%E9%9A%8E%E7%B4%9A%E5%AD%A6%E5%9C%92%20%EF%BD%9EEden%20with%20roses%20and%20phantasm%EF%BD%9E%5B20261028%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "9 R.I.P.",
+  "nameTbl": "9 R.I.P.（NS）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2023-06-29",
+  "transDate": "2026-10-29",
+  "vndb": "https://vndb.org/v38068",
+  "vndbRelease": "r95388",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._9 R.I.P.（NS）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D9%20R.I.P.%5B20261029%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Collar x Malice for Nintendo Switch",
+  "nameTbl": "Collar x Malice for Nintendo Switch（NS）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2020-03-12",
+  "transDate": "2026-10-29",
+  "vndb": "https://vndb.org/v18160",
+  "vndbRelease": "r64104",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._Collar x Malice for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DCollar%20x%20Malice%20for%20Nintendo%20Switch%5B20261029%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ビルシャナ戦姫 ～一樹の風～",
+  "nameTbl": "ビルシャナ戦姫 ～一樹の風～（NS）",
+  "brand": "Red Entertainment Corporation",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2022-03-31",
+  "transDate": "2026-10-29",
+  "vndb": "https://vndb.org/v32229",
+  "vndbRelease": "r95824",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Red Entertainment Corporation_ビルシャナ戦姫 ～一樹の風～（NS）.jpg",
+  "brands": [
+   "Red Entertainment Corporation"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%93%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%8A%E6%88%A6%E5%A7%AB%20%EF%BD%9E%E4%B8%80%E6%A8%B9%E3%81%AE%E9%A2%A8%EF%BD%9E%5B20261029%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ビルシャナ戦姫 ～源平飛花夢想～",
+  "nameTbl": "ビルシャナ戦姫 ～源平飛花夢想～（NS）",
+  "brand": "Red Entertainment Corporation",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2020-09-17",
+  "transDate": "2026-10-29",
+  "vndb": "https://vndb.org/v22987",
+  "vndbRelease": "r56843",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Red Entertainment Corporation_ビルシャナ戦姫 ～源平飛花夢想～（NS）.jpg",
+  "brands": [
+   "Red Entertainment Corporation"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%93%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%8A%E6%88%A6%E5%A7%AB%20%EF%BD%9E%E6%BA%90%E5%B9%B3%E9%A3%9B%E8%8A%B1%E5%A4%A2%E6%83%B3%EF%BD%9E%5B20261029%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "マツリカの炯 - kEi - 天命胤異伝",
+  "nameTbl": "マツリカの炯 - kEi - 天命胤異伝（NS）",
+  "brand": "Otomate",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2024-02-29",
+  "transDate": "2026-10-29",
+  "vndb": "https://vndb.org/v47009",
+  "vndbRelease": "r112879",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Otomate_マツリカの炯 - kEi - 天命胤異伝（NS）.jpg",
+  "brands": [
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%9E%E3%83%84%E3%83%AA%E3%82%AB%E3%81%AE%E7%82%AF%20-kEi-%20%E5%A4%A9%E5%91%BD%E8%83%A4%E7%95%B0%E4%BC%9D%5B20261029%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ワンド オブ フォーチュン Ｒ for Nintendo Switch",
+  "nameTbl": "ワンド オブ フォーチュン Ｒ for Nintendo Switch（NS）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2023-05-18",
+  "transDate": "2026-10-29",
+  "vndb": "https://vndb.org/v1874",
+  "vndbRelease": "r102652",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._ワンド オブ フォーチュン Ｒ for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%AF%E3%83%B3%E3%83%89%20%E3%82%AA%E3%83%96%20%E3%83%95%E3%82%A9%E3%83%BC%E3%83%81%E3%83%A5%E3%83%B3%20%EF%BC%B2%20for%20Nintendo%20Switch%5B20261029%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ワンド オブ フォーチュン Ｒ２ ＦＤ ～君に捧げるエピローグ～ for Nintendo Switch",
+  "nameTbl": "ワンド オブ フォーチュン Ｒ２ ＦＤ ～君に捧げるエピローグ～ for Nintendo Switch（NS）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2023-09-14",
+  "transDate": "2026-10-29",
+  "vndb": "https://vndb.org/v10050",
+  "vndbRelease": "r102656",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._ワンド オブ フォーチュン Ｒ２ ＦＤ ～君に捧げるエピローグ～ for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%AF%E3%83%B3%E3%83%89%20%E3%82%AA%E3%83%96%20%E3%83%95%E3%82%A9%E3%83%BC%E3%83%81%E3%83%A5%E3%83%B3%20%EF%BC%B2%EF%BC%92%20%EF%BC%A6%EF%BC%A4%20%EF%BD%9E%E5%90%9B%E3%81%AB%E6%8D%A7%E3%81%92%E3%82%8B%E3%82%A8%E3%83%94%E3%83%AD%E3%83%BC%E3%82%B0%EF%BD%9E%20for%20Nintendo%20Switch%5B20261029%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ワンド オブ フォーチュン Ｒ２ ～時空に沈む黙示録～ for Nintendo Switch",
+  "nameTbl": "ワンド オブ フォーチュン Ｒ２ ～時空に沈む黙示録～ for Nintendo Switch（NS）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2023-07-20",
+  "transDate": "2026-10-29",
+  "vndb": "https://vndb.org/v4542",
+  "vndbRelease": "r102655",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._ワンド オブ フォーチュン Ｒ２ ～時空に沈む黙示録～ for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%AF%E3%83%B3%E3%83%89%20%E3%82%AA%E3%83%96%20%E3%83%95%E3%82%A9%E3%83%BC%E3%83%81%E3%83%A5%E3%83%B3%20%EF%BC%B2%EF%BC%92%20%EF%BD%9E%E6%99%82%E7%A9%BA%E3%81%AB%E6%B2%88%E3%82%80%E9%BB%99%E7%A4%BA%E9%8C%B2%EF%BD%9E%20for%20Nintendo%20Switch%5B20261029%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "十三支演義 偃月三国伝1・2 for Nintendo Switch",
+  "nameTbl": "十三支演義 偃月三国伝1・2 for Nintendo Switch（NS）",
+  "brand": "Red Entertainment Corporation",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2022-09-22",
+  "transDate": "2026-10-29",
+  "vndb": "https://vndb.org/v10289",
+  "vndbRelease": "r89937",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Red Entertainment Corporation_十三支演義 偃月三国伝1・2 for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "Red Entertainment Corporation"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E5%8D%81%E4%B8%89%E6%94%AF%E6%BC%94%E7%BE%A9%20%E5%81%83%E6%9C%88%E4%B8%89%E5%9B%BD%E4%BC%9D1%E3%83%BB2%20for%20Nintendo%20Switch%5B20261029%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "大正×対称アリス HEADS & TAILS",
+  "nameTbl": "大正×対称アリス HEADS & TAILS（NS）",
+  "brand": "Primula",
+  "publisher": "PROTOTYPE",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2020-10-29",
+  "transDate": "2026-10-29",
+  "vndb": "https://vndb.org/v20277",
+  "vndbRelease": "r73141",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Primula_大正×対称アリス HEADS & TAILS（NS）.jpg",
+  "brands": [
+   "Primula"
+  ],
+  "publishers": [
+   "PROTOTYPE"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E5%A4%A7%E6%AD%A3%C3%97%E5%AF%BE%E7%A7%B0%E3%82%A2%E3%83%AA%E3%82%B9%20HEADS%20%26%20TAILS%5B20261029%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "大正×対称アリス all in one",
+  "nameTbl": "大正×対称アリス all in one（NS）",
+  "brand": "Primula",
+  "publisher": "PROTOTYPE",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2019-04-18",
+  "transDate": "2026-10-29",
+  "vndb": "https://vndb.org/v16032",
+  "vndbRelease": "r61699",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Primula_大正×対称アリス all in one（NS）.jpg",
+  "brands": [
+   "Primula"
+  ],
+  "publishers": [
+   "PROTOTYPE"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E5%A4%A7%E6%AD%A3%C3%97%E5%AF%BE%E7%A7%B0%E3%82%A2%E3%83%AA%E3%82%B9%20all%20in%20one%5B20261029%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "新テニスの王子様 LET'S GO!! ～Daily Life～ from RisingBeat",
+  "nameTbl": "新テニスの王子様 LET'S GO!! ～Daily Life～ from RisingBeat（NS）",
+  "brand": "HuneX",
+  "publisher": "Bushiroad",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2022-09-29",
+  "transDate": "2026-10-29",
+  "vndb": "https://chii.in/subject/389084",
+  "vndbRelease": "",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HuneX_新テニスの王子様 LET'S GO!! ～Daily Life～ from RisingBeat（NS）.jpg",
+  "brands": [
+   "HuneX"
+  ],
+  "publishers": [
+   "Bushiroad"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%96%B0%E3%83%86%E3%83%8B%E3%82%B9%E3%81%AE%E7%8E%8B%E5%AD%90%E6%A7%98%20LET%27S%20GO%21%21%20%EF%BD%9EDaily%20Life%EF%BD%9E%20from%20RisingBeat%5B20261029%5D.zip"
    }
   ]
  }
