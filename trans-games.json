@@ -566,7 +566,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2018-11-22",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-31",
   "vndb": "https://vndb.org/v2089",
   "vndbRelease": "r56971",
   "lang": "JP",
@@ -580,10 +580,11 @@
   "publishers": [
    "PROTOTYPE"
   ],
+  "retrans": true,
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E4%B8%89%E5%9B%BD%E6%81%8B%E6%88%A6%E8%A8%98%20%EF%BD%9E%E3%82%AA%E3%83%88%E3%83%A1%E3%81%AE%E5%85%B5%E6%B3%95%EF%BC%81%EF%BD%9E%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E4%B8%89%E5%9B%BD%E6%81%8B%E6%88%A6%E8%A8%98%EF%BD%9E%E3%82%AA%E3%83%88%E3%83%A1%E3%81%AE%E5%85%B5%E6%B3%95%EF%BC%81%EF%BD%9E%5B20261031%5D.zip"
    }
   ]
  },
@@ -595,7 +596,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2022-02-24",
-  "transDate": "2026-09-15",
+  "transDate": "2026-10-31",
   "vndb": "https://vndb.org/v21792",
   "vndbRelease": "r79392",
   "lang": "JP",
@@ -609,10 +610,11 @@
   "publishers": [
    "PROTOTYPE"
   ],
+  "retrans": true,
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E4%B8%89%E5%9B%BD%E6%81%8B%E6%88%A6%E8%A8%98%EF%BD%9E%E6%80%9D%E3%81%84%E3%81%A7%E3%81%8C%E3%81%88%E3%81%97%EF%BD%9E%EF%BC%8B%E5%AD%A6%E5%9C%92%E6%81%8B%E6%88%A6%E8%A8%98%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E4%B8%89%E5%9B%BD%E6%81%8B%E6%88%A6%E8%A8%98%EF%BD%9E%E6%80%9D%E3%81%84%E3%81%A7%E3%81%8C%E3%81%88%E3%81%97%EF%BD%9E%EF%BC%8B%E5%AD%A6%E5%9C%92%E6%81%8B%E6%88%A6%E8%A8%98%5B20261031%5D.zip"
    }
   ]
  },
@@ -4092,7 +4094,7 @@
   ]
  },
  {
-  "name": "LoverPretend",
+  "name": "Lover Pretend",
   "nameTbl": "LoverPretend（NS）",
   "brand": "Design Factory Co., Ltd.",
   "publisher": "Idea Factory Co., Ltd.",
@@ -4106,7 +4108,7 @@
   "type": [
    "预翻译"
   ],
-  "cover": "/img/trans-covers/Design Factory Co., Ltd._LoverPretend（NS）.jpg",
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._Lover Pretend（NS）.jpg",
   "brands": [
    "Design Factory Co., Ltd.",
    "Otomate"
@@ -4643,7 +4645,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2025-12-18",
-  "transDate": "2026-09-13",
+  "transDate": "2026-10-31",
   "vndb": "https://vndb.org/v52265",
   "vndbRelease": "r126321",
   "lang": "JP",
@@ -4657,10 +4659,11 @@
   "publishers": [
    "Idea Factory Co., Ltd."
   ],
+  "retrans": true,
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%94%E3%82%A2%E3%82%BD%E3%83%AF%E3%83%AC%20Catharsis%5B20260913%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%94%E3%82%A2%E3%82%BD%E3%83%AF%E3%83%AC%20Catharsis%5B20261031%5D.zip"
    }
   ]
  },
@@ -17898,7 +17901,7 @@
   ]
  },
  {
-  "name": "マツリカの炯 - kEi - 天命胤異伝",
+  "name": "マツリカの炯 -kEi- 天命胤異伝",
   "nameTbl": "マツリカの炯 - kEi - 天命胤異伝（NS）",
   "brand": "Otomate",
   "publisher": "Idea Factory Co., Ltd.",
@@ -17912,7 +17915,7 @@
   "type": [
    "预翻译"
   ],
-  "cover": "/img/trans-covers/Otomate_マツリカの炯 - kEi - 天命胤異伝（NS）.jpg",
+  "cover": "/img/trans-covers/Otomate_マツリカの炯 -kEi- 天命胤異伝（NS）.jpg",
   "brands": [
    "Otomate"
   ],
@@ -17963,10 +17966,10 @@
   "publisher": "Idea Factory Co., Ltd.",
   "plat": "NS",
   "orient": "乙女向",
-  "release": "2023-09-14",
+  "release": "r102656",
   "transDate": "2026-10-29",
   "vndb": "https://vndb.org/v10050",
-  "vndbRelease": "r102656",
+  "vndbRelease": "r119733",
   "lang": "JP",
   "type": [
    "预翻译"
@@ -18130,6 +18133,599 @@
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%96%B0%E3%83%86%E3%83%8B%E3%82%B9%E3%81%AE%E7%8E%8B%E5%AD%90%E6%A7%98%20LET%27S%20GO%21%21%20%EF%BD%9EDaily%20Life%EF%BD%9E%20from%20RisingBeat%5B20261029%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "7'scarlet for Nintendo Switch",
+  "nameTbl": "7'scarlet for Nintendo Switch（NS）",
+  "brand": "Otomate",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2024-07-11",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v18162",
+  "vndbRelease": "r119530",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Otomate_7'scarlet for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "Otomate",
+   "Toybox Inc."
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D7%27scarlet%20for%20Nintendo%20Switch%5B20261031%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Code：Realize ～彩虹の花束～ for Nintendo Switch",
+  "nameTbl": "Code：Realize ～彩虹の花束～ for Nintendo Switch（NS）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2018-09-13",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v14908",
+  "vndbRelease": "r56826",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._Code：Realize ～彩虹の花束～ for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DCode%EF%BC%9ARealize%20%EF%BD%9E%E5%BD%A9%E8%99%B9%E3%81%AE%E8%8A%B1%E6%9D%9F%EF%BD%9E%20for%20Nintendo%20Switch%5B20261031%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Code：Realize ～白銀の奇跡～ for Nintendo Switch",
+  "nameTbl": "Code：Realize ～白銀の奇跡～ for Nintendo Switch（NS）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2020-07-16",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v21521",
+  "vndbRelease": "r70237",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._Code：Realize ～白銀の奇跡～ for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DCode%EF%BC%9ARealize%20%EF%BD%9E%E7%99%BD%E9%8A%80%E3%81%AE%E5%A5%87%E8%B7%A1%EF%BD%9E%20for%20Nintendo%20Switch%5B20261031%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "オランピアソワレ",
+  "nameTbl": "オランピアソワレ（NS）",
+  "brand": "HYDE, Inc.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2020-04-16",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v24241",
+  "vndbRelease": "r59480",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/HYDE, Inc._オランピアソワレ（NS）.jpg",
+  "brands": [
+   "HYDE, Inc.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%94%E3%82%A2%E3%82%BD%E3%83%AF%E3%83%AC%5B20261031%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "スタットコール 救命恋愛24時",
+  "nameTbl": "スタットコール 救命恋愛24時（NS）",
+  "brand": "Voltage Inc.",
+  "publisher": "Voltage Inc.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2024-04-25",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v24231",
+  "vndbRelease": "r121791",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Voltage Inc._スタットコール 救命恋愛24時（NS）.jpg",
+  "brands": [
+   "Voltage Inc."
+  ],
+  "publishers": [
+   "Voltage Inc."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%82%B9%E3%82%BF%E3%83%83%E3%83%88%E3%82%B3%E3%83%BC%E3%83%AB%20%E6%95%91%E5%91%BD%E6%81%8B%E6%84%9B24%E6%99%82%5B20261031%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ピオフィオーレの晩鐘 -Episodio1926-",
+  "nameTbl": "ピオフィオーレの晩鐘 -Episodio1926-（NS）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2020-11-12",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v25914",
+  "vndbRelease": "r64102",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._ピオフィオーレの晩鐘 -Episodio1926-（NS）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%94%E3%82%AA%E3%83%95%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AC%E3%81%AE%E6%99%A9%E9%90%98%20-Episodio1926-%5B20261031%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "ピオフィオーレの晩鐘 -ricordo-",
+  "nameTbl": "ピオフィオーレの晩鐘 -ricordo-（NS）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2019-07-25",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v21782",
+  "vndbRelease": "r62797",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._ピオフィオーレの晩鐘 -ricordo-（NS）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%94%E3%82%AA%E3%83%95%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AC%E3%81%AE%E6%99%A9%E9%90%98%20-ricordo-%5B20261031%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "レンドフルール for Nintendo Switch",
+  "nameTbl": "レンドフルール for Nintendo Switch（NS）",
+  "brand": "Otomate",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2019-04-25",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v14919",
+  "vndbRelease": "r56841",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Otomate_レンドフルール for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%83%AC%E3%83%B3%E3%83%89%E3%83%95%E3%83%AB%E3%83%BC%E3%83%AB%20for%20Nintendo%20Switch%5B20261031%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "花笑む彼と & bloom",
+  "nameTbl": "花笑む彼と & bloom（NS）",
+  "brand": "MintLip",
+  "publisher": "Edia Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2024-08-08",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v47546",
+  "vndbRelease": "r114233",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/MintLip_花笑む彼と & bloom（NS）.jpg",
+  "brands": [
+   "MintLip"
+  ],
+  "publishers": [
+   "Edia Co., Ltd."
+  ],
+  "note": "含DLC：Flower Halloween Night！",
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E8%8A%B1%E7%AC%91%E3%82%80%E5%BD%BC%E3%81%A8%20%26%20bloom%5B20261031%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "華ヤカ哉、我ガ一族 モダンノスタルジィ for Nintendo Switch",
+  "nameTbl": "華ヤカ哉、我ガ一族 モダンノスタルジィ for Nintendo Switch（NS）",
+  "brand": "ichicolumn inc.",
+  "publisher": "Otomate",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2019-05-16",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v7634",
+  "vndbRelease": "r59484",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/ichicolumn inc._華ヤカ哉、我ガ一族 モダンノスタルジィ for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "ichicolumn inc."
+  ],
+  "publishers": [
+   "Otomate"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E8%8F%AF%E3%83%A4%E3%82%AB%E5%93%89%E3%80%81%E6%88%91%E3%82%AC%E4%B8%80%E6%97%8F%20%E3%83%A2%E3%83%80%E3%83%B3%E3%83%8E%E3%82%B9%E3%82%BF%E3%83%AB%E3%82%B8%E3%82%A3%20for%20Nintendo%20Switch%5B20261031%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "華ヤカ哉、我ガ一族 幻燈ノスタルジィ for Nintendo Switch",
+  "nameTbl": "華ヤカ哉、我ガ一族 幻燈ノスタルジィ for Nintendo Switch（NS）",
+  "brand": "ichicolumn inc.",
+  "publisher": "Otomate",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2019-06-20",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v9915",
+  "vndbRelease": "r59485",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/ichicolumn inc._華ヤカ哉、我ガ一族 幻燈ノスタルジィ for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "ichicolumn inc."
+  ],
+  "publishers": [
+   "Otomate"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E8%8F%AF%E3%83%A4%E3%82%AB%E5%93%89%E3%80%81%E6%88%91%E3%82%AC%E4%B8%80%E6%97%8F%20%E5%B9%BB%E7%87%88%E3%83%8E%E3%82%B9%E3%82%BF%E3%83%AB%E3%82%B8%E3%82%A3%20for%20Nintendo%20Switch%5B20261031%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "薄桜鬼 真改 万葉ノ抄",
+  "nameTbl": "薄桜鬼 真改 万葉ノ抄（NS）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2023-08-10",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v42435",
+  "vndbRelease": "r103282",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._薄桜鬼 真改 万葉ノ抄（NS）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E8%96%84%E6%A1%9C%E9%AC%BC%20%E7%9C%9F%E6%94%B9%20%E4%B8%87%E8%91%89%E3%83%8E%E6%8A%84%5B20261031%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "薄桜鬼 真改 天雲ノ抄",
+  "nameTbl": "薄桜鬼 真改 天雲ノ抄（NS）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2022-10-06",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v34043",
+  "vndbRelease": "r87618",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._薄桜鬼 真改 天雲ノ抄（NS）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E8%96%84%E6%A1%9C%E9%AC%BC%20%E7%9C%9F%E6%94%B9%20%E5%A4%A9%E9%9B%B2%E3%83%8E%E6%8A%84%5B20261031%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "薄桜鬼 真改 月影ノ抄",
+  "nameTbl": "薄桜鬼 真改 月影ノ抄（NS）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2019-09-26",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v25916",
+  "vndbRelease": "r64108",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._薄桜鬼 真改 月影ノ抄（NS）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E8%96%84%E6%A1%9C%E9%AC%BC%20%E7%9C%9F%E6%94%B9%20%E6%9C%88%E5%BD%B1%E3%83%8E%E6%8A%84%5B20261031%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "薄桜鬼 真改 銀星ノ抄",
+  "nameTbl": "薄桜鬼 真改 銀星ノ抄（NS）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2020-07-30",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v25917",
+  "vndbRelease": "r64109",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._薄桜鬼 真改 銀星ノ抄（NS）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E8%96%84%E6%A1%9C%E9%AC%BC%20%E7%9C%9F%E6%94%B9%20%E9%8A%80%E6%98%9F%E3%83%8E%E6%8A%84%5B20261031%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "薄桜鬼 真改 風華伝 for Nintendo Switch",
+  "nameTbl": "薄桜鬼 真改 風華伝 for Nintendo Switch（NS）",
+  "brand": "Otomate",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2018-09-06",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v1715",
+  "vndbRelease": "r56825",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Otomate_薄桜鬼 真改 風華伝 for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E8%96%84%E6%A1%9C%E9%AC%BC%20%E7%9C%9F%E6%94%B9%20%E9%A2%A8%E8%8F%AF%E4%BC%9D%20for%20Nintendo%20Switch%5B20261031%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "薄桜鬼 真改 黎明録",
+  "nameTbl": "薄桜鬼 真改 黎明録（NS）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2021-08-26",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v10383",
+  "vndbRelease": "r79205",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._薄桜鬼 真改 黎明録（NS）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E8%96%84%E6%A1%9C%E9%AC%BC%20%E7%9C%9F%E6%94%B9%20%E9%BB%8E%E6%98%8E%E9%8C%B2%5B20261031%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "薄桜鬼SSL ～sweet school life～ for Nintendo Switch",
+  "nameTbl": "薄桜鬼SSL ～sweet school life～ for Nintendo Switch（NS）",
+  "brand": "Design Factory Co., Ltd.",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2023-06-15",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v12424",
+  "vndbRelease": "r103279",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Design Factory Co., Ltd._薄桜鬼SSL ～sweet school life～ for Nintendo Switch（NS）.jpg",
+  "brands": [
+   "Design Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E8%96%84%E6%A1%9C%E9%AC%BCSSL%20%EF%BD%9Esweet%20school%20life%EF%BD%9E%20for%20Nintendo%20Switch%5B20261031%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Masquerade: Hell Academy",
+  "nameTbl": "Masquerade: Hell Academy（PC）",
+  "brand": "PIL/SLASH",
+  "publisher": "JAST BLUE",
+  "plat": "PC",
+  "orient": "蔷薇向",
+  "release": "2025-01-30",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v1401",
+  "vndbRelease": "r2737",
+  "lang": "EN",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/PIL_SLASH_Masquerade_ Hell Academy（PC）.jpg",
+  "brands": [
+   "PIL/SLASH"
+  ],
+  "publishers": [
+   "JAST BLUE"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-EN%5DMasquerade%20Hell%20Academy%5B20261031%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "クレイジー★ラビッツ 別れさせ業の兎桐事務所",
+  "nameTbl": "クレイジー★ラビッツ 別れさせ業の兎桐事務所（PC）",
+  "brand": "Tiaramode",
+  "publisher": "Tiaramode",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2009-10-23",
+  "transDate": "2026-10-31",
+  "vndb": "https://vndb.org/v2742",
+  "vndbRelease": "r5383",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Tiaramode_クレイジー★ラビッツ 別れさせ業の兎桐事務所（PC）.jpg",
+  "brands": [
+   "Tiaramode"
+  ],
+  "publishers": [
+   "Tiaramode"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%B8%E3%83%BC%E2%98%85%E3%83%A9%E3%83%93%E3%83%83%E3%83%84%20%E5%88%A5%E3%82%8C%E3%81%95%E3%81%9B%E6%A5%AD%E3%81%AE%E5%85%8E%E6%A1%90%E4%BA%8B%E5%8B%99%E6%89%80%5B20261031%5D.zip"
    }
   ]
  }
