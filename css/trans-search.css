@@ -1,1 +1,797 @@
-.trans-search{width:100%;margin:0 0 20px;font-size:var(--global-font-size,15px);color:var(--font-color)}.ts-toolbar{padding:14px 16px;margin:0 0 14px;border-radius:8px;background:#fff9f578;box-shadow:var(--card-box-shadow,0 3px 8px 6px rgba(7,17,27,.05))}[data-theme=dark] .ts-toolbar{background:#353f5042}.ts-row{display:flex;flex-wrap:wrap;align-items:center;gap:8px}.ts-row+.ts-row{margin-top:10px}.ts-label{flex:0 0 auto;font-size:13px;opacity:.65;margin-right:2px}.ts-search{position:relative;flex:1 1 220px;min-width:180px}.ts-search input{width:100%;padding:7px 12px 7px 32px;box-sizing:border-box;border-radius:8px;border:1px solid rgba(58,98,160,.22);background:0 0;color:var(--font-color);font-size:14px;outline:0;transition:border-color .3s}.ts-search input:focus{border-color:var(--theme-color,#3a62a0)}[data-theme=dark] .ts-search input{border-color:rgba(168,196,238,.25)}[data-theme=dark] .ts-search input:focus{border-color:var(--theme-color,#3a62a0)}.ts-search::before{content:"\f002";font-family:"Font Awesome 6 Free";font-weight:900;position:absolute;left:11px;top:50%;transform:translateY(-50%);font-size:13px;opacity:.5;pointer-events:none}.ts-dd{position:relative;display:inline-block;vertical-align:middle}.ts-dd-btn{display:inline-flex;align-items:center;gap:6px;max-width:200px;padding:4px 12px;border-radius:8px;border:1px solid rgba(58,98,160,.22);background:0 0;color:var(--font-color);font-size:13px;line-height:1.8;font-family:inherit;cursor:pointer;transition:all .3s}.ts-dd-btn:hover,.ts-dd.open .ts-dd-btn{background:var(--btn-hover-color,#d3625d);border-color:var(--btn-hover-color,#d3625d);color:var(--btn-color,#fff)}.ts-dd-cur{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.ts-dd-caret{flex:0 0 auto;width:0;height:0;border-left:4px solid transparent;border-right:4px solid transparent;border-top:5px solid currentColor;opacity:.65;transition:transform .25s}.ts-dd.open .ts-dd-caret{transform:rotate(180deg)}.ts-dd-panel{position:absolute;z-index:30;top:calc(100% + 5px);left:0;display:none;min-width:100%;max-width:min(264px,calc(100vw - 20px));padding:6px;border-radius:8px;border:1px solid rgba(58,98,160,.22);background:rgba(255,255,255,.92);box-shadow:0 8px 20px rgba(7,17,27,.14)}.ts-dd.open .ts-dd-panel{display:block}.ts-dd-search{display:block;box-sizing:border-box;width:100%;margin-bottom:5px;padding:4px 8px;border-radius:6px;border:1px solid rgba(58,98,160,.22);background:0 0;color:inherit;font-size:12px;font-family:inherit;outline:0}.ts-dd-search:focus{border-color:var(--theme-color,#3a62a0)}.ts-dd-list{max-height:264px;overflow-y:auto;overflow-x:hidden;overscroll-behavior:contain;scrollbar-width:thin;scrollbar-color:var(--scrollbar-color,#3a62a0) transparent}.ts-dd-list::-webkit-scrollbar{width:8px}.ts-dd-list::-webkit-scrollbar-track{background:0 0}.ts-dd-list::-webkit-scrollbar-thumb{background:var(--scrollbar-color,#3a62a0);border-radius:8px}.ts-dd-item{padding:4px 8px;border-radius:6px;font-size:13px;line-height:1.7;white-space:nowrap;cursor:pointer}.ts-dd-item:hover{background:rgba(58,98,160,.12)}.ts-dd-item.on{background:var(--theme-color,#3a62a0);color:#fff}[data-theme=dark] .ts-dd-btn{border-color:rgba(168,196,238,.25);color:var(--font-color)}[data-theme=dark] .ts-dd-btn:hover,[data-theme=dark] .ts-dd.open .ts-dd-btn{background:var(--btn-hover-color,#d3625d);border-color:var(--btn-hover-color,#d3625d);color:var(--btn-color,#fff)}[data-theme=dark] .ts-dd-panel{background:rgba(43,51,68,.92);border-color:rgba(168,196,238,.25);box-shadow:0 8px 20px rgba(0,0,0,.45)}[data-theme=dark] .ts-dd-search{border-color:rgba(168,196,238,.25);color:var(--font-color)}[data-theme=dark] .ts-dd-item:hover{background:rgba(168,196,238,.15)}.ts-chip{padding:4px 12px;border-radius:8px;border:1px solid rgba(58,98,160,.22);background:0 0;color:var(--font-color);font-size:13px;line-height:1.8;cursor:pointer;transition:all .3s;white-space:nowrap}[data-theme=dark] .ts-chip{border-color:rgba(168,196,238,.25)}.ts-chip:hover{background-color:var(--btn-hover-color,#d3625d);border-color:var(--btn-hover-color,#d3625d);color:var(--btn-color,#fff)}.ts-chip.active{background:var(--theme-color,#3a62a0);border-color:var(--theme-color,#3a62a0);color:#fff}.ts-btn{padding:4px 12px;border-radius:8px;border:1px solid rgba(58,98,160,.22);background:0 0;color:var(--font-color);font-size:13px;line-height:1.8;cursor:pointer;transition:all .3s;white-space:nowrap}.ts-btn:hover{background:var(--btn-hover-color,#d3625d);border-color:var(--btn-hover-color,#d3625d);color:#fff}[data-theme=dark] .ts-btn:hover{background:var(--btn-hover-color,#d3625d);border-color:var(--btn-hover-color,#d3625d);color:#fff}[data-theme=dark] .ts-btn{border-color:rgba(168,196,238,.25)}[data-theme=dark] .ts-btn.on{background:var(--theme-color,#3a62a0);border-color:var(--theme-color,#3a62a0);color:#fff}.ts-btn.on{background:var(--theme-color,#3a62a0);border-color:var(--theme-color,#3a62a0);color:#fff}.ts-btn.ts-static{pointer-events:none;cursor:default}.ts-count{font-size:13px;opacity:.7;white-space:nowrap}.ts-list{display:block}.ts-card{display:flex;gap:16px;padding:14px 16px;margin:0 0 14px;border-radius:8px;background:#fff9f578;box-shadow:var(--card-box-shadow,0 3px 8px 6px rgba(7,17,27,.05));transition:box-shadow .3s,transform .3s}.ts-card:hover{box-shadow:var(--card-hover-box-shadow,0 3px 8px 6px rgba(7,17,27,.09))}[data-theme=dark] .ts-card{background:#353f5042}.ts-cover{position:relative;flex:0 0 108px;width:108px;height:150px;border-radius:8px;background:0 0;display:flex;align-items:center;justify-content:center}.ts-cover img{height:100%;width:auto;max-width:none;display:block;border-radius:8px;box-shadow:0 0 10px rgba(0,0,0,.3);opacity:0;transition:opacity .3s}.ts-cover img.ts-loaded{opacity:1}.ts-cover img[data-src*=placeholder],.ts-cover img[src*=placeholder]{box-shadow:none}.ts-body{flex:1 1 auto;min-width:0;display:flex;flex-direction:column}.ts-name{font-size:16px;font-weight:600;line-height:1.5;color:var(--font-color);word-break:break-word}.ts-note{display:flex;align-items:baseline;gap:5px;margin-top:1px;font-size:13px;line-height:1.6;color:var(--theme-color,#3a62a0);word-break:break-word}.ts-note>i{flex:0 0 auto;font-size:15px;position:relative;top:1px}.ts-note>span{min-width:0}[data-theme=dark] .ts-note{color:#a8c4ee}a.ts-name{display:inline-block;text-decoration:none;transition:color .3s}#article-container a.ts-name:hover,a.ts-name:hover{color:var(--theme-color,#3a62a0);text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:4px}.ts-maker{margin-top:3px;font-size:13px;opacity:.75;word-break:break-word}.ts-pub{opacity:.7}.ts-badges{display:flex;flex-wrap:wrap;gap:6px;margin-top:7px}.ts-badge{padding:1px 8px;border-radius:6px;font-size:12px;line-height:1.7;background:0 0;color:var(--font-color);white-space:nowrap}[data-theme=dark] .ts-badge{border-color:rgba(168,196,238,.25)}.ts-badge.plat{background:rgba(58,98,160,.14);color:var(--theme-color,#3a62a0)}.ts-badge.lang,.ts-badge.type{background:rgba(87,189,106,.16);color:#3d8b4d}.ts-badge.orient{background:rgba(255,124,124,.16);color:#d1585c}[data-theme=dark] .ts-badge.plat{background:rgba(58,98,160,.32);color:#a8c4ee}[data-theme=dark] .ts-badge.lang,[data-theme=dark] .ts-badge.type{background:rgba(87,189,106,.24);color:#8fd39c}[data-theme=dark] .ts-badge.orient{background:rgba(255,124,124,.24);color:#ffa3a3}.ts-meta{display:flex;flex-direction:column;align-items:flex-start;gap:5px;margin-top:8px}.ts-date{display:inline-flex;align-items:baseline;gap:5px;padding:2px 9px;border-radius:6px;background:rgba(58,98,160,.07);font-size:12.5px;line-height:1.7;font-variant-numeric:tabular-nums;white-space:nowrap}[data-theme=dark] .ts-date{background:rgba(255,255,255,.07)}.ts-date-k{font-style:normal;font-size:11px;opacity:.55;letter-spacing:.02em}.ts-daterow{display:inline-flex;align-items:center;gap:6px}.ts-new{padding:2px 8px;border-radius:6px;font-size:12px;font-weight:600;line-height:1.7;letter-spacing:.02em;white-space:nowrap;background:rgba(240,145,60,.16);color:#c9701f}[data-theme=dark] .ts-new{background:rgba(240,145,60,.26);color:#ffbe7d}.ts-series{margin-top:4px;font-size:13px;opacity:.8}.ts-series b{font-weight:600;color:var(--theme-color,#3a62a0)}.ts-bottom{margin-top:auto;display:flex;align-items:flex-end;justify-content:space-between;gap:12px}.ts-actions{display:flex;align-items:flex-end;justify-content:flex-end;gap:8px;flex:0 0 auto}.ts-dl{display:inline-flex;align-items:center;gap:5px;padding:5px 14px;border-radius:7px;background-color:var(--btn-bg,#3a62a0);color:var(--btn-color,#fff);font-size:13px;line-height:1.9;text-decoration:none;white-space:nowrap;transition:background-color .3s}#article-container .ts-dl,#article-container a.ts-dl{color:var(--btn-color,#fff);text-decoration:none}#article-container a.ts-dl:focus,#article-container a.ts-dl:hover,.ts-dl:focus,.ts-dl:hover{background-color:var(--btn-hover-color,#d3625d);color:var(--btn-color,#fff);text-decoration:none}.ts-dl i{font-size:12px;line-height:1}.ts-dl:active{transform:translateY(1px) scale(.985)}.ts-bottom.ts-bottom-end{justify-content:flex-end}.ts-actions pangu,.ts-bottom pangu,.ts-dl pangu{display:none!important}.ts-pager{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:6px;margin-top:16px}.ts-page{min-width:30px;height:30px;padding:0 8px;box-sizing:border-box;border-radius:8px;border:1px solid rgba(58,98,160,.22);background:0 0;color:var(--font-color);font-size:13px;line-height:28px;text-align:center;cursor:pointer;transition:all .3s}.ts-page:hover{background:var(--btn-hover-color,#d3625d);border-color:var(--btn-hover-color,#d3625d);color:#fff}[data-theme=dark] .ts-page{border-color:rgba(168,196,238,.25)}.ts-page.current{background:var(--theme-color,#3a62a0);border-color:var(--theme-color,#3a62a0);color:#fff;cursor:default}.ts-page:active:not(.disabled):not(.current){transform:translateY(1px) scale(.97)}.ts-page.disabled{opacity:.4;cursor:default;pointer-events:none}.ts-page.gap{border:none;background:0 0;cursor:default;pointer-events:none}.ts-empty{padding:40px 16px;text-align:center;border-radius:8px;background:#fff9f578;box-shadow:var(--card-box-shadow,0 3px 8px 6px rgba(7,17,27,.05));opacity:.85}[data-theme=dark] .ts-empty{background:#353f5042}.ts-loading{padding:40px 16px;text-align:center;opacity:.7}@media (max-width:768px){.ts-card{gap:10px;padding:10px}.ts-cover{flex:0 0 92px;width:92px;height:128px}.ts-name{font-size:15px}.ts-toolbar{padding:10px 12px}.ts-row{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px}.ts-row.ts-row-wrap{flex-wrap:wrap;overflow-x:visible}.ts-count{margin-left:0}}
+/* ==========================================================================
+   汉化检索器 trans-search
+   颜色全部走 Butterfly 主题现有变量，暗色由 [data-theme="dark"] 覆盖
+   ========================================================================== */
+
+.trans-search {
+    width: 100%;
+    margin: 0 0 20px;
+    font-size: var(--global-font-size, 15px);
+    color: var(--font-color);
+}
+
+/* ---------- 工具栏 ---------- */
+
+.ts-toolbar {
+    padding: 14px 16px;
+    margin: 0 0 14px;
+    border-radius: 8px;
+    background: #fff9f578;
+    box-shadow: var(--card-box-shadow, 0 3px 8px 6px rgba(7, 17, 27, .05));
+}
+
+[data-theme="dark"] .ts-toolbar {
+    background: #353f5042;
+}
+
+.ts-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+}
+
+.ts-row+.ts-row {
+    margin-top: 10px;
+}
+
+.ts-label {
+    flex: 0 0 auto;
+    font-size: 13px;
+    opacity: .65;
+    margin-right: 2px;
+}
+
+/* 搜索框 */
+.ts-search {
+    position: relative;
+    flex: 1 1 220px;
+    min-width: 180px;
+}
+
+.ts-search input {
+    width: 100%;
+    padding: 7px 12px 7px 32px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    border: 1px solid rgba(58, 98, 160, .22);
+    background: transparent;
+    color: var(--font-color);
+    font-size: 14px;
+    outline: none;
+    transition: border-color .3s;
+}
+
+.ts-search input:focus {
+    border-color: var(--theme-color, #3a62a0);
+}
+
+[data-theme="dark"] .ts-search input {
+    border-color: rgba(168, 196, 238, .25);
+}
+
+[data-theme="dark"] .ts-search input:focus {
+    border-color: var(--theme-color, #3a62a0);
+}
+
+.ts-search::before {
+    content: "\f002";
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    position: absolute;
+    left: 11px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 13px;
+    opacity: .5;
+    pointer-events: none;
+}
+
+/* 自绘下拉：触发器与胶囊同质感；弹层圆角 + 完全可控的滚动条
+   （原生 <select> 的弹层由浏览器绘制，滚动条配色与圆角都无法控制，故改为自绘） */
+.ts-dd {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.ts-dd-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    max-width: 200px;
+    padding: 4px 12px;
+    border-radius: 8px;
+    border: 1px solid rgba(58, 98, 160, .22);
+    background: transparent;
+    color: var(--font-color);
+    font-size: 13px;
+    line-height: 1.8;
+    font-family: inherit;
+    cursor: pointer;
+    transition: all .3s;          /* 与 .ts-chip / .ts-btn 一致（否则只有边框有过渡，背景色是瞬变） */
+}
+
+/* hover：与「目前在推的游戏」(#card-info-btn) 一致 —— 填充主题 hover 色、文字转白、
+   边框同色（因此看不见边框），与 .ts-chip / .ts-btn 同一套表现 */
+.ts-dd-btn:hover,
+.ts-dd.open .ts-dd-btn {
+    background: var(--btn-hover-color, #d3625d);
+    border-color: var(--btn-hover-color, #d3625d);
+    color: var(--btn-color, #fff);
+}
+
+.ts-dd-cur {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* 自绘箭头（小三角） */
+.ts-dd-caret {
+    flex: 0 0 auto;
+    width: 0;
+    height: 0;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 5px solid currentColor;
+    opacity: .65;
+    transition: transform .25s;
+}
+
+.ts-dd.open .ts-dd-caret {
+    transform: rotate(180deg);
+}
+
+/* 弹层：圆角 + 阴影 */
+.ts-dd-panel {
+    position: absolute;
+    z-index: 30;
+    top: calc(100% + 5px);
+    left: 0;
+    display: none;
+    min-width: 100%;
+    /* 宽度上限：常规 264px；窄屏下不超过视口（两侧各留 10px）——JS 的 placePanel()
+       还会在打开时量测并整体左移，二者一起保证弹层不越出右边界 */
+    max-width: min(264px, calc(100vw - 20px));
+    padding: 6px;
+    border-radius: 8px;
+    border: 1px solid rgba(58, 98, 160, .22);
+    background: rgba(255, 255, 255, .92);   /* 稍微透明，与工具栏的半透明底一致 */
+    box-shadow: 0 8px 20px rgba(7, 17, 27, .14);
+}
+
+.ts-dd.open .ts-dd-panel {
+    display: block;
+}
+
+.ts-dd-search {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    margin-bottom: 5px;
+    padding: 4px 8px;
+    border-radius: 6px;
+    border: 1px solid rgba(58, 98, 160, .22);
+    background: transparent;
+    color: inherit;
+    font-size: 12px;
+    font-family: inherit;
+    outline: none;
+}
+
+.ts-dd-search:focus {
+    border-color: var(--theme-color, #3a62a0);
+}
+
+.ts-dd-list {
+    max-height: 264px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    overscroll-behavior: contain;
+    /* 滚动条：滑块与页面主滚动条同色，轨道透明（= 弹层底色，不会是异色条） */
+    scrollbar-width: thin;
+    scrollbar-color: var(--scrollbar-color, #3a62a0) transparent;
+}
+
+.ts-dd-list::-webkit-scrollbar {
+    width: 8px;
+}
+
+.ts-dd-list::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.ts-dd-list::-webkit-scrollbar-thumb {
+    background: var(--scrollbar-color, #3a62a0);
+    border-radius: 8px;
+}
+
+.ts-dd-item {
+    padding: 4px 8px;
+    border-radius: 6px;
+    font-size: 13px;
+    line-height: 1.7;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+.ts-dd-item:hover {
+    background: rgba(58, 98, 160, .12);
+}
+
+.ts-dd-item.on {
+    background: var(--theme-color, #3a62a0);
+    color: #fff;
+}
+
+[data-theme="dark"] .ts-dd-btn {
+    border-color: rgba(168, 196, 238, .25);
+    /* 不硬编码文字色，交给 --font-color（与其它按钮一致） */
+    color: var(--font-color);
+}
+
+/* 夜间同样要压过 [data-theme="dark"] .ts-dd-btn（否则边框色被盖掉、露出边框） */
+[data-theme="dark"] .ts-dd-btn:hover,
+[data-theme="dark"] .ts-dd.open .ts-dd-btn {
+    background: var(--btn-hover-color, #d3625d);
+    border-color: var(--btn-hover-color, #d3625d);
+    color: var(--btn-color, #fff);
+}
+
+[data-theme="dark"] .ts-dd-panel {
+    background: rgba(43, 51, 68, .92);      /* 稍微透明 */
+    border-color: rgba(168, 196, 238, .25);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, .45);
+}
+
+[data-theme="dark"] .ts-dd-search {
+    border-color: rgba(168, 196, 238, .25);
+    color: var(--font-color);
+}
+
+[data-theme="dark"] .ts-dd-item:hover {
+    background: rgba(168, 196, 238, .15);
+}
+
+/* chips */
+.ts-chip {
+    /* 与 .ts-btn 共用同一套尺寸与边框 */
+    padding: 4px 12px;
+    border-radius: 8px;
+    border: 1px solid rgba(58, 98, 160, .22);
+    background: transparent;
+    color: var(--font-color);
+    font-size: 13px;
+    line-height: 1.8;
+    cursor: pointer;
+    transition: all .3s;
+    white-space: nowrap;
+}
+
+[data-theme="dark"] .ts-chip {
+    border-color: rgba(168, 196, 238, .25);
+}
+
+.ts-chip:hover {
+    /* 与「目前在推的游戏」(#card-info-btn) 的 hover 表现一致 */
+    background-color: var(--btn-hover-color, #d3625d);
+    border-color: var(--btn-hover-color, #d3625d);
+    color: var(--btn-color, #fff);
+}
+
+.ts-chip.active {
+    background: var(--theme-color, #3a62a0);
+    border-color: var(--theme-color, #3a62a0);
+    color: #fff;
+}
+
+/* 文字按钮 */
+.ts-btn {
+    padding: 4px 12px;
+    border-radius: 8px;
+    border: 1px solid rgba(58, 98, 160, .22);
+    background: transparent;
+    color: var(--font-color);
+    font-size: 13px;
+    line-height: 1.8;
+    cursor: pointer;
+    transition: all .3s;
+    white-space: nowrap;
+}
+
+.ts-btn:hover {
+    background: var(--btn-hover-color, #d3625d);
+    border-color: var(--btn-hover-color, #d3625d);
+    color: #fff;
+}
+
+/* 修：夜间 [data-theme="dark"] .ts-btn 与 .ts-btn:hover 特异性相同且写在后面，
+   会把 hover 的边框色盖掉 -> hover 时露出一圈浅色边框。
+   这条优先级更高（(0,3,0)），保证 hover 时边框 = 背景色，看不见边框。
+   注意要放在 [data-theme="dark"] .ts-btn.on 之前，让「选中态」仍优先于 hover。 */
+[data-theme="dark"] .ts-btn:hover {
+    background: var(--btn-hover-color, #d3625d);
+    border-color: var(--btn-hover-color, #d3625d);
+    color: #fff;
+}
+
+[data-theme="dark"] .ts-btn {
+    border-color: rgba(168, 196, 238, .25);
+}
+
+[data-theme="dark"] .ts-btn.on {
+    background: var(--theme-color, #3a62a0);
+    border-color: var(--theme-color, #3a62a0);
+    color: #fff;
+}
+
+.ts-btn.on {
+    background: var(--theme-color, #3a62a0);
+    border-color: var(--theme-color, #3a62a0);
+    color: #fff;
+}
+
+/* 攻略页：只有一个排序维度时，把「发售时间」做成静态标签（不可点、不响应 hover） */
+.ts-btn.ts-static {
+    pointer-events: none;
+    cursor: default;
+}
+
+/* 结果计数 */
+.ts-count {
+    font-size: 13px;
+    opacity: .7;
+    white-space: nowrap;
+}
+
+/* ---------- 卡片列表 ---------- */
+
+.ts-list {
+    display: block;
+}
+
+.ts-card {
+    display: flex;
+    gap: 16px;
+    padding: 14px 16px;
+    margin: 0 0 14px;
+    border-radius: 8px;
+    background: #fff9f578;
+    box-shadow: var(--card-box-shadow, 0 3px 8px 6px rgba(7, 17, 27, .05));
+    transition: box-shadow .3s, transform .3s;
+}
+
+.ts-card:hover {
+    box-shadow: var(--card-hover-box-shadow, 0 3px 8px 6px rgba(7, 17, 27, .09));
+}
+
+[data-theme="dark"] .ts-card {
+    background: #353f5042;
+}
+
+/* 封面（竖版 3:4，固定宽度防抖动） */
+.ts-cover {
+    position: relative;
+    flex: 0 0 108px;
+    width: 108px;
+    height: 150px;              /* 高度固定；宽度由图片原比例自适应 */
+    border-radius: 8px;
+    background: transparent;    /* 外框本身不可见，只用于限制尺寸 */
+    /* 不设 overflow:hidden：横向封面已在图片预处理阶段裁好，
+       若在此裁切会把图片阴影截成一条硬边 */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ts-cover img {
+    height: 100%;               /* 高度撑满外框 */
+    width: auto;                /* 宽度按原比例，不被拉伸 */
+    max-width: none;
+    display: block;
+    border-radius: 8px;                             /* 圆角作用于图片本身 */
+    box-shadow: 0 0 10px rgba(0, 0, 0, .3);         /* 与 /games/ 一致的图片阴影 */
+    opacity: 0;
+    transition: opacity .3s;
+}
+
+.ts-cover img.ts-loaded {
+    opacity: 1;
+}
+
+/* 无封面占位图：不给阴影，图本身只是极淡的半透明底，避免变成一块灰砖 */
+.ts-cover img[src*="placeholder"],
+.ts-cover img[data-src*="placeholder"] {
+    box-shadow: none;
+}
+
+
+/* 右侧信息 */
+.ts-body {
+    flex: 1 1 auto;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.ts-name {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: var(--font-color);
+    word-break: break-word;
+}
+
+/* 备注：厂商下方单独一行，ⓘ 图标 + 备注文字（明文显示，不依赖悬停） */
+.ts-note {
+    display: flex;
+    align-items: baseline;   /* 图标 15px / 文字 13px 行盒高度不同，必须按基线对齐 */
+    gap: 5px;
+    margin-top: 1px;         /* 与厂商行的间距（4 → 3 → 1，共上移 3px） */
+    font-size: 13px;
+    line-height: 1.6;
+    color: var(--theme-color, #3a62a0);
+    word-break: break-word;
+}
+
+.ts-note > i {
+    flex: 0 0 auto;
+    font-size: 15px;        /* 比正文略大，更显眼 */
+    /* FA6 自带 line-height:1，保持不动；基线对齐后再整体下移一点点 */
+    position: relative;
+    top: 1px;
+}
+
+.ts-note > span {
+    min-width: 0;
+}
+
+[data-theme="dark"] .ts-note {
+    color: #a8c4ee;          /* 夜间 --theme-color 偏暗，改用亮蓝保证可读 */
+}
+
+/* 游戏名做成 VNDB 链接：平时与普通标题一致，悬停变色 + 下划线 */
+a.ts-name {
+    display: inline-block;
+    text-decoration: none;
+    transition: color .3s;
+}
+
+/* 名称链接 hover：主题有 `#article-container a:hover{text-decoration:underline}`（特异度 1,1,1），
+   它是「简写」，会把 text-decoration-thickness 一并重置为 auto —— 低特异度的 a.ts-name:hover
+   抢不过它，所以下面写的加粗一直没生效（实测：低特异度 => auto，提高后 => 3px）。
+   这里提到 (1,2,1) 压过主题，加粗才会真正起作用。 */
+a.ts-name:hover,
+#article-container a.ts-name:hover {
+    color: var(--theme-color, #3a62a0);
+    text-decoration: underline;
+    text-decoration-thickness: 2px;   /* 下划线加粗（默认 auto ≈ 1px） */
+    text-underline-offset: 4px;
+}
+
+.ts-maker {
+    margin-top: 3px;
+    font-size: 13px;
+    opacity: .75;
+    word-break: break-word;
+}
+
+.ts-pub {
+    opacity: .7;
+}
+
+.ts-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 7px;
+}
+
+.ts-badge {
+    padding: 1px 8px;
+    border-radius: 6px;
+    font-size: 12px;
+    line-height: 1.7;
+    background: transparent;
+    color: var(--font-color);
+    white-space: nowrap;
+}
+
+[data-theme="dark"] .ts-badge {
+    border-color: rgba(168, 196, 238, .25);
+}
+
+.ts-badge.plat {
+    background: rgba(58, 98, 160, .14);
+    color: var(--theme-color, #3a62a0);
+}
+
+.ts-badge.type,
+.ts-badge.lang {
+    background: rgba(87, 189, 106, .16);
+    color: #3d8b4d;
+}
+
+.ts-badge.orient {
+    background: rgba(255, 124, 124, .16);
+    color: #d1585c;
+}
+
+[data-theme="dark"] .ts-badge.plat {
+    background: rgba(58, 98, 160, .32);
+    color: #a8c4ee;
+}
+
+[data-theme="dark"] .ts-badge.type,
+[data-theme="dark"] .ts-badge.lang {
+    background: rgba(87, 189, 106, .24);
+    color: #8fd39c;
+}
+
+[data-theme="dark"] .ts-badge.orient {
+    background: rgba(255, 124, 124, .24);
+    color: #ffa3a3;
+}
+
+.ts-meta {
+    display: flex;
+    flex-direction: column;   /* 汉化时间换行，排在发售时间正下方 */
+    align-items: flex-start;
+    gap: 5px;
+    margin-top: 8px;
+}
+
+/* 日期做成带小标签的胶囊，替代「纯文字 + 分隔点」 */
+.ts-date {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 5px;
+    padding: 2px 9px;
+    border-radius: 6px;
+    background: rgba(58, 98, 160, .07);
+    font-size: 12.5px;
+    line-height: 1.7;
+    font-variant-numeric: tabular-nums;   /* 日期数字等宽，纵向对齐 */
+    white-space: nowrap;
+}
+
+[data-theme="dark"] .ts-date {
+    background: rgba(255, 255, 255, .07);
+}
+
+.ts-date-k {
+    font-style: normal;
+    font-size: 11px;
+    opacity: .55;
+    letter-spacing: .02em;
+}
+
+/* 「汉化」胶囊 + 右侧的【NEW!】：重新翻译过的条目在小胶囊右边再挂一个标记 */
+.ts-daterow {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.ts-new {
+    padding: 2px 8px;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1.7;
+    letter-spacing: .02em;
+    white-space: nowrap;
+    background: rgba(240, 145, 60, .16);
+    color: #c9701f;
+}
+
+[data-theme="dark"] .ts-new {
+    background: rgba(240, 145, 60, .26);
+    color: #ffbe7d;
+}
+
+.ts-series {
+    margin-top: 4px;
+    font-size: 13px;
+    opacity: .8;
+}
+
+.ts-series b {
+    font-weight: 600;
+    color: var(--theme-color, #3a62a0);
+}
+
+.ts-bottom {
+    margin-top: auto;              /* 整块贴卡片底部 */
+    display: flex;
+    align-items: flex-end;         /* 按钮底边与胶囊底边对齐 */
+    justify-content: space-between;
+    gap: 12px;
+}
+
+.ts-actions {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    gap: 8px;
+    flex: 0 0 auto;
+}
+
+/* 获取按钮：与「目前在推的游戏」(#card-info-btn) 同一套主题变量，自动适配昼夜 */
+.ts-dl {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 5px 14px;
+    border-radius: 7px;
+    background-color: var(--btn-bg, #3a62a0);
+    color: var(--btn-color, #fff);
+    font-size: 13px;
+    line-height: 1.9;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: background-color .3s;
+}
+
+/* 主题有 #article-container a{color:#4d84d7}（特异性 1,0,1），
+   这里用同等级选择器把文字色与下划线抢回来 */
+#article-container a.ts-dl,
+#article-container .ts-dl {
+    color: var(--btn-color, #fff);
+    text-decoration: none;
+}
+
+/* hover/focus：换主题 hover 色，且不出现下划线 */
+#article-container a.ts-dl:hover,
+#article-container a.ts-dl:focus,
+.ts-dl:hover,
+.ts-dl:focus {
+    background-color: var(--btn-hover-color, #d3625d);
+    color: var(--btn-color, #fff);
+    text-decoration: none;
+}
+
+/* 按钮内图标（FontAwesome v4）*/
+.ts-dl i {
+    font-size: 12px;
+    line-height: 1;
+}
+
+.ts-dl:active {
+    transform: translateY(1px) scale(.985);
+}
+
+/* 攻略页：没有日期胶囊时，按钮单独靠右 */
+.ts-bottom.ts-bottom-end {
+    justify-content: flex-end;
+}
+
+/* pangu.js 会在「拉丁字母」与「汉字」相邻处插一个 <pangu> 空格元素。
+   按钮行 (.ts-actions) 是 flex，那个 <pangu> 会变成额外的 flex item，
+   于是 gap:8px 被撑成 8 + 空格宽 + 8 ≈ 20px —— 直接不显示它。 */
+.ts-actions pangu,
+.ts-dl pangu,
+.ts-bottom pangu {
+    display: none !important;
+}
+
+/* ---------- 分页 ---------- */
+
+.ts-pager {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    margin-top: 16px;
+}
+
+.ts-page {
+    min-width: 30px;
+    height: 30px;
+    padding: 0 8px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    border: 1px solid rgba(58, 98, 160, .22);
+    background: transparent;
+    color: var(--font-color);
+    font-size: 13px;
+    line-height: 28px;
+    text-align: center;
+    cursor: pointer;
+    transition: all .3s;
+}
+
+.ts-page:hover {
+    background: var(--btn-hover-color, #d3625d);
+    border-color: var(--btn-hover-color, #d3625d);
+    color: #fff;
+}
+
+[data-theme="dark"] .ts-page {
+    border-color: rgba(168, 196, 238, .25);
+}
+
+.ts-page.current {
+    background: var(--theme-color, #3a62a0);
+    border-color: var(--theme-color, #3a62a0);
+    color: #fff;
+    cursor: default;
+}
+
+.ts-page:active:not(.disabled):not(.current) {
+    transform: translateY(1px) scale(.97);
+}
+
+.ts-page.disabled {
+    opacity: .4;
+    cursor: default;
+    pointer-events: none;
+}
+
+.ts-page.gap {
+    border: none;
+    background: transparent;
+    cursor: default;
+    pointer-events: none;
+}
+
+/* ---------- 空状态 / 加载 ---------- */
+
+.ts-empty {
+    padding: 40px 16px;
+    text-align: center;
+    border-radius: 8px;
+    background: #fff9f578;
+    box-shadow: var(--card-box-shadow, 0 3px 8px 6px rgba(7, 17, 27, .05));
+    opacity: .85;
+}
+
+[data-theme="dark"] .ts-empty {
+    background: #353f5042;
+}
+
+.ts-loading {
+    padding: 40px 16px;
+    text-align: center;
+    opacity: .7;
+}
+
+/* ---------- 移动端 ---------- */
+
+@media (max-width: 768px) {
+    .ts-card {
+        gap: 10px;
+        padding: 10px;
+    }
+
+    .ts-cover {
+        flex: 0 0 92px;
+        width: 92px;
+        height: 128px;          /* 保持 108:150 的比例 */
+    }
+
+    .ts-name {
+        font-size: 15px;
+    }
+
+    .ts-toolbar {
+        padding: 10px 12px;
+    }
+
+    .ts-row {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        padding-bottom: 4px;
+    }
+
+    .ts-row.ts-row-wrap {
+        flex-wrap: wrap;
+        overflow-x: visible;
+    }
+
+    .ts-count {
+        margin-left: 0;
+    }
+}

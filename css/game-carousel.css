@@ -1,1 +1,154 @@
-.games-carousel-section{max-width:1200px;margin:20px auto 0;padding:0}.recent-post-item{margin:0;padding:0}.games-carousel-scroll{overflow-x:auto;scrollbar-width:none;-ms-overflow-style:none;cursor:grab}.games-carousel-scroll::-webkit-scrollbar{display:none}.games-carousel-scroll:active{cursor:grabbing}.games-list{display:flex;gap:20px;padding:20px;margin:0;list-style:none;--games-shift:50%;animation:scrollAuto linear infinite;width:fit-content;will-change:transform;backface-visibility:hidden}.games-carousel-scroll:active .games-list,.games-carousel-scroll:hover .games-list{animation-play-state:paused}@keyframes scrollAuto{0%{transform:translateX(0)}100%{transform:translateX(calc(-1 * var(--games-shift)))}}.games-item{flex-shrink:0;width:130px;text-align:center;transition:transform .2s,opacity .2s}.games-item:hover{transform:translateY(-5px)}.games-item a{text-decoration:none;color:var(--font-color,#4c4948);display:block}.games-date{font-size:12px;font-weight:700;color:#3a62a0;background:rgba(58,98,160,.1);display:inline-block;padding:2px 12px;border-radius:20px;margin-bottom:8px}[data-theme=dark] .games-date{color:#5d8bc9;background:rgba(93,139,201,.15)}.games-img{height:130px;width:auto;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.1);object-fit:cover;opacity:0;transition:box-shadow .3s,opacity .35s,filter 375ms ease-in .2s}.games-img.loaded{opacity:1}.games-item:hover .games-img{box-shadow:0 4px 16px rgba(0,0,0,.15)}[data-theme=dark] .games-img{box-shadow:0 2px 8px rgba(0,0,0,.3)}[data-theme=dark] .games-item:hover .games-img{box-shadow:0 4px 16px rgba(0,0,0,.4)}.games-name{font-size:12px;margin-top:8px;line-height:1.4;color:var(--font-color,#4c4948);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}[data-theme=dark] .games-name{color:rgba(255,255,255,.85)}@media (max-width:768px){.games-item{width:105px!important}.games-img{height:105px!important}.games-name{font-size:11px!important}.games-list{gap:15px!important;padding:15px!important}}@media (max-width:480px){.games-item{width:90px!important}.games-img{height:90px!important}}
+/* ===== 首页「游戏发售日期」轮播 =====
+   注意：这段样式原本写在 game-carousel.pug 的 <style> 里（在 body 中），
+   但主题开启了 pangu（中英文自动加空格），它的 MutationObserver 会把
+   PJAX 新插入节点的文本一起处理 —— 连 <style> 的文本都不放过，
+   于是 translateX(0) 变成 "translateX (0)"、calc(...) 变成 "calc (...)"，
+   CSS 函数全部失效：keyframes 里的 transform 被丢弃，动画直接卡死；
+   rgba()/var()/translateY() 等也一并失效。
+   挪到独立的 CSS 文件后 pangu 碰不到它，问题消失。
+   （本文件由 game-carousel.pug 的 <style> 块迁出，内容保持一致。） */
+.games-carousel-section {
+  max-width: 1200px;
+  margin: 20px auto 0;
+  padding: 0;
+}
+
+.recent-post-item {
+  margin: 0;
+  padding: 0;
+}
+
+.games-carousel-scroll {
+  overflow-x: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  cursor: grab;
+}
+
+.games-carousel-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.games-carousel-scroll:active {
+  cursor: grabbing;
+}
+
+.games-list {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  margin: 0;
+  list-style: none;
+  /* 一轮的位移量：默认退回 -50%（列表宽的一半）。
+     但列表带 padding(20px) + gap(20px)，宽度的一半 = 2110px，
+     而"一组卡片真正用掉的步进"是 2100px —— 差 10px，于是每轮结束时会瞬移 10px，
+     也就是"播到尽头卡顿一下"。JS 会实测步进后写成精确像素值覆盖这里。 */
+  --games-shift: 50%;
+  animation: scrollAuto linear infinite;
+  width: fit-content;
+  will-change: transform;
+  backface-visibility: hidden;
+}
+
+.games-carousel-scroll:hover .games-list,
+.games-carousel-scroll:active .games-list {
+  animation-play-state: paused;
+}
+
+@keyframes scrollAuto {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(calc(-1 * var(--games-shift))); }
+}
+
+.games-item {
+  flex-shrink: 0;
+  width: 130px;
+  text-align: center;
+  transition: transform 0.2s, opacity 0.2s;
+}
+
+.games-item:hover {
+  transform: translateY(-5px);
+}
+
+.games-item a {
+  text-decoration: none;
+  color: var(--font-color, #4c4948);
+  display: block;
+}
+
+.games-date {
+  font-size: 12px;
+  font-weight: bold;
+  color: #3a62a0;
+  background: rgba(58, 98, 160, 0.1);
+  display: inline-block;
+  padding: 2px 12px;
+  border-radius: 20px;
+  margin-bottom: 8px;
+}
+
+[data-theme="dark"] .games-date {
+  color: #5d8bc9;
+  background: rgba(93, 139, 201, 0.15);
+}
+
+.games-img {
+  height: 130px;
+  width: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  /* 不加背景色：图片未加载时 lazyload 会把 src 换成 1×1 透明 GIF，
+     height:130px + 1:1 比例会把它撑成 130×130 —— 若给背景色就会显示成一块纯色方块。
+     保持透明即可让卡片/页面背景直接透出来，不再有占位方块。 */
+  object-fit: cover;
+  /* 加载完成前整体透明：连空框的阴影轮廓也不会露出来 */
+  opacity: 0;
+  /* filter 是跟随主题的夜间变暗（主题的 [data-theme=dark] img{filter:brightness(.8)}）；
+     原来这里只过渡 box-shadow / opacity，所以昼夜切换时图片是"啪"一下就变暗，
+     和其它图片的 filter 375ms ease-in .2s 对不上。 */
+  transition: box-shadow 0.3s, opacity 0.35s, filter 375ms ease-in 0.2s;
+}
+
+.games-img.loaded {
+  opacity: 1;
+}
+
+.games-item:hover .games-img {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+[data-theme="dark"] .games-img {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+[data-theme="dark"] .games-item:hover .games-img {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
+
+.games-name {
+  font-size: 12px;
+  margin-top: 8px;
+  line-height: 1.4;
+  color: var(--font-color, #4c4948);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+[data-theme="dark"] .games-name {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+@media (max-width: 768px) {
+  .games-item { width: 105px !important; }
+  .games-img { height: 105px !important; }
+  .games-name { font-size: 11px !important; }
+  .games-list { gap: 15px !important; padding: 15px !important; }
+}
+
+@media (max-width: 480px) {
+  .games-item { width: 90px !important; }
+  .games-img { height: 90px !important; }
+}
