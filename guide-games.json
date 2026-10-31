@@ -1,42 +1,5 @@
 [
  {
-  "name": "-8（マイナスエイト）",
-  "nameTbl": "-8（マイナスエイト）（PSP）",
-  "brand": "Otomate / Rejet Co., Ltd.",
-  "brands": [
-   "Otomate",
-   "Rejet Co., Ltd."
-  ],
-  "publisher": "",
-  "publishers": [],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v12155",
-  "cover": "/img/guides-covers/-8（PSP）.jpg",
-  "guides": [
-   {
-    "t": "choro",
-    "u": "https://choro-game.com/e/-8-guide"
-   },
-   {
-    "t": "乙女の友",
-    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/minus_8.html"
-   },
-   {
-    "t": "乙女ゲーム攻略",
-    "u": "https://otomegame-capture.com/psp/-8/"
-   },
-   {
-    "t": "モモ缶",
-    "u": "https://web.archive.org/web/20160302115952/http://momokan.chu.jp/momokan/contents-minus8.html"
-   }
-  ]
- },
- {
   "name": "0時の鐘とシンデレラ～Halloween Wedding～",
   "nameTbl": "0時の鐘とシンデレラ～Halloween Wedding～（PSP）",
   "brand": "QuinRose",
@@ -239,8 +202,8 @@
   ]
  },
  {
-  "name": "24時の鐘とシンデレラ ～Halloween Wedding～",
-  "nameTbl": "24時の鐘とシンデレラ ～Halloween Wedding～（PSP）",
+  "name": "24時の鐘とシンデレラ～Halloween Wedding～",
+  "nameTbl": "24時の鐘とシンデレラ～Halloween Wedding～（PSP）",
   "brand": "QuinRose",
   "brands": [
    "QuinRose"
@@ -256,7 +219,7 @@
   "lang": "JP",
   "orient": "乙女向",
   "vndb": "https://vndb.org/v10105",
-  "cover": "/img/guides-covers/24時の鐘とシンデレラ ～Halloween Wedding～（PSP）.jpg",
+  "cover": "/img/guides-covers/24時の鐘とシンデレラ～Halloween Wedding～（PSP）.jpg",
   "guides": [
    {
     "t": "hijikata",
@@ -838,6 +801,33 @@
   ]
  },
  {
+  "name": "ARMEN NOIR portable",
+  "nameTbl": "ARMEN NOIR portable（PSP）",
+  "brand": "Otomate / Design Factory Co., Ltd.",
+  "brands": [
+   "Otomate",
+   "Design Factory Co., Ltd."
+  ],
+  "publisher": "Idea Factory Co., Ltd.",
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v4633",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "乙女ゲーム攻略",
+    "u": "https://otomegame-capture.com/psp/armen_noir/"
+   }
+  ]
+ },
+ {
   "name": "Angel Knight",
   "nameTbl": "Angel Knight（PC）",
   "brand": "Ferret",
@@ -1334,6 +1324,62 @@
   ]
  },
  {
+  "name": "BEYOND THE FUTURE - FIX THE TIME ARROWS -",
+  "nameTbl": "BEYOND THE FUTURE - FIX THE TIME ARROWS -（PSP）",
+  "brand": "Rejet Co., Ltd.",
+  "brands": [
+   "Rejet Co., Ltd."
+  ],
+  "publisher": "MAGES.",
+  "publishers": [
+   "MAGES."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v7770",
+  "cover": "/img/guides-covers/BEYOND THE FUTURE - FIX THE TIME ARROWS -（PSP）.jpg",
+  "guides": [
+   {
+    "t": "乙女ゲーム攻略",
+    "u": "https://otomegame-capture.com/psp/btf/"
+   }
+  ]
+ },
+ {
+  "name": "BLACK CODE ブラック・コード",
+  "nameTbl": "BLACK CODE ブラック・コード（PSP）",
+  "brand": "QuinRose",
+  "brands": [
+   "QuinRose"
+  ],
+  "publisher": "QuinRose",
+  "publishers": [
+   "QuinRose"
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v13627",
+  "cover": "/img/guides-covers/ブラック・コード（PSP）.jpg",
+  "guides": [
+   {
+    "t": "choro",
+    "u": "https://choro-game.com/e/black-code-guide"
+   },
+   {
+    "t": "乙女ゲーム攻略",
+    "u": "https://otomegame-capture.com/psp/blackcode/"
+   }
+  ]
+ },
+ {
   "name": "BLACK WOLVES SAGA -Bloody Nightmare-",
   "nameTbl": "BLACK WOLVES SAGA -Bloody Nightmare-（PC）",
   "brand": "Rejet Co., Ltd.",
@@ -1354,6 +1400,40 @@
    {
     "t": "La Primavera",
     "u": "https://web.archive.org/web/20120504174601/http://otome.girly.jp/bws_bn/menu.html"
+   }
+  ]
+ },
+ {
+  "name": "BLACK WOLVES SAGA -Last Hope-",
+  "nameTbl": "BLACK WOLVES SAGA -Last Hope-（PSP）",
+  "brand": "Rejet Co., Ltd.",
+  "brands": [
+   "Rejet Co., Ltd."
+  ],
+  "publisher": "Otomate",
+  "publishers": [
+   "Otomate"
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v12775",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "choro",
+    "u": "https://choro-game.com/e/bws-last-hope-guide"
+   },
+   {
+    "t": "ruRi",
+    "u": "https://ruri-ototgame.hatenablog.com/entry/2024/08/21/164215"
+   },
+   {
+    "t": "La Primavera",
+    "u": "https://web.archive.org/web/20121231221759/http://otome.girly.jp/bws_lh/menu.html"
    }
   ]
  },
@@ -1398,8 +1478,8 @@
   ]
  },
  {
-  "name": "BROTHERS CONFLICT Brilliant Blue",
-  "nameTbl": "BROTHERS CONFLICT Brilliant Blue（PSP）",
+  "name": "BROTHERS CONFLICT  Brilliant Blue",
+  "nameTbl": "BROTHERS CONFLICT  Brilliant Blue（PSP）",
   "brand": "Otomate",
   "brands": [
    "Otomate"
@@ -1415,11 +1495,15 @@
   "lang": "JP",
   "orient": "乙女向",
   "vndb": "https://vndb.org/v7557",
-  "cover": "/img/guides-covers/BROTHERS CONFLICT Brilliant Blue（PSP）.jpg",
+  "cover": "/img/guides-covers/BROTHERS CONFLICT  Brilliant Blue（PSP）.jpg",
   "guides": [
    {
     "t": "モモ缶",
     "u": "https://web.archive.org/web/20160302121753/http://momokan.chu.jp/momokan/contents-bcbb.html"
+   },
+   {
+    "t": "☆乙ゲー",
+    "u": "https://maistar.blog.fc2.com/blog-entry-2349.html"
    }
   ]
  },
@@ -1446,6 +1530,14 @@
    {
     "t": "モモ缶",
     "u": "https://web.archive.org/web/20151024212055/http://momokan.chu.jp/momokan/contents-bcpp.html"
+   },
+   {
+    "t": "peche",
+    "u": "https://pecheotome.web.fc2.com/game/brothersconfict_pink/index.html"
+   },
+   {
+    "t": "☆乙ゲー",
+    "u": "https://maistar.blog.fc2.com/blog-entry-2290.html"
    }
   ]
  },
@@ -1648,8 +1740,8 @@
   ]
  },
  {
-  "name": "Backlash 〜恋のエキゾースト・ヒート〜",
-  "nameTbl": "Backlash 〜恋のエキゾースト・ヒート〜（PS2）",
+  "name": "Backlash ～恋のエキゾースト・ヒート～",
+  "nameTbl": "Backlash ～恋のエキゾースト・ヒート～（PS2）",
   "brand": "Nest Corporation",
   "brands": [
    "Nest Corporation"
@@ -1663,7 +1755,7 @@
   "lang": "JP",
   "orient": "乙女向",
   "vndb": "https://vndb.org/v2818",
-  "cover": "/img/guides-covers/Backlash 〜恋のエキゾースト・ヒート〜（PS2）.jpg",
+  "cover": "/img/guides-covers/Backlash ～恋のエキゾースト・ヒート～（PS2）.jpg",
   "guides": [
    {
     "t": "乙女ゲーム攻略",
@@ -1752,32 +1844,6 @@
    {
     "t": "La Primavera",
     "u": "https://web.archive.org/web/20120108102353/http://otome.girly.jp/btf/menu.html"
-   }
-  ]
- },
- {
-  "name": "Beyond The Future -Fix The Time Arrows-",
-  "nameTbl": "Beyond The Future -Fix The Time Arrows-（PSP）",
-  "brand": "Rejet Co., Ltd.",
-  "brands": [
-   "Rejet Co., Ltd."
-  ],
-  "publisher": "MAGES.",
-  "publishers": [
-   "MAGES."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v7770",
-  "cover": "/img/guides-covers/Beyond The Future -Fix The Time Arrows-（PSP）.jpg",
-  "guides": [
-   {
-    "t": "乙女ゲーム攻略",
-    "u": "https://otomegame-capture.com/psp/btf/"
    }
   ]
  },
@@ -2246,8 +2312,8 @@
   ]
  },
  {
-  "name": "CLOCK ZERO ～終焉の一秒～ portable",
-  "nameTbl": "CLOCK ZERO ～終焉の一秒～ portable（PSP）",
+  "name": "CLOCK ZERO ～終焉の一秒～ Portable",
+  "nameTbl": "CLOCK ZERO ～終焉の一秒～ Portable（PSP）",
   "brand": "",
   "brands": [],
   "publisher": "",
@@ -2468,6 +2534,32 @@
    {
     "t": "☆乙ゲー",
     "u": "https://maistar.blog.fc2.com/blog-entry-5904.html"
+   }
+  ]
+ },
+ {
+  "name": "Cherry blossom Portable",
+  "nameTbl": "Cherry blossom Portable（PSP）",
+  "brand": "Takuyo Co., Ltd.",
+  "brands": [
+   "Takuyo Co., Ltd."
+  ],
+  "publisher": "Takuyo Co., Ltd.",
+  "publishers": [
+   "Takuyo Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "蔷薇向",
+  "vndb": "https://vndb.org/v2203",
+  "cover": "/img/guides-covers/Cherry blossom Portable（PSP）.jpg",
+  "guides": [
+   {
+    "t": "乙女の友",
+    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/cherryblossom/top.html"
    }
   ]
  },
@@ -3008,6 +3100,63 @@
   ]
  },
  {
+  "name": "Custom Drive（カスタムドライブ）",
+  "nameTbl": "Custom Drive（カスタムドライブ）（PSP）",
+  "brand": "Vridge Inc.",
+  "brands": [
+   "Vridge Inc."
+  ],
+  "publisher": "D3PUBLISHER INC.",
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v10623",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "モモ缶",
+    "u": "https://web.archive.org/web/20160302115716/http://momokan.chu.jp/momokan/contents-customd.html"
+   }
+  ]
+ },
+ {
+  "name": "D.C. Girl's Symphony Pocket ～ダ・カーポ～ ガールズシンフォニーポケット",
+  "nameTbl": "D.C. Girl's Symphony Pocket ～ダ・カーポ～ ガールズシンフォニーポケット（PSP）",
+  "brand": "Sanctuary / Red Flagship Co.,Ltd.",
+  "brands": [
+   "Sanctuary",
+   "Red Flagship Co.,Ltd."
+  ],
+  "publisher": "Idea Factory Co., Ltd.",
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v969",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "乙女ゲーム攻略",
+    "u": "https://otomegame-capture.com/psp/dcgsp/"
+   },
+   {
+    "t": "乙女の友",
+    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/dc_girls_symphony.html"
+   }
+  ]
+ },
+ {
   "name": "D.C. Girl’s Symphony～ダ・カーポ～ガールズ シンフォニー",
   "nameTbl": "D.C. Girl’s Symphony～ダ・カーポ～ガールズ シンフォニー（PC）",
   "brand": "Sanctuary / Red Flagship Co.,Ltd.",
@@ -3035,37 +3184,6 @@
    {
     "t": "peche",
     "u": "https://pecheotome.web.fc2.com/game/dcgs/index.html"
-   }
-  ]
- },
- {
-  "name": "D.C. Girl’s Symphony～ダ・カーポ～ガールズ シンフォニー",
-  "nameTbl": "D.C. Girl’s Symphony～ダ・カーポ～ガールズ シンフォニー（PSP）",
-  "brand": "Sanctuary / Red Flagship Co.,Ltd.",
-  "brands": [
-   "Sanctuary",
-   "Red Flagship Co.,Ltd."
-  ],
-  "publisher": "Idea Factory Co., Ltd.",
-  "publishers": [
-   "Idea Factory Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v969",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "乙女ゲーム攻略",
-    "u": "https://otomegame-capture.com/psp/dcgsp/"
-   },
-   {
-    "t": "乙女の友",
-    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/dc_girls_symphony.html"
    }
   ]
  },
@@ -3135,8 +3253,8 @@
   ]
  },
  {
-  "name": "DIABOLIK LOVERS -ディアボリックラヴァーズ-",
-  "nameTbl": "DIABOLIK LOVERS -ディアボリックラヴァーズ-（PSP）",
+  "name": "DIABOLIK LOVERS",
+  "nameTbl": "DIABOLIK LOVERS（PSP）",
   "brand": "Otomate / Rejet Co., Ltd.",
   "brands": [
    "Otomate",
@@ -4102,44 +4220,6 @@
   ]
  },
  {
-  "name": "Death Connection Portable",
-  "nameTbl": "Death Connection Portable（PSP）",
-  "brand": "Otomate",
-  "brands": [
-   "Otomate"
-  ],
-  "publisher": "Idea Factory Co., Ltd.",
-  "publishers": [
-   "Idea Factory Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v1872",
-  "cover": "/img/guides-covers/Death Connection Portable（PSP）.jpg",
-  "guides": [
-   {
-    "t": "choro",
-    "u": "https://choro-game.com/e/death_c-kouryaku"
-   },
-   {
-    "t": "乙女の友",
-    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/death_connection.html"
-   },
-   {
-    "t": "ruRi",
-    "u": "https://ruri-ototgame.hatenablog.com/entry/2024/08/28/193835"
-   },
-   {
-    "t": "モモ缶",
-    "u": "https://web.archive.org/web/20120127115809/http://momokan.chu.jp/momokan/contents-death_conne.html"
-   }
-  ]
- },
- {
   "name": "Debt ～危ないプレジデント～",
   "nameTbl": "Debt ～危ないプレジデント～（PC）",
   "brand": "SaucySoft",
@@ -4666,6 +4746,41 @@
   ]
  },
  {
+  "name": "Enkeltbillet（エンケルトビレット）",
+  "nameTbl": "Enkeltbillet（エンケルトビレット）（PSP）",
+  "brand": "ichicolumn inc.",
+  "brands": [
+   "ichicolumn inc."
+  ],
+  "publisher": "Idea Factory Co., Ltd. / Otomate",
+  "publishers": [
+   "Idea Factory Co., Ltd.",
+   "Otomate"
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v13850",
+  "cover": "/img/guides-covers/Enkeltbillet（エンケルトビレット）（PSP）.jpg",
+  "guides": [
+   {
+    "t": "choro",
+    "u": "https://choro-game.com/e/enkeltbillet-guide"
+   },
+   {
+    "t": "Half Adder",
+    "u": "https://half-a.net/games1/enkeltbillet.html"
+   },
+   {
+    "t": "モモ缶",
+    "u": "https://web.archive.org/web/20151012160343/http://momokan.chu.jp/momokan/contents-enkelt.html"
+   }
+  ]
+ },
+ {
   "name": "Esca sum",
   "nameTbl": "Esca sum（PC）",
   "brand": "Ako",
@@ -5136,6 +5251,41 @@
   ]
  },
  {
+  "name": "Glass Heart Princess",
+  "nameTbl": "Glass Heart Princess（PSP）",
+  "brand": "Otomate / Design Factory Co., Ltd.",
+  "brands": [
+   "Otomate",
+   "Design Factory Co., Ltd."
+  ],
+  "publisher": "Idea Factory Co., Ltd.",
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v10419",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "ruRi",
+    "u": "https://ruri-ototgame.hatenablog.com/entry/2025/11/05/192756"
+   },
+   {
+    "t": "某の乙女ゲー",
+    "u": "https://www.soregashi.work/entry/glassheart-matome"
+   },
+   {
+    "t": "ruRi(2)",
+    "u": "https://ruri-ototgame.hatenablog.com/entry/2025/11/05/192704"
+   }
+  ]
+ },
+ {
   "name": "Glass Heart Princess for Nintendo Switch",
   "nameTbl": "Glass Heart Princess for Nintendo Switch（NS）",
   "brand": "Otomate / Design Factory Co., Ltd.",
@@ -5167,6 +5317,41 @@
    {
     "t": "モモ缶",
     "u": "https://web.archive.org/web/20151216192732/http://momokan.chu.jp/momokan/contents-gheart.html"
+   }
+  ]
+ },
+ {
+  "name": "Glass Heart Princess:PLATINUM",
+  "nameTbl": "Glass Heart Princess:PLATINUM（PSP）",
+  "brand": "Otomate / Design Factory Co., Ltd.",
+  "brands": [
+   "Otomate",
+   "Design Factory Co., Ltd."
+  ],
+  "publisher": "Idea Factory Co., Ltd.",
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v12571",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "ruRi",
+    "u": "https://ruri-ototgame.hatenablog.com/entry/2025/11/06/015944"
+   },
+   {
+    "t": "ruRi(2)",
+    "u": "https://ruri-ototgame.hatenablog.com/entry/2025/11/06/015907"
+   },
+   {
+    "t": "モモ缶",
+    "u": "https://web.archive.org/web/20131213033130/http://momokan.chu.jp/momokan/contents-gheart_pl.html"
    }
   ]
  },
@@ -5565,6 +5750,36 @@
   ]
  },
  {
+  "name": "Jewelic Nightmare",
+  "nameTbl": "Jewelic Nightmare（PSP）",
+  "brand": "Otomate",
+  "brands": [
+   "Otomate"
+  ],
+  "publisher": "Idea Factory Co., Ltd.",
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v12436",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "choro",
+    "u": "https://choro-game.com/e/jewelic-nightmare-guide"
+   },
+   {
+    "t": "モモ缶",
+    "u": "https://web.archive.org/web/20160302115905/http://momokan.chu.jp/momokan/contents-jewelic.html"
+   }
+  ]
+ },
+ {
   "name": "Johnny's Panic",
   "nameTbl": "Johnny's Panic（PC）",
   "brand": "Leda",
@@ -5729,36 +5944,6 @@
   ]
  },
  {
-  "name": "Kaeru Batake DE Tsukamaete☆彡 Portable",
-  "nameTbl": "Kaeru Batake DE Tsukamaete☆彡 Portable（PSP）",
-  "brand": "Takuyo Co., Ltd.",
-  "brands": [
-   "Takuyo Co., Ltd."
-  ],
-  "publisher": "Takuyo Co., Ltd.",
-  "publishers": [
-   "Takuyo Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v3106",
-  "cover": "/img/guides-covers/Kaeru Batake DE Tsukamaete☆彡 Portable（PSP）.jpg",
-  "guides": [
-   {
-    "t": "Half Adder",
-    "u": "https://half-a.net/games1/kaerubatake.html"
-   },
-   {
-    "t": "choro",
-    "u": "https://choro-game.com/e/kaerubatake-guide"
-   }
-  ]
- },
- {
   "name": "King of Beast",
   "nameTbl": "King of Beast（PC）",
   "brand": "GAS",
@@ -5849,8 +6034,8 @@
   ]
  },
  {
-  "name": "L.G.S ～新説 封神演義～",
-  "nameTbl": "L.G.S ～新説 封神演義～（PSP）",
+  "name": "L.G.S～新説 封神演義～",
+  "nameTbl": "L.G.S～新説 封神演義～（PSP）",
   "brand": "Otomate / Design Factory Co., Ltd.",
   "brands": [
    "Otomate",
@@ -5958,8 +6143,8 @@
   ]
  },
  {
-  "name": "LOVE:QUIZ〜恋する乙女のファイナルアンサー〜",
-  "nameTbl": "LOVE:QUIZ〜恋する乙女のファイナルアンサー〜（PSV）",
+  "name": "LOVE:QUIZ～恋する乙女のファイナルアンサー～",
+  "nameTbl": "LOVE:QUIZ～恋する乙女のファイナルアンサー～（PSV）",
   "brand": "EMIQ Inc.",
   "brands": [
    "EMIQ Inc."
@@ -6633,8 +6818,74 @@
   ]
  },
  {
-  "name": "Lucian Bee's: Resurrection Supernova",
-  "nameTbl": "Lucian Bee's: Resurrection Supernova（PSP）",
+  "name": "Lucian Bee's -EVIL VIOLET-",
+  "nameTbl": "Lucian Bee's -EVIL VIOLET-（PSP）",
+  "brand": "HuneX / Rejet Co., Ltd.",
+  "brands": [
+   "HuneX",
+   "Rejet Co., Ltd."
+  ],
+  "publisher": "MAGES.",
+  "publishers": [
+   "MAGES."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v9918",
+  "cover": "/img/guides-covers/Lucian Bee's -EVIL VIOLET-（PSP）.jpg",
+  "guides": [
+   {
+    "t": "乙女ゲーム攻略",
+    "u": "https://otomegame-capture.com/psp/lb_ev/"
+   },
+   {
+    "t": "La Primavera",
+    "u": "https://web.archive.org/web/20100605081308/http://otome.girly.jp/lb_violet/menu.html"
+   }
+  ]
+ },
+ {
+  "name": "Lucian Bee's -JUSTICE YELLOW-",
+  "nameTbl": "Lucian Bee's -JUSTICE YELLOW-（PSP）",
+  "brand": "HuneX / Rejet Co., Ltd.",
+  "brands": [
+   "HuneX",
+   "Rejet Co., Ltd."
+  ],
+  "publisher": "MAGES.",
+  "publishers": [
+   "MAGES."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v9917",
+  "cover": "/img/guides-covers/Lucian Bee's -JUSTICE YELLOW-（PSP）.jpg",
+  "guides": [
+   {
+    "t": "乙女ゲーム攻略",
+    "u": "https://otomegame-capture.com/psp/lb_jy/"
+   },
+   {
+    "t": "La Primavera",
+    "u": "https://web.archive.org/web/20100623025546/http://otome.girly.jp/lb_yellow/menu.html"
+   },
+   {
+    "t": "OTOME-Wiki",
+    "u": "http://www.ladygamer.jp/otw/LucianBees/"
+   }
+  ]
+ },
+ {
+  "name": "Lucian Bee's RESURRECTION SUPERNOVA",
+  "nameTbl": "Lucian Bee's RESURRECTION SUPERNOVA（PSP）",
   "brand": "HuneX / Rejet Co., Ltd.",
   "brands": [
    "HuneX",
@@ -6686,30 +6937,6 @@
    {
     "t": "miyutan",
     "u": "http://miyutan0509.blog.fc2.com/blog-entry-324.html"
-   }
-  ]
- },
- {
-  "name": "L’Heure Bleue～ルール・ブルー～",
-  "nameTbl": "L’Heure Bleue～ルール・ブルー～（PSP）",
-  "brand": "F&C HARDCOVER",
-  "brands": [
-   "F&C HARDCOVER"
-  ],
-  "publisher": "",
-  "publishers": [],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v1297",
-  "cover": "/img/guides-covers/L’Heure Bleue～ルール・ブルー～（PSP）.jpg",
-  "guides": [
-   {
-    "t": "乙女の友",
-    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/koishiba/top.html"
    }
   ]
  },
@@ -7186,6 +7413,32 @@
   ]
  },
  {
+  "name": "Musketeer -Le sang des chevaliers-",
+  "nameTbl": "Musketeer -Le sang des chevaliers-（PSP）",
+  "brand": "Otomate",
+  "brands": [
+   "Otomate"
+  ],
+  "publisher": "Idea Factory Co., Ltd.",
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v7425",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "モモ缶",
+    "u": "https://web.archive.org/web/20120126151851/http://momokan.chu.jp/momokan/contents-musketeer.html"
+   }
+  ]
+ },
+ {
   "name": "My9Swallows TOPSTARS LEAGUE",
   "nameTbl": "My9Swallows TOPSTARS LEAGUE（NS）",
   "brand": "Otomate",
@@ -7250,8 +7503,8 @@
   ]
  },
  {
-  "name": "NA-RA-KU〜芸術的陵辱レッスン〜",
-  "nameTbl": "NA-RA-KU〜芸術的陵辱レッスン〜（PC）",
+  "name": "NA-RA-KU～芸術的陵辱レッスン～",
+  "nameTbl": "NA-RA-KU～芸術的陵辱レッスン～（PC）",
   "brand": "Marine Heart",
   "brands": [
    "Marine Heart"
@@ -7267,7 +7520,7 @@
   "lang": "JP",
   "orient": "蔷薇向",
   "vndb": "https://vndb.org/v3476",
-  "cover": "/img/guides-covers/NA-RA-KU〜芸術的陵辱レッスン〜（PC）.jpg",
+  "cover": "/img/guides-covers/NA-RA-KU～芸術的陵辱レッスン～（PC）.jpg",
   "guides": [
    {
     "t": "乙女の友",
@@ -7404,8 +7657,8 @@
   ]
  },
  {
-  "name": "NORN9 ～ノルン+ノネット～",
-  "nameTbl": "NORN9 ～ノルン+ノネット～（PSP）",
+  "name": "NORN9 ノルン＋ノネット",
+  "nameTbl": "NORN9 ノルン＋ノネット（PSP）",
   "brand": "Otomate",
   "brands": [
    "Otomate"
@@ -7743,8 +7996,8 @@
   ]
  },
  {
-  "name": "O＊G＊A 鬼ごっこロワイアル ハンターは孤島（フィールド）で恋をする",
-  "nameTbl": "O＊G＊A 鬼ごっこロワイアル ハンターは孤島（フィールド）で恋をする（PSP）",
+  "name": "O＊G＊A 鬼ごっこロワイアル ハンターは孤島で恋をする",
+  "nameTbl": "O＊G＊A 鬼ごっこロワイアル ハンターは孤島で恋をする（PSP）",
   "brand": "Otomate",
   "brands": [
    "Otomate"
@@ -9015,32 +9268,6 @@
   ]
  },
  {
-  "name": "Romeo & Juliet - Deluxe Edition",
-  "nameTbl": "Romeo & Juliet - Deluxe Edition（PSP）",
-  "brand": "QuinRose",
-  "brands": [
-   "QuinRose"
-  ],
-  "publisher": "QuinRose",
-  "publishers": [
-   "QuinRose"
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v13911",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "choro",
-    "u": "https://choro-game.com/e/romeoandjuliet"
-   }
-  ]
- },
- {
   "name": "Room No.9",
   "nameTbl": "Room No.9（PC）",
   "brand": "parade",
@@ -9174,39 +9401,8 @@
   ]
  },
  {
-  "name": "S.Y.K ～新説西遊記～ ポータブル",
-  "nameTbl": "S.Y.K ～新説西遊記～ ポータブル（PSP）",
-  "brand": "Otomate / Design Factory Co., Ltd.",
-  "brands": [
-   "Otomate",
-   "Design Factory Co., Ltd."
-  ],
-  "publisher": "Idea Factory Co., Ltd.",
-  "publishers": [
-   "Idea Factory Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v2251",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "乙女ゲーム攻略",
-    "u": "https://otomegame-capture.com/psp/syk/"
-   },
-   {
-    "t": "choro",
-    "u": "https://choro-game.com/e/syk-guide"
-   }
-  ]
- },
- {
-  "name": "S.Y.K ～蓮咲伝～",
-  "nameTbl": "S.Y.K ～蓮咲伝～（PSP）",
+  "name": "S.Y.K ～蓮咲伝～ Portable",
+  "nameTbl": "S.Y.K ～蓮咲伝～ Portable（PSP）",
   "brand": "Otomate / Design Factory Co., Ltd.",
   "brands": [
    "Otomate",
@@ -9567,8 +9763,8 @@
   ]
  },
  {
-  "name": "STORM LOVER 夏恋!! Limited Box",
-  "nameTbl": "STORM LOVER 夏恋!! Limited Box（PSP）",
+  "name": "STORM LOVER 夏恋!!",
+  "nameTbl": "STORM LOVER 夏恋!!（PSP）",
   "brand": "Vridge Inc.",
   "brands": [
    "Vridge Inc."
@@ -9593,6 +9789,36 @@
    {
     "t": "モモ缶",
     "u": "https://web.archive.org/web/20120127034203/http://momokan.chu.jp/momokan/contents-stormlover_fd.html"
+   }
+  ]
+ },
+ {
+  "name": "STORM LOVER 快!!",
+  "nameTbl": "STORM LOVER 快!!（PSP）",
+  "brand": "Vridge Inc.",
+  "brands": [
+   "Vridge Inc."
+  ],
+  "publisher": "D3PUBLISHER INC.",
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v4597",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "Half Adder",
+    "u": "https://half-a.net/games1/stormlover.html"
+   },
+   {
+    "t": "乙女の友",
+    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/stormlover/top.html"
    }
   ]
  },
@@ -9933,8 +10159,8 @@
   ]
  },
  {
-  "name": "Solomon's Ring 〜地の章〜",
-  "nameTbl": "Solomon's Ring 〜地の章〜（PSP）",
+  "name": "Solomon's Ring ～地の章～",
+  "nameTbl": "Solomon's Ring ～地の章～（PSP）",
   "brand": "Plan Peace / InterOne Inc.",
   "brands": [
    "Plan Peace",
@@ -9951,7 +10177,7 @@
   "lang": "JP",
   "orient": "乙女向",
   "vndb": "https://vndb.org/v11502",
-  "cover": "/img/guides-covers/Solomon's Ring 〜地の章〜（PSP）.jpg",
+  "cover": "/img/guides-covers/Solomon's Ring ～地の章～（PSP）.jpg",
   "guides": [
    {
     "t": "乙女ゲーム攻略",
@@ -9964,8 +10190,8 @@
   ]
  },
  {
-  "name": "Solomon's Ring 〜水の章〜",
-  "nameTbl": "Solomon's Ring 〜水の章〜（PSP）",
+  "name": "Solomon's Ring ～水の章～",
+  "nameTbl": "Solomon's Ring ～水の章～（PSP）",
   "brand": "Plan Peace / InterOne Inc.",
   "brands": [
    "Plan Peace",
@@ -9982,7 +10208,7 @@
   "lang": "JP",
   "orient": "乙女向",
   "vndb": "https://vndb.org/v11502",
-  "cover": "/img/guides-covers/Solomon's Ring 〜水の章〜（PSP）.jpg",
+  "cover": "/img/guides-covers/Solomon's Ring ～水の章～（PSP）.jpg",
   "guides": [
    {
     "t": "乙女ゲーム攻略",
@@ -9995,8 +10221,8 @@
   ]
  },
  {
-  "name": "Solomon's Ring 〜火の章〜",
-  "nameTbl": "Solomon's Ring 〜火の章〜（PSP）",
+  "name": "Solomon's Ring ～火の章～",
+  "nameTbl": "Solomon's Ring ～火の章～（PSP）",
   "brand": "Plan Peace / InterOne Inc.",
   "brands": [
    "Plan Peace",
@@ -10013,7 +10239,7 @@
   "lang": "JP",
   "orient": "乙女向",
   "vndb": "https://vndb.org/v11502",
-  "cover": "/img/guides-covers/Solomon's Ring 〜火の章〜（PSP）.jpg",
+  "cover": "/img/guides-covers/Solomon's Ring ～火の章～（PSP）.jpg",
   "guides": [
    {
     "t": "乙女ゲーム攻略",
@@ -10026,8 +10252,8 @@
   ]
  },
  {
-  "name": "Solomon's Ring 〜風の章〜",
-  "nameTbl": "Solomon's Ring 〜風の章〜（PSP）",
+  "name": "Solomon's Ring ～風の章～",
+  "nameTbl": "Solomon's Ring ～風の章～（PSP）",
   "brand": "Plan Peace / InterOne Inc.",
   "brands": [
    "Plan Peace",
@@ -10044,7 +10270,7 @@
   "lang": "JP",
   "orient": "乙女向",
   "vndb": "https://vndb.org/v11502",
-  "cover": "/img/guides-covers/Solomon's Ring 〜風の章〜（PSP）.jpg",
+  "cover": "/img/guides-covers/Solomon's Ring ～風の章～（PSP）.jpg",
   "guides": [
    {
     "t": "乙女ゲーム攻略",
@@ -10077,40 +10303,6 @@
    {
     "t": "乙女の友",
     "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/spelldown.html"
-   }
-  ]
- },
- {
-  "name": "Starry☆Sky ～After Spring～ Portable",
-  "nameTbl": "Starry☆Sky ～After Spring～ Portable（PSP）",
-  "brand": "honeybee",
-  "brands": [
-   "honeybee"
-  ],
-  "publisher": "honeybee",
-  "publishers": [
-   "honeybee"
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v5258",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "Half Adder",
-    "u": "https://half-a.net/games1/starry1a.html"
-   },
-   {
-    "t": "乙女ゲーム攻略",
-    "u": "https://otomegame-capture.com/psp/after_spring/"
-   },
-   {
-    "t": "La Primavera",
-    "u": "https://web.archive.org/web/20101220005508/http://otome.girly.jp/starry_sky_after_spring/menu.html"
    }
   ]
  },
@@ -10417,6 +10609,40 @@
   ]
  },
  {
+  "name": "Starry☆Sky～After Spring～Portable",
+  "nameTbl": "Starry☆Sky～After Spring～Portable（PSP）",
+  "brand": "honeybee",
+  "brands": [
+   "honeybee"
+  ],
+  "publisher": "honeybee",
+  "publishers": [
+   "honeybee"
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v5258",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "Half Adder",
+    "u": "https://half-a.net/games1/starry1a.html"
+   },
+   {
+    "t": "乙女ゲーム攻略",
+    "u": "https://otomegame-capture.com/psp/after_spring/"
+   },
+   {
+    "t": "La Primavera",
+    "u": "https://web.archive.org/web/20101220005508/http://otome.girly.jp/starry_sky_after_spring/menu.html"
+   }
+  ]
+ },
+ {
   "name": "Starry☆Sky～After Summer～Portable",
   "nameTbl": "Starry☆Sky～After Summer～Portable（PSP）",
   "brand": "honeybee",
@@ -10537,8 +10763,8 @@
   ]
  },
  {
-  "name": "Starry☆Sky～in Summer～ Portable",
-  "nameTbl": "Starry☆Sky～in Summer～ Portable（PSP）",
+  "name": "Starry☆Sky～in Summer～Portable",
+  "nameTbl": "Starry☆Sky～in Summer～Portable（PSP）",
   "brand": "honeybee",
   "brands": [
    "honeybee"
@@ -10567,8 +10793,8 @@
   ]
  },
  {
-  "name": "Starry☆Sky～in Winter～ Portable",
-  "nameTbl": "Starry☆Sky～in Winter～ Portable（PSP）",
+  "name": "Starry☆Sky～in Winter～Portable",
+  "nameTbl": "Starry☆Sky～in Winter～Portable（PSP）",
   "brand": "honeybee",
   "brands": [
    "honeybee"
@@ -10843,8 +11069,39 @@
   ]
  },
  {
-  "name": "THE 恋愛アドベンチャー 〜硝子の森〜",
-  "nameTbl": "THE 恋愛アドベンチャー 〜硝子の森〜（PS2）",
+  "name": "S・Y・K ～新説西遊記～ ポータブル",
+  "nameTbl": "S・Y・K ～新説西遊記～ ポータブル（PSP）",
+  "brand": "Otomate / Design Factory Co., Ltd.",
+  "brands": [
+   "Otomate",
+   "Design Factory Co., Ltd."
+  ],
+  "publisher": "Idea Factory Co., Ltd.",
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v2251",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "乙女ゲーム攻略",
+    "u": "https://otomegame-capture.com/psp/syk/"
+   },
+   {
+    "t": "choro",
+    "u": "https://choro-game.com/e/syk-guide"
+   }
+  ]
+ },
+ {
+  "name": "THE 恋愛アドベンチャー ～硝子の森～",
+  "nameTbl": "THE 恋愛アドベンチャー ～硝子の森～（PS2）",
   "brand": "HuneX",
   "brands": [
    "HuneX"
@@ -10873,8 +11130,8 @@
   ]
  },
  {
-  "name": "TOKYOヤマノテBOYS Portable DARK CHERRY DISC 数量限定版",
-  "nameTbl": "TOKYOヤマノテBOYS Portable DARK CHERRY DISC 数量限定版（PSP）",
+  "name": "TOKYOヤマノテBOYS Portable DARK CHERRY DISC",
+  "nameTbl": "TOKYOヤマノテBOYS Portable DARK CHERRY DISC（PSP）",
   "brand": "Rejet Co., Ltd.",
   "brands": [
    "Rejet Co., Ltd."
@@ -10907,8 +11164,8 @@
   ]
  },
  {
-  "name": "TOKYOヤマノテBOYS Portable HONEY MILK DISC - 数量限定版",
-  "nameTbl": "TOKYOヤマノテBOYS Portable HONEY MILK DISC - 数量限定版（PSP）",
+  "name": "TOKYOヤマノテBOYS Portable HONEY MILK DISC",
+  "nameTbl": "TOKYOヤマノテBOYS Portable HONEY MILK DISC（PSP）",
   "brand": "Rejet Co., Ltd.",
   "brands": [
    "Rejet Co., Ltd."
@@ -10941,8 +11198,8 @@
   ]
  },
  {
-  "name": "TOKYOヤマノテBOYS Portable SUPER MINT DISC 数量限定版",
-  "nameTbl": "TOKYOヤマノテBOYS Portable SUPER MINT DISC 数量限定版（PSP）",
+  "name": "TOKYOヤマノテBOYS Portable SUPER MINT DISC",
+  "nameTbl": "TOKYOヤマノテBOYS Portable SUPER MINT DISC（PSP）",
   "brand": "Rejet Co., Ltd.",
   "brands": [
    "Rejet Co., Ltd."
@@ -11652,6 +11909,44 @@
   ]
  },
  {
+  "name": "VitaminR",
+  "nameTbl": "VitaminR（PSP）",
+  "brand": "Rejet Co., Ltd.",
+  "brands": [
+   "Rejet Co., Ltd."
+  ],
+  "publisher": "D3PUBLISHER INC.",
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v11985",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "Half Adder",
+    "u": "https://half-a.net/games1/vitaminr.html"
+   },
+   {
+    "t": "ときどき",
+    "u": "http://otomes2omoti.blog101.fc2.com/blog-entry-267.html"
+   },
+   {
+    "t": "ときどき(2)",
+    "u": "http://otomes2omoti.blog101.fc2.com/blog-entry-262.html"
+   },
+   {
+    "t": "ときどき(3)",
+    "u": "http://otomes2omoti.blog101.fc2.com/blog-entry-257.html"
+   }
+  ]
+ },
+ {
   "name": "VitaminX",
   "nameTbl": "VitaminX（PS2）",
   "brand": "HuneX",
@@ -11728,6 +12023,62 @@
   ]
  },
  {
+  "name": "VitaminX Detective B6",
+  "nameTbl": "VitaminX Detective B6（PSP）",
+  "brand": "HuneX",
+  "brands": [
+   "HuneX"
+  ],
+  "publisher": "D3PUBLISHER INC.",
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v12934",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "Half Adder",
+    "u": "https://half-a.net/games1/vitaminx_detective.html"
+   },
+   {
+    "t": "モモ缶",
+    "u": "https://web.archive.org/web/20160302120205/http://momokan.chu.jp/momokan/contents-vitaminxd.html"
+   }
+  ]
+ },
+ {
+  "name": "VitaminXtoZ",
+  "nameTbl": "VitaminXtoZ（PSP）",
+  "brand": "HuneX",
+  "brands": [
+   "HuneX"
+  ],
+  "publisher": "D3PUBLISHER INC.",
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v12935",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "Half Adder",
+    "u": "https://half-a.net/games1/vitaminxtoz.html"
+   }
+  ]
+ },
+ {
   "name": "VitaminZ",
   "nameTbl": "VitaminZ（PS2）",
   "brand": "HuneX",
@@ -11766,6 +12117,32 @@
    {
     "t": "モモ缶",
     "u": "https://web.archive.org/web/20160302122131/http://momokan.chu.jp/momokan/contents-vitaminz.html"
+   }
+  ]
+ },
+ {
+  "name": "VitaminZ Graduation",
+  "nameTbl": "VitaminZ Graduation（PSP）",
+  "brand": "HuneX",
+  "brands": [
+   "HuneX"
+  ],
+  "publisher": "D3PUBLISHER INC.",
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v11943",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "Half Adder",
+    "u": "https://half-a.net/games1/vitaminz_fd.html"
    }
   ]
  },
@@ -11924,33 +12301,6 @@
    {
     "t": "miyutan",
     "u": "http://miyutan0509.blog.fc2.com/blog-entry-186.html"
-   }
-  ]
- },
- {
-  "name": "WoF2 FD ～君に捧げるエピローグ～",
-  "nameTbl": "WoF2 FD ～君に捧げるエピローグ～（PSP）",
-  "brand": "Otomate / Design Factory Co., Ltd.",
-  "brands": [
-   "Otomate",
-   "Design Factory Co., Ltd."
-  ],
-  "publisher": "Idea Factory Co., Ltd.",
-  "publishers": [
-   "Idea Factory Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v10050",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "乙女の友",
-    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/wand_of_fortune/2/fd/top.html"
    }
   ]
  },
@@ -13029,8 +13379,8 @@
   ]
  },
  {
-  "name": "あやかしごはん〜おおもりっ！〜",
-  "nameTbl": "あやかしごはん〜おおもりっ！〜（PSV）",
+  "name": "あやかしごはん～おおもりっ！～",
+  "nameTbl": "あやかしごはん～おおもりっ！～（PSV）",
   "brand": "honeybee",
   "brands": [
    "honeybee"
@@ -13141,8 +13491,8 @@
   ]
  },
  {
-  "name": "いざ、出陣！ 恋戦",
-  "nameTbl": "いざ、出陣！ 恋戦（PSP）",
+  "name": "いざ、出陣！恋戦",
+  "nameTbl": "いざ、出陣！恋戦（PSP）",
   "brand": "GignoSystem Japan Inc.",
   "brands": [
    "GignoSystem Japan Inc."
@@ -13297,8 +13647,8 @@
   ]
  },
  {
-  "name": "いっしょにごはん。",
-  "nameTbl": "いっしょにごはん。（PSP）",
+  "name": "いっしょにごはん。PORTABLE",
+  "nameTbl": "いっしょにごはん。PORTABLE（PSP）",
   "brand": "Otomate",
   "brands": [
    "Otomate"
@@ -13427,8 +13777,8 @@
   ]
  },
  {
-  "name": "うたの☆プリンスさまっ♪ -Amazing Aria-",
-  "nameTbl": "うたの☆プリンスさまっ♪ -Amazing Aria-（PSP）",
+  "name": "うたの☆プリンスさまっ♪-Amazing Aria-",
+  "nameTbl": "うたの☆プリンスさまっ♪-Amazing Aria-（PSP）",
   "brand": "Nippon Ichi Software, Inc.",
   "brands": [
    "Nippon Ichi Software, Inc."
@@ -13473,8 +13823,8 @@
   ]
  },
  {
-  "name": "うたの☆プリンスさまっ♪ -Sweet Serenade-",
-  "nameTbl": "うたの☆プリンスさまっ♪ -Sweet Serenade-（PSP）",
+  "name": "うたの☆プリンスさまっ♪-Sweet Serenade-",
+  "nameTbl": "うたの☆プリンスさまっ♪-Sweet Serenade-（PSP）",
   "brand": "Nippon Ichi Software, Inc.",
   "brands": [
    "Nippon Ichi Software, Inc."
@@ -13801,8 +14151,8 @@
   ]
  },
  {
-  "name": "うたの☆プリンスさまっ♪MUSIC 2",
-  "nameTbl": "うたの☆プリンスさまっ♪MUSIC 2（PSP）",
+  "name": "うたの☆プリンスさまっ♪MUSIC2",
+  "nameTbl": "うたの☆プリンスさまっ♪MUSIC2（PSP）",
   "brand": "",
   "brands": [],
   "publisher": "",
@@ -14184,8 +14534,8 @@
   ]
  },
  {
-  "name": "おもちゃ箱の国のアリス～ Wonderful Wonder World ～",
-  "nameTbl": "おもちゃ箱の国のアリス～ Wonderful Wonder World ～（PSP）",
+  "name": "おもちゃ箱の国のアリス～Wonderful Wonder World～",
+  "nameTbl": "おもちゃ箱の国のアリス～Wonderful Wonder World～（PSP）",
   "brand": "QuinRose",
   "brands": [
    "QuinRose"
@@ -14236,8 +14586,8 @@
   ]
  },
  {
-  "name": "お菓子な島のピーターパン ～Sweet Never Land～",
-  "nameTbl": "お菓子な島のピーターパン ～Sweet Never Land～（PSP）",
+  "name": "お菓子な島のピーターパン～Sweet Never Land～",
+  "nameTbl": "お菓子な島のピーターパン～Sweet Never Land～（PSP）",
   "brand": "QuinRose",
   "brands": [
    "QuinRose"
@@ -14253,7 +14603,7 @@
   "lang": "JP",
   "orient": "乙女向",
   "vndb": "https://vndb.org/v4671",
-  "cover": "/img/guides-covers/お菓子な島のピーターパン ～Sweet Never Land～（PSP）.jpg",
+  "cover": "/img/guides-covers/お菓子な島のピーターパン～Sweet Never Land～（PSP）.jpg",
   "guides": [
    {
     "t": "乙女ゲーム攻略",
@@ -15350,8 +15700,8 @@
   ]
  },
  {
-  "name": "はかれなはーと 〜君がために輝きを〜",
-  "nameTbl": "はかれなはーと 〜君がために輝きを〜（PS2）",
+  "name": "はかれなはーと ～君がために輝きを～",
+  "nameTbl": "はかれなはーと ～君がために輝きを～（PS2）",
   "brand": "",
   "brands": [],
   "publisher": "",
@@ -15460,8 +15810,8 @@
   ]
  },
  {
-  "name": "はつカレっ☆恋愛デビュー宣言!",
-  "nameTbl": "はつカレっ☆恋愛デビュー宣言!（PSP）",
+  "name": "はつカレっ☆恋愛デビュー宣言！",
+  "nameTbl": "はつカレっ☆恋愛デビュー宣言！（PSP）",
   "brand": "Vridge Inc.",
   "brands": [
    "Vridge Inc."
@@ -17320,6 +17670,10 @@
    {
     "t": "乙女ゲーム攻略",
     "u": "https://otomegame-capture.com/psp/arabian_doubt/"
+   },
+   {
+    "t": "☆乙ゲー",
+    "u": "https://maistar.blog.fc2.com/blog-entry-4581.html"
    }
   ]
  },
@@ -17418,25 +17772,7 @@
    {
     "t": "La Primavera",
     "u": "https://web.archive.org/web/20070102094626/http://otome.girly.jp/arabian/menu.html"
-   }
-  ]
- },
- {
-  "name": "アラビアンズ・ロスト&アラビアンズ・ダウト ツインパック",
-  "nameTbl": "アラビアンズ・ロスト&アラビアンズ・ダウト ツインパック（PSP）",
-  "brand": "",
-  "brands": [],
-  "publisher": "",
-  "publishers": [],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
+   },
    {
     "t": "☆乙ゲー",
     "u": "https://maistar.blog.fc2.com/blog-entry-4581.html"
@@ -17611,8 +17947,8 @@
   ]
  },
  {
-  "name": "アルコバレーノ!",
-  "nameTbl": "アルコバレーノ!（PSP）",
+  "name": "アルコバレーノ！ポータブル",
+  "nameTbl": "アルコバレーノ！ポータブル（PSP）",
   "brand": "Otomate / Design Factory Co., Ltd.",
   "brands": [
    "Otomate",
@@ -17750,6 +18086,36 @@
    {
     "t": "モモ缶",
     "u": "https://web.archive.org/web/20120127013817/http://momokan.chu.jp/momokan/contents-a3g.html"
+   }
+  ]
+ },
+ {
+  "name": "アンジェリーク ルトゥール",
+  "nameTbl": "アンジェリーク ルトゥール（PSP）",
+  "brand": "Koei Tecmo Holdings Co., Ltd.",
+  "brands": [
+   "Koei Tecmo Holdings Co., Ltd."
+  ],
+  "publisher": "Koei Tecmo Holdings Co., Ltd.",
+  "publishers": [
+   "Koei Tecmo Holdings Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v28235",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "choro",
+    "u": "https://choro-game.com/blog-entry-1340.html"
+   },
+   {
+    "t": "Half Adder",
+    "u": "https://half-a.net/games1/neoroma/angeret.html"
    }
   ]
  },
@@ -17896,36 +18262,6 @@
   ]
  },
  {
-  "name": "アンジェーリーク ルトゥール - トレジャーBOX",
-  "nameTbl": "アンジェーリーク ルトゥール - トレジャーBOX（PSP）",
-  "brand": "Koei Tecmo Holdings Co., Ltd.",
-  "brands": [
-   "Koei Tecmo Holdings Co., Ltd."
-  ],
-  "publisher": "Koei Tecmo Holdings Co., Ltd.",
-  "publishers": [
-   "Koei Tecmo Holdings Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v28235",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "choro",
-    "u": "https://choro-game.com/blog-entry-1340.html"
-   },
-   {
-    "t": "Half Adder",
-    "u": "https://half-a.net/games1/neoroma/angeret.html"
-   }
-  ]
- },
- {
   "name": "アーメン・ノワール",
   "nameTbl": "アーメン・ノワール（PS2）",
   "brand": "Otomate / Design Factory Co., Ltd.",
@@ -17957,33 +18293,6 @@
    {
     "t": "モモ缶",
     "u": "https://web.archive.org/web/20150909222019/http://momokan.chu.jp/momokan/contents-armennoir.html"
-   }
-  ]
- },
- {
-  "name": "アーメン・ノワール ポータブル",
-  "nameTbl": "アーメン・ノワール ポータブル（PSP）",
-  "brand": "Otomate / Design Factory Co., Ltd.",
-  "brands": [
-   "Otomate",
-   "Design Factory Co., Ltd."
-  ],
-  "publisher": "Idea Factory Co., Ltd.",
-  "publishers": [
-   "Idea Factory Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v4633",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "乙女ゲーム攻略",
-    "u": "https://otomegame-capture.com/psp/armen_noir/"
    }
   ]
  },
@@ -18394,41 +18703,6 @@
   ]
  },
  {
-  "name": "エンケルトビレット",
-  "nameTbl": "エンケルトビレット（PSP）",
-  "brand": "ichicolumn inc.",
-  "brands": [
-   "ichicolumn inc."
-  ],
-  "publisher": "Idea Factory Co., Ltd. / Otomate",
-  "publishers": [
-   "Idea Factory Co., Ltd.",
-   "Otomate"
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v13850",
-  "cover": "/img/guides-covers/エンケルトビレット（PSP）.jpg",
-  "guides": [
-   {
-    "t": "choro",
-    "u": "https://choro-game.com/e/enkeltbillet-guide"
-   },
-   {
-    "t": "Half Adder",
-    "u": "https://half-a.net/games1/enkeltbillet.html"
-   },
-   {
-    "t": "モモ缶",
-    "u": "https://web.archive.org/web/20151012160343/http://momokan.chu.jp/momokan/contents-enkelt.html"
-   }
-  ]
- },
- {
   "name": "エーデルブルーメ",
   "nameTbl": "エーデルブルーメ（PS2）",
   "brand": "Otomate / Design Factory Co., Ltd.",
@@ -18456,33 +18730,6 @@
    {
     "t": "La Primavera",
     "u": "https://web.archive.org/web/20080501132416/http://otome.girly.jp/edel_blume/menu.html"
-   }
-  ]
- },
- {
-  "name": "オトメイトコレクション 緋色の欠片 ポータブル",
-  "nameTbl": "オトメイトコレクション 緋色の欠片 ポータブル（PSP）",
-  "brand": "Otomate / Design Factory Co., Ltd.",
-  "brands": [
-   "Otomate",
-   "Design Factory Co., Ltd."
-  ],
-  "publisher": "Idea Factory Co., Ltd.",
-  "publishers": [
-   "Idea Factory Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v1629",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "peche",
-    "u": "https://pecheotome.web.fc2.com/game/hiiro_psp/index.html"
    }
   ]
  },
@@ -18850,6 +19097,36 @@
   ]
  },
  {
+  "name": "カエル畑DEつかまえて☆彡 ポータブル",
+  "nameTbl": "カエル畑DEつかまえて☆彡 ポータブル（PSP）",
+  "brand": "Takuyo Co., Ltd.",
+  "brands": [
+   "Takuyo Co., Ltd."
+  ],
+  "publisher": "Takuyo Co., Ltd.",
+  "publishers": [
+   "Takuyo Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v3106",
+  "cover": "/img/guides-covers/カエル畑DEつかまえて☆彡 ポータブル（PSP）.jpg",
+  "guides": [
+   {
+    "t": "Half Adder",
+    "u": "https://half-a.net/games1/kaerubatake.html"
+   },
+   {
+    "t": "choro",
+    "u": "https://choro-game.com/e/kaerubatake-guide"
+   }
+  ]
+ },
+ {
   "name": "カエル畑DEつかまえて・夏 千木良参戦!",
   "nameTbl": "カエル畑DEつかまえて・夏 千木良参戦!（PSV）",
   "brand": "Takuyo Co., Ltd.",
@@ -18884,8 +19161,8 @@
   ]
  },
  {
-  "name": "カエル畑DEつかまえて・夏 千木良参戦! ぽーたぶる",
-  "nameTbl": "カエル畑DEつかまえて・夏 千木良参戦! ぽーたぶる（PSP）",
+  "name": "カエル畑DEつかまえて･夏 千木良参戦！ ぽｰたぶる",
+  "nameTbl": "カエル畑DEつかまえて･夏 千木良参戦！ ぽｰたぶる（PSP）",
   "brand": "Takuyo Co., Ltd.",
   "brands": [
    "Takuyo Co., Ltd."
@@ -18901,7 +19178,7 @@
   "lang": "JP",
   "orient": "乙女向",
   "vndb": "https://vndb.org/v5837",
-  "cover": "/img/guides-covers/カエル畑DEつかまえて・夏 千木良参戦! ぽーたぶる（PSP）.jpg",
+  "cover": "/img/guides-covers/カエル畑DEつかまえて･夏 千木良参戦！ ぽｰたぶる（PSP）.jpg",
   "guides": [
    {
     "t": "Half Adder",
@@ -18940,32 +19217,6 @@
    {
     "t": "モモ缶",
     "u": "https://web.archive.org/web/20120107190057/http://momokan.chu.jp/momokan/kaerude_fd-gw1.html"
-   }
-  ]
- },
- {
-  "name": "カスタムドライブ",
-  "nameTbl": "カスタムドライブ（PSP）",
-  "brand": "Vridge Inc.",
-  "brands": [
-   "Vridge Inc."
-  ],
-  "publisher": "D3PUBLISHER INC.",
-  "publishers": [
-   "D3PUBLISHER INC."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v10623",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "モモ缶",
-    "u": "https://web.archive.org/web/20160302115716/http://momokan.chu.jp/momokan/contents-customd.html"
    }
   ]
  },
@@ -19342,8 +19593,8 @@
   ]
  },
  {
-  "name": "キミカレ 〜新学期〜",
-  "nameTbl": "キミカレ 〜新学期〜（PSP）",
+  "name": "キミカレ ～新学期～",
+  "nameTbl": "キミカレ ～新学期～（PSP）",
   "brand": "WINLIGHT Co.,Ltd.",
   "brands": [
    "WINLIGHT Co.,Ltd."
@@ -19369,30 +19620,7 @@
    {
     "t": "hijikata",
     "u": "https://ameblo.jp/hijikata-san-0510/entry-12942407828.html"
-   }
-  ]
- },
- {
-  "name": "キミカレ ～新学期～ 君とナイショの…今日から彼氏",
-  "nameTbl": "キミカレ ～新学期～ 君とナイショの…今日から彼氏（PSP）",
-  "brand": "WINLIGHT Co.,Ltd.",
-  "brands": [
-   "WINLIGHT Co.,Ltd."
-  ],
-  "publisher": "Idea Factory Co., Ltd. / Otomate",
-  "publishers": [
-   "Idea Factory Co., Ltd.",
-   "Otomate"
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v11095",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
+   },
    {
     "t": "乙女の友",
     "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/kimikare/top.html"
@@ -19618,8 +19846,8 @@
   ]
  },
  {
-  "name": "クリムゾン・エンパイア〜Circumstance to serve a noble〜",
-  "nameTbl": "クリムゾン・エンパイア〜Circumstance to serve a noble〜（PSV）",
+  "name": "クリムゾン・エンパイア～Circumstance to serve a noble～",
+  "nameTbl": "クリムゾン・エンパイア～Circumstance to serve a noble～（PSV）",
   "brand": "QuinRose",
   "brands": [
    "QuinRose"
@@ -19857,8 +20085,8 @@
   ]
  },
  {
-  "name": "クローバーの国のアリス～ Wonderful Wonder World ～",
-  "nameTbl": "クローバーの国のアリス～ Wonderful Wonder World ～（PSP）",
+  "name": "クローバーの国のアリス～Wonderful Wonder World～",
+  "nameTbl": "クローバーの国のアリス～Wonderful Wonder World～（PSP）",
   "brand": "QuinRose",
   "brands": [
    "QuinRose"
@@ -19874,7 +20102,7 @@
   "lang": "JP",
   "orient": "乙女向",
   "vndb": "https://vndb.org/v802",
-  "cover": "/img/guides-covers/クローバーの国のアリス～ Wonderful Wonder World ～（PSP）.jpg",
+  "cover": "/img/guides-covers/クローバーの国のアリス～Wonderful Wonder World～（PSP）.jpg",
   "guides": [
    {
     "t": "choro",
@@ -19969,76 +20197,6 @@
    {
     "t": "miyutan",
     "u": "http://miyutan0509.blog.fc2.com/blog-entry-164.html"
-   }
-  ]
- },
- {
-  "name": "グラスハートオプリンセス",
-  "nameTbl": "グラスハートオプリンセス（PSP）",
-  "brand": "Otomate / Design Factory Co., Ltd.",
-  "brands": [
-   "Otomate",
-   "Design Factory Co., Ltd."
-  ],
-  "publisher": "Idea Factory Co., Ltd.",
-  "publishers": [
-   "Idea Factory Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v10419",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "ruRi",
-    "u": "https://ruri-ototgame.hatenablog.com/entry/2025/11/05/192756"
-   },
-   {
-    "t": "某の乙女ゲー",
-    "u": "https://www.soregashi.work/entry/glassheart-matome"
-   },
-   {
-    "t": "ruRi(2)",
-    "u": "https://ruri-ototgame.hatenablog.com/entry/2025/11/05/192704"
-   }
-  ]
- },
- {
-  "name": "グラスハートプリンセス:プラチナム",
-  "nameTbl": "グラスハートプリンセス:プラチナム（PSP）",
-  "brand": "Otomate / Design Factory Co., Ltd.",
-  "brands": [
-   "Otomate",
-   "Design Factory Co., Ltd."
-  ],
-  "publisher": "Idea Factory Co., Ltd.",
-  "publishers": [
-   "Idea Factory Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v12571",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "ruRi",
-    "u": "https://ruri-ototgame.hatenablog.com/entry/2025/11/06/015944"
-   },
-   {
-    "t": "ruRi(2)",
-    "u": "https://ruri-ototgame.hatenablog.com/entry/2025/11/06/015907"
-   },
-   {
-    "t": "モモ缶",
-    "u": "https://web.archive.org/web/20131213033130/http://momokan.chu.jp/momokan/contents-gheart_pl.html"
    }
   ]
  },
@@ -20197,32 +20355,6 @@
    {
     "t": "miyutan",
     "u": "http://miyutan0509.blog.fc2.com/blog-entry-462.html"
-   }
-  ]
- },
- {
-  "name": "コーエーテクモ the Best 遙かなる時空の中で3 with 十六夜記 愛蔵版",
-  "nameTbl": "コーエーテクモ the Best 遙かなる時空の中で3 with 十六夜記 愛蔵版（PSP）",
-  "brand": "KOEI Co., Ltd.",
-  "brands": [
-   "KOEI Co., Ltd."
-  ],
-  "publisher": "KOEI Co., Ltd.",
-  "publishers": [
-   "KOEI Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v3260",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "hijikata",
-    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942406792.html"
    }
   ]
  },
@@ -20585,36 +20717,6 @@
   ]
  },
  {
-  "name": "ジュエリック・ナイトメア",
-  "nameTbl": "ジュエリック・ナイトメア（PSP）",
-  "brand": "Otomate",
-  "brands": [
-   "Otomate"
-  ],
-  "publisher": "Idea Factory Co., Ltd.",
-  "publishers": [
-   "Idea Factory Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v12436",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "choro",
-    "u": "https://choro-game.com/e/jewelic-nightmare-guide"
-   },
-   {
-    "t": "モモ缶",
-    "u": "https://web.archive.org/web/20160302115905/http://momokan.chu.jp/momokan/contents-jewelic.html"
-   }
-  ]
- },
- {
   "name": "ジョーカーの国のアリス～ Wonderful Wonder World ～",
   "nameTbl": "ジョーカーの国のアリス～ Wonderful Wonder World ～（PC）",
   "brand": "QuinRose",
@@ -20649,8 +20751,8 @@
   ]
  },
  {
-  "name": "ジョーカーの国のアリス～ Wonderful Wonder World ～",
-  "nameTbl": "ジョーカーの国のアリス～ Wonderful Wonder World ～（PSP）",
+  "name": "ジョーカーの国のアリス～Wonderful Wonder World～",
+  "nameTbl": "ジョーカーの国のアリス～Wonderful Wonder World～（PSP）",
   "brand": "QuinRose",
   "brands": [
    "QuinRose"
@@ -21050,6 +21152,40 @@
    {
     "t": "モモ缶",
     "u": "https://web.archive.org/web/20160302120128/http://momokan.chu.jp/momokan/contents-strobe.html"
+   }
+  ]
+ },
+ {
+  "name": "スト☆マニ ～Strobe☆Mania～",
+  "nameTbl": "スト☆マニ ～Strobe☆Mania～（PSP）",
+  "brand": "Arcadia Project Co,. Ltd.",
+  "brands": [
+   "Arcadia Project Co,. Ltd."
+  ],
+  "publisher": "D3PUBLISHER INC.",
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v8576",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "Half Adder",
+    "u": "https://half-a.net/games1/stomani.html"
+   },
+   {
+    "t": "乙女の友",
+    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/strobe_mania/top.html"
+   },
+   {
+    "t": "乙女ゲーム攻略",
+    "u": "https://otomegame-capture.com/psp/stomani/"
    }
   ]
  },
@@ -21502,8 +21638,8 @@
   ]
  },
  {
-  "name": "ダイヤの国のアリス ～Mirror～",
-  "nameTbl": "ダイヤの国のアリス ～Mirror～（PSP）",
+  "name": "ダイヤの国のアリス～ Wonderful Mirror World ～",
+  "nameTbl": "ダイヤの国のアリス～ Wonderful Mirror World ～（PSP）",
   "brand": "",
   "brands": [],
   "publisher": "",
@@ -21524,8 +21660,8 @@
   ]
  },
  {
-  "name": "ダイヤの国のアリス ～Wonderful Wonder World～",
-  "nameTbl": "ダイヤの国のアリス ～Wonderful Wonder World～（PSP）",
+  "name": "ダイヤの国のアリス～Wonderful Wonder World～",
+  "nameTbl": "ダイヤの国のアリス～Wonderful Wonder World～（PSP）",
   "brand": "QuinRose",
   "brands": [
    "QuinRose"
@@ -21672,32 +21808,6 @@
   "orient": "蔷薇向",
   "vndb": "https://vndb.org/v2203",
   "cover": "/img/guides-covers/チェリーブロッサム（PS2）.jpg",
-  "guides": [
-   {
-    "t": "乙女の友",
-    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/cherryblossom/top.html"
-   }
-  ]
- },
- {
-  "name": "チェリーブロッサム",
-  "nameTbl": "チェリーブロッサム（PSP）",
-  "brand": "Takuyo Co., Ltd.",
-  "brands": [
-   "Takuyo Co., Ltd."
-  ],
-  "publisher": "Takuyo Co., Ltd.",
-  "publishers": [
-   "Takuyo Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "蔷薇向",
-  "vndb": "https://vndb.org/v2203",
-  "cover": "/img/guides-covers/チェリーブロッサム（PSP）.jpg",
   "guides": [
    {
     "t": "乙女の友",
@@ -22113,28 +22223,6 @@
   ]
  },
  {
-  "name": "デザートラブ 〜Sweet Plus〜",
-  "nameTbl": "デザートラブ 〜Sweet Plus〜（PS2）",
-  "brand": "",
-  "brands": [],
-  "publisher": "",
-  "publishers": [],
-  "plat": "PS2",
-  "plats": [
-   "PS2"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "La Primavera",
-    "u": "https://web.archive.org/web/20060821205612/http://otome.girly.jp/dessertlove_ps2/menu.html"
-   }
-  ]
- },
- {
   "name": "デザートラブ スウィートプラス",
   "nameTbl": "デザートラブ スウィートプラス（PS2）",
   "brand": "TiramisuVilla",
@@ -22161,6 +22249,28 @@
    {
     "t": "乙女の友",
     "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/dessertlove_ps2.html"
+   }
+  ]
+ },
+ {
+  "name": "デザートラブ ～Sweet Plus～",
+  "nameTbl": "デザートラブ ～Sweet Plus～（PS2）",
+  "brand": "",
+  "brands": [],
+  "publisher": "",
+  "publishers": [],
+  "plat": "PS2",
+  "plats": [
+   "PS2"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "La Primavera",
+    "u": "https://web.archive.org/web/20060821205612/http://otome.girly.jp/dessertlove_ps2/menu.html"
    }
   ]
  },
@@ -22232,19 +22342,37 @@
   "brands": [
    "Otomate"
   ],
-  "publisher": "",
-  "publishers": [],
+  "publisher": "Idea Factory Co., Ltd.",
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
   "plat": "PSP",
   "plats": [
    "PSP"
   ],
   "lang": "JP",
   "orient": "乙女向",
-  "vndb": "",
-  "cover": "/img/guides-covers/placeholder.png",
+  "vndb": "https://vndb.org/v1872",
+  "cover": "/img/guides-covers/デス・コネクション ポータブル（PSP）.jpg",
   "guides": [
    {
     "t": "choro",
+    "u": "https://choro-game.com/e/death_c-kouryaku"
+   },
+   {
+    "t": "乙女の友",
+    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/death_connection.html"
+   },
+   {
+    "t": "ruRi",
+    "u": "https://ruri-ototgame.hatenablog.com/entry/2024/08/28/193835"
+   },
+   {
+    "t": "モモ缶",
+    "u": "https://web.archive.org/web/20120127115809/http://momokan.chu.jp/momokan/contents-death_conne.html"
+   },
+   {
+    "t": "choro(2)",
     "u": "https://choro-game.com/e/death_c-kouryaku-all"
    }
   ]
@@ -23038,54 +23166,6 @@
   ]
  },
  {
-  "name": "ハートの国のアリス ～Twin～",
-  "nameTbl": "ハートの国のアリス ～Twin～（PSP）",
-  "brand": "",
-  "brands": [],
-  "publisher": "",
-  "publishers": [],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "モモ缶",
-    "u": "https://web.archive.org/web/20170205014723/http://momokan.chu.jp/momokan/contents-alice_ht.html"
-   }
-  ]
- },
- {
-  "name": "ハートの国のアリス ～Wonderful Twin World～",
-  "nameTbl": "ハートの国のアリス ～Wonderful Twin World～（PSP）",
-  "brand": "QuinRose",
-  "brands": [
-   "QuinRose"
-  ],
-  "publisher": "QuinRose",
-  "publishers": [
-   "QuinRose"
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v14340",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "choro",
-    "u": "https://choro-game.com/blog-entry-465.html"
-   }
-  ]
- },
- {
   "name": "ハートの国のアリス～ Wonderful Wonder World ～",
   "nameTbl": "ハートの国のアリス～ Wonderful Wonder World ～（PC）",
   "brand": "QuinRose",
@@ -23146,6 +23226,36 @@
   ]
  },
  {
+  "name": "ハートの国のアリス～Wonderful Twin World～",
+  "nameTbl": "ハートの国のアリス～Wonderful Twin World～（PSP）",
+  "brand": "QuinRose",
+  "brands": [
+   "QuinRose"
+  ],
+  "publisher": "QuinRose",
+  "publishers": [
+   "QuinRose"
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v14340",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "choro",
+    "u": "https://choro-game.com/blog-entry-465.html"
+   },
+   {
+    "t": "モモ缶",
+    "u": "https://web.archive.org/web/20170205014723/http://momokan.chu.jp/momokan/contents-alice_ht.html"
+   }
+  ]
+ },
+ {
   "name": "バクダン★ハンダン",
   "nameTbl": "バクダン★ハンダン（PSP）",
   "brand": "Otomate",
@@ -23168,26 +23278,6 @@
    {
     "t": "モモ缶",
     "u": "https://web.archive.org/web/20160302121737/http://momokan.chu.jp/momokan/contents-bakudan.html"
-   }
-  ]
- },
- {
-  "name": "バトラーズ 〜召しませお嬢様〜 ナイトモード",
-  "nameTbl": "バトラーズ 〜召しませお嬢様〜 ナイトモード",
-  "brand": "",
-  "brands": [],
-  "publisher": "",
-  "publishers": [],
-  "plat": "",
-  "plats": [],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "La Primavera",
-    "u": "https://web.archive.org/web/20061214073820/http://otome.girly.jp/butlers_night/menu.html"
    }
   ]
  },
@@ -23226,6 +23316,26 @@
    {
     "t": "La Primavera",
     "u": "https://web.archive.org/web/20061128012940/http://otome.girly.jp/butlers/menu.html"
+   }
+  ]
+ },
+ {
+  "name": "バトラーズ ～召しませお嬢様～ ナイトモード",
+  "nameTbl": "バトラーズ ～召しませお嬢様～ ナイトモード",
+  "brand": "",
+  "brands": [],
+  "publisher": "",
+  "publishers": [],
+  "plat": "",
+  "plats": [],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "La Primavera",
+    "u": "https://web.archive.org/web/20061214073820/http://otome.girly.jp/butlers_night/menu.html"
    }
   ]
  },
@@ -23827,8 +23937,8 @@
   ]
  },
  {
-  "name": "ピリオドキューブ 〜鳥籠のアマデウス〜",
-  "nameTbl": "ピリオドキューブ 〜鳥籠のアマデウス〜（PSV）",
+  "name": "ピリオドキューブ ～鳥籠のアマデウス～",
+  "nameTbl": "ピリオドキューブ ～鳥籠のアマデウス～（PSV）",
   "brand": "Otomate",
   "brands": [],
   "publisher": "Idea Factory Co., Ltd.",
@@ -24293,8 +24403,8 @@
   ]
  },
  {
-  "name": "ブラザーズ 〜もっと恋するお兄さま〜",
-  "nameTbl": "ブラザーズ 〜もっと恋するお兄さま〜",
+  "name": "ブラザーズ ～もっと恋するお兄さま～",
+  "nameTbl": "ブラザーズ ～もっと恋するお兄さま～",
   "brand": "",
   "brands": [],
   "publisher": "",
@@ -24309,62 +24419,6 @@
    {
     "t": "La Primavera",
     "u": "https://web.archive.org/web/20071030075104/http://otome.girly.jp/brothers_motto/menu.html"
-   }
-  ]
- },
- {
-  "name": "ブラザーズ コンフリクト パッションピンク",
-  "nameTbl": "ブラザーズ コンフリクト パッションピンク（PSP）",
-  "brand": "Otomate",
-  "brands": [
-   "Otomate"
-  ],
-  "publisher": "Idea Factory Co., Ltd.",
-  "publishers": [
-   "Idea Factory Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v7557",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "peche",
-    "u": "https://pecheotome.web.fc2.com/game/brothersconfict_pink/index.html"
-   },
-   {
-    "t": "☆乙ゲー",
-    "u": "https://maistar.blog.fc2.com/blog-entry-2290.html"
-   }
-  ]
- },
- {
-  "name": "ブラザーズ コンフリクト ブリリアントブルー",
-  "nameTbl": "ブラザーズ コンフリクト ブリリアントブルー（PSP）",
-  "brand": "Otomate",
-  "brands": [
-   "Otomate"
-  ],
-  "publisher": "Idea Factory Co., Ltd.",
-  "publishers": [
-   "Idea Factory Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v7557",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "☆乙ゲー",
-    "u": "https://maistar.blog.fc2.com/blog-entry-2349.html"
    }
   ]
  },
@@ -24425,70 +24479,6 @@
    {
     "t": "choro",
     "u": "https://choro-game.com/e/bwsbloody-nightmare-guide"
-   }
-  ]
- },
- {
-  "name": "ブラック ウルヴス サーガ Last Hope",
-  "nameTbl": "ブラック ウルヴス サーガ Last Hope（PSP）",
-  "brand": "Rejet Co., Ltd.",
-  "brands": [
-   "Rejet Co., Ltd."
-  ],
-  "publisher": "Otomate",
-  "publishers": [
-   "Otomate"
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v12775",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "choro",
-    "u": "https://choro-game.com/e/bws-last-hope-guide"
-   },
-   {
-    "t": "ruRi",
-    "u": "https://ruri-ototgame.hatenablog.com/entry/2024/08/21/164215"
-   },
-   {
-    "t": "La Primavera",
-    "u": "https://web.archive.org/web/20121231221759/http://otome.girly.jp/bws_lh/menu.html"
-   }
-  ]
- },
- {
-  "name": "ブラック・コード",
-  "nameTbl": "ブラック・コード（PSP）",
-  "brand": "QuinRose",
-  "brands": [
-   "QuinRose"
-  ],
-  "publisher": "QuinRose",
-  "publishers": [
-   "QuinRose"
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v13627",
-  "cover": "/img/guides-covers/ブラック・コード（PSP）.jpg",
-  "guides": [
-   {
-    "t": "choro",
-    "u": "https://choro-game.com/e/black-code-guide"
-   },
-   {
-    "t": "乙女ゲーム攻略",
-    "u": "https://otomegame-capture.com/psp/blackcode/"
    }
   ]
  },
@@ -24554,8 +24544,8 @@
   ]
  },
  {
-  "name": "プリPia ～プリンスPia♥キャロット～",
-  "nameTbl": "プリPia ～プリンスPia♥キャロット～（PSP）",
+  "name": "プリPia～プリンスPia♥キャロット～",
+  "nameTbl": "プリPia～プリンスPia♥キャロット～（PSP）",
   "brand": "F&C Co., Ltd. / HuneX / Dramatic Create",
   "brands": [
    "F&C Co., Ltd.",
@@ -24935,6 +24925,43 @@
   ]
  },
  {
+  "name": "マイナスエイト",
+  "nameTbl": "マイナスエイト（PSP）",
+  "brand": "Otomate / Rejet Co., Ltd.",
+  "brands": [
+   "Otomate",
+   "Rejet Co., Ltd."
+  ],
+  "publisher": "",
+  "publishers": [],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v12155",
+  "cover": "/img/guides-covers/-8（PSP）.jpg",
+  "guides": [
+   {
+    "t": "choro",
+    "u": "https://choro-game.com/e/-8-guide"
+   },
+   {
+    "t": "乙女の友",
+    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/minus_8.html"
+   },
+   {
+    "t": "乙女ゲーム攻略",
+    "u": "https://otomegame-capture.com/psp/-8/"
+   },
+   {
+    "t": "モモ缶",
+    "u": "https://web.archive.org/web/20160302115952/http://momokan.chu.jp/momokan/contents-minus8.html"
+   }
+  ]
+ },
+ {
   "name": "マイネリーベ ～優美なる記憶～",
   "nameTbl": "マイネリーベ ～優美なる記憶～（DS）",
   "brand": "",
@@ -25082,8 +25109,8 @@
   ]
  },
  {
-  "name": "マザーグースの秘密の館",
-  "nameTbl": "マザーグースの秘密の館（PSP）",
+  "name": "マザーグースの秘密の館～Nursery Rhymes for you～",
+  "nameTbl": "マザーグースの秘密の館～Nursery Rhymes for you～（PSP）",
   "brand": "QuinRose",
   "brands": [
    "QuinRose"
@@ -25330,32 +25357,6 @@
    {
     "t": "BLで英会話",
     "u": "http://blenglish.blog.fc2.com/blog-entry-78.html"
-   }
-  ]
- },
- {
-  "name": "マスケティア",
-  "nameTbl": "マスケティア（PSP）",
-  "brand": "Otomate",
-  "brands": [
-   "Otomate"
-  ],
-  "publisher": "Idea Factory Co., Ltd.",
-  "publishers": [
-   "Idea Factory Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v7425",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "モモ缶",
-    "u": "https://web.archive.org/web/20120126151851/http://momokan.chu.jp/momokan/contents-musketeer.html"
    }
   ]
  },
@@ -26151,32 +26152,6 @@
   ]
  },
  {
-  "name": "ラスト・エスコート 〜黒蝶スペシャルナイト〜",
-  "nameTbl": "ラスト・エスコート 〜黒蝶スペシャルナイト〜（PS2）",
-  "brand": "Vingt-et-un. Systems Corporation",
-  "brands": [
-   "Vingt-et-un. Systems Corporation"
-  ],
-  "publisher": "D3PUBLISHER INC.",
-  "publishers": [
-   "D3PUBLISHER INC."
-  ],
-  "plat": "PS2",
-  "plats": [
-   "PS2"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v1979",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "La Primavera",
-    "u": "https://web.archive.org/web/20060821204557/http://otome.girly.jp/escort_sp/menu.html"
-   }
-  ]
- },
- {
   "name": "ラスト・エスコート ～深夜の黒蝶物語～",
   "nameTbl": "ラスト・エスコート ～深夜の黒蝶物語～（PS2）",
   "brand": "Vingt-et-un. Systems Corporation",
@@ -26207,6 +26182,32 @@
    {
     "t": "OTOME-Wiki",
     "u": "http://www.ladygamer.jp/wiki/index.php?%E3%83%A9%E3%82%B9%E3%83%88%E3%83%BB%E3%82%A8%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88"
+   }
+  ]
+ },
+ {
+  "name": "ラスト・エスコート ～黒蝶スペシャルナイト～",
+  "nameTbl": "ラスト・エスコート ～黒蝶スペシャルナイト～（PS2）",
+  "brand": "Vingt-et-un. Systems Corporation",
+  "brands": [
+   "Vingt-et-un. Systems Corporation"
+  ],
+  "publisher": "D3PUBLISHER INC.",
+  "publishers": [
+   "D3PUBLISHER INC."
+  ],
+  "plat": "PS2",
+  "plats": [
+   "PS2"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v1979",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "La Primavera",
+    "u": "https://web.archive.org/web/20060821204557/http://otome.girly.jp/escort_sp/menu.html"
    }
   ]
  },
@@ -26775,37 +26776,6 @@
   ]
  },
  {
-  "name": "ルシアンビーズ イビル ヴァイオレット",
-  "nameTbl": "ルシアンビーズ イビル ヴァイオレット（PSP）",
-  "brand": "HuneX / Rejet Co., Ltd.",
-  "brands": [
-   "HuneX",
-   "Rejet Co., Ltd."
-  ],
-  "publisher": "MAGES.",
-  "publishers": [
-   "MAGES."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v9918",
-  "cover": "/img/guides-covers/ルシアンビーズ イビル ヴァイオレット（PSP）.jpg",
-  "guides": [
-   {
-    "t": "乙女ゲーム攻略",
-    "u": "https://otomegame-capture.com/psp/lb_ev/"
-   },
-   {
-    "t": "La Primavera",
-    "u": "https://web.archive.org/web/20100605081308/http://otome.girly.jp/lb_violet/menu.html"
-   }
-  ]
- },
- {
   "name": "ルシアンビーズ ジャスティス イエロー",
   "nameTbl": "ルシアンビーズ ジャスティス イエロー（PS2）",
   "brand": "HuneX / Rejet Co., Ltd.",
@@ -26829,41 +26799,6 @@
    {
     "t": "Half Adder",
     "u": "https://half-a.net/games1/lucian.html"
-   },
-   {
-    "t": "La Primavera",
-    "u": "https://web.archive.org/web/20100623025546/http://otome.girly.jp/lb_yellow/menu.html"
-   },
-   {
-    "t": "OTOME-Wiki",
-    "u": "http://www.ladygamer.jp/otw/LucianBees/"
-   }
-  ]
- },
- {
-  "name": "ルシアンビーズ ジャスティス イエロー",
-  "nameTbl": "ルシアンビーズ ジャスティス イエロー（PSP）",
-  "brand": "HuneX / Rejet Co., Ltd.",
-  "brands": [
-   "HuneX",
-   "Rejet Co., Ltd."
-  ],
-  "publisher": "MAGES.",
-  "publishers": [
-   "MAGES."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v9917",
-  "cover": "/img/guides-covers/ルシアンビーズ ジャスティス イエロー（PSP）.jpg",
-  "guides": [
-   {
-    "t": "乙女ゲーム攻略",
-    "u": "https://otomegame-capture.com/psp/lb_jy/"
    },
    {
     "t": "La Primavera",
@@ -27252,16 +27187,15 @@
   ]
  },
  {
-  "name": "ワンド オブ フォーチュン 2 ～時空に沈む黙示録～",
-  "nameTbl": "ワンド オブ フォーチュン 2 ～時空に沈む黙示録～（PSP）",
-  "brand": "Otomate / Design Factory Co., Ltd.",
+  "name": "ロミオ＆ジュリエット",
+  "nameTbl": "ロミオ＆ジュリエット（PSP）",
+  "brand": "QuinRose",
   "brands": [
-   "Otomate",
-   "Design Factory Co., Ltd."
+   "QuinRose"
   ],
-  "publisher": "Idea Factory Co., Ltd.",
+  "publisher": "QuinRose",
   "publishers": [
-   "Idea Factory Co., Ltd."
+   "QuinRose"
   ],
   "plat": "PSP",
   "plats": [
@@ -27269,12 +27203,12 @@
   ],
   "lang": "JP",
   "orient": "乙女向",
-  "vndb": "https://vndb.org/v4542",
+  "vndb": "https://vndb.org/v13911",
   "cover": "/img/guides-covers/placeholder.png",
   "guides": [
    {
-    "t": "乙女の友",
-    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/wand_of_fortune/2/top.html"
+    "t": "choro",
+    "u": "https://choro-game.com/e/romeoandjuliet"
    }
   ]
  },
@@ -27349,6 +27283,33 @@
    {
     "t": "みずき",
     "u": "https://plaza.rakuten.co.jp/mizukinoko/diary/201810230003/"
+   }
+  ]
+ },
+ {
+  "name": "ワンド オブ フォーチュン R2 ～時空に沈む黙示録～",
+  "nameTbl": "ワンド オブ フォーチュン R2 ～時空に沈む黙示録～（PSP）",
+  "brand": "Otomate / Design Factory Co., Ltd.",
+  "brands": [
+   "Otomate",
+   "Design Factory Co., Ltd."
+  ],
+  "publisher": "Idea Factory Co., Ltd.",
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v4542",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "乙女の友",
+    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/wand_of_fortune/2/top.html"
    }
   ]
  },
@@ -27540,8 +27501,8 @@
   ]
  },
  {
-  "name": "ワンド オブ フォーチュン ～未来へのプロローグ～  ポータブル",
-  "nameTbl": "ワンド オブ フォーチュン ～未来へのプロローグ～  ポータブル（PSP）",
+  "name": "ワンド オブ フォーチュン ～未来へのプロローグ～ ポータブル",
+  "nameTbl": "ワンド オブ フォーチュン ～未来へのプロローグ～ ポータブル（PSP）",
   "brand": "Otomate / Design Factory Co., Ltd.",
   "brands": [
    "Otomate",
@@ -27563,6 +27524,33 @@
    {
     "t": "乙女の友",
     "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/wand_of_fortune/fd/top.html"
+   }
+  ]
+ },
+ {
+  "name": "ワンド オブ フォーチュン2 FD ～君に捧げるエピローグ～",
+  "nameTbl": "ワンド オブ フォーチュン2 FD ～君に捧げるエピローグ～（PSP）",
+  "brand": "Otomate / Design Factory Co., Ltd.",
+  "brands": [
+   "Otomate",
+   "Design Factory Co., Ltd."
+  ],
+  "publisher": "Idea Factory Co., Ltd.",
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v10050",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "乙女の友",
+    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/wand_of_fortune/2/fd/top.html"
    }
   ]
  },
@@ -28079,6 +28067,36 @@
   ]
  },
  {
+  "name": "下天の華",
+  "nameTbl": "下天の華（PSP）",
+  "brand": "Koei Tecmo Holdings Co., Ltd.",
+  "brands": [
+   "Koei Tecmo Holdings Co., Ltd."
+  ],
+  "publisher": "Koei Tecmo Holdings Co., Ltd.",
+  "publishers": [
+   "Koei Tecmo Holdings Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v11639",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "Half Adder",
+    "u": "https://half-a.net/games1/neoroma/geten.html"
+   },
+   {
+    "t": "乙女の友",
+    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/getennohana/top.html"
+   }
+  ]
+ },
+ {
   "name": "下天の華 with 夢灯り 愛蔵版",
   "nameTbl": "下天の華 with 夢灯り 愛蔵版（PSV）",
   "brand": "Koei Tecmo Holdings Co., Ltd.",
@@ -28113,36 +28131,6 @@
    {
     "t": "モモ缶",
     "u": "https://web.archive.org/web/20150908222104/http://momokan.chu.jp/momokan/contents-geten.html"
-   }
-  ]
- },
- {
-  "name": "下天の華 プレミアムBOX",
-  "nameTbl": "下天の華 プレミアムBOX（PSP）",
-  "brand": "Koei Tecmo Holdings Co., Ltd.",
-  "brands": [
-   "Koei Tecmo Holdings Co., Ltd."
-  ],
-  "publisher": "Koei Tecmo Holdings Co., Ltd.",
-  "publishers": [
-   "Koei Tecmo Holdings Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v11639",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "Half Adder",
-    "u": "https://half-a.net/games1/neoroma/geten.html"
-   },
-   {
-    "t": "乙女の友",
-    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/getennohana/top.html"
    }
   ]
  },
@@ -29560,8 +29548,8 @@
   ]
  },
  {
-  "name": "十三支演義～偃月三国伝～",
-  "nameTbl": "十三支演義～偃月三国伝～（PSP）",
+  "name": "十三支演義 ～偃月三国伝～",
+  "nameTbl": "十三支演義 ～偃月三国伝～（PSP）",
   "brand": "Red Entertainment Corporation",
   "brands": [
    "Red Entertainment Corporation"
@@ -29599,6 +29587,45 @@
    {
     "t": "モモ缶",
     "u": "https://web.archive.org/web/20180625085718/http://momokan.chu.jp/momokan/contents-jyuza.html"
+   }
+  ]
+ },
+ {
+  "name": "十鬼の絆",
+  "nameTbl": "十鬼の絆（PSP）",
+  "brand": "Otomate / Design Factory Co., Ltd.",
+  "brands": [
+   "Otomate",
+   "Design Factory Co., Ltd."
+  ],
+  "publisher": "Idea Factory Co., Ltd.",
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v9885",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "Half Adder",
+    "u": "https://half-a.net/games1/tokinokizuna.html"
+   },
+   {
+    "t": "ruRi",
+    "u": "https://ruri-ototgame.hatenablog.com/entry/2024/08/18/191001"
+   },
+   {
+    "t": "hijikata",
+    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942407838.html"
+   },
+   {
+    "t": "La Primavera",
+    "u": "https://web.archive.org/web/20120722192426/http://otome.girly.jp/toki/menu.html"
    }
   ]
  },
@@ -29672,45 +29699,6 @@
   ]
  },
  {
-  "name": "十鬼の絆 関ヶ原奇譚",
-  "nameTbl": "十鬼の絆 関ヶ原奇譚（PSP）",
-  "brand": "Otomate / Design Factory Co., Ltd.",
-  "brands": [
-   "Otomate",
-   "Design Factory Co., Ltd."
-  ],
-  "publisher": "Idea Factory Co., Ltd.",
-  "publishers": [
-   "Idea Factory Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v9885",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "Half Adder",
-    "u": "https://half-a.net/games1/tokinokizuna.html"
-   },
-   {
-    "t": "ruRi",
-    "u": "https://ruri-ototgame.hatenablog.com/entry/2024/08/18/191001"
-   },
-   {
-    "t": "hijikata",
-    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942407838.html"
-   },
-   {
-    "t": "La Primavera",
-    "u": "https://web.archive.org/web/20120722192426/http://otome.girly.jp/toki/menu.html"
-   }
-  ]
- },
- {
   "name": "午前0時のマージナル",
   "nameTbl": "午前0時のマージナル（PC）",
   "brand": "HACKMOCK",
@@ -29764,8 +29752,8 @@
   ]
  },
  {
-  "name": "原宿探偵スチールウッド",
-  "nameTbl": "原宿探偵スチールウッド（PSP）",
+  "name": "原宿探偵学園 スチールウッド",
+  "nameTbl": "原宿探偵学園 スチールウッド（PSP）",
   "brand": "",
   "brands": [],
   "publisher": "",
@@ -31003,8 +30991,8 @@
   ]
  },
  {
-  "name": "夏空のモノローグ",
-  "nameTbl": "夏空のモノローグ（PSP）",
+  "name": "夏空のモノローグ portable",
+  "nameTbl": "夏空のモノローグ portable（PSP）",
   "brand": "Otomate / Design Factory Co., Ltd.",
   "brands": [
    "Otomate",
@@ -31647,8 +31635,8 @@
   ]
  },
  {
-  "name": "大正鬼譚 ～言ノ葉櫻～",
-  "nameTbl": "大正鬼譚 ～言ノ葉櫻～（PSP）",
+  "name": "大正鬼譚～言ノ葉櫻～",
+  "nameTbl": "大正鬼譚～言ノ葉櫻～（PSP）",
   "brand": "QuinRose",
   "brands": [
    "QuinRose"
@@ -33582,6 +33570,10 @@
    {
     "t": "乙女ゲーム攻略",
     "u": "https://otomegame-capture.com/psp/apricot/"
+   },
+   {
+    "t": "乙女の友",
+    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/kaitou_apricot/kanzenban/top.html"
    }
   ]
  },
@@ -33612,32 +33604,6 @@
    {
     "t": "miyutan",
     "u": "http://miyutan0509.blog.fc2.com/blog-entry-154.html"
-   }
-  ]
- },
- {
-  "name": "怪盗アプリコット 完全版",
-  "nameTbl": "怪盗アプリコット 完全版（PSP）",
-  "brand": "Takuyo Co., Ltd.",
-  "brands": [
-   "Takuyo Co., Ltd."
-  ],
-  "publisher": "Takuyo Co., Ltd.",
-  "publishers": [
-   "Takuyo Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v1877",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "乙女の友",
-    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/kaitou_apricot/kanzenban/top.html"
    }
   ]
  },
@@ -33894,8 +33860,8 @@
   ]
  },
  {
-  "name": "恋愛番長 命短し、恋せよ乙女! Love is Power",
-  "nameTbl": "恋愛番長 命短し、恋せよ乙女! Love is Power（PSP）",
+  "name": "恋愛番長 命短し、恋せよ乙女！ Love is Power",
+  "nameTbl": "恋愛番長 命短し、恋せよ乙女！ Love is Power（PSP）",
   "brand": "Rejet Co., Ltd.",
   "brands": [
    "Rejet Co., Ltd."
@@ -34824,38 +34790,8 @@
   ]
  },
  {
-  "name": "文明開華 葵座異聞録 再演",
-  "nameTbl": "文明開華 葵座異聞録 再演（PSP）",
-  "brand": "HuneX",
-  "brands": [
-   "HuneX"
-  ],
-  "publisher": "FuRyu Corporation",
-  "publishers": [
-   "FuRyu Corporation"
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v9910",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "hijikata",
-    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942407718.html"
-   },
-   {
-    "t": "hijikata(2)",
-    "u": "https://search.ameba.jp/search/entry/PSP%E7%89%88%E3%80%8E%E6%96%87%E6%98%8E%E9%96%8B%E8%8F%AF%E3%80%80%E8%91%B5%E5%BA%A7%E7%95%B0%E8%81%9E%E9%8C%B2%E3%80%80%E5%86%8D%E6%BC%94%E3%80%8F.html?aid=hijikata-san-0510"
-   }
-  ]
- },
- {
-  "name": "文明開華葵座異聞録",
-  "nameTbl": "文明開華葵座異聞録（PSP）",
+  "name": "文明開華 葵座異聞録",
+  "nameTbl": "文明開華 葵座異聞録（PSP）",
   "brand": "HuneX",
   "brands": [
    "HuneX"
@@ -34892,6 +34828,36 @@
    {
     "t": "La Primavera",
     "u": "https://web.archive.org/web/20110927024732/http://otome.girly.jp/aoiza/menu.html"
+   }
+  ]
+ },
+ {
+  "name": "文明開華 葵座異聞録 再演",
+  "nameTbl": "文明開華 葵座異聞録 再演（PSP）",
+  "brand": "HuneX",
+  "brands": [
+   "HuneX"
+  ],
+  "publisher": "FuRyu Corporation",
+  "publishers": [
+   "FuRyu Corporation"
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v9910",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "hijikata",
+    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942407718.html"
+   },
+   {
+    "t": "hijikata(2)",
+    "u": "https://search.ameba.jp/search/entry/PSP%E7%89%88%E3%80%8E%E6%96%87%E6%98%8E%E9%96%8B%E8%8F%AF%E3%80%80%E8%91%B5%E5%BA%A7%E7%95%B0%E8%81%9E%E9%8C%B2%E3%80%80%E5%86%8D%E6%BC%94%E3%80%8F.html?aid=hijikata-san-0510"
    }
   ]
  },
@@ -36225,8 +36191,8 @@
   ]
  },
  {
-  "name": "月影の鎖 -錯乱パラノイア-",
-  "nameTbl": "月影の鎖 -錯乱パラノイア-（PSP）",
+  "name": "月影の鎖 ～狂爛モラトリアム～",
+  "nameTbl": "月影の鎖 ～狂爛モラトリアム～（NS）",
   "brand": "Takuyo Co., Ltd.",
   "brands": [
    "Takuyo Co., Ltd."
@@ -36235,51 +36201,9 @@
   "publishers": [
    "Takuyo Co., Ltd."
   ],
-  "plat": "PSP",
+  "plat": "NS",
   "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v11469",
-  "cover": "/img/guides-covers/月影の鎖 -錯乱パラノイア-（PSP）.jpg",
-  "guides": [
-   {
-    "t": "乙女の友",
-    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/getsueinokusari.html"
-   },
-   {
-    "t": "ruRi",
-    "u": "https://ruri-ototgame.hatenablog.com/entry/2024/08/13/220700"
-   },
-   {
-    "t": "hijikata",
-    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942408097.html"
-   },
-   {
-    "t": "La Primavera",
-    "u": "https://web.archive.org/web/20130616165224/http://otome.girly.jp/getsuei/menu.html"
-   },
-   {
-    "t": "モモ缶",
-    "u": "https://web.archive.org/web/20151011182249/http://momokan.chu.jp/momokan/contents-getsuei.html"
-   }
-  ]
- },
- {
-  "name": "月影の鎖 〜 狂瀾モラトリアム 〜",
-  "nameTbl": "月影の鎖 〜 狂瀾モラトリアム 〜（PSP）",
-  "brand": "Takuyo Co., Ltd.",
-  "brands": [
-   "Takuyo Co., Ltd."
-  ],
-  "publisher": "Takuyo Co., Ltd.",
-  "publishers": [
-   "Takuyo Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
+   "NS"
   ],
   "lang": "JP",
   "orient": "乙女向",
@@ -36287,14 +36211,14 @@
   "cover": "/img/guides-covers/placeholder.png",
   "guides": [
    {
-    "t": "ruRi",
-    "u": "https://ruri-ototgame.hatenablog.com/entry/2024/08/13/221935"
+    "t": "choro",
+    "u": "https://choro-game.com/e/getsuei_fd-guide"
    }
   ]
  },
  {
-  "name": "月影の鎖 狂爛モラトリアム",
-  "nameTbl": "月影の鎖 狂爛モラトリアム（PSP）",
+  "name": "月影の鎖 ～狂爛モラトリアム～",
+  "nameTbl": "月影の鎖 ～狂爛モラトリアム～（PSP）",
   "brand": "Takuyo Co., Ltd.",
   "brands": [
    "Takuyo Co., Ltd."
@@ -36323,32 +36247,10 @@
    {
     "t": "hijikata",
     "u": "https://ameblo.jp/hijikata-san-0510/entry-12942408274.html"
-   }
-  ]
- },
- {
-  "name": "月影の鎖 ～狂爛モラトリアム～",
-  "nameTbl": "月影の鎖 ～狂爛モラトリアム～（NS）",
-  "brand": "Takuyo Co., Ltd.",
-  "brands": [
-   "Takuyo Co., Ltd."
-  ],
-  "publisher": "Takuyo Co., Ltd.",
-  "publishers": [
-   "Takuyo Co., Ltd."
-  ],
-  "plat": "NS",
-  "plats": [
-   "NS"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v12928",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
+   },
    {
-    "t": "choro",
-    "u": "https://choro-game.com/e/getsuei_fd-guide"
+    "t": "ruRi",
+    "u": "https://ruri-ototgame.hatenablog.com/entry/2024/08/13/221935"
    }
   ]
  },
@@ -36405,6 +36307,48 @@
    {
     "t": "choro",
     "u": "https://choro-game.com/e/getsuei-guide"
+   },
+   {
+    "t": "La Primavera",
+    "u": "https://web.archive.org/web/20130616165224/http://otome.girly.jp/getsuei/menu.html"
+   },
+   {
+    "t": "モモ缶",
+    "u": "https://web.archive.org/web/20151011182249/http://momokan.chu.jp/momokan/contents-getsuei.html"
+   }
+  ]
+ },
+ {
+  "name": "月影の鎖 ～錯乱パラノイア～",
+  "nameTbl": "月影の鎖 ～錯乱パラノイア～（PSP）",
+  "brand": "Takuyo Co., Ltd.",
+  "brands": [
+   "Takuyo Co., Ltd."
+  ],
+  "publisher": "Takuyo Co., Ltd.",
+  "publishers": [
+   "Takuyo Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v11469",
+  "cover": "/img/guides-covers/月影の鎖 ～錯乱パラノイア～（PSP）.jpg",
+  "guides": [
+   {
+    "t": "乙女の友",
+    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/getsueinokusari.html"
+   },
+   {
+    "t": "ruRi",
+    "u": "https://ruri-ototgame.hatenablog.com/entry/2024/08/13/220700"
+   },
+   {
+    "t": "hijikata",
+    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942408097.html"
    },
    {
     "t": "La Primavera",
@@ -37905,8 +37849,8 @@
   ]
  },
  {
-  "name": "源狼",
-  "nameTbl": "源狼（PSP）",
+  "name": "源狼 GENROH",
+  "nameTbl": "源狼 GENROH（PSP）",
   "brand": "Otomate",
   "brands": [
    "Otomate"
@@ -37922,7 +37866,7 @@
   "lang": "JP",
   "orient": "乙女向",
   "vndb": "https://vndb.org/v11109",
-  "cover": "/img/guides-covers/源狼（PSP）.jpg",
+  "cover": "/img/guides-covers/源狼 GENROH（PSP）.jpg",
   "guides": [
    {
     "t": "乙女ゲーム攻略",
@@ -38544,8 +38488,8 @@
   ]
  },
  {
-  "name": "猛獣使いと王子様 ～Snow Bride～Portable 限定版",
-  "nameTbl": "猛獣使いと王子様 ～Snow Bride～Portable 限定版（PSP）",
+  "name": "猛獣使いと王子様 ～Snow Bride～ Portable",
+  "nameTbl": "猛獣使いと王子様 ～Snow Bride～ Portable（PSP）",
   "brand": "Otomate / Design Factory Co., Ltd.",
   "brands": [
    "Otomate",
@@ -39258,8 +39202,39 @@
   ]
  },
  {
-  "name": "白華の檻 ～緋色の欠片4～",
-  "nameTbl": "白華の檻 ～緋色の欠片4～（PSP）",
+  "name": "白華の檻 ～緋色の欠片4～ 四季の詩",
+  "nameTbl": "白華の檻 ～緋色の欠片4～ 四季の詩（PSP）",
+  "brand": "Otomate / Design Factory Co., Ltd.",
+  "brands": [
+   "Otomate",
+   "Design Factory Co., Ltd."
+  ],
+  "publisher": "Idea Factory Co., Ltd.",
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v12126",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "Half Adder",
+    "u": "https://half-a.net/games1/hiiro4sfd.html"
+   },
+   {
+    "t": "hijikata",
+    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942408184.html"
+   }
+  ]
+ },
+ {
+  "name": "白華の檻～緋色の欠片4～",
+  "nameTbl": "白華の檻～緋色の欠片4～（PSP）",
   "brand": "Otomate / Design Factory Co., Ltd.",
   "brands": [
    "Otomate",
@@ -39289,37 +39264,6 @@
    {
     "t": "La Primavera",
     "u": "https://web.archive.org/web/20120929235838/http://otome.girly.jp/hiiro4/menu.html"
-   }
-  ]
- },
- {
-  "name": "白華の檻 ～緋色の欠片4～ 四季の詩",
-  "nameTbl": "白華の檻 ～緋色の欠片4～ 四季の詩（PSP）",
-  "brand": "Otomate / Design Factory Co., Ltd.",
-  "brands": [
-   "Otomate",
-   "Design Factory Co., Ltd."
-  ],
-  "publisher": "Idea Factory Co., Ltd.",
-  "publishers": [
-   "Idea Factory Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v12126",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "Half Adder",
-    "u": "https://half-a.net/games1/hiiro4sfd.html"
-   },
-   {
-    "t": "hijikata",
-    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942408184.html"
    }
   ]
  },
@@ -39660,8 +39604,8 @@
   ]
  },
  {
-  "name": "神々の悪戯 - Ludere deorum",
-  "nameTbl": "神々の悪戯 - Ludere deorum（PSP）",
+  "name": "神々の悪戯",
+  "nameTbl": "神々の悪戯（PSP）",
   "brand": "Nippon Ichi Software, Inc.",
   "brands": [
    "Nippon Ichi Software, Inc."
@@ -41598,6 +41542,33 @@
   ]
  },
  {
+  "name": "緋色の欠片ポータブル",
+  "nameTbl": "緋色の欠片ポータブル（PSP）",
+  "brand": "Otomate / Design Factory Co., Ltd.",
+  "brands": [
+   "Otomate",
+   "Design Factory Co., Ltd."
+  ],
+  "publisher": "Idea Factory Co., Ltd.",
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v1629",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "peche",
+    "u": "https://pecheotome.web.fc2.com/game/hiiro_psp/index.html"
+   }
+  ]
+ },
+ {
   "name": "罪ナル螺旋ノ檻 -Whispers of Iscariot-",
   "nameTbl": "罪ナル螺旋ノ檻 -Whispers of Iscariot-（PC）",
   "brand": "Spray",
@@ -41863,190 +41834,6 @@
    {
     "t": "miyutan",
     "u": "http://miyutan0509.blog.fc2.com/blog-entry-116.html"
-   }
-  ]
- },
- {
-  "name": "胸キュン乙女コレクション Vol. 10: Storm Lover 快!!",
-  "nameTbl": "胸キュン乙女コレクション Vol. 10: Storm Lover 快!!（PSP）",
-  "brand": "Vridge Inc.",
-  "brands": [
-   "Vridge Inc."
-  ],
-  "publisher": "D3PUBLISHER INC.",
-  "publishers": [
-   "D3PUBLISHER INC."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v4597",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "Half Adder",
-    "u": "https://half-a.net/games1/stormlover.html"
-   },
-   {
-    "t": "乙女の友",
-    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/stormlover/top.html"
-   }
-  ]
- },
- {
-  "name": "胸キュン乙女コレクション Vol. 13 ビタミンR",
-  "nameTbl": "胸キュン乙女コレクション Vol. 13 ビタミンR（PSP）",
-  "brand": "Rejet Co., Ltd.",
-  "brands": [
-   "Rejet Co., Ltd."
-  ],
-  "publisher": "D3PUBLISHER INC.",
-  "publishers": [
-   "D3PUBLISHER INC."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v11985",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "Half Adder",
-    "u": "https://half-a.net/games1/vitaminr.html"
-   },
-   {
-    "t": "ときどき",
-    "u": "http://otomes2omoti.blog101.fc2.com/blog-entry-267.html"
-   },
-   {
-    "t": "ときどき(2)",
-    "u": "http://otomes2omoti.blog101.fc2.com/blog-entry-262.html"
-   },
-   {
-    "t": "ときどき(3)",
-    "u": "http://otomes2omoti.blog101.fc2.com/blog-entry-257.html"
-   }
-  ]
- },
- {
-  "name": "胸キュン乙女コレクション Vol. 7: Vitamin Z Graduation",
-  "nameTbl": "胸キュン乙女コレクション Vol. 7: Vitamin Z Graduation（PSP）",
-  "brand": "HuneX",
-  "brands": [
-   "HuneX"
-  ],
-  "publisher": "D3PUBLISHER INC.",
-  "publishers": [
-   "D3PUBLISHER INC."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v11943",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "Half Adder",
-    "u": "https://half-a.net/games1/vitaminz_fd.html"
-   }
-  ]
- },
- {
-  "name": "胸キュン乙女コレクション Vol. 8: スト☆マニ ～Strobe☆Mania～",
-  "nameTbl": "胸キュン乙女コレクション Vol. 8: スト☆マニ ～Strobe☆Mania～（PSP）",
-  "brand": "Arcadia Project Co,. Ltd.",
-  "brands": [
-   "Arcadia Project Co,. Ltd."
-  ],
-  "publisher": "D3PUBLISHER INC.",
-  "publishers": [
-   "D3PUBLISHER INC."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v8576",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "Half Adder",
-    "u": "https://half-a.net/games1/stomani.html"
-   },
-   {
-    "t": "乙女の友",
-    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/strobe_mania/top.html"
-   },
-   {
-    "t": "乙女ゲーム攻略",
-    "u": "https://otomegame-capture.com/psp/stomani/"
-   }
-  ]
- },
- {
-  "name": "胸キュン乙女コレクション Vol.2: VitaminX DetectiveB6",
-  "nameTbl": "胸キュン乙女コレクション Vol.2: VitaminX DetectiveB6（PSP）",
-  "brand": "HuneX",
-  "brands": [
-   "HuneX"
-  ],
-  "publisher": "D3PUBLISHER INC.",
-  "publishers": [
-   "D3PUBLISHER INC."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v12934",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "Half Adder",
-    "u": "https://half-a.net/games1/vitaminx_detective.html"
-   },
-   {
-    "t": "モモ缶",
-    "u": "https://web.archive.org/web/20160302120205/http://momokan.chu.jp/momokan/contents-vitaminxd.html"
-   }
-  ]
- },
- {
-  "name": "胸キュン乙女コレクション Vol.3: Vitamin X to Z",
-  "nameTbl": "胸キュン乙女コレクション Vol.3: Vitamin X to Z（PSP）",
-  "brand": "HuneX",
-  "brands": [
-   "HuneX"
-  ],
-  "publisher": "D3PUBLISHER INC.",
-  "publishers": [
-   "D3PUBLISHER INC."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v12935",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "Half Adder",
-    "u": "https://half-a.net/games1/vitaminxtoz.html"
    }
   ]
  },
@@ -43148,6 +42935,45 @@
   ]
  },
  {
+  "name": "華鬼 ～夢のつづき～",
+  "nameTbl": "華鬼 ～夢のつづき～（PSP）",
+  "brand": "Otomate / Design Factory Co., Ltd.",
+  "brands": [
+   "Otomate",
+   "Design Factory Co., Ltd."
+  ],
+  "publisher": "Idea Factory Co., Ltd.",
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v10098",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "hijikata",
+    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942407680.html"
+   },
+   {
+    "t": "La Primavera",
+    "u": "https://web.archive.org/web/20120924064343/http://otome.girly.jp/hanaoni_fd/menu.html"
+   },
+   {
+    "t": "hijikata(2)",
+    "u": "https://search.ameba.jp/search/entry/PSP%E7%89%88%E3%80%8E%E8%8F%AF%E9%AC%BC%E3%80%80%EF%BD%9E%E5%A4%A2%E3%81%AE%E3%81%A4%E3%81%A5%E3%81%8D%EF%BD%9E%E3%80%8F%E6%94%BB%E7%95%A5.html?aid=hijikata-san-0510"
+   },
+   {
+    "t": "モモ缶",
+    "u": "https://web.archive.org/web/20160731093635/http://momokan.chu.jp/momokan/contents-hanaoni_fd.html"
+   }
+  ]
+ },
+ {
   "name": "華鬼 ～恋い初める刻 永久の印～",
   "nameTbl": "華鬼 ～恋い初める刻 永久の印～（PSP）",
   "brand": "Otomate / Design Factory Co., Ltd.",
@@ -43183,45 +43009,6 @@
    {
     "t": "hijikata(2)",
     "u": "https://search.ameba.jp/search/entry/PSP%E7%89%88%E3%80%8E%E8%8F%AF%E9%AC%BC%EF%BD%9E%E6%81%8B%E3%81%84%E5%88%9D%E3%82%81%E3%82%8B%E5%88%BB%E3%80%80%E6%B0%B8%E4%B9%85%E3%81%AE%E5%8D%B0%EF%BD%9E%E3%80%8F.html?aid=hijikata-san-0510"
-   }
-  ]
- },
- {
-  "name": "華鬼～夢のつづき～",
-  "nameTbl": "華鬼～夢のつづき～（PSP）",
-  "brand": "Otomate / Design Factory Co., Ltd.",
-  "brands": [
-   "Otomate",
-   "Design Factory Co., Ltd."
-  ],
-  "publisher": "Idea Factory Co., Ltd.",
-  "publishers": [
-   "Idea Factory Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v10098",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "hijikata",
-    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942407680.html"
-   },
-   {
-    "t": "La Primavera",
-    "u": "https://web.archive.org/web/20120924064343/http://otome.girly.jp/hanaoni_fd/menu.html"
-   },
-   {
-    "t": "hijikata(2)",
-    "u": "https://search.ameba.jp/search/entry/PSP%E7%89%88%E3%80%8E%E8%8F%AF%E9%AC%BC%E3%80%80%EF%BD%9E%E5%A4%A2%E3%81%AE%E3%81%A4%E3%81%A5%E3%81%8D%EF%BD%9E%E3%80%8F%E6%94%BB%E7%95%A5.html?aid=hijikata-san-0510"
-   },
-   {
-    "t": "モモ缶",
-    "u": "https://web.archive.org/web/20160731093635/http://momokan.chu.jp/momokan/contents-hanaoni_fd.html"
    }
   ]
  },
@@ -43447,8 +43234,8 @@
   ]
  },
  {
-  "name": "蒼黒の楔 緋色の欠片3 ぽーたぶる",
-  "nameTbl": "蒼黒の楔 緋色の欠片3 ぽーたぶる（PSP）",
+  "name": "蒼黒の楔 緋色の欠片3 ポータブル",
+  "nameTbl": "蒼黒の楔 緋色の欠片3 ポータブル（PSP）",
   "brand": "Otomate / Design Factory Co., Ltd.",
   "brands": [
    "Otomate",
@@ -43589,8 +43376,8 @@
   ]
  },
  {
-  "name": "薄桜鬼 ポータブル -新選組奇譚-",
-  "nameTbl": "薄桜鬼 ポータブル -新選組奇譚-（PSP）",
+  "name": "薄桜鬼 ポータブル",
+  "nameTbl": "薄桜鬼 ポータブル（PSP）",
   "brand": "",
   "brands": [],
   "publisher": "",
@@ -43602,11 +43389,23 @@
   "lang": "JP",
   "orient": "乙女向",
   "vndb": "",
-  "cover": "/img/guides-covers/placeholder.png",
+  "cover": "/img/guides-covers/薄桜鬼 ポータブル（PSP）.jpg",
   "guides": [
    {
     "t": "乙女の友",
     "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/hakuouki_ps2_psp.html"
+   },
+   {
+    "t": "乙女ゲーム攻略",
+    "u": "https://otomegame-capture.com/psp/hakuoki/"
+   },
+   {
+    "t": "hijikata",
+    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942407474.html"
+   },
+   {
+    "t": "La Primavera",
+    "u": "https://web.archive.org/web/20080924103311/http://otome.girly.jp/hakuouki/menu.html"
    }
   ]
  },
@@ -43665,39 +43464,6 @@
    {
     "t": "みずき",
     "u": "https://plaza.rakuten.co.jp/mizukinoko/diary/201707130000/"
-   },
-   {
-    "t": "La Primavera",
-    "u": "https://web.archive.org/web/20080924103311/http://otome.girly.jp/hakuouki/menu.html"
-   }
-  ]
- },
- {
-  "name": "薄桜鬼 新選組奇譚",
-  "nameTbl": "薄桜鬼 新選組奇譚（PSP）",
-  "brand": "Otomate / Design Factory Co., Ltd.",
-  "brands": [
-   "Otomate",
-   "Design Factory Co., Ltd."
-  ],
-  "publisher": "",
-  "publishers": [],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v1715",
-  "cover": "/img/guides-covers/薄桜鬼 新選組奇譚（PSP）.jpg",
-  "guides": [
-   {
-    "t": "乙女ゲーム攻略",
-    "u": "https://otomegame-capture.com/psp/hakuoki/"
-   },
-   {
-    "t": "hijikata",
-    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942407474.html"
    },
    {
     "t": "La Primavera",
@@ -44281,6 +44047,33 @@
   ]
  },
  {
+  "name": "薄桜鬼 黎明録 ポータブル",
+  "nameTbl": "薄桜鬼 黎明録 ポータブル（PSP）",
+  "brand": "Otomate / Design Factory Co., Ltd.",
+  "brands": [
+   "Otomate",
+   "Design Factory Co., Ltd."
+  ],
+  "publisher": "Idea Factory Co., Ltd.",
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v10383",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "hijikata",
+    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942407379.html"
+   }
+  ]
+ },
+ {
   "name": "薄桜鬼 黎明録 思馳せ空",
   "nameTbl": "薄桜鬼 黎明録 思馳せ空（PSV）",
   "brand": "Otomate / Design Factory Co., Ltd.",
@@ -44304,33 +44097,6 @@
    {
     "t": "☆乙ゲー",
     "u": "https://maistar.blog.fc2.com/blog-entry-1963.html"
-   }
-  ]
- },
- {
-  "name": "薄桜鬼 黎明録ポータブル",
-  "nameTbl": "薄桜鬼 黎明録ポータブル（PSP）",
-  "brand": "Otomate / Design Factory Co., Ltd.",
-  "brands": [
-   "Otomate",
-   "Design Factory Co., Ltd."
-  ],
-  "publisher": "Idea Factory Co., Ltd.",
-  "publishers": [
-   "Idea Factory Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v10383",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "hijikata",
-    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942407379.html"
    }
   ]
  },
@@ -44727,44 +44493,6 @@
   ]
  },
  {
-  "name": "蝶の毒 華の鎖",
-  "nameTbl": "蝶の毒 華の鎖（PSP）",
-  "brand": "Aromarie",
-  "brands": [
-   "Aromarie"
-  ],
-  "publisher": "PROTOTYPE",
-  "publishers": [
-   "PROTOTYPE"
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v5127",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "ruRi",
-    "u": "https://ruri-ototgame.hatenablog.com/entry/2024/09/21/174632"
-   },
-   {
-    "t": "徒然綴り",
-    "u": "https://syumi-room.hateblo.jp/entry/2015/01/02/%E3%80%90%E8%9D%B6%E3%81%AE%E6%AF%92_%E8%8F%AF%E3%81%AE%E9%8E%96~%E5%A4%A7%E6%AD%A3%E8%89%B6%E6%81%8B%E7%95%B0%E8%81%9E~%E3%80%91%E6%94%BB%E7%95%A5%E4%B8%80%E8%A6%A7"
-   },
-   {
-    "t": "La Primavera",
-    "u": "https://web.archive.org/web/20110603070250/http://otome.girly.jp/chounodoku/menu.html"
-   },
-   {
-    "t": "モモ缶",
-    "u": "https://web.archive.org/web/20120126174632/http://momokan.chu.jp/momokan/contents-butterfly.html"
-   }
-  ]
- },
- {
   "name": "蝶の毒 華の鎖 リ",
   "nameTbl": "蝶の毒 華の鎖 リ（PC）",
   "brand": "Aromarie",
@@ -44867,6 +44595,44 @@
    {
     "t": "☆乙ゲー",
     "u": "https://maistar.blog.fc2.com/blog-entry-6724.html"
+   },
+   {
+    "t": "徒然綴り",
+    "u": "https://syumi-room.hateblo.jp/entry/2015/01/02/%E3%80%90%E8%9D%B6%E3%81%AE%E6%AF%92_%E8%8F%AF%E3%81%AE%E9%8E%96~%E5%A4%A7%E6%AD%A3%E8%89%B6%E6%81%8B%E7%95%B0%E8%81%9E~%E3%80%91%E6%94%BB%E7%95%A5%E4%B8%80%E8%A6%A7"
+   },
+   {
+    "t": "La Primavera",
+    "u": "https://web.archive.org/web/20110603070250/http://otome.girly.jp/chounodoku/menu.html"
+   },
+   {
+    "t": "モモ缶",
+    "u": "https://web.archive.org/web/20120126174632/http://momokan.chu.jp/momokan/contents-butterfly.html"
+   }
+  ]
+ },
+ {
+  "name": "蝶の毒 華の鎖～大正艶恋異聞～",
+  "nameTbl": "蝶の毒 華の鎖～大正艶恋異聞～（PSP）",
+  "brand": "Aromarie",
+  "brands": [
+   "Aromarie"
+  ],
+  "publisher": "PROTOTYPE",
+  "publishers": [
+   "PROTOTYPE"
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v5127",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "ruRi",
+    "u": "https://ruri-ototgame.hatenablog.com/entry/2024/09/21/174632"
    },
    {
     "t": "徒然綴り",
@@ -44992,12 +44758,16 @@
    {
     "t": "La Primavera",
     "u": "https://web.archive.org/web/20130723111656/http://otome.girly.jp/urakata/menu.html"
+   },
+   {
+    "t": "☆乙ゲー",
+    "u": "https://maistar.blog.fc2.com/blog-entry-38.html"
    }
   ]
  },
  {
-  "name": "裏語 薄桜鬼 ツインパック",
-  "nameTbl": "裏語 薄桜鬼 ツインパック（PSP）",
+  "name": "裏語 薄桜鬼 ～暁の調べ～",
+  "nameTbl": "裏語 薄桜鬼 ～暁の調べ～（PSP）",
   "brand": "Otomate / Design Factory Co., Ltd.",
   "brands": [
    "Otomate",
@@ -45505,6 +45275,40 @@
   ]
  },
  {
+  "name": "越えざるは紅い花 大河は未来を紡ぐ",
+  "nameTbl": "越えざるは紅い花 大河は未来を紡ぐ（PSP）",
+  "brand": "Operetta Due",
+  "brands": [
+   "Operetta Due"
+  ],
+  "publisher": "Dramatic Create",
+  "publishers": [
+   "Dramatic Create"
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v10051",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "hijikata",
+    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942408378.html"
+   },
+   {
+    "t": "☆乙ゲー",
+    "u": "https://maistar.blog.fc2.com/blog-entry-3507.html"
+   },
+   {
+    "t": "みずき",
+    "u": "https://plaza.rakuten.co.jp/mizukinoko/diary/201708230001/"
+   }
+  ]
+ },
+ {
   "name": "越えざるは紅い花 限定版",
   "nameTbl": "越えざるは紅い花 限定版（PC）",
   "brand": "Operetta Due",
@@ -45599,40 +45403,6 @@
    {
     "t": "みずき",
     "u": "https://plaza.rakuten.co.jp/mizukinoko/diary/201606230000/"
-   }
-  ]
- },
- {
-  "name": "越えざるは紅い花～大河は未来を紡ぐ～",
-  "nameTbl": "越えざるは紅い花～大河は未来を紡ぐ～（PSP）",
-  "brand": "Operetta Due",
-  "brands": [
-   "Operetta Due"
-  ],
-  "publisher": "Dramatic Create",
-  "publishers": [
-   "Dramatic Create"
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v10051",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "hijikata",
-    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942408378.html"
-   },
-   {
-    "t": "☆乙ゲー",
-    "u": "https://maistar.blog.fc2.com/blog-entry-3507.html"
-   },
-   {
-    "t": "みずき",
-    "u": "https://plaza.rakuten.co.jp/mizukinoko/diary/201708230001/"
    }
   ]
  },
@@ -45953,8 +45723,8 @@
   ]
  },
  {
-  "name": "逢魔時 〜怪談ロマンス〜",
-  "nameTbl": "逢魔時 〜怪談ロマンス〜（PSP）",
+  "name": "逢魔時～怪談ロマンス～",
+  "nameTbl": "逢魔時～怪談ロマンス～（PSP）",
   "brand": "QuinRose",
   "brands": [
    "QuinRose"
@@ -46145,6 +45915,32 @@
   ]
  },
  {
+  "name": "遙かなる時空の中で3 with 十六夜記 愛蔵版",
+  "nameTbl": "遙かなる時空の中で3 with 十六夜記 愛蔵版（PSP）",
+  "brand": "KOEI Co., Ltd.",
+  "brands": [
+   "KOEI Co., Ltd."
+  ],
+  "publisher": "KOEI Co., Ltd.",
+  "publishers": [
+   "KOEI Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v3260",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "hijikata",
+    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942406792.html"
+   }
+  ]
+ },
+ {
   "name": "遙かなる時空の中で3 十六夜記",
   "nameTbl": "遙かなる時空の中で3 十六夜記（PS2）",
   "brand": "KOEI Co., Ltd.",
@@ -46303,8 +46099,8 @@
   ]
  },
  {
-  "name": "遙かなる時空の中で5 (通常版)",
-  "nameTbl": "遙かなる時空の中で5 (通常版)（PSP）",
+  "name": "遙かなる時空の中で5",
+  "nameTbl": "遙かなる時空の中で5（PSP）",
   "brand": "Koei Tecmo Holdings Co., Ltd.",
   "brands": [
    "Koei Tecmo Holdings Co., Ltd."
@@ -46333,6 +46129,10 @@
    {
     "t": "OTOME-Wiki",
     "u": "http://www.ladygamer.jp/otw/harutoki5/"
+   },
+   {
+    "t": "乙女の友",
+    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/haruka5/top.html"
    }
   ]
  },
@@ -46605,28 +46405,6 @@
   ]
  },
  {
-  "name": "遥かなる時空の中で5",
-  "nameTbl": "遥かなる時空の中で5（PSP）",
-  "brand": "",
-  "brands": [],
-  "publisher": "",
-  "publishers": [],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "乙女の友",
-    "u": "http://ym5c.com/otomenotomo.tyonmage.com/kouryaku/haruka5/top.html"
-   }
-  ]
- },
- {
   "name": "遥かなる時空の中でプレミアムBOX",
   "nameTbl": "遥かなる時空の中でプレミアムBOX（GBA）",
   "brand": "KOEI Co., Ltd.",
@@ -46725,8 +46503,8 @@
   ]
  },
  {
-  "name": "里見八犬伝 村雨丸之記",
-  "nameTbl": "里見八犬伝 村雨丸之記（PSP）",
+  "name": "里見八犬伝～村雨丸之記～",
+  "nameTbl": "里見八犬伝～村雨丸之記～（PSP）",
   "brand": "QuinRose",
   "brands": [
    "QuinRose"
@@ -46763,8 +46541,8 @@
   ]
  },
  {
-  "name": "里見八犬伝 浜路姫之記",
-  "nameTbl": "里見八犬伝 浜路姫之記（PSP）",
+  "name": "里見八犬伝～浜路姫之記～",
+  "nameTbl": "里見八犬伝～浜路姫之記～（PSP）",
   "brand": "QuinRose",
   "brands": [
    "QuinRose"
@@ -47015,44 +46793,6 @@
   ]
  },
  {
-  "name": "金色のコルダ3 AnotherSky feat. 神南",
-  "nameTbl": "金色のコルダ3 AnotherSky feat. 神南（PSP）",
-  "brand": "Koei Tecmo Holdings Co., Ltd.",
-  "brands": [
-   "Koei Tecmo Holdings Co., Ltd."
-  ],
-  "publisher": "Koei Tecmo Holdings Co., Ltd.",
-  "publishers": [
-   "Koei Tecmo Holdings Co., Ltd."
-  ],
-  "plat": "PSP",
-  "plats": [
-   "PSP"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v13072",
-  "cover": "/img/guides-covers/金色のコルダ3 AnotherSky feat. 神南（PSP）.jpg",
-  "guides": [
-   {
-    "t": "choro",
-    "u": "https://choro-game.com/e/corda3-jinnan-guide"
-   },
-   {
-    "t": "Half Adder",
-    "u": "https://half-a.net/games1/neoroma/corda3asj.html"
-   },
-   {
-    "t": "☆乙ゲー",
-    "u": "https://maistar.blog.fc2.com/blog-entry-313.html"
-   },
-   {
-    "t": "モモ缶",
-    "u": "https://web.archive.org/web/20160204041239/http://momokan.chu.jp/momokan/contents-corda3_1.html"
-   }
-  ]
- },
- {
   "name": "金色のコルダ3 AnotherSky feat.天音学園",
   "nameTbl": "金色のコルダ3 AnotherSky feat.天音学園（PSP）",
   "brand": "Koei Tecmo Holdings Co., Ltd.",
@@ -47083,6 +46823,44 @@
    {
     "t": "モモ缶",
     "u": "https://web.archive.org/web/20160302053442/http://momokan.chu.jp/momokan/contents-corda3_3.html"
+   }
+  ]
+ },
+ {
+  "name": "金色のコルダ3 AnotherSky feat.神南",
+  "nameTbl": "金色のコルダ3 AnotherSky feat.神南（PSP）",
+  "brand": "Koei Tecmo Holdings Co., Ltd.",
+  "brands": [
+   "Koei Tecmo Holdings Co., Ltd."
+  ],
+  "publisher": "Koei Tecmo Holdings Co., Ltd.",
+  "publishers": [
+   "Koei Tecmo Holdings Co., Ltd."
+  ],
+  "plat": "PSP",
+  "plats": [
+   "PSP"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v13072",
+  "cover": "/img/guides-covers/金色のコルダ3 AnotherSky feat.神南（PSP）.jpg",
+  "guides": [
+   {
+    "t": "choro",
+    "u": "https://choro-game.com/e/corda3-jinnan-guide"
+   },
+   {
+    "t": "Half Adder",
+    "u": "https://half-a.net/games1/neoroma/corda3asj.html"
+   },
+   {
+    "t": "☆乙ゲー",
+    "u": "https://maistar.blog.fc2.com/blog-entry-313.html"
+   },
+   {
+    "t": "モモ缶",
+    "u": "https://web.archive.org/web/20160204041239/http://momokan.chu.jp/momokan/contents-corda3_1.html"
    }
   ]
  },
@@ -47577,8 +47355,8 @@
   ]
  },
  {
-  "name": "雅恋 MIYAKO",
-  "nameTbl": "雅恋 MIYAKO（PSP）",
+  "name": "雅恋 ～MIYAKO～",
+  "nameTbl": "雅恋 ～MIYAKO～（PSP）",
   "brand": "Sanctuary",
   "brands": [
    "Sanctuary"
@@ -47619,38 +47397,8 @@
   ]
  },
  {
-  "name": "雅恋～MIYAKO～ 月詠の夢 ダイジェスト",
-  "nameTbl": "雅恋～MIYAKO～ 月詠の夢 ダイジェスト（PC）",
-  "brand": "Sanctuary",
-  "brands": [
-   "Sanctuary"
-  ],
-  "publisher": "Sanctuary",
-  "publishers": [
-   "Sanctuary"
-  ],
-  "plat": "PC",
-  "plats": [
-   "PC"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v6974",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "hijikata",
-    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942407607.html"
-   },
-   {
-    "t": "hijikata(2)",
-    "u": "https://search.ameba.jp/search/entry/PC%E7%89%88%E3%80%8E%E9%9B%85%E6%81%8B%EF%BD%9EMIYAKO%EF%BD%9E%E3%80%80%E6%9C%88%E8%A9%A0%E3%81%AE%E5%A4%A2%E3%80%8F.html?aid=hijikata-san-0510"
-   }
-  ]
- },
- {
-  "name": "雅恋～MIYAKO～あわゆきのうたげ",
-  "nameTbl": "雅恋～MIYAKO～あわゆきのうたげ（PSP）",
+  "name": "雅恋 ～MIYAKO～ あわゆきのうたげ",
+  "nameTbl": "雅恋 ～MIYAKO～ あわゆきのうたげ（PSP）",
   "brand": "Sanctuary",
   "brands": [
    "Sanctuary"
@@ -47677,6 +47425,36 @@
    {
     "t": "乙女ゲーム攻略",
     "u": "https://otomegame-capture.com/psp/miyako_fd/"
+   }
+  ]
+ },
+ {
+  "name": "雅恋～MIYAKO～ 月詠の夢 ダイジェスト",
+  "nameTbl": "雅恋～MIYAKO～ 月詠の夢 ダイジェスト（PC）",
+  "brand": "Sanctuary",
+  "brands": [
+   "Sanctuary"
+  ],
+  "publisher": "Sanctuary",
+  "publishers": [
+   "Sanctuary"
+  ],
+  "plat": "PC",
+  "plats": [
+   "PC"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v6974",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "hijikata",
+    "u": "https://ameblo.jp/hijikata-san-0510/entry-12942407607.html"
+   },
+   {
+    "t": "hijikata(2)",
+    "u": "https://search.ameba.jp/search/entry/PC%E7%89%88%E3%80%8E%E9%9B%85%E6%81%8B%EF%BD%9EMIYAKO%EF%BD%9E%E3%80%80%E6%9C%88%E8%A9%A0%E3%81%AE%E5%A4%A2%E3%80%8F.html?aid=hijikata-san-0510"
    }
   ]
  },
@@ -48073,8 +47851,38 @@
   ]
  },
  {
-  "name": "魔法使いとご主人様 〜Wizard and The Master〜",
-  "nameTbl": "魔法使いとご主人様 〜Wizard and The Master〜（PSV）",
+  "name": "魔法使いとご主人様 ～ wizard and the master ～",
+  "nameTbl": "魔法使いとご主人様 ～ wizard and the master ～（PC）",
+  "brand": "QuinRose",
+  "brands": [
+   "QuinRose"
+  ],
+  "publisher": "QuinRose",
+  "publishers": [
+   "QuinRose"
+  ],
+  "plat": "PC",
+  "plats": [
+   "PC"
+  ],
+  "lang": "JP",
+  "orient": "乙女向",
+  "vndb": "https://vndb.org/v1316",
+  "cover": "/img/guides-covers/placeholder.png",
+  "guides": [
+   {
+    "t": "peche",
+    "u": "https://pecheotome.web.fc2.com/game/wizard/index.html"
+   },
+   {
+    "t": "モモ缶",
+    "u": "https://web.archive.org/web/20151028020122/http://momokan.chu.jp/momokan/contents-wizmas.html"
+   }
+  ]
+ },
+ {
+  "name": "魔法使いとご主人様 ～Wizard and The Master～",
+  "nameTbl": "魔法使いとご主人様 ～Wizard and The Master～（PSV）",
   "brand": "QuinRose",
   "brands": [
    "QuinRose"
@@ -48101,36 +47909,6 @@
    {
     "t": "☆乙ゲー",
     "u": "https://maistar.blog.fc2.com/blog-entry-1830.html"
-   },
-   {
-    "t": "モモ缶",
-    "u": "https://web.archive.org/web/20151028020122/http://momokan.chu.jp/momokan/contents-wizmas.html"
-   }
-  ]
- },
- {
-  "name": "魔法使いとご主人様 ～ wizard and the master ～",
-  "nameTbl": "魔法使いとご主人様 ～ wizard and the master ～（PC）",
-  "brand": "QuinRose",
-  "brands": [
-   "QuinRose"
-  ],
-  "publisher": "QuinRose",
-  "publishers": [
-   "QuinRose"
-  ],
-  "plat": "PC",
-  "plats": [
-   "PC"
-  ],
-  "lang": "JP",
-  "orient": "乙女向",
-  "vndb": "https://vndb.org/v1316",
-  "cover": "/img/guides-covers/placeholder.png",
-  "guides": [
-   {
-    "t": "peche",
-    "u": "https://pecheotome.web.fc2.com/game/wizard/index.html"
    },
    {
     "t": "モモ缶",
