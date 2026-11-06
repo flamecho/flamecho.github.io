@@ -9131,7 +9131,10 @@
   "brand": "Ceylon Entertainment",
   "publisher": "Miss Xero",
   "plat": "PC",
-  "orient": "其他",
+  "orient": [
+   "乙女向",
+   "蔷薇向"
+  ],
   "release": "2024-04-19",
   "transDate": "2024-09-29",
   "vndb": "https://vndb.org/v41700",
@@ -16873,7 +16876,10 @@
   "brand": "Regista Co.,Ltd.",
   "publisher": "Marvelous Inc.",
   "plat": "PS2",
-  "orient": "乙女向",
+  "orient": [
+   "乙女向",
+   "蔷薇向"
+  ],
   "release": "2007-09-20",
   "transDate": "2026-10-27",
   "vndb": "https://vndb.org/v21334",
@@ -21019,7 +21025,7 @@
   ]
  },
  {
-  "name": "his role",
+  "name": "his role…",
   "nameTbl": "his role（PC）",
   "brand": "Fusyro Mini",
   "publisher": "Fusyro Mini",
