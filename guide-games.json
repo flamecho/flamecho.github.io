@@ -5773,30 +5773,6 @@
     ]
   },
   {
-    "name": "Iris -イリス-",
-    "nameTbl": "Iris -イリス-(PC)",
-    "brand": "KID",
-    "brands": [
-      "KID"
-    ],
-    "publisher": "",
-    "publishers": [],
-    "plat": "PC",
-    "plats": [
-      "PC"
-    ],
-    "lang": "JP",
-    "orient": "乙女向",
-    "vndb": "https://vndb.org/v2312",
-    "cover": "/img/guides-covers/Iris -イリス-（PC）.jpg",
-    "guides": [
-      {
-        "t": "miyutan",
-        "u": "http://miyutan0509.blog.fc2.com/blog-entry-432.html"
-      }
-    ]
-  },
-  {
     "name": "JACKIN -ジャックイン-",
     "nameTbl": "JACKIN -ジャックイン -(PC)",
     "brand": "Ein",
@@ -5827,7 +5803,7 @@
     ]
   },
   {
-    "name": "Jewel Garden",
+    "name": "JEWEL GARDEN",
     "nameTbl": "Jewel Garden(PC)",
     "brand": "White Plum",
     "brands": [
@@ -5844,7 +5820,7 @@
     "lang": "JP",
     "orient": "蔷薇向",
     "vndb": "https://vndb.org/v3628",
-    "cover": "/img/guides-covers/Jewel Garden（PC）.jpg",
+    "cover": "/img/guides-covers/JEWEL GARDEN（PC）.jpg",
     "guides": [
       {
         "t": "Half Adder",
@@ -5936,6 +5912,14 @@
       {
         "t": "☆乙ゲー",
         "u": "https://maistar.blog.fc2.com/blog-entry-48.html"
+      },
+      {
+        "t": "某の乙女ゲー（本篇）",
+        "u": "https://www.soregashi.work/entry/klap-matome"
+      },
+      {
+        "t": "某の乙女ゲー（FD）",
+        "u": "https://www.soregashi.work/entry/klapFD-matome"
       }
     ]
   },
@@ -6173,10 +6157,6 @@
       {
         "t": "La Primavera",
         "u": "https://web.archive.org/web/20221129193753/http://otome.girly.jp/lgs/menu.html"
-      },
-      {
-        "t": "La Primavera(2)",
-        "u": "https://web.archive.org/web/20120815182409/http://otome.girly.jp/lgs/menu.html"
       }
     ]
   },
@@ -6343,7 +6323,7 @@
     ]
   },
   {
-    "name": "Lamento -BEYOND THE VOID- Windows 10対応版",
+    "name": "Lamento -BEYOND THE VOID-",
     "nameTbl": "Lamento -BEYOND THE VOID- Windows 10対応版(PC)",
     "brand": "NITRO CHiRAL",
     "brands": [
@@ -6360,7 +6340,7 @@
     "lang": "JP",
     "orient": "蔷薇向",
     "vndb": "https://vndb.org/v432",
-    "cover": "/img/guides-covers/Lamento -BEYOND THE VOID- Windows 10対応版（PC）.jpg",
+    "cover": "/img/guides-covers/Lamento -BEYOND THE VOID-（PC）.jpg",
     "guides": [
       {
         "t": "Half Adder",
@@ -6375,9 +6355,9 @@
   {
     "name": "Last End Halloween",
     "nameTbl": "Last End Halloween(PC)",
-    "brand": "Hensoku Helical Gear",
+    "brand": "変則ヘリカルギア",
     "brands": [
-      "Hensoku Helical Gear"
+      "変則ヘリカルギア"
     ],
     "publisher": "Hensoku Helical Gear",
     "publishers": [
@@ -6521,7 +6501,7 @@
   {
     "name": "Liar's woods",
     "nameTbl": "Liar's woods(PC)",
-    "brand": "Alp",
+    "brand": "Sytry",
     "brands": [
       "Alp"
     ],
@@ -6535,8 +6515,8 @@
     ],
     "lang": "JP",
     "orient": "乙女向",
-    "vndb": "https://vndb.org/v44913",
-    "cover": "/img/guides-covers/Liar's woods（PC）.jpg",
+    "vndb": "http://sytry.org/",
+    "cover": "/img/guides-covers/placeholder.png",
     "guides": [
       {
         "t": "miyutan",
@@ -6575,6 +6555,10 @@
       {
         "t": "モモ缶",
         "u": "https://web.archive.org/web/20120126093350/http://momokan.chu.jp/momokan/contents-little.html"
+      },
+      {
+        "t": "La Primavera",
+        "u": "https://web.archive.org/web/20060821205430/http://otome.girly.jp/littleaid/menu.html"
       }
     ]
   },
@@ -6605,7 +6589,7 @@
     ]
   },
   {
-    "name": "Little Aid リトルエイド",
+    "name": "Little Aid",
     "nameTbl": "Little Aid リトルエイド(PS2)",
     "brand": "Takuyo Co., Ltd.",
     "brands": [
@@ -6622,7 +6606,7 @@
     "lang": "JP",
     "orient": "乙女向",
     "vndb": "https://vndb.org/v1890",
-    "cover": "/img/guides-covers/Little Aid リトルエイド（PS2）.jpg",
+    "cover": "/img/guides-covers/Little Aid（PS2）.jpg",
     "guides": [
       {
         "t": "Half Adder",
@@ -6637,16 +6621,8 @@
         "u": "https://pecheotome.web.fc2.com/game/littleaid_ps2/index.html"
       },
       {
-        "t": "モモ缶",
-        "u": "https://web.archive.org/web/20120126093350/http://momokan.chu.jp/momokan/contents-little.html"
-      },
-      {
         "t": "La Primavera",
         "u": "https://web.archive.org/web/20060821205600/http://otome.girly.jp/littleaid_ps2/menu.html"
-      },
-      {
-        "t": "La Primavera(2)",
-        "u": "https://web.archive.org/web/20060821205430/http://otome.girly.jp/littleaid/menu.html"
       }
     ]
   },
@@ -7309,9 +7285,9 @@
   {
     "name": "Message≠Sending",
     "nameTbl": "Message≠Sending(PC)",
-    "brand": "Hensoku Helical Gear",
+    "brand": "変則ヘリカルギア",
     "brands": [
-      "Hensoku Helical Gear"
+      "変則ヘリカルギア"
     ],
     "publisher": "Hensoku Helical Gear",
     "publishers": [
@@ -14417,9 +14393,9 @@
   {
     "name": "おかしな国のSweet Festival!",
     "nameTbl": "おかしな国のSweet Festival!(PC)",
-    "brand": "Hensoku Helical Gear",
+    "brand": "変則ヘリカルギア",
     "brands": [
-      "Hensoku Helical Gear"
+      "変則ヘリカルギア"
     ],
     "publisher": "Hensoku Helical Gear",
     "publishers": [
@@ -27183,13 +27159,13 @@
   {
     "name": "七日目の恋人",
     "nameTbl": "七日目の恋人(PC)",
-    "brand": "Reishouteki Dansou",
+    "brand": "冷笑的弾倉",
     "brands": [
-      "Reishouteki Dansou"
+      "冷笑的弾倉"
     ],
-    "publisher": "Reishouteki Dansou",
+    "publisher": "冷笑的弾倉",
     "publishers": [
-      "Reishouteki Dansou"
+      "冷笑的弾倉"
     ],
     "plat": "PC",
     "plats": [
@@ -27209,13 +27185,13 @@
   {
     "name": "七日目の恋人 -2-",
     "nameTbl": "七日目の恋人 -2-(PC)",
-    "brand": "Reishouteki Dansou",
+    "brand": "冷笑的弾倉",
     "brands": [
-      "Reishouteki Dansou"
+      "冷笑的弾倉"
     ],
-    "publisher": "Reishouteki Dansou",
+    "publisher": "冷笑的弾倉",
     "publishers": [
-      "Reishouteki Dansou"
+      "冷笑的弾倉"
     ],
     "plat": "PC",
     "plats": [
@@ -30739,13 +30715,13 @@
   {
     "name": "夢見る犬の幽霊船",
     "nameTbl": "夢見る犬の幽霊船(PC)",
-    "brand": "Reishouteki Dansou",
+    "brand": "冷笑的弾倉",
     "brands": [
-      "Reishouteki Dansou"
+      "冷笑的弾倉"
     ],
-    "publisher": "Reishouteki Dansou",
+    "publisher": "冷笑的弾倉",
     "publishers": [
-      "Reishouteki Dansou"
+      "冷笑的弾倉"
     ],
     "plat": "PC",
     "plats": [
@@ -30765,13 +30741,13 @@
   {
     "name": "夢見る犬の幽霊船 -掌編集",
     "nameTbl": "夢見る犬の幽霊船 -掌編集(PC)",
-    "brand": "Reishouteki Dansou",
+    "brand": "冷笑的弾倉",
     "brands": [
-      "Reishouteki Dansou"
+      "冷笑的弾倉"
     ],
-    "publisher": "Reishouteki Dansou",
+    "publisher": "冷笑的弾倉",
     "publishers": [
-      "Reishouteki Dansou"
+      "冷笑的弾倉"
     ],
     "plat": "PC",
     "plats": [
@@ -38961,9 +38937,9 @@
   {
     "name": "眠り王子と黒き魔女",
     "nameTbl": "眠り王子と黒き魔女(PC)",
-    "brand": "Hensoku Helical Gear",
+    "brand": "変則ヘリカルギア",
     "brands": [
-      "Hensoku Helical Gear"
+      "変則ヘリカルギア"
     ],
     "publisher": "Hensoku Helical Gear",
     "publishers": [
