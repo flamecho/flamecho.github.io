@@ -21183,7 +21183,7 @@
   ]
  },
  {
-  "name": "FIRSTLIVE",
+  "name": "FIRST|LIVE",
   "nameTbl": "FIRSTLIVE（PC）",
   "brand": "AMEDEO",
   "publisher": "AMEDEO",
@@ -21197,7 +21197,7 @@
   "type": [
    "预翻译"
   ],
-  "cover": "/img/trans-covers/AMEDEO_FIRSTLIVE（PC）.jpg",
+  "cover": "/img/trans-covers/AMEDEO_FIRST_LIVE（PC）.jpg",
   "brands": [
    "AMEDEO"
   ],
