@@ -8311,35 +8311,6 @@
   ]
  },
  {
-  "name": "エロトマニア",
-  "nameTbl": "エロトマニア（PC）",
-  "brand": "SAWRED",
-  "publisher": "SAWRED",
-  "plat": "PC",
-  "orient": "蔷薇向",
-  "release": "2015-12-30",
-  "transDate": "2026-03-02",
-  "vndb": "https://vndb.org/v17367",
-  "vndbRelease": "r39953",
-  "lang": "JP",
-  "type": [
-   "补丁"
-  ],
-  "cover": "/img/trans-covers/SAWRED_エロトマニア（PC）.jpg",
-  "brands": [
-   "SAWRED"
-  ],
-  "publishers": [
-   "SAWRED"
-  ],
-  "dls": [
-   {
-    "t": "补丁",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E8%A1%A5%E4%B8%81/%5BPC-JP%5D%E3%82%A8%E3%83%AD%E3%83%88%E3%83%9E%E3%83%8B%E3%82%A2.zip"
-   }
-  ]
- },
- {
   "name": "罪ナル螺旋ノ檻 -Whispers of Iscariot-",
   "nameTbl": "罪ナル螺旋ノ檻（PC）",
   "brand": "Spray",
@@ -8895,8 +8866,8 @@
  {
   "name": "トリップ＊トラップ",
   "nameTbl": "トリップ＊トラップ（PC）",
-  "brand": "senca",
-  "publisher": "senca",
+  "brand": "Gintou",
+  "publisher": "Gintou",
   "plat": "PC",
   "orient": "蔷薇向",
   "release": "2023-06-22",
@@ -8907,14 +8878,14 @@
   "type": [
    "补丁"
   ],
-  "cover": "/img/trans-covers/senca_トリップ＊トラップ（PC）.jpg",
+  "cover": "/img/trans-covers/Gintou_トリップ＊トラップ（PC）.jpg",
   "brands": [
-   "senca",
-   "Gintou"
+   "Gintou",
+   "senca"
   ],
   "publishers": [
-   "senca",
-   "Gintou"
+   "Gintou",
+   "senca"
   ],
   "dls": [
    {
@@ -8926,8 +8897,8 @@
  {
   "name": "Collision x Collision",
   "nameTbl": "Collision × Collision（PC）",
-  "brand": "senca",
-  "publisher": "senca",
+  "brand": "Gintou",
+  "publisher": "Gintou",
   "plat": "PC",
   "orient": "蔷薇向",
   "release": "2025-04-18",
@@ -8938,14 +8909,14 @@
   "type": [
    "补丁"
   ],
-  "cover": "/img/trans-covers/senca_Collision x Collision（PC）.jpg",
+  "cover": "/img/trans-covers/Gintou_Collision x Collision（PC）.jpg",
   "brands": [
-   "senca",
-   "Gintou"
+   "Gintou",
+   "senca"
   ],
   "publishers": [
-   "senca",
-   "Gintou"
+   "Gintou",
+   "senca"
   ],
   "dls": [
    {
@@ -23908,7 +23879,7 @@
   "publishers": [
    "ADELTA"
   ],
-  "note": "汉化补丁由 百度贴吧 @maomaooo666 汉化，博主代发。",
+  "note": "由 百度贴吧@maomaooo666 汉化，博主代发。",
   "dls": [
    {
     "t": "补丁",
@@ -23992,6 +23963,674 @@
    {
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%82%A4%E3%83%81%E3%83%A3%E3%82%A4%E3%83%81%E3%83%A3%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%82%B9%5B20261110%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "上司と秘密の2LDK",
+  "nameTbl": "上司と秘密の2LDK（NS）",
+  "brand": "Voltage Inc.",
+  "publisher": "Voltage Inc.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2020-05-07",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v14501",
+  "vndbRelease": "r70515",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Voltage Inc._上司と秘密の2LDK（NS）.jpg",
+  "brands": [
+   "Voltage Inc."
+  ],
+  "publishers": [
+   "Voltage Inc."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E4%B8%8A%E5%8F%B8%E3%81%A8%E7%A7%98%E5%AF%86%E3%81%AE2LDK%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "大人の初恋、はじめます",
+  "nameTbl": "大人の初恋、はじめます（NS）",
+  "brand": "Voltage Inc.",
+  "publisher": "Voltage Inc.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2021-11-25",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v18400",
+  "vndbRelease": "r84493",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Voltage Inc._大人の初恋、はじめます（NS）.jpg",
+  "brands": [
+   "Voltage Inc."
+  ],
+  "publishers": [
+   "Voltage Inc."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E5%A4%A7%E4%BA%BA%E3%81%AE%E5%88%9D%E6%81%8B%E3%80%81%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%99%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "恋してしまった星の王子",
+  "nameTbl": "恋してしまった星の王子（NS）",
+  "brand": "Voltage Inc.",
+  "publisher": "Voltage Inc.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2019-08-29",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v16051",
+  "vndbRelease": "r64911",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Voltage Inc._恋してしまった星の王子（NS）.jpg",
+  "brands": [
+   "Voltage Inc."
+  ],
+  "publishers": [
+   "Voltage Inc."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%81%8B%E3%81%97%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F%E6%98%9F%E3%81%AE%E7%8E%8B%E5%AD%90%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Alice in Dreamworld",
+  "nameTbl": "Alice in Dreamworld（PC）",
+  "brand": "Fushigi no Kuni Neko Yokochou-san Banchi",
+  "publisher": "Fushigi no Kuni Neko Yokochou-san Banchi",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2015-09-19",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v32481",
+  "vndbRelease": "r83687",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Fushigi no Kuni Neko Yokochou-san Banchi_Alice in Dreamworld（PC）.jpg",
+  "brands": [
+   "Fushigi no Kuni Neko Yokochou-san Banchi"
+  ],
+  "publishers": [
+   "Fushigi no Kuni Neko Yokochou-san Banchi"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DAlice%20in%20Dreamworld%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Dragon's Maiden",
+  "nameTbl": "Dragon's Maiden（PC）",
+  "brand": "AME",
+  "publisher": "AME",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2010-10-03",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v6707",
+  "vndbRelease": "r13359",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/AME_Dragon's Maiden（PC）.jpg",
+  "brands": [
+   "AME"
+  ],
+  "publishers": [
+   "AME"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DDragon%27s%20Maiden%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Psychic Rain",
+  "nameTbl": "Psychic Rain（PC）",
+  "brand": "Karin Entertainment",
+  "publisher": "Karin Entertainment",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2013-04-01",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v22374",
+  "vndbRelease": "r55157",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Karin Entertainment_Psychic Rain（PC）.jpg",
+  "brands": [
+   "Karin Entertainment"
+  ],
+  "publishers": [
+   "Karin Entertainment"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DPsychic%20Rain%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "うつしみよつる",
+  "nameTbl": "うつしみよつる（PC）",
+  "brand": "Osunoha",
+  "publisher": "Osunoha",
+  "plat": "PC",
+  "orient": "蔷薇向",
+  "release": "2007-10-07",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v14218",
+  "vndbRelease": "r31262",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Osunoha_うつしみよつる（PC）.jpg",
+  "brands": [
+   "Osunoha"
+  ],
+  "publishers": [
+   "Osunoha"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%81%86%E3%81%A4%E3%81%97%E3%81%BF%E3%82%88%E3%81%A4%E3%82%8B%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "アコニタム",
+  "nameTbl": "アコニタム（PC）",
+  "brand": "SGMJ",
+  "publisher": "SGMJ",
+  "plat": "PC",
+  "orient": "蔷薇向",
+  "release": "2014-08-15",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v15969",
+  "vndbRelease": "r36285",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/SGMJ_アコニタム（PC）.jpg",
+  "brands": [
+   "SGMJ"
+  ],
+  "publishers": [
+   "SGMJ"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%82%A2%E3%82%B3%E3%83%8B%E3%82%BF%E3%83%A0%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "エイプリルーるののこりもの",
+  "nameTbl": "エイプリルーるののこりもの（PC）",
+  "brand": "",
+  "publisher": "",
+  "plat": "PC",
+  "orient": "蔷薇向",
+  "release": "",
+  "transDate": "2026-11-11",
+  "vndb": "",
+  "vndbRelease": "",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/placeholder.png",
+  "brands": [],
+  "publishers": [],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AA%E3%83%AB%E3%83%BC%E3%82%8B%E3%81%AE%E3%81%AE%E3%81%93%E3%82%8A%E3%82%82%E3%81%AE%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "エゴと後悔のジレンマ",
+  "nameTbl": "エゴと後悔のジレンマ（PC）",
+  "brand": "Jin Clip",
+  "publisher": "Jin Clip",
+  "plat": "PC",
+  "orient": "蔷薇向",
+  "release": "2018-08-31",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v24132",
+  "vndbRelease": "r59276",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Jin Clip_エゴと後悔のジレンマ（PC）.jpg",
+  "brands": [
+   "Jin Clip"
+  ],
+  "publishers": [
+   "Jin Clip"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%82%A8%E3%82%B4%E3%81%A8%E5%BE%8C%E6%82%94%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "エトワールの方程式",
+  "nameTbl": "エトワールの方程式（PC）",
+  "brand": "ClearColor",
+  "publisher": "ClearColor",
+  "plat": "PC",
+  "orient": "蔷薇向",
+  "release": "2004-09-24",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v2815",
+  "vndbRelease": "r5513",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/ClearColor_エトワールの方程式（PC）.jpg",
+  "brands": [
+   "ClearColor"
+  ],
+  "publishers": [
+   "ClearColor"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%82%A8%E3%83%88%E3%83%AF%E3%83%BC%E3%83%AB%E3%81%AE%E6%96%B9%E7%A8%8B%E5%BC%8F%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "夢をもう一度＋幸福の風",
+  "nameTbl": "夢をもう一度＋幸福の風（PC）",
+  "brand": "Mirai",
+  "publisher": "Mirai",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2006-11-09",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v1933",
+  "vndbRelease": "r72806",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Mirai_夢をもう一度＋幸福の風（PC）.jpg",
+  "brands": [
+   "Mirai"
+  ],
+  "publishers": [
+   "Mirai"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E5%A4%A2%E3%82%92%E3%82%82%E3%81%86%E4%B8%80%E5%BA%A6%EF%BC%8B%E5%B9%B8%E7%A6%8F%E3%81%AE%E9%A2%A8%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "星の王女 光のつばさ＋恋のパティシエ",
+  "nameTbl": "星の王女 光のつばさ＋恋のパティシエ（PC）",
+  "brand": "Mirai",
+  "publisher": "Mirai",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2016-08-05",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v1935",
+  "vndbRelease": "r67360",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Mirai_星の王女 光のつばさ＋恋のパティシエ（PC）.jpg",
+  "brands": [
+   "Mirai"
+  ],
+  "publishers": [
+   "Mirai"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E6%98%9F%E3%81%AE%E7%8E%8B%E5%A5%B3%20%E5%85%89%E3%81%AE%E3%81%A4%E3%81%B0%E3%81%95%EF%BC%8B%E6%81%8B%E3%81%AE%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "星の王女 ～宇宙意識に目覚めた義経～",
+  "nameTbl": "星の王女 ～宇宙意識に目覚めた義経～（PC）",
+  "brand": "Mirai",
+  "publisher": "Mirai",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2007-03-23",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v1952",
+  "vndbRelease": "r3820",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Mirai_星の王女 ～宇宙意識に目覚めた義経～（PC）.jpg",
+  "brands": [
+   "Mirai"
+  ],
+  "publishers": [
+   "Mirai"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E6%98%9F%E3%81%AE%E7%8E%8B%E5%A5%B3%20%EF%BD%9E%E5%AE%87%E5%AE%99%E6%84%8F%E8%AD%98%E3%81%AB%E7%9B%AE%E8%A6%9A%E3%82%81%E3%81%9F%E7%BE%A9%E7%B5%8C%EF%BD%9E%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "星の王女",
+  "nameTbl": "星の王女（PC）",
+  "brand": "Mirai",
+  "publisher": "Mirai",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2003-08-25",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v1930",
+  "vndbRelease": "r3758",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Mirai_星の王女（PC）.jpg",
+  "brands": [
+   "Mirai"
+  ],
+  "publishers": [
+   "Mirai"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E6%98%9F%E3%81%AE%E7%8E%8B%E5%A5%B3%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "星の王女2",
+  "nameTbl": "星の王女2（PC）",
+  "brand": "Mirai",
+  "publisher": "Mirai",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2004-02-29",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v1931",
+  "vndbRelease": "r3759",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Mirai_星の王女2（PC）.jpg",
+  "brands": [
+   "Mirai"
+  ],
+  "publishers": [
+   "Mirai"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E6%98%9F%E3%81%AE%E7%8E%8B%E5%A5%B32%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "星の王女3 ～天・地・人の創世記～＋星の約束",
+  "nameTbl": "星の王女3 ～天・地・人の創世記～＋星の約束（PC）",
+  "brand": "Mirai",
+  "publisher": "Mirai",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2016-06-24",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v1932",
+  "vndbRelease": "r67358",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Mirai_星の王女3 ～天・地・人の創世記～＋星の約束（PC）.jpg",
+  "brands": [
+   "Mirai"
+  ],
+  "publishers": [
+   "Mirai"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E6%98%9F%E3%81%AE%E7%8E%8B%E5%A5%B33%20%EF%BD%9E%E5%A4%A9%E3%83%BB%E5%9C%B0%E3%83%BB%E4%BA%BA%E3%81%AE%E5%89%B5%E4%B8%96%E8%A8%98%EF%BD%9E%EF%BC%8B%E6%98%9F%E3%81%AE%E7%B4%84%E6%9D%9F%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "月と森とあなたとわたし",
+  "nameTbl": "月と森とあなたとわたし（PC）",
+  "brand": "Magic House",
+  "publisher": "Magic House",
+  "plat": "PC",
+  "orient": "其他",
+  "release": "2012-06-14",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v10702",
+  "vndbRelease": "r21724",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Magic House_月と森とあなたとわたし（PC）.jpg",
+  "brands": [
+   "Magic House"
+  ],
+  "publishers": [
+   "Magic House"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E5%85%B6%E4%BB%96/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E6%9C%88%E3%81%A8%E6%A3%AE%E3%81%A8%E3%81%82%E3%81%AA%E3%81%9F%E3%81%A8%E3%82%8F%E3%81%9F%E3%81%97%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "神立ノ雨、鬼ノ唄",
+  "nameTbl": "神立ノ雨、鬼ノ唄（PC）",
+  "brand": "Libre Palette",
+  "publisher": "Libre Palette",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2020-07-07",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v28727",
+  "vndbRelease": "r72967",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Libre Palette_神立ノ雨、鬼ノ唄（PC）.jpg",
+  "brands": [
+   "Libre Palette"
+  ],
+  "publishers": [
+   "Libre Palette"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E7%A5%9E%E7%AB%8B%E3%83%8E%E9%9B%A8%E3%80%81%E9%AC%BC%E3%83%8E%E5%94%84%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "神足町人妖譚 ～迷イ子ノ章～",
+  "nameTbl": "神足町人妖譚 ～迷イ子ノ章～（PC）",
+  "brand": "Mio",
+  "publisher": "Mio",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2015-03-06",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v16098",
+  "vndbRelease": "r36659",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Mio_神足町人妖譚 ～迷イ子ノ章～（PC）.jpg",
+  "brands": [
+   "Mio"
+  ],
+  "publishers": [
+   "Mio"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E7%A5%9E%E8%B6%B3%E7%94%BA%E4%BA%BA%E5%A6%96%E8%AD%9A%20%EF%BD%9E%E8%BF%B7%E3%82%A4%E5%AD%90%E3%83%8E%E7%AB%A0%EF%BD%9E%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "群青ノ雪",
+  "nameTbl": "群青ノ雪（PC）",
+  "brand": "Stellatica",
+  "publisher": "Stellatica",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2017-02-15",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v16059",
+  "vndbRelease": "r36551",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Stellatica_群青ノ雪（PC）.jpg",
+  "brands": [
+   "Stellatica"
+  ],
+  "publishers": [
+   "Stellatica"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E7%BE%A4%E9%9D%92%E3%83%8E%E9%9B%AA%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Are you Alice?",
+  "nameTbl": "Are you Alice？（PSP）",
+  "brand": "Otomate",
+  "publisher": "Idea Factory Co., Ltd.",
+  "plat": "PSP",
+  "orient": "其他",
+  "release": "2011-03-24",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v6459",
+  "vndbRelease": "r12799",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Otomate_Are you Alice？（PSP）.jpg",
+  "brands": [
+   "Otomate"
+  ],
+  "publishers": [
+   "Idea Factory Co., Ltd."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E5%85%B6%E4%BB%96/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5DAre%20you%20Alice%EF%BC%9F%5B20261111%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "エロトマニア",
+  "nameTbl": "エロトマニア（PC）",
+  "brand": "SAWRED",
+  "publisher": "SAWRED",
+  "plat": "PC",
+  "orient": "蔷薇向",
+  "release": "2015-12-30",
+  "transDate": "2026-11-11",
+  "vndb": "https://vndb.org/v17367",
+  "vndbRelease": "r39953",
+  "lang": "JP",
+  "type": [
+   "预翻译",
+   "补丁"
+  ],
+  "cover": "/img/trans-covers/SAWRED_エロトマニア（PC）.jpg",
+  "brands": [
+   "SAWRED"
+  ],
+  "publishers": [
+   "SAWRED"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%82%A8%E3%83%AD%E3%83%88%E3%83%9E%E3%83%8B%E3%82%A2%5B20261111%5D.zip"
+   },
+   {
+    "t": "补丁",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E8%A1%A5%E4%B8%81/%5BPC-JP%5D%E3%82%A8%E3%83%AD%E3%83%88%E3%83%9E%E3%83%8B%E3%82%A2.zip"
    }
   ]
  }
