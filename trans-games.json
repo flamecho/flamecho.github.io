@@ -888,7 +888,7 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2023-05-25",
-  "transDate": "2026-09-15",
+  "transDate": "2026-11-14",
   "vndb": "https://vndb.org/v29871",
   "vndbRelease": "r76463",
   "lang": "JP",
@@ -905,9 +905,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DBUSTAFELLOWS%20%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B32%5B20260915%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DBUSTAFELLOWS%20%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B32%5B20261114%5D.zip"
    }
-  ]
+  ],
+  "retrans": true
  },
  {
   "name": "Side Kicks! beyond",
@@ -3028,7 +3029,7 @@
   "plat": "PSP",
   "orient": "乙女向",
   "release": "2010-08-26",
-  "transDate": "2026-09-13",
+  "transDate": "2026-11-14",
   "vndb": "https://vndb.org/v3239",
   "vndbRelease": "r6334",
   "lang": "JP",
@@ -3045,9 +3046,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E4%BA%8C%E4%B8%96%E3%81%AE%E5%A5%91%E3%82%8A%5B20260913%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E4%BA%8C%E4%B8%96%E3%81%AE%E5%A5%91%E3%82%8A%5B20261114%5D.zip"
    }
-  ]
+  ],
+  "retrans": true
  },
  {
   "name": "二世の契り 想い出の先へ",
@@ -3057,7 +3059,7 @@
   "plat": "PSP",
   "orient": "乙女向",
   "release": "2011-07-21",
-  "transDate": "2026-09-13",
+  "transDate": "2026-11-14",
   "vndb": "https://vndb.org/v7366",
   "vndbRelease": "r14649",
   "lang": "JP",
@@ -3074,9 +3076,10 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E4%BA%8C%E4%B8%96%E3%81%AE%E5%A5%91%E3%82%8A%20%E6%83%B3%E3%81%84%E5%87%BA%E3%81%AE%E5%85%88%E3%81%B8%5B20260913%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSP/%5BPSP-JP%5D%E4%BA%8C%E4%B8%96%E3%81%AE%E5%A5%91%E3%82%8A%20%E6%83%B3%E3%81%84%E5%87%BA%E3%81%AE%E5%85%88%E3%81%B8%5B20261114%5D.zip"
    }
-  ]
+  ],
+  "retrans": true
  },
  {
   "name": "華鬼 ～恋い初める刻 永久の印～",
@@ -24586,7 +24589,7 @@
   "type": [
    "预翻译"
   ],
-  "cover": "/img/trans-covers/Otomate_Are you Alice？（PSP）.jpg",
+  "cover": "/img/trans-covers/Otomate_Are you Alice_（PSP）.jpg",
   "brands": [
    "Otomate"
   ],
@@ -24631,6 +24634,326 @@
    {
     "t": "补丁",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E8%94%B7%E8%96%87%E5%90%91/%E8%A1%A5%E4%B8%81/%5BPC-JP%5D%E3%82%A8%E3%83%AD%E3%83%88%E3%83%9E%E3%83%8B%E3%82%A2.zip"
+   }
+  ]
+ },
+ {
+  "name": "BUSTAFELLOWS",
+  "nameTbl": "BUSTAFELLOWS（NS）",
+  "brand": "Nippon Cultural Broadcasting Extend Inc.",
+  "publisher": "Nippon Cultural Broadcasting Extend Inc.",
+  "plat": "NS",
+  "orient": "乙女向",
+  "release": "2019-12-19",
+  "transDate": "2026-11-14",
+  "vndb": "https://vndb.org/v25197",
+  "vndbRelease": "r66329",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Nippon Cultural Broadcasting Extend Inc._BUSTAFELLOWS（NS）.jpg",
+  "brands": [
+   "Nippon Cultural Broadcasting Extend Inc."
+  ],
+  "publishers": [
+   "Nippon Cultural Broadcasting Extend Inc."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DBUSTAFELLOWS%5B20261114%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "999,Victory -Return-",
+  "nameTbl": "999,Victory -Return-（PC）",
+  "brand": "spice+",
+  "publisher": "spice+",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2016-08-16",
+  "transDate": "2026-11-14",
+  "vndb": "https://vndb.org/v59253",
+  "vndbRelease": "r141595",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/spice+_999,Victory -Return-（PC）.jpg",
+  "brands": [
+   "spice+"
+  ],
+  "publishers": [
+   "spice+"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D999%2CVictory%20-Return-%5B20261114%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "999,Victory",
+  "nameTbl": "999,Victory（PC）",
+  "brand": "spice+",
+  "publisher": "spice+",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2015-05-05",
+  "transDate": "2026-11-14",
+  "vndb": "https://vndb.org/v59246",
+  "vndbRelease": "r141576",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/spice+_999,Victory（PC）.jpg",
+  "brands": [
+   "spice+"
+  ],
+  "publishers": [
+   "spice+"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D999%2CVictory%5B20261114%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Riddle Garden",
+  "nameTbl": "Riddle Garden（PC）",
+  "brand": "Calamelia",
+  "publisher": "Calamelia",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2010-03-26",
+  "transDate": "2026-11-14",
+  "vndb": "https://vndb.org/v2994",
+  "vndbRelease": "r5890",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Calamelia_Riddle Garden（PC）.jpg",
+  "brands": [
+   "Calamelia"
+  ],
+  "publishers": [
+   "Calamelia"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DRiddle%20Garden%5B20261114%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "STEP -二人の関係は一歩ずつ-",
+  "nameTbl": "STEP -二人の関係は一歩ずつ-（PC）",
+  "brand": "AMEDEO",
+  "publisher": "AMEDEO",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2006-12-15",
+  "transDate": "2026-11-14",
+  "vndb": "https://vndb.org/v2608",
+  "vndbRelease": "r5115",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/AMEDEO_STEP -二人の関係は一歩ずつ-（PC）.jpg",
+  "brands": [
+   "AMEDEO"
+  ],
+  "publishers": [
+   "AMEDEO"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DSTEP%20-%E4%BA%8C%E4%BA%BA%E3%81%AE%E9%96%A2%E4%BF%82%E3%81%AF%E4%B8%80%E6%AD%A9%E3%81%9A%E3%81%A4-%5B20261114%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "Siesta ～すすき野原の夢物語～",
+  "nameTbl": "Siesta ～すすき野原の夢物語～（PC）",
+  "brand": "AMEDEO",
+  "publisher": "AMEDEO",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2002-04-12",
+  "transDate": "2026-11-14",
+  "vndb": "https://vndb.org/v2812",
+  "vndbRelease": "r5508",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/AMEDEO_Siesta ～すすき野原の夢物語～（PC）.jpg",
+  "brands": [
+   "AMEDEO"
+  ],
+  "publishers": [
+   "AMEDEO"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DSiesta%20%EF%BD%9E%E3%81%99%E3%81%99%E3%81%8D%E9%87%8E%E5%8E%9F%E3%81%AE%E5%A4%A2%E7%89%A9%E8%AA%9E%EF%BD%9E%5B20261114%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "アガスターシェルゴサ",
+  "nameTbl": "アガスターシェルゴサ（PC）",
+  "brand": "Hyssop",
+  "publisher": "Hyssop",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2025-03-16",
+  "transDate": "2026-11-14",
+  "vndb": "https://vndb.org/v53438",
+  "vndbRelease": "r166397",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Hyssop_アガスターシェルゴサ（PC）.jpg",
+  "brands": [
+   "Hyssop"
+  ],
+  "publishers": [
+   "Hyssop",
+   "WANDERING WITCH PROIECTUM"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%82%A2%E3%82%AC%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B4%E3%82%B5%5B20261114%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "カレと彼の間で -DX ツインズパック版-",
+  "nameTbl": "カレと彼の間で -DX ツインズパック版-（PC）",
+  "brand": "AMEDEO",
+  "publisher": "AMEDEO",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2006-08-11",
+  "transDate": "2026-11-14",
+  "vndb": "https://vndb.org/v226",
+  "vndbRelease": "r15414",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/AMEDEO_カレと彼の間で -DX ツインズパック版-（PC）.jpg",
+  "brands": [
+   "AMEDEO"
+  ],
+  "publishers": [
+   "AMEDEO"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E3%82%AB%E3%83%AC%E3%81%A8%E5%BD%BC%E3%81%AE%E9%96%93%E3%81%A7%20-DX%20%E3%83%84%E3%82%A4%E3%83%B3%E3%82%BA%E3%83%91%E3%83%83%E3%82%AF%E7%89%88-%5B20261114%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "千の祈りのパラドクス",
+  "nameTbl": "千の祈りのパラドクス（PC）",
+  "brand": "Ray [rei]",
+  "publisher": "Ray [rei]",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2013-10-12",
+  "transDate": "2026-11-14",
+  "vndb": "https://vndb.org/v11323",
+  "vndbRelease": "r29382",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Ray [rei]_千の祈りのパラドクス（PC）.jpg",
+  "brands": [
+   "Ray [rei]"
+  ],
+  "publishers": [
+   "Ray [rei]"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E5%8D%83%E3%81%AE%E7%A5%88%E3%82%8A%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%82%AF%E3%82%B9%5B20261114%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "学園特救ホトケンサー",
+  "nameTbl": "学園特救ホトケンサー（PC）",
+  "brand": "TWOFIVE Inc.",
+  "publisher": "TWOFIVE Inc.",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2011-08-06",
+  "transDate": "2026-11-14",
+  "vndb": "https://vndb.org/v5473",
+  "vndbRelease": "r10543",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/TWOFIVE Inc._学園特救ホトケンサー（PC）.jpg",
+  "brands": [
+   "TWOFIVE Inc."
+  ],
+  "publishers": [
+   "TWOFIVE Inc."
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E5%AD%A6%E5%9C%92%E7%89%B9%E6%95%91%E3%83%9B%E3%83%88%E3%82%B1%E3%83%B3%E3%82%B5%E3%83%BC%5B20261114%5D.zip"
+   }
+  ]
+ },
+ {
+  "name": "王宮夜想曲",
+  "nameTbl": "王宮夜想曲（PC）",
+  "brand": "Gekka Hyoujin",
+  "publisher": "Gekka Hyoujin",
+  "plat": "PC",
+  "orient": "乙女向",
+  "release": "2005-09-22",
+  "transDate": "2026-11-14",
+  "vndb": "https://vndb.org/v3425",
+  "vndbRelease": "r6684",
+  "lang": "JP",
+  "type": [
+   "预翻译"
+  ],
+  "cover": "/img/trans-covers/Gekka Hyoujin_王宮夜想曲（PC）.jpg",
+  "brands": [
+   "Gekka Hyoujin"
+  ],
+  "publishers": [
+   "Gekka Hyoujin"
+  ],
+  "dls": [
+   {
+    "t": "预翻译",
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5D%E7%8E%8B%E5%AE%AE%E5%A4%9C%E6%83%B3%E6%9B%B2%5B20261114%5D.zip"
    }
   ]
  }
