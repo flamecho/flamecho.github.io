@@ -6355,9 +6355,9 @@
   {
     "name": "Last End Halloween",
     "nameTbl": "Last End Halloween(PC)",
-    "brand": "変則ヘリカルギア",
+    "brand": "Hensoku Helical Gear",
     "brands": [
-      "変則ヘリカルギア"
+      "Hensoku Helical Gear"
     ],
     "publisher": "Hensoku Helical Gear",
     "publishers": [
@@ -6880,7 +6880,7 @@
     ]
   },
   {
-    "name": "Lucian Bee's -EVIL VIOLET-",
+    "name": "Lucian Bee's EVIL VIOLET",
     "nameTbl": "Lucian Bee's -EVIL VIOLET-(PSP)",
     "brand": "HuneX / Rejet Co., Ltd.",
     "brands": [
@@ -6898,20 +6898,16 @@
     "lang": "JP",
     "orient": "乙女向",
     "vndb": "https://vndb.org/v9918",
-    "cover": "/img/guides-covers/Lucian Bee's -EVIL VIOLET-（PSP）.jpg",
+    "cover": "/img/guides-covers/Lucian Bee's EVIL VIOLET（PSP）.jpg",
     "guides": [
       {
         "t": "乙女ゲーム攻略",
         "u": "https://otomegame-capture.com/psp/lb_ev/"
-      },
-      {
-        "t": "La Primavera",
-        "u": "https://web.archive.org/web/20100605081308/http://otome.girly.jp/lb_violet/menu.html"
       }
     ]
   },
   {
-    "name": "Lucian Bee's -JUSTICE YELLOW-",
+    "name": "Lucian Bee's JUSTICE YELLOW",
     "nameTbl": "Lucian Bee's -JUSTICE YELLOW-(PSP)",
     "brand": "HuneX / Rejet Co., Ltd.",
     "brands": [
@@ -6929,19 +6925,11 @@
     "lang": "JP",
     "orient": "乙女向",
     "vndb": "https://vndb.org/v9917",
-    "cover": "/img/guides-covers/Lucian Bee's -JUSTICE YELLOW-（PSP）.jpg",
+    "cover": "/img/guides-covers/Lucian Bee's JUSTICE YELLOW（PSP）.jpg",
     "guides": [
       {
         "t": "乙女ゲーム攻略",
         "u": "https://otomegame-capture.com/psp/lb_jy/"
-      },
-      {
-        "t": "La Primavera",
-        "u": "https://web.archive.org/web/20100623025546/http://otome.girly.jp/lb_yellow/menu.html"
-      },
-      {
-        "t": "OTOME-Wiki",
-        "u": "http://www.ladygamer.jp/otw/LucianBees/"
       }
     ]
   },
@@ -6969,36 +6957,6 @@
       {
         "t": "乙女ゲーム攻略",
         "u": "https://otomegame-capture.com/psp/lb/"
-      },
-      {
-        "t": "La Primavera",
-        "u": "https://web.archive.org/web/20100724044601/http://otome.girly.jp/lb/menu.html"
-      }
-    ]
-  },
-  {
-    "name": "Lumi Crystal",
-    "nameTbl": "Lumi Crystal(PC)",
-    "brand": "AZULDROP;",
-    "brands": [
-      "AZULDROP;"
-    ],
-    "publisher": "AZULDROP;",
-    "publishers": [
-      "AZULDROP;"
-    ],
-    "plat": "PC",
-    "plats": [
-      "PC"
-    ],
-    "lang": "JP",
-    "orient": "乙女向",
-    "vndb": "https://vndb.org/v33591",
-    "cover": "/img/guides-covers/Lumi Crystal（PC）.jpg",
-    "guides": [
-      {
-        "t": "miyutan",
-        "u": "http://miyutan0509.blog.fc2.com/blog-entry-324.html"
       }
     ]
   },
@@ -7148,9 +7106,9 @@
   {
     "name": "Maple Colors - DVD-ROM First Press Edition",
     "nameTbl": "Maple Colors - DVD-ROM First Press Edition(PC)",
-    "brand": "ApRicoT",
+    "brand": "4.3℃",
     "brands": [
-      "ApRicoT"
+      "4.3℃"
     ],
     "publisher": "CROSSNET",
     "publishers": [
@@ -7162,8 +7120,8 @@
     ],
     "lang": "JP",
     "orient": "乙女向",
-    "vndb": "https://vndb.org/v188",
-    "cover": "/img/guides-covers/Maple Colors - DVD-ROM First Press Edition（PC）.jpg",
+    "vndb": "",
+    "cover": "/img/guides-covers/placeholder.png",
     "guides": [
       {
         "t": "miyutan",
@@ -7233,7 +7191,7 @@
     ]
   },
   {
-    "name": "Memory of bond フリー版",
+    "name": "Memory of bond",
     "nameTbl": "Memory of bond フリー版(PC)",
     "brand": "LI Project",
     "brands": [
@@ -7250,7 +7208,7 @@
     "lang": "JP",
     "orient": "乙女向",
     "vndb": "https://vndb.org/v13270",
-    "cover": "/img/guides-covers/Memory of bond フリー版（PC）.jpg",
+    "cover": "/img/guides-covers/Memory of bond（PC）.jpg",
     "guides": [
       {
         "t": "miyutan",
@@ -7285,9 +7243,9 @@
   {
     "name": "Message≠Sending",
     "nameTbl": "Message≠Sending(PC)",
-    "brand": "変則ヘリカルギア",
+    "brand": "Hensoku Helical Gear",
     "brands": [
-      "変則ヘリカルギア"
+      "Hensoku Helical Gear"
     ],
     "publisher": "Hensoku Helical Gear",
     "publishers": [
@@ -7309,7 +7267,7 @@
     ]
   },
   {
-    "name": "Midnight Library - 全キャラクター同梱版",
+    "name": "Midnight Library",
     "nameTbl": "Midnight Library - 全キャラクター同梱版(PC)",
     "brand": "Hazelnut",
     "brands": [
@@ -7326,7 +7284,7 @@
     "lang": "JP",
     "orient": "乙女向",
     "vndb": "https://vndb.org/v15481",
-    "cover": "/img/guides-covers/Midnight Library - 全キャラクター同梱版（PC）.jpg",
+    "cover": "/img/guides-covers/Midnight Library（PC）.jpg",
     "guides": [
       {
         "t": "miyutan",
@@ -7419,7 +7377,7 @@
     "cover": "/img/guides-covers/Monochrome Empire（PC）.jpg",
     "guides": [
       {
-        "t": "18otome",
+        "t": "R-18Otome",
         "u": "https://18otome.com/monoem/2844/#more-2844"
       }
     ]
@@ -7445,7 +7403,7 @@
     "cover": "/img/guides-covers/Monochrome Wizard ～黒の讃歌、白の鎮魂歌～（PC）.jpg",
     "guides": [
       {
-        "t": "archive",
+        "t": "刀一",
         "u": "https://web.archive.org/web/20200412235346/https://deoi13.blog.fc2.com/blog-entry-2.html"
       }
     ]
@@ -14393,9 +14351,9 @@
   {
     "name": "おかしな国のSweet Festival!",
     "nameTbl": "おかしな国のSweet Festival!(PC)",
-    "brand": "変則ヘリカルギア",
+    "brand": "Hensoku Helical Gear",
     "brands": [
-      "変則ヘリカルギア"
+      "Hensoku Helical Gear"
     ],
     "publisher": "Hensoku Helical Gear",
     "publishers": [
@@ -14453,9 +14411,9 @@
   {
     "name": "おとげと!2013",
     "nameTbl": "おとげと!2013(PC)",
-    "brand": "変則ヘリカルギア",
+    "brand": "Hensoku Helical Gear",
     "brands": [
-      "変則ヘリカルギア"
+      "Hensoku Helical Gear"
     ],
     "publisher": "",
     "publishers": [],
@@ -23107,9 +23065,9 @@
   {
     "name": "パンプキンぶれいく!",
     "nameTbl": "パンプキンぶれいく!(PC)",
-    "brand": "変則ヘリカルギア",
+    "brand": "Hensoku Helical Gear",
     "brands": [
-      "変則ヘリカルギア"
+      "Hensoku Helical Gear"
     ],
     "publisher": "",
     "publishers": [],
@@ -26198,7 +26156,7 @@
     ]
   },
   {
-    "name": "Lucian Bee's: Evil Violet ルシアンビーズ イビル ヴァイオレット",
+    "name": "Lucian Bee's EVIL VIOLET",
     "nameTbl": "Lucian Bee's: Evil Violet ルシアンビーズ イビル ヴァイオレット(PS2)",
     "brand": "HuneX",
     "brands": [
@@ -26215,7 +26173,7 @@
     "lang": "JP",
     "orient": "乙女向",
     "vndb": "https://vndb.org/v9918",
-    "cover": "/img/guides-covers/Lucian Bee's- Evil Violet ルシアンビーズ イビル ヴァイオレット（PS2）.jpg",
+    "cover": "/img/guides-covers/Lucian Bee's EVIL VIOLET（PS2）.jpg",
     "guides": [
       {
         "t": "Half Adder",
@@ -26228,7 +26186,7 @@
     ]
   },
   {
-    "name": "Lucian Bee's: Justice Yellow ルシアンビーズ ジャスティス イエロー",
+    "name": "Lucian Bee's JUSTICE YELLOW",
     "nameTbl": "Lucian Bee's: Justice Yellow ルシアンビーズ ジャスティス イエロー(PS2)",
     "brand": "HuneX / Rejet Co., Ltd.",
     "brands": [
@@ -26246,7 +26204,7 @@
     "lang": "JP",
     "orient": "乙女向",
     "vndb": "https://vndb.org/v9917",
-    "cover": "/img/guides-covers/Lucian Bee's- Justice Yellow ルシアンビーズ ジャスティス イエロー（PS2）.jpg",
+    "cover": "/img/guides-covers/Lucian Bee's JUSTICE YELLOW（PS2）.jpg",
     "guides": [
       {
         "t": "Half Adder",
@@ -38937,9 +38895,9 @@
   {
     "name": "眠り王子と黒き魔女",
     "nameTbl": "眠り王子と黒き魔女(PC)",
-    "brand": "変則ヘリカルギア",
+    "brand": "Hensoku Helical Gear",
     "brands": [
-      "変則ヘリカルギア"
+      "Hensoku Helical Gear"
     ],
     "publisher": "Hensoku Helical Gear",
     "publishers": [
@@ -39849,9 +39807,9 @@
   {
     "name": "箱庭世界ベニフィット",
     "nameTbl": "箱庭世界ベニフィット(PC)",
-    "brand": "変則ヘリカルギア",
+    "brand": "Hensoku Helical Gear",
     "brands": [
-      "変則ヘリカルギア"
+      "Hensoku Helical Gear"
     ],
     "publisher": "",
     "publishers": [],
@@ -47524,6 +47482,32 @@
       {
         "t": "徒然綴り",
         "u": "https://syumi-room.hateblo.jp/entry/2015/01/21/160657"
+      }
+    ]
+  },
+  {
+    "name": "Lucian Bee's RESURRECTION SUPERNOVA",
+    "plat": "PS2",
+    "plats": [
+      "PS2"
+    ],
+    "vndb": "https://vndb.org/v1971",
+    "brand": "HuneX / Rejet Co., Ltd.",
+    "brands": [
+      "HuneX",
+      "Rejet Co., Ltd."
+    ],
+    "publisher": "MAGES.",
+    "publishers": [
+      "MAGES."
+    ],
+    "lang": "JP",
+    "orient": "乙女向",
+    "cover": "/img/guides-covers/Lucian Bee's RESURRECTION SUPERNOVA（PS2）.jpg",
+    "guides": [
+      {
+        "t": "La Primavera",
+        "u": "https://web.archive.org/web/20100724044601/http://otome.girly.jp/lb/menu.html"
       }
     ]
   }
