@@ -7611,6 +7611,10 @@
       {
         "t": "☆乙ゲー",
         "u": "https://maistar.blog.fc2.com/blog-entry-1339.html"
+      },
+      {
+        "t": "hijikata",
+        "u": "https://ameblo.jp/hijikata-san-0510/entry-12942408737.html"
       }
     ]
   },
@@ -7664,10 +7668,6 @@
     "vndb": "https://vndb.org/v11179",
     "cover": "/img/guides-covers/NORN9 VAR COMMONS ノルン+ノネット ヴァール コモンズ（PSV）.jpg",
     "guides": [
-      {
-        "t": "hijikata",
-        "u": "https://ameblo.jp/hijikata-san-0510/entry-12942408737.html"
-      },
       {
         "t": "みずき",
         "u": "https://plaza.rakuten.co.jp/mizukinoko/diary/201610050000/"
@@ -7913,10 +7913,6 @@
       {
         "t": "☆乙ゲー",
         "u": "https://maistar.blog.fc2.com/blog-entry-1153.html"
-      },
-      {
-        "t": "モモ缶",
-        "u": "https://web.archive.org/web/20151012160403/http://momokan.chu.jp/momokan/contents-ozmafia.html"
       }
     ]
   },
@@ -7955,7 +7951,7 @@
     ]
   },
   {
-    "name": "OutRun:R フリー版",
+    "name": "OutRun:R",
     "nameTbl": "OutRun:R フリー版(PC)",
     "brand": "ONE'S BRAND",
     "brands": [
@@ -7972,7 +7968,7 @@
     "lang": "JP",
     "orient": "乙女向",
     "vndb": "https://vndb.org/v16323",
-    "cover": "/img/guides-covers/OutRun-R フリー版（PC）.jpg",
+    "cover": "/img/guides-covers/OutRun-R（PC）.jpg",
     "guides": [
       {
         "t": "miyutan",
@@ -8011,7 +8007,7 @@
     ]
   },
   {
-    "name": "PANDORA 君の名前を僕は知る",
+    "name": "PANDORA ～君の名前を、僕は知る～",
     "nameTbl": "PANDORA 君の名前を僕は知る(PS2)",
     "brand": "Otomate",
     "brands": [
@@ -8027,8 +8023,8 @@
     ],
     "lang": "JP",
     "orient": "乙女向",
-    "vndb": "https://vndb.org/v1203",
-    "cover": "/img/guides-covers/PANDORA 君の名前を僕は知る（PS2）.jpg",
+    "vndb": "https://vndb.org/v7866",
+    "cover": "/img/guides-covers/PANDORA ～君の名前を、僕は知る～（PS2）.jpg",
     "guides": [
       {
         "t": "乙女の友",
@@ -8093,7 +8089,7 @@
     ]
   },
   {
-    "name": "Panic Palette パニック パレット",
+    "name": "Panic Palette ～パニック パレット～",
     "nameTbl": "Panic Palette パニック パレット(PS2)",
     "brand": "Takuyo Co., Ltd.",
     "brands": [
@@ -8110,7 +8106,7 @@
     "lang": "JP",
     "orient": "乙女向",
     "vndb": "https://vndb.org/v1892",
-    "cover": "/img/guides-covers/Panic Palette パニック パレット（PS2）.jpg",
+    "cover": "/img/guides-covers/Panic Palette ～パニック パレット～（PS2）.jpg",
     "guides": [
       {
         "t": "Half Adder",
@@ -8123,6 +8119,10 @@
       {
         "t": "OTOME-Wiki",
         "u": "http://www.ladygamer.jp/otw/wiki4/"
+      },
+      {
+        "t": "La Primavera",
+        "u": "https://web.archive.org/web/20070616213808/http://otome.girly.jp/pani_pale/menu.html"
       }
     ]
   },
@@ -8149,15 +8149,11 @@
       {
         "t": "☆乙ゲー",
         "u": "https://maistar.blog.fc2.com/blog-entry-6186.html"
-      },
-      {
-        "t": "La Primavera",
-        "u": "https://web.archive.org/web/20070616213808/http://otome.girly.jp/pani_pale/menu.html"
       }
     ]
   },
   {
-    "name": "PanicPalette ～パニックパレット～",
+    "name": "Panic Palette ～パニック パレット～",
     "nameTbl": "PanicPalette ～パニックパレット～(NS)",
     "brand": "Takuyo Co., Ltd.",
     "brands": [
@@ -8174,15 +8170,11 @@
     "lang": "JP",
     "orient": "乙女向",
     "vndb": "https://vndb.org/v1892",
-    "cover": "/img/guides-covers/PanicPalette ～パニックパレット～（NS）.jpg",
+    "cover": "/img/guides-covers/Panic Palette ～パニック パレット～（NS）.jpg",
     "guides": [
       {
         "t": "choro",
         "u": "https://choro-game.com/blog-entry-2774.html"
-      },
-      {
-        "t": "OTOME-Wiki",
-        "u": "http://www.ladygamer.jp/otw/wiki4/"
       }
     ]
   },
@@ -12712,32 +12704,6 @@
       {
         "t": "miyutan",
         "u": "http://miyutan0509.blog.fc2.com/blog-entry-233.html"
-      }
-    ]
-  },
-  {
-    "name": "operetta -side story of CHOICE-",
-    "nameTbl": "operetta -side story of CHOICE-(PC)",
-    "brand": "amoroso",
-    "brands": [
-      "amoroso"
-    ],
-    "publisher": "amoroso",
-    "publishers": [
-      "amoroso"
-    ],
-    "plat": "PC",
-    "plats": [
-      "PC"
-    ],
-    "lang": "JP",
-    "orient": "乙女向",
-    "vndb": "https://vndb.org/v24614",
-    "cover": "/img/guides-covers/operetta -side story of CHOICE-（PC）.jpg",
-    "guides": [
-      {
-        "t": "miyutan",
-        "u": "http://miyutan0509.blog.fc2.com/blog-entry-291.html"
       }
     ]
   },
