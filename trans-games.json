@@ -14165,7 +14165,7 @@
   "brand": "KONAMI",
   "publisher": "Koei Tecmo Holdings Co., Ltd.",
   "plat": "PSV",
-  "orient": "乙女向",
+  "orient": "其他",
   "release": "2018-02-22",
   "transDate": "2026-10-21",
   "vndb": "https://vndb.org/v14345",
@@ -14184,7 +14184,7 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5D%E3%81%A8%E3%81%8D%E3%82%81%E3%81%8D%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E2%98%86%E2%98%86%E2%98%86%5B20261021%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E5%85%B6%E4%BB%96/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5D%E3%81%A8%E3%81%8D%E3%82%81%E3%81%8D%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E2%98%86%E2%98%86%E2%98%86%5B20261021%5D.zip"
    }
   ]
  },
