@@ -12778,12 +12778,13 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2026-01-29",
-  "transDate": "2026-10-16",
+  "transDate": "2026-11-23",
   "vndb": "https://vndb.org/v10419",
   "vndbRelease": "r141740",
   "lang": "JP",
   "type": [
-   "预翻译"
+   "预翻译",
+   "补丁 · 未测试"
   ],
   "cover": "/img/trans-covers/Design Factory Co., Ltd._Glass Heart Princess for Nintendo Switch（NS）.jpg",
   "brands": [
@@ -12796,7 +12797,24 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DGlass%20Heart%20Princess%20for%20Nintendo%20Switch%5B20261016%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DGlass%20Heart%20Princess%20for%20Nintendo%20Switch%5B20261016%5D.zip",
+    "d": "2026-10-16"
+   },
+   {
+    "t": "补丁",
+    "u": "https://pan.huang1111.cn/s/X1qdOfl",
+    "d": "2026-11-23"
+   }
+  ],
+  "retrans": true,
+  "history": [
+   {
+    "d": "2026-10-16",
+    "ev": "新增预翻译"
+   },
+   {
+    "d": "2026-11-23",
+    "ev": "新增补丁"
    }
   ],
   "alias": [
