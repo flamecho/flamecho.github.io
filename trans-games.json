@@ -806,12 +806,13 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2025-11-20",
-  "transDate": "2026-10-28",
+  "transDate": "2026-11-24",
   "vndb": "https://vndb.org/v28405",
   "vndbRelease": "r137966",
   "lang": "JP",
   "type": [
-   "预翻译"
+   "预翻译",
+   "补丁 · 未测试"
   ],
   "cover": "/img/trans-covers/Daisy2_闇色の魔珠（NS）.jpg",
   "brands": [
@@ -826,12 +827,21 @@
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E9%97%87%E8%89%B2%E3%81%AE%E9%AD%94%E7%8F%A0%5B20261028%5D.zip",
     "d": "2026-10-28"
+   },
+   {
+    "t": "补丁",
+    "u": "https://pan.huang1111.cn/s/38evOSm",
+    "d": "2026-11-24"
    }
   ],
   "history": [
    {
     "d": "2026-10-28",
     "ev": "重新翻译"
+   },
+   {
+    "d": "2026-11-24",
+    "ev": "新增补丁"
    }
   ],
   "alias": [
@@ -3225,12 +3235,13 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2024-03-21",
-  "transDate": "2026-10-08",
+  "transDate": "2026-11-24",
   "vndb": "https://vndb.org/v47740",
   "vndbRelease": "r114698",
   "lang": "JP",
   "type": [
-   "预翻译"
+   "预翻译",
+   "补丁 · 未测试"
   ],
   "cover": "/img/trans-covers/OperaHouse Corporation_悪役令嬢は隣国の王太子に溺愛される（NS）.jpg",
   "brands": [
@@ -3242,7 +3253,24 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%82%AA%E5%BD%B9%E4%BB%A4%E5%AC%A2%E3%81%AF%E9%9A%A3%E5%9B%BD%E3%81%AE%E7%8E%8B%E5%A4%AA%E5%AD%90%E3%81%AB%E6%BA%BA%E6%84%9B%E3%81%95%E3%82%8C%E3%82%8B%5B20261008%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%82%AA%E5%BD%B9%E4%BB%A4%E5%AC%A2%E3%81%AF%E9%9A%A3%E5%9B%BD%E3%81%AE%E7%8E%8B%E5%A4%AA%E5%AD%90%E3%81%AB%E6%BA%BA%E6%84%9B%E3%81%95%E3%82%8C%E3%82%8B%5B20261008%5D.zip",
+    "d": "2026-10-08"
+   },
+   {
+    "t": "补丁",
+    "u": "https://pan.huang1111.cn/s/exN9Ztg",
+    "d": "2026-11-24"
+   }
+  ],
+  "retrans": true,
+  "history": [
+   {
+    "d": "2026-10-08",
+    "ev": "新增预翻译"
+   },
+   {
+    "d": "2026-11-24",
+    "ev": "新增补丁"
    }
   ],
   "alias": [
@@ -4924,12 +4952,13 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2019-05-30",
-  "transDate": "2026-10-25",
+  "transDate": "2026-11-24",
   "vndb": "https://vndb.org/v4540",
   "vndbRelease": "r59483",
   "lang": "JP",
   "type": [
-   "预翻译"
+   "预翻译",
+   "补丁 · 未测试"
   ],
   "cover": "/img/trans-covers/Otomate_猛獣使いと王子様 ～Flower ＆ Snow～ for Nintendo Switch（NS）.jpg",
   "brands": [
@@ -4951,6 +4980,11 @@
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E7%8C%9B%E7%8D%A3%E4%BD%BF%E3%81%84%E3%81%A8%E7%8E%8B%E5%AD%90%E6%A7%98%20%EF%BD%9EFlower%20%EF%BC%86%20Snow%EF%BD%9E%20for%20Nintendo%20Switch%5B20261025%5D.zip",
     "d": "2026-10-25"
+   },
+   {
+    "t": "补丁",
+    "u": "https://pan.huang1111.cn/s/5LXRwHl",
+    "d": "2026-11-24"
    }
   ],
   "history": [
@@ -4961,6 +4995,10 @@
    {
     "d": "2026-11-03",
     "ev": "校对by加盐"
+   },
+   {
+    "d": "2026-11-24",
+    "ev": "新增补丁"
    }
   ],
   "alias": [
@@ -5204,12 +5242,13 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2023-04-13",
-  "transDate": "2026-10-24",
+  "transDate": "2026-11-24",
   "vndb": "https://vndb.org/v14917",
   "vndbRelease": "r95391",
   "lang": "JP",
   "type": [
-   "预翻译"
+   "预翻译",
+   "补丁 · 未测试"
   ],
   "cover": "/img/trans-covers/Otomate_戦場の円舞曲 for Nintendo Switch（NS）.jpg",
   "brands": [
@@ -5224,12 +5263,21 @@
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%88%A6%E5%A0%B4%E3%81%AE%E5%86%86%E8%88%9E%E6%9B%B2%20for%20Nintendo%20Switch%5B20261024%5D.zip",
     "d": "2026-10-24"
+   },
+   {
+    "t": "补丁",
+    "u": "https://pan.huang1111.cn/s/4BRD4sg",
+    "d": "2026-11-24"
    }
   ],
   "history": [
    {
     "d": "2026-10-24",
     "ev": "重新翻译"
+   },
+   {
+    "d": "2026-11-24",
+    "ev": "新增补丁"
    }
   ],
   "alias": [
@@ -5313,12 +5361,13 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2024-05-23",
-  "transDate": "2026-10-04",
+  "transDate": "2026-11-24",
   "vndb": "https://vndb.org/v18833",
   "vndbRelease": "r114241",
   "lang": "JP",
   "type": [
-   "预翻译"
+   "预翻译",
+   "补丁 · 未测试"
   ],
   "cover": "/img/trans-covers/Design Factory Co., Ltd._猛獣たちとお姫様 for Nintendo Switch（NS）.jpg",
   "brands": [
@@ -5331,7 +5380,24 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E7%8C%9B%E7%8D%A3%E3%81%9F%E3%81%A1%E3%81%A8%E3%81%8A%E5%A7%AB%E6%A7%98%5B20261004%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E7%8C%9B%E7%8D%A3%E3%81%9F%E3%81%A1%E3%81%A8%E3%81%8A%E5%A7%AB%E6%A7%98%5B20261004%5D.zip",
+    "d": "2026-10-04"
+   },
+   {
+    "t": "补丁",
+    "u": "https://pan.huang1111.cn/s/v5VwgcE",
+    "d": "2026-11-24"
+   }
+  ],
+  "retrans": true,
+  "history": [
+   {
+    "d": "2026-10-04",
+    "ev": "新增预翻译"
+   },
+   {
+    "d": "2026-11-24",
+    "ev": "新增补丁"
    }
   ],
   "alias": [
@@ -8662,12 +8728,13 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2025-07-17",
-  "transDate": "2026-10-24",
+  "transDate": "2026-11-24",
   "vndb": "https://vndb.org/v48830",
   "vndbRelease": "r117423",
   "lang": "JP",
   "type": [
-   "预翻译"
+   "预翻译",
+   "补丁 · 未测试"
   ],
   "cover": "/img/trans-covers/Takuyo Co., Ltd._DistortedCode ―生者の残り香―（NS）.jpg",
   "brands": [
@@ -8682,12 +8749,21 @@
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5DDistortedCode%20%E2%80%95%E7%94%9F%E8%80%85%E3%81%AE%E6%AE%8B%E3%82%8A%E9%A6%99%E2%80%95%5B20261024%5D.zip",
     "d": "2026-10-24"
+   },
+   {
+    "t": "补丁",
+    "u": "https://pan.huang1111.cn/s/Oq8OlhL",
+    "d": "2026-11-24"
    }
   ],
   "history": [
    {
     "d": "2026-10-24",
     "ev": "重新翻译"
+   },
+   {
+    "d": "2026-11-24",
+    "ev": "新增补丁"
    }
   ],
   "alias": [
