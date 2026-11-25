@@ -436,12 +436,13 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2022-01-27",
-  "transDate": "2026-10-29",
+  "transDate": "2026-11-25",
   "vndb": "https://vndb.org/v10273",
   "vndbRelease": "r86739",
   "lang": "JP",
   "type": [
-   "预翻译"
+   "预翻译",
+   "补丁 · 未测试"
   ],
   "cover": "/img/trans-covers/Lantern Rooms_神々の悪戯 Unite Edition（NS）.jpg",
   "brands": [
@@ -457,12 +458,21 @@
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E7%A5%9E%E3%80%85%E3%81%AE%E6%82%AA%E6%88%AF%20Unite%20Edition%5B20261029%5D.zip",
     "d": "2026-10-29"
+   },
+   {
+    "t": "补丁",
+    "u": "https://pan.huang1111.cn/s/NBkd4c1",
+    "d": "2026-11-25"
    }
   ],
   "history": [
    {
     "d": "2026-10-29",
     "ev": "重新翻译"
+   },
+   {
+    "d": "2026-11-25",
+    "ev": "新增补丁"
    }
   ],
   "alias": [
@@ -5655,12 +5665,13 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2025-06-05",
-  "transDate": "2026-10-24",
+  "transDate": "2026-11-25",
   "vndb": "https://vndb.org/v18161",
   "vndbRelease": "r122810",
   "lang": "JP",
   "type": [
-   "预翻译"
+   "预翻译",
+   "补丁 · 未测试"
   ],
   "cover": "/img/trans-covers/Otomate_数乱digit for Nintendo Switch（NS）.jpg",
   "brands": [
@@ -5675,12 +5686,21 @@
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E6%95%B0%E4%B9%B1digit%20For%20Nintendo%20Switch%5B20261024%5D.zip",
     "d": "2026-10-24"
+   },
+   {
+    "t": "补丁",
+    "u": "https://pan.huang1111.cn/s/E67aNFb",
+    "d": "2026-11-25"
    }
   ],
   "history": [
    {
     "d": "2026-10-24",
     "ev": "重新翻译"
+   },
+   {
+    "d": "2026-11-25",
+    "ev": "新增补丁"
    }
   ],
   "alias": [
@@ -6040,12 +6060,13 @@
   "plat": "PSV",
   "orient": "乙女向",
   "release": "2015-11-26",
-  "transDate": "2026-10-27",
+  "transDate": "2026-11-25",
   "vndb": "https://vndb.org/v15118",
   "vndbRelease": "r33613",
   "lang": "JP",
   "type": [
-   "预翻译"
+   "预翻译",
+   "补丁 · 未测试"
   ],
   "cover": "/img/trans-covers/Petit Reve_Goes！（PSV）.jpg",
   "brands": [
@@ -6060,6 +6081,11 @@
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PSV/%5BPSV-JP%5DGoes%21%5B20261027%5D.zip",
     "d": "2026-10-27"
+   },
+   {
+    "t": "补丁",
+    "u": "https://pan.huang1111.cn/s/4BRVlsg",
+    "d": "2026-11-25"
    }
   ],
   "history": [
@@ -6070,6 +6096,10 @@
    {
     "d": "2026-10-27",
     "ev": "重新翻译"
+   },
+   {
+    "d": "2026-11-25",
+    "ev": "新增补丁"
    }
   ],
   "alias": [
@@ -8179,12 +8209,13 @@
   "plat": "PC",
   "orient": "乙女向",
   "release": "2009-05-01",
-  "transDate": "2026-10-22",
+  "transDate": "2026-11-25",
   "vndb": "https://vndb.org/v1739",
   "vndbRelease": "r3399",
   "lang": "JP",
   "type": [
-   "预翻译"
+   "预翻译",
+   "补丁 · 未测试"
   ],
   "cover": "/img/trans-covers/SPICA_GARNET CRADLE（PC）.jpg",
   "brands": [
@@ -8199,12 +8230,21 @@
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DGARNET%20CRADLE%5B20261022%5D.zip",
     "d": "2026-10-22"
+   },
+   {
+    "t": "补丁",
+    "u": "https://pan.huang1111.cn/s/5LX2qfl",
+    "d": "2026-11-25"
    }
   ],
   "history": [
    {
     "d": "2026-10-22",
     "ev": "重新翻译"
+   },
+   {
+    "d": "2026-11-25",
+    "ev": "新增补丁"
    }
   ],
   "alias": [
@@ -8220,12 +8260,13 @@
   "plat": "PC",
   "orient": "乙女向",
   "release": "2010-02-05",
-  "transDate": "2026-10-22",
+  "transDate": "2026-11-25",
   "vndb": "https://vndb.org/v2975",
   "vndbRelease": "r5862",
   "lang": "JP",
   "type": [
-   "预翻译"
+   "预翻译",
+   "补丁 · 未测试"
   ],
   "cover": "/img/trans-covers/SPICA_GARNET CRADLE Sugary Sparkle（PC）.jpg",
   "brands": [
@@ -8240,12 +8281,21 @@
     "t": "预翻译",
     "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/PC/%5BPC-JP%5DGARNET%20CRADLE%20Sugary%20Sparkle%5B20261022%5D.zip",
     "d": "2026-10-22"
+   },
+   {
+    "t": "补丁",
+    "u": "https://pan.huang1111.cn/s/Gd8aaCW",
+    "d": "2026-11-25"
    }
   ],
   "history": [
    {
     "d": "2026-10-22",
     "ev": "重新翻译"
+   },
+   {
+    "d": "2026-11-25",
+    "ev": "新增补丁"
    }
   ],
   "alias": [
@@ -13441,12 +13491,13 @@
   "plat": "NS",
   "orient": "乙女向",
   "release": "2026-07-23",
-  "transDate": "2026-10-17",
+  "transDate": "2026-11-25",
   "vndb": "https://vndb.org/v1341",
   "vndbRelease": "r163779",
   "lang": "JP",
   "type": [
-   "预翻译"
+   "预翻译",
+   "补丁 · 未测试"
   ],
   "cover": "/img/trans-covers/Takuyo Co., Ltd._ソラユメ（NS）.jpg",
   "brands": [
@@ -13458,7 +13509,24 @@
   "dls": [
    {
     "t": "预翻译",
-    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%82%BD%E3%83%A9%E3%83%A6%E3%83%A1%5B20261017%5D.zip"
+    "u": "https://github.com/flamecho/flamecho-translation-patch/raw/main/%E4%B9%99%E5%A5%B3%E5%90%91/%E9%A2%84%E7%BF%BB%E8%AF%91/NS/%5BNS-JP%5D%E3%82%BD%E3%83%A9%E3%83%A6%E3%83%A1%5B20261017%5D.zip",
+    "d": "2026-10-17"
+   },
+   {
+    "t": "补丁",
+    "u": "https://pan.huang1111.cn/s/lAayViL",
+    "d": "2026-11-25"
+   }
+  ],
+  "retrans": true,
+  "history": [
+   {
+    "d": "2026-10-17",
+    "ev": "新增预翻译"
+   },
+   {
+    "d": "2026-11-25",
+    "ev": "新增补丁"
    }
   ],
   "alias": [
